@@ -1,0 +1,134 @@
+# 仮説台帳
+#
+# 「今日は何があったか」だけを追う番組から、「この見立ては正しいのか」を
+# 毎朝すこしずつ検証していく番組にするための台帳です。
+#
+# confidence（確からしさ）は 0.05〜0.95 の範囲で、番組が自動で上下させます。
+# 人が直接書き換えるのは statement / falsifiers / next_indicators / decision_link の4つで、
+# それ以外は仕組みが管理します。
+#
+# 大事なのは falsifiers（崩壊条件）です。「何が観測されたらこの仮説を捨てるか」を
+# 先に書いておくことで、都合のいい材料だけを集めてしまうのを防ぎます。
+# 崩壊条件を2つ書けない仮説は、そもそも検証できない仮説なので採用しません。
+
+settings:
+  active_limit: 6          # 同時に追う仮説の上限。増やすと1本あたりが薄くなる
+  deep_dive_slots: 2       # 1回の番組で深掘りする本数
+  cooldown_days: 2          # 同じ仮説を連日深掘りしない日数
+  probation_days: 21       # 支持証拠がこれだけ出なければ「様子見」に降格
+  archive_days: 45         # さらに出なければ棚上げ
+  graduate_confidence: 0.90  # ここまで上がった状態が続けば「前提」に格上げ
+  refute_confidence: 0.15    # ここまで下がった状態が続けば棚上げ
+  sustain_days: 14           # 上の2つの判定に必要な継続日数
+
+hypotheses:
+  - id: H-001
+    theme: jp_fisheries
+    statement: >-
+      2027年にかけての養殖ぶり類の採算圧迫は、魚粉・魚油の供給制約が主因であり、
+      産地価格の上昇では吸収しきれない。
+    created: "2026-08-25"
+    confidence: 0.55
+    status: active
+    horizon_end: "2027-06-30"
+    decision_link: >-
+      鹿児島の養殖案件で、飼料代替・斃死率改善のどちらに提案の軸を置くか
+    falsifiers:
+      - text: ペルーのアンチョビ漁が2期で漁獲枠の8割以上を消化する
+        keywords: [ペルー, アンチョビ, 漁獲枠, 2期]
+      - text: 養殖ハマチの産地相場が前年同月比プラス15%以上に上がる
+        keywords: [ハマチ, ブリ, 浜値, 産地価格, 相場]
+    next_indicators:
+      - neutral_query: ペルー アンチョビ 漁獲枠 実績 最新
+      - neutral_query: 養殖ブリ ハマチ 産地価格 相場 月次
+      - neutral_query: 配合飼料 価格安定基金 発動 水産
+    evidence: []
+    ops:
+      last_support: null
+      last_contradiction: null
+      last_on_air: null
+      last_redteam: null
+      on_air_count: 0
+
+  - id: H-002
+    theme: world_fisheries
+    statement: >-
+      日本産ぶりの対米輸出の伸びは、米国産天然サーモンの供給不足による
+      代替需要が主因であり、数量よりも単価の要因が大きい。
+    created: "2026-08-25"
+    confidence: 0.50
+    status: active
+    horizon_end: "2027-03-31"
+    decision_link: >-
+      対米輸出の提案で、価格訴求と品質訴求のどちらを前面に出すか
+    falsifiers:
+      - text: 米国の天然サーモン価格が前年並みに戻っても、対米ぶり数量が前年比プラスを維持する
+        keywords: [サーモン, 価格, 米国, ぶり, 輸出, 数量]
+      - text: ぶりの輸出単価が横ばいのまま数量だけが2割以上伸びる
+        keywords: [ぶり, 輸出単価, 輸出数量, 貿易統計]
+    next_indicators:
+      - neutral_query: 財務省 貿易統計 ぶり 輸出 数量 金額 月次
+      - neutral_query: US wholesale salmon price sockeye pink weekly
+      - neutral_query: yellowtail amberjack import United States volume
+    evidence: []
+    ops:
+      last_support: null
+      last_contradiction: null
+      last_on_air: null
+      last_redteam: null
+      on_air_count: 0
+
+  - id: H-003
+    theme: genai
+    statement: >-
+      水産・食品の輸出実務で生成AIが最初に定着するのは、需要予測ではなく、
+      輸出書類・衛生証明・認証まわりの事務処理である。
+    created: "2026-08-25"
+    confidence: 0.45
+    status: active
+    horizon_end: "2027-08-31"
+    decision_link: >-
+      自分の業務の仕組み化で、どこから着手すると顧客に売れる形になるか
+    falsifiers:
+      - text: 水産・食品分野で需要予測AIの商用導入事例が3件以上出る
+        keywords: [需要予測, AI, 水産, 食品, 導入]
+      - text: 輸出書類の自動化事例が半年間ひとつも出ない
+        keywords: [輸出書類, 衛生証明, 原産地証明, 自動化]
+    next_indicators:
+      - neutral_query: 貿易書類 自動化 AI 食品 輸出 事例
+      - neutral_query: 食品 需要予測 AI 導入 事例 小売 卸
+    evidence: []
+    ops:
+      last_support: null
+      last_contradiction: null
+      last_on_air: null
+      last_redteam: null
+      on_air_count: 0
+
+  - id: H-004
+    theme: education
+    statement: >-
+      幼児期については、AIへの早期接触よりも大人との対話量のほうが、
+      後の言語・非認知能力への効果が大きいという証拠が積み上がっていく。
+    created: "2026-08-25"
+    confidence: 0.55
+    status: active
+    horizon_end: "2027-12-31"
+    decision_link: >-
+      自分の子どもについて、就学前に何に時間を使うか
+    falsifiers:
+      - text: 幼児期のAI利用が有意に有効だとする査読つき研究が2件以上出る
+        keywords: [幼児, AI, 効果, 研究, ランダム化]
+      - text: 幼児のAI利用制限を導入した国が、その方針を撤回する
+        keywords: [幼児, スクリーンタイム, 規制, 撤回, 見直し]
+    next_indicators:
+      - neutral_query: early childhood AI use randomized study outcome
+      - neutral_query: preschool screen time policy change country
+      - neutral_query: 幼児 言語発達 大人 対話量 研究
+    evidence: []
+    ops:
+      last_support: null
+      last_contradiction: null
+      last_on_air: null
+      last_redteam: null
+      on_air_count: 0

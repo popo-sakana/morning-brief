@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>朝のニュースブリーフ 試作回</title>
+<style>
+  :root {
+    --ground:#ffffff; --ink:#111111; --ink-2:#585858; --ink-3:#8a8a8a;
+    --rule:#111111; --rule-faint:#d6d6d6; --surface:#f4f4f4;
+    --max:44rem;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground:#101010; --ink:#ededed; --ink-2:#a9a9a9; --ink-3:#7c7c7c;
+      --rule:#ededed; --rule-faint:#333333; --surface:#1b1b1b;
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground:#101010; --ink:#ededed; --ink-2:#a9a9a9; --ink-3:#7c7c7c;
+    --rule:#ededed; --rule-faint:#333333; --surface:#1b1b1b;
+  }
+
+  * { box-sizing:border-box; }
+  body {
+    background:var(--ground); color:var(--ink);
+    font-family:"Meiryo UI","Meiryo","Hiragino Kaku Gothic ProN","Yu Gothic UI",
+                system-ui,sans-serif;
+    font-size:16px; line-height:1.9; margin:0;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap { max-width:var(--max); margin:0 auto; padding:40px 20px 96px; }
+  .num { font-variant-numeric:tabular-nums;
+         font-family:ui-monospace,"SFMono-Regular",Menlo,Consolas,monospace; }
+  a { color:var(--ink); text-underline-offset:3px; }
+  a:focus-visible { outline:2px solid var(--ink); outline-offset:2px; }
+
+  header { border-bottom:2px solid var(--rule); padding-bottom:20px; }
+  .eyebrow { font-size:.72rem; letter-spacing:.18em; color:var(--ink-2);
+              margin:0 0 10px; }
+  h1 { font-size:1.6rem; line-height:1.45; margin:0 0 14px; text-wrap:balance;
+        font-weight:700; }
+  .facts { display:flex; flex-wrap:wrap; gap:6px 22px; margin:0;
+            font-size:.82rem; color:var(--ink-2); }
+
+  .note { border:1px solid var(--rule-faint); background:var(--surface);
+           padding:14px 16px; margin:26px 0 0; font-size:.86rem;
+           line-height:1.8; color:var(--ink-2); }
+  .note strong { color:var(--ink); }
+
+  h2.block { font-size:.78rem; letter-spacing:.18em; color:var(--ink-2);
+              border-bottom:1px solid var(--rule-faint); padding-bottom:8px;
+              margin:56px 0 18px; font-weight:700; }
+
+  ul.hi { padding-left:1.15em; margin:0; }
+  ul.hi li { margin-bottom:8px; }
+
+  .scroll { overflow-x:auto; }
+  table { border-collapse:collapse; width:100%; font-size:.9rem; }
+  th, td { text-align:left; padding:9px 12px 9px 0;
+            border-bottom:1px solid var(--rule-faint); }
+  th { font-size:.72rem; letter-spacing:.12em; color:var(--ink-3);
+        font-weight:700; border-bottom:1px solid var(--rule); }
+  td.num, th.num { width:5.5em; color:var(--ink-2); }
+  tr td:last-child, tr th:last-child { text-align:right; padding-right:0; }
+
+  section { margin-top:52px; scroll-margin-top:16px; }
+  section h2 { font-size:1.12rem; font-weight:700; margin:0 0 22px;
+                padding-bottom:10px; border-bottom:2px solid var(--rule);
+                display:flex; align-items:baseline; gap:14px; }
+  .mark { font-size:.78rem; color:var(--ink-2); font-weight:400;
+           font-variant-numeric:tabular-nums;
+           font-family:ui-monospace,Menlo,Consolas,monospace; }
+
+  .turn { display:grid; grid-template-columns:6.6rem 1fr; gap:0 18px;
+           margin-bottom:20px; }
+  .cue { display:flex; flex-direction:column; gap:2px; padding-top:.35em; }
+  .at { font-size:.72rem; color:var(--ink-3); font-variant-numeric:tabular-nums;
+         font-family:ui-monospace,Menlo,Consolas,monospace; }
+  .who { font-size:.76rem; color:var(--ink-2); }
+  .turn.ana .who { color:var(--ink); font-weight:700; }
+  .turn p { margin:0; }
+  .turn.nav p { color:var(--ink-2); }
+
+  .srcgroup { margin-bottom:26px; }
+  .srcgroup h3 { font-size:.82rem; margin:0 0 8px; font-weight:700; }
+  .srcgroup ol { margin:0; padding-left:1.5em; }
+  .srcgroup li { font-size:.82rem; line-height:1.7; margin-bottom:6px;
+                  color:var(--ink-2); word-break:break-word; }
+
+  footer { margin-top:64px; padding-top:18px;
+            border-top:1px solid var(--rule-faint);
+            font-size:.78rem; color:var(--ink-3); }
+
+  @media (max-width:560px) {
+    .wrap { padding:28px 16px 72px; }
+    .turn { grid-template-columns:1fr; gap:2px; }
+    .cue { flex-direction:row; gap:10px; align-items:baseline; padding-top:0; }
+  }
+</style>
+</head>
+<body>
+
+
+<div class="wrap">
+<header>
+  <p class="eyebrow">試作回 ／ 音声はまだありません</p>
+  <h1>popo 朝のニュースブリーフ<br>2026年8月24日</h1>
+  <p class="facts">
+    <span class="num">全25:32</span>
+    <span>7コーナー</span>
+    <span class="num">70発言</span>
+    <span class="num">8025文字</span>
+    <span>出典 40件</span>
+  </p>
+</header>
+
+<div class="note">
+  <strong>この回について</strong><br>
+  仕組みが毎朝つくるものと同じ形式・同じ制約で書いた台本です。時刻は1分あたり320文字で計算した見込み値で、
+  実際の音声の長さとは前後します。数字は出典に当たって書いていますが、要約と翻訳の過程での取り違えは起こりえます。
+  仕事に使う数字は、末尾の出典で裏を取ってください。
+</div>
+
+<h2 class="block">きょうの要点</h2>
+<ul class="hi"><li>ペルーのアンチョビ1期漁が枠の24%で終漁、飼料コストは2027年が焦点</li><li>日本のぶり輸出が上半期434億円・前年比+69%、米国サーモン高騰が追い風</li><li>英国は5歳未満のAI利用回避を勧告、中国は6歳から必修。証拠は双方とも薄い</li></ul>
+
+<h2 class="block">進行表</h2>
+<div class="scroll">
+<table>
+  <thead><tr><th class="num">開始</th><th>コーナー</th><th class="num">尺</th></tr></thead>
+  <tbody>
+<tr><td class="num">00:00</td><td><a href="#opening">オープニング</a></td><td class="num">0.7分</td></tr>
+<tr><td class="num">00:39</td><td><a href="#jp_fisheries">日本の水産</a></td><td class="num">4.2分</td></tr>
+<tr><td class="num">04:48</td><td><a href="#world_fisheries">世界の水産</a></td><td class="num">4.8分</td></tr>
+<tr><td class="num">09:34</td><td><a href="#genai">生成AIの重大ニュース</a></td><td class="num">3.7分</td></tr>
+<tr><td class="num">13:15</td><td><a href="#education">AI時代の教育トレンド</a></td><td class="num">5.5分</td></tr>
+<tr><td class="num">18:44</td><td><a href="#discussion">きょうの論点</a></td><td class="num">6.6分</td></tr>
+<tr><td class="num">25:23</td><td><a href="#closing">クロージング</a></td><td class="num">0.2分</td></tr>
+  </tbody>
+</table>
+</div>
+
+<section id="opening"><h2><span class="mark">00:00</span>オープニング</h2><div class="turn nav"><div class="cue"><span class="at">00:00</span><span class="who">進行役</span></div><p>おはようございます。2026年8月24日、月曜日の朝のブリーフです。今日は4本立て。日本の水産は、飼料の原料になるペルーのカタクチイワシ漁が漁獲枠の4分の1で終わったという話から入ります。世界の水産は、日本のぶりの輸出が半年で7割近く伸びたという数字。生成AIは、オープンAIが自分でモデルの訓練を止めたという発表。最後に教育で、イギリスが5歳未満の子どもについて、AIとの会話を避けるよう国として勧告した件を扱います。</p></div></section>
+<section id="jp_fisheries"><h2><span class="mark">00:39</span>日本の水産</h2><div class="turn nav"><div class="cue"><span class="at">00:39</span><span class="who">進行役</span></div><p>まず日本の水産です。今日はどこから聞けばいいですか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">00:45</span><span class="who">解説役</span></div><p>飼料の話から入らせてください。ペルーの沖で獲れるカタクチイワシ、現地ではアンチョビと呼ばれる小魚があります。これを乾かして粉にしたものが魚粉で、養殖の餌の主原料です。そのペルーの1期目の漁が、現地時間の8月19日に終わりました。問題は量です。漁獲枠が191万トン設定されていたのに対して、実際に獲れたのは46万トンでした。枠の24パーセントです。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">01:17</span><span class="who">進行役</span></div><p>4分の1しか獲れなかった、と。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">01:21</span><span class="who">解説役</span></div><p>そうです。資源を守るための部分的な禁漁が4月以降くり返された結果です。日刊水産経済新聞は8月20日付けで、ペルー産の魚粉と、生の餌に使うイワシの両方が値上がりしたことを、2026年上半期の重大ニュースとして挙げています。具体的な価格水準は有料記事の部分にあたるため、こちらでは確認できていません。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">01:49</span><span class="who">進行役</span></div><p>餌が上がると、産地の値段も上がるものですか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">01:53</span><span class="who">解説役</span></div><p>そこが今日の一番の論点です。産地の相場のほうは、上がっていません。大阪の卸売会社うおいちが出している9月の見通しでは、養殖ハマチが1キロあたり2000円から1700円、養殖マダイが1500円から1150円となっていて、ハマチについては、在池量、つまり生けすの中の魚の量は潤沢で、相場は保ち合いと書かれています。餌が上がって、売値が動かない。この組み合わせは経営を圧迫する方向に働きます。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">02:30</span><span class="who">進行役</span></div><p>生けすの中は足りているんですね。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">02:33</span><span class="who">解説役</span></div><p>量としては足りている。ただ同じ資料に、高水温による斃死、つまり魚が死ぬことが出荷の安定性に影響しているとも書かれています。マダイでは、高水温を理由に出荷を制限している生産者がいるとされています。背景として、6月下旬に日本経済新聞が、熊本と鹿児島で異例の赤潮によりカンパチとブリあわせて70万匹が死んだと報じています。7月10日には熊本日日新聞が、八代海の赤潮被害が10億円を超え、2年ぶりの規模になったと伝えました。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">03:13</span><span class="who">進行役</span></div><p>天然のほうはどうですか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">03:15</span><span class="who">解説役</span></div><p>厳しい数字が並んでいます。サンマは、水産研究・教育機構の資料で、今年の分布量の推定が42万9000トン。去年が109万9000トンでしたから、6割ほど減っています。調査範囲が極端に狭かった2020年を除くと、過去最低です。しかも1歳魚の割合が去年の59.6パーセントから17.2パーセントに落ちていて、体も小さくなっています。北海道の秋サケは、来遊予測が365万尾で前年比47パーセント減。各地が親魚を残すために自主規制に入りました。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">03:56</span><span class="who">進行役</span></div><p>明るい材料はありますか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">03:59</span><span class="who">解説役</span></div><p>二つあります。ひとつは輸出です。農林水産省が8月4日に公表した上半期の実績で、水産物の輸出額は2384億円、前年同期比プラス19.5パーセントでした。農林水産物・食品の全体がプラス10.9パーセントですから、水産はそれを上回っています。もうひとつは養殖の置き換えです。岩手県の養殖サーモンが、今期およそ3600トンから、来期は5000トン台後半へ、6割ほど増える見通しと報じられました。天然の秋サケの不漁への対応として2019年に事業化されたものです。天然が減った分を養殖が埋めるという構図が、数量として見えてきています。</p></div></section>
+<section id="world_fisheries"><h2><span class="mark">04:48</span>世界の水産</h2><div class="turn nav"><div class="cue"><span class="at">04:48</span><span class="who">進行役</span></div><p>続いて世界の水産です。今日はぶりの話が中心と伺いました。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">04:54</span><span class="who">解説役</span></div><p>はい。まず数字を一つ。2026年1月から6月の日本のぶりの輸出額が434億円、前年同期比でプラス69パーセントでした。半年で178億円の純増です。さきほどの水産物全体がプラス19.5パーセントでしたから、ぶりだけが突出して伸びています。主な行き先はアメリカと韓国とされています。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">05:21</span><span class="who">進行役</span></div><p>なぜアメリカで急に伸びたんでしょう。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">05:24</span><span class="who">解説役</span></div><p>供給側の事情が大きいと見られます。アメリカの卸売市場では、アラスカ産の天然サーモンが高騰しています。業界紙アンダーカレント・ニュースは、8月12日付けで、カラフトマス、英語ではピンクサーモンの記録的な不漁により、頭と内臓を取った冷凍品の価格が倍になったと報じました。8月20日付けでは、紅鮭とカラフトマスが目を見張る高値をつけたとしています。具体的な単価は購読者限定の部分で確認できていません。刺身や寿司の売り場でサーモンが高くなれば、その隣にあるぶりに需要が移る。今回の伸びには、この裏返しの部分が相当含まれている可能性があります。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">06:15</span><span class="who">進行役</span></div><p>つまり、実力だけで伸びたわけではないかもしれない、と。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">06:20</span><span class="who">解説役</span></div><p>そう読んでおいたほうが安全だと思います。ただ、実力側の動きも同時に出ています。ニッスイが8月3日に、完全養殖のぶりの海外展開を発表しました。完全養殖というのは、卵から育てた親からまた卵を採る、生活環をすべて人の手で回す方式です。天然の稚魚であるモジャコに頼らなくてよくなります。ブランドは黒瀬ぶりで、ASCという養殖の国際認証を取得済み。2026年度の輸出目標が700トン、前年比プラス20パーセントで、狙いは欧州です。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">07:00</span><span class="who">進行役</span></div><p>欧州は認証にうるさい市場ですね。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">07:03</span><span class="who">解説役</span></div><p>そこがポイントです。完全養殖と認証の組み合わせは、欧州の小売や外食に入るための条件を満たすためのものと読めます。輸出先がアメリカ一本足だった状態から、多極化に向かう動きと言えます。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">07:21</span><span class="who">進行役</span></div><p>海外でぶりを作る動きはどうですか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">07:24</span><span class="who">解説役</span></div><p>二つあります。ひとつはオランダのキングフィッシュ・カンパニーです。ひらまさ系の魚を陸上の水槽で循環させて育てる、いわゆる陸上養殖の会社ですが、8月14日に、2026年上半期の営業段階の利益が20万ユーロの黒字になったと報じられました。前年同期がマイナス250万ユーロですから、270万ユーロの改善です。陸上養殖は構造的に儲からないと言われ続けてきた分野なので、商業規模で黒字が出た事例として注目されています。もうひとつは、その米国子会社がメイン州で進める年間8500トンの計画です。8月6日の住民投票で、着工期限が30か月延長されました。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">08:15</span><span class="who">進行役</span></div><p>延長というのは、いい話なんでしょうか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">08:19</span><span class="who">解説役</span></div><p>見る立場によります。会社にとっては時間が稼げましたが、期限の延長が必要だったこと自体が、資金や許認可で難航していることを示しています。日本から輸出する側から見れば、当面2、3年は現地生産という競合が具体化しない、という意味になります。裏を返せば、その間に定着できるかどうかの勝負だ、ということでもあります。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">08:48</span><span class="who">進行役</span></div><p>コスト面のニュースもあったと。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">08:51</span><span class="who">解説役</span></div><p>はい。8月20日、ノルウェーのサーモン大手モウイとレロイが、魚粉や魚油といった海の原料の需給が締まっていて、養殖コストが上がると警告しました。両社は2026年の4月から6月の時点ですでに影響が出ているとし、レロイは2027年にもっと大きな打撃が来ると述べています。具体的な金額は購読者限定で確認できていません。ぶりはサーモンよりも魚粉や魚油への依存度が高い魚ですから、これは日本の産地にとっても先行指標になります。冒頭のペルーの話と、同じ一枚の絵です。</p></div></section>
+<section id="genai"><h2><span class="mark">09:34</span>生成AIの重大ニュース</h2><div class="turn nav"><div class="cue"><span class="at">09:34</span><span class="who">進行役</span></div><p>三つめ、生成AIです。今日はどれが一番大きいですか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">09:39</span><span class="who">解説役</span></div><p>8月18日のオープンAIの発表だと思います。開発中のモデル、アストラという名前ですが、これが同社の定めるサイバーセキュリティ分野の危険水準に届く可能性があると自ら判断して、訓練のペースを落としたと公表しました。具体的には、強化学習という仕上げの訓練工程を2週間止め、最大規模の計画中の訓練は現時点でも保留にしています。新しく作った監視の仕組みが、監視対象の計算量のおよそ20パーセントを食っているとも書かれています。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">10:19</span><span class="who">進行役</span></div><p>自分から止めた、というのが珍しいわけですね。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">10:23</span><span class="who">解説役</span></div><p>そうです。各社が自主的に定めている安全基準が、実際に開発日程を縛った具体例として公表された、という点に意味があります。関連して8月21日には、アンソロピックが、サイバー分野に強いモデルを、審査を通した防御側の組織に限って開放すると発表しました。あわせて3500万ドル分の利用枠を防御側の活動に配る基金も設けています。攻撃に転用できる能力を、審査つきで守る側にだけ渡すという運用の型が出てきた形です。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">11:01</span><span class="who">進行役</span></div><p>実務に効く話はありますか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">11:04</span><span class="who">解説役</span></div><p>値下げがありました。8月21日から、オープンAIのGPT-5.6ソルというモデルの利用料金が下がっています。入力が100万トークンあたり5ドルから4ドルへ、出力が30ドルから20ドルへ。出力で33パーセント減です。ただし期間限定で、8月21日から11月21日までの3か月間とされています。11月22日以降の価格について、同社は言及していません。仕組みを組むときに、この単価を前提に置くのは危ないということです。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">11:43</span><span class="who">進行役</span></div><p>業界の再編のような動きは。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">11:46</span><span class="who">解説役</span></div><p>8月19日にストライプが、オープンルーターというサービスの買収に合意したと発表しました。オープンルーターは、80社以上の提供元、400以上のモデルへ、用途に応じて処理を振り分ける中継役です。ストライプは決済インフラの会社ですから、どのAIをいくらで使うかという選択が、決済や原価管理の問題として扱われ始めたことを示しています。買収額は非開示です。テッククランチは70億ドル超と報じていますが、ストライプ自身は金額を出していません。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">12:26</span><span class="who">進行役</span></div><p>規制と国内はどうでしょう。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">12:29</span><span class="who">解説役</span></div><p>規制側では、アメリカのFDA、食品医薬品局が8月18日に、生成AIを載せた医療機器をどう規制するかの検討文書を公表し、意見募集を始めました。締切は10月19日です。出力が毎回変わりうる生成AIを、従来の固定された機器の枠組みにどう当てはめるか、という初期案です。国内では今日8月24日、サカナAIが防衛省との契約を公表しました。総合分析業務に必要なAI機能の調査と実証で、契約日は7月29日。金額と期間は公表されていません。国産のAI企業が、情報分析という中枢の業務に入る事例です。</p></div></section>
+<section id="education"><h2><span class="mark">13:15</span>AI時代の教育トレンド</h2><div class="turn nav"><div class="cue"><span class="at">13:15</span><span class="who">進行役</span></div><p>最後に教育です。イギリスの話と伺いました。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">13:19</span><span class="who">解説役</span></div><p>はい。9月1日から、イングランドの幼児教育の法定枠組みが改訂版に切り替わります。その中で参照されるガイダンスが7月15日に出ていて、内容がかなり踏み込んでいます。2歳未満は原則としてスクリーンを避ける。2歳から5歳は1日1時間まで、しかも30分以下の細切れにする。食事中と寝る前は避ける。そして5歳未満は、AIのツールやチャットボットの利用を避ける、とされています。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">13:54</span><span class="who">進行役</span></div><p>国がAIを避けろと言っているんですか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">13:58</span><span class="who">解説役</span></div><p>幼児に限ってですが、そうです。土台になっているのは3月27日に公表された政府委託のエビデンスレビューです。実態の数字も出ています。生後9か月の子のスクリーン時間が1日29分で、28パーセントは毎日ゼロ。ところが2歳になると1日127分に増え、ゼロの子はわずか2パーセントになります。しかも所得による差が大きく、所得が一番低い層の2歳児が1日179分、一番高い層が97分。82分の開きです。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">14:34</span><span class="who">進行役</span></div><p>見せると何がまずいんでしょう。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">14:38</span><span class="who">解説役</span></div><p>そこは慎重に読む必要があります。報告書自身が、既存研究の多くは因果関係を示せない質の低い研究だと明記しています。言語の遅れとの関連は一貫して見られるものの、語彙の面では利益を報告する研究もある。注意や実行機能への影響も、効果の大きさは主に小さいとされています。むしろ報告書が最も強く言っているのは、時間の長さではなく、どう使うかが結果を決めるという点です。大人が内容に関与しながら一緒に見る場合は、子どもが一人で見る場合より、言語や認知の発達が良好だという知見です。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">15:22</span><span class="who">進行役</span></div><p>世界は同じ方向に向かっているんですか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">15:26</span><span class="who">解説役</span></div><p>まったく逆の国があります。中国です。北京市は1400校を超える小中高で、年間8コマ以上のAIの授業を必修にしました。2025年末時点で市内の導入率は87.7パーセントとされています。4月15日には全国方針として、小中高から大学、職業教育、生涯学習までを貫くAIリテラシーの体系を作ると打ち出しました。6歳から必修で教える中国と、5歳未満はAIとの会話を避けよと言うイギリスが、同じ2026年に並んでいます。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">16:04</span><span class="who">進行役</span></div><p>アメリカはどちらですか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">16:07</span><span class="who">解説役</span></div><p>イギリス寄りに振れています。アイオワ州は幼稚園年長から5年生までの授業でのデジタル利用を1日60分までとしました。ユタ州は小学校低学年で1人1台を禁止しています。ロサンゼルスの学区は、2026年度から小学2年生より前は授業でのスクリーン利用をゼロにしました。テキサス州のケイティ学区は、幼稚園年長から6年生まで、汎用の生成AIを全面禁止とし、教材に組み込まれた承認済みのものだけを教員の監督下で使う方針です。2010年代に1人1台を最も推し進めた国が、学年が低いほど厳しくする方向に転じています。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">16:54</span><span class="who">進行役</span></div><p>日本は。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">16:55</span><span class="who">解説役</span></div><p>6月30日に文部科学省がガイドラインのバージョン2.1を了承しました。次の学習指導要領の改訂を待たずに前倒しした形です。柱は、認知的オフロード、つまり考える作業をAIに投げてしまうことへの対応で、目標は、AIの便利さを活かしつつAIを批判的に吟味できることとされています。小学校では、総合的な学習の時間に情報の領域という枠を新設する案が検討されています。実態としては、東京都教育委員会の調査で、家庭学習で生成AIを使う児童生徒が38.0パーセント、前年度の16.9パーセントから1年で2倍を超えました。小学校だけでも28.1パーセントです。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">17:46</span><span class="who">進行役</span></div><p>どちらが正しいかは、まだ分からないと。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">17:50</span><span class="who">解説役</span></div><p>分かっていません。今年3月に出たChatGPTの学習効果のメタ分析は、35の研究、参加者4193人を統合して、全体としては効果があるという結果を出しています。ただ、対象の大半が大学以上で、小学校のサブグループは分析全体の重みのわずか5パーセントしかありません。幼稚園児71人を対象にした2月の研究でも、AIを使った指導の全体的な優位ははっきりせず、効果があるとすれば成績の低い子への補い、という限定的な結論でした。OECDが1月に出した報告は、もう一段厳しい指摘をしています。生徒はAIを使うと質の高い成果物を作るけれども、AIなしで評価するとその優位が消える、という知見です。</p></div></section>
+<section id="discussion"><h2><span class="mark">18:44</span>きょうの論点</h2><div class="turn nav"><div class="cue"><span class="at">18:44</span><span class="who">進行役</span></div><p>ここからは4つを横断して考えます。今日はつながりがありそうですね。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">18:51</span><span class="who">解説役</span></div><p>水産の2本は、はっきり一枚の絵になっています。ペルーの1期漁が枠の24パーセント。ノルウェーのモウイとレロイが2027年により大きな打撃が来ると警告。飼料の原料が締まるという話が、日本と世界の両方から同時に出ています。一方で、日本の産地の相場は保ち合い。餌が上がって売値が動かないなら、間の利益が薄くなります。しかも2027年という時期が名指しされている。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">19:25</span><span class="who">進行役</span></div><p>来年の話として、いま何を見ておけばいいでしょう。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">19:30</span><span class="who">解説役</span></div><p>見るべき数字は二つだと思います。ひとつはペルーの2期漁の枠と実績。1期が24パーセントで終わった以上、2期がどうなるかで2027年の飼料単価の見通しが変わります。もうひとつは、産地の浜値が実際に動くかどうかです。今日の資料で確認できたのは9月の見通しまでで、8月時点の実際の浜値は公開情報の範囲では確認できませんでした。飼料の上昇分を価格に乗せられるかどうかが、来年の採算の分かれ目になります。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">20:07</span><span class="who">進行役</span></div><p>需要のほうは追い風でしたよね。ぶりがプラス69パーセント。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">20:13</span><span class="who">解説役</span></div><p>そこは一段、慎重に見たいところです。この数字は明るい。ただ、同じ期間にアメリカでカラフトマスが記録的な不漁で、冷凍品の価格が倍になっています。ぶりが選ばれたというより、サーモンが高くて手が出ないから隣に流れた、という部分がどれくらいあるのか。これは分けて考えないと、来年サーモンが戻ったときに数字がしぼんで慌てることになります。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">20:44</span><span class="who">進行役</span></div><p>どうすれば分けられますか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">20:47</span><span class="who">解説役</span></div><p>きれいには分けられません。ただ、実力側の指標として使えそうなものはあります。ひとつは、リピートしている業態がどこかです。サーモンの代替なら価格が戻れば離れますが、メニューに組み込まれていれば残ります。もうひとつは単価の推移です。数量だけ増えて単価が下がっているなら、安いから選ばれている可能性が高い。今日の報道からは、ぶりの輸出単価までは確認できませんでした。財務省の貿易統計で数量と金額の両方を追えば、自分で計算できます。ここは調べれば分かる部類の話です。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">21:30</span><span class="who">進行役</span></div><p>ニッスイの欧州向けの動きは、どう位置づけますか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">21:35</span><span class="who">解説役</span></div><p>完全養殖とASC認証をセットにした、という点が要点だと思います。欧州の小売に入るには、持続可能性の証明が実質的な入場券になっています。同時にこれは、天然のモジャコに頼らないという構造の話でもある。鹿児島の産地から見ると、輸出の伸びが人工種苗への転換を後押しする、という因果が働きうる局面です。国内でも、水産研究・教育機構が高成長のブリ種苗の量産化について報告しています。ただ成長率や実装時期は有料記事の部分で、確認できていません。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">22:16</span><span class="who">進行役</span></div><p>AIの話は、水産とつながりますか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">22:19</span><span class="who">解説役</span></div><p>直接はつながりません。ただ、仕事の作り方という一点では関係します。今日の値下げは大きい。出力が33パーセント下がったので、AIで業務を仕組みにするときの単価は下がりました。一方で、それが11月21日までの期間限定であることと、オープンAIが自ら訓練を止め、アンソロピックが能力の出しどころを審査で絞ったという2つの発表は、同じ方向を向いています。単価は下がるが、前提は動く。仕組みを作るなら、特定のモデルと特定の価格に固定しない作りにしておいたほうがいい、という当たり前の結論になります。ストライプがモデルの振り分け役を買ったのも、同じ課題の裏返しでしょう。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">23:12</span><span class="who">進行役</span></div><p>最後に教育です。生まれたばかりの子どもがいる立場からは、どう受け取ればいいでしょうか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">23:21</span><span class="who">解説役</span></div><p>今日の材料からはっきり言えることは、実は多くありません。中国は6歳から必修、イギリスは5歳未満はAIを避けよ。真逆です。そしてどちらの側にも、それを支える強い証拠はない。メタ分析の重みの5パーセントしか小学校を扱っていないという事実が、その薄さを表しています。政策は動いているけれど、根拠ではなく価値判断で動いている、というのが今日の正確な状況です。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">23:54</span><span class="who">進行役</span></div><p>では、何が言えるんですか。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">23:57</span><span class="who">解説役</span></div><p>証拠がある部分がひとつだけあります。イギリスの報告書が最も強く言っていたのは、時間の長さより、大人が関与しながら一緒に見るかどうかが結果を分ける、という点でした。これは幼児期に限れば、比較的一貫した知見です。裏を返すと、10年後20年後にどの技能が要るかを今から当てにいくより、当面は一緒にいる時間の質のほうが、確実性の高い投資だということになります。カリキュラムがどう変わるかは、変わってから追いかけても間に合います。</p></div>
+<div class="turn nav"><div class="cue"><span class="at">24:36</span><span class="who">進行役</span></div><p>OECDのメタ認知的怠惰の話も、気になりました。</p></div>
+<div class="turn ana"><div class="cue"><span class="at">24:41</span><span class="who">解説役</span></div><p>あれは子どもだけの話ではないと思います。AIを使うと成果物の質は上がるが、AIなしで評価すると優位が消える。これは大人の仕事にもそのまま当てはまります。正直に言えば、この番組も台本をAIが書いています。ですから聞き流したあとに、自分で出典を1本開いて数字を確かめる、というひと手間を残しておいたほうがいい。今日の話でいえば、ぶりの434億円と、ペルーの46万トン、この2つは元の資料で見ておく価値があります。ページの下に出典を並べてあります。</p></div></section>
+<section id="closing"><h2><span class="mark">25:23</span>クロージング</h2><div class="turn nav"><div class="cue"><span class="at">25:23</span><span class="who">進行役</span></div><p>以上、8月24日のブリーフでした。台本と出典は番組ページに載せてあります。今日もよい一日を。</p></div></section>
+
+<h2 class="block">出典</h2>
+<div class="srcgroup"><h3>日本の水産</h3><ol><li><a href="https://www.uoichi.co.jp/products_strategy_allview.html" target="_blank" rel="noopener">うおいち 商品情報（2026年9月号）</a></li><li><a href="https://www.suikei.co.jp/?p=125846" target="_blank" rel="noopener">日刊水産経済新聞 ペルー中北部アンチョビ1期漁が終漁</a></li><li><a href="https://www.suikei.co.jp/single?news_code=OK0000026082000301_09&amp;suikei-selection_id=17" target="_blank" rel="noopener">日刊水産経済新聞 2026年上半期重大ニュース</a></li><li><a href="https://www.nikkei.com/article/DGXZQOJC281XP0Y6A620C2000000/" target="_blank" rel="noopener">日本経済新聞 熊本・鹿児島で異例の赤潮 カンパチ・ブリ70万匹斃死</a></li><li><a href="https://kumanichi.com/articles/2012468" target="_blank" rel="noopener">熊本日日新聞 八代海の赤潮被害10億円超</a></li><li><a href="https://www.jfa.maff.go.jp/j/press/sigen/260728.html" target="_blank" rel="noopener">水産庁 サンマの長期漁海況予報（2026年7月28日）</a></li><li><a href="https://www.fra.go.jp/shigen/fisheries_resources/forecast/files/sanma20260728.pdf" target="_blank" rel="noopener">水産研究・教育機構 サンマ長期漁海況予報 参考資料</a></li><li><a href="https://www.suikei.co.jp/archives/125244" target="_blank" rel="noopener">日刊水産経済新聞 北海道の秋サケ 各地が自主規制</a></li><li><a href="https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/260804.html" target="_blank" rel="noopener">農林水産省 2026年上半期の農林水産物・食品の輸出実績</a></li><li><a href="https://www.suikei.co.jp/archives/125232" target="_blank" rel="noopener">日刊水産経済新聞 岩手サーモン 来期6割増の見通し</a></li><li><a href="https://www.jfa.maff.go.jp/j/press/sigen/260821_1.html" target="_blank" rel="noopener">水産庁 令和8年度資源評価結果（トラフグ）</a></li></ol></div>
+<div class="srcgroup"><h3>世界の水産</h3><ol><li><a href="https://www.seafood.media/fis/worldnews/worldnews.asp?monthyear=8-2026&amp;day=6&amp;id=138917&amp;l=e&amp;country=&amp;special=&amp;ndb=1&amp;df=0" target="_blank" rel="noopener">Seafood Media Group 日本の農林水産物・食品輸出が過去最高</a></li><li><a href="https://www.jiji.com/jc/article?k=2026080400501&amp;g=eco" target="_blank" rel="noopener">時事通信 農林水産物・食品輸出 上半期過去最高</a></li><li><a href="https://www.undercurrentnews.com/2026/08/14/dutch-land-based-aquaculture-firm-kingfish-turns-profitable-as-sales-margins-strengthen/" target="_blank" rel="noopener">Undercurrent News Kingfish Company が黒字転換</a></li><li><a href="https://www.undercurrentnews.com/2026/08/06/sub-and-pub-thursday-us-kingfish-company-wins-30-month-extension-to-begin-work-on-us-land-based-yellowtail-farm/" target="_blank" rel="noopener">Undercurrent News Kingfish Maine が30か月の期限延長を獲得</a></li><li><a href="https://www.undercurrentnews.com/2026/08/03/nissui-targets-europe-in-global-push-for-closed-cycle-yellowtail/" target="_blank" rel="noopener">Undercurrent News ニッスイが完全養殖ぶりで欧州へ</a></li><li><a href="https://www.undercurrentnews.com/2026/08/20/mowi-leroy-warn-marine-ingredient-squeeze-will-raise-salmon-farming-costs/" target="_blank" rel="noopener">Undercurrent News Mowi・Lerøy が海洋原料の逼迫を警告</a></li><li><a href="https://www.undercurrentnews.com/2026/08/20/us-wholesale-wild-salmon-prices-climb-as-sockeye-pink-hg-hit-eye-watering-highs/" target="_blank" rel="noopener">Undercurrent News 米国卸売 天然サーモン価格が高値</a></li><li><a href="https://www.undercurrentnews.com/2026/08/12/week-33-us-wholesale-prices-abysmal-pink-salmon-harvest-doubles-frozen-h-supply-shocks-grip-crabmeat-market/" target="_blank" rel="noopener">Undercurrent News 第33週 カラフトマス不漁で冷凍H&amp;G価格が倍増</a></li><li><a href="https://www.japantimes.co.jp/news/2026/08/19/japan/tuna-catch-quota-expansion/" target="_blank" rel="noopener">Japan Times 太平洋クロマグロ漁獲枠の拡大で合意</a></li></ol></div>
+<div class="srcgroup"><h3>生成AIの重大ニュース</h3><ol><li><a href="https://openai.com/index/pacing-model-development-cyber-capabilities/" target="_blank" rel="noopener">OpenAI Pacing model development in an era of cyber-critical capabilities</a></li><li><a href="https://community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726" target="_blank" rel="noopener">OpenAI GPT-5.6 Sol の期間限定値下げ</a></li><li><a href="https://stripe.com/newsroom/news/stripe-agrees-to-acquire-openrouter" target="_blank" rel="noopener">Stripe が OpenRouter の買収に合意</a></li><li><a href="https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/" target="_blank" rel="noopener">TechCrunch Stripe が OpenRouter を70億ドル超で買収と報道</a></li><li><a href="https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders" target="_blank" rel="noopener">Anthropic Claude Mythos 5 を防御側に開放</a></li><li><a href="https://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices" target="_blank" rel="noopener">FDA 生成AI搭載医療機器の規制に関する意見募集</a></li><li><a href="https://sakana.ai/defense-integrated-analysis/" target="_blank" rel="noopener">Sakana AI 防衛省との総合分析業務に関する契約</a></li></ol></div>
+<div class="srcgroup"><h3>AI時代の教育トレンド</h3><ol><li><a href="https://assets.publishing.service.gov.uk/media/69c53daf4a06660f085442a7/EYSTAG_report.pdf" target="_blank" rel="noopener">英国政府 Early Years Screen Time Advisory Group 報告書</a></li><li><a href="https://help-for-early-years-providers.education.gov.uk/support-for-practitioners/changes-to-the-eyfs-framework" target="_blank" rel="noopener">英国教育省 EYFS法定枠組みの改訂について</a></li><li><a href="https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html" target="_blank" rel="noopener">OECD Digital Education Outlook 2026</a></li><li><a href="https://www.oecd.org/en/publications/empowering-learners-for-the-age-of-ai_65cd27d4-en.html" target="_blank" rel="noopener">OECD・欧州委員会 AIリテラシー枠組み（AILit）</a></li><li><a href="https://www.chinadaily.com.cn/a/202510/21/WS68f6d9bea310f735438b601e.html" target="_blank" rel="noopener">China Daily 北京市が小中高でAI教育を必修化</a></li><li><a href="https://stateline.org/2026/07/23/states-move-to-limit-classroom-screen-time/" target="_blank" rel="noopener">Stateline 米国各州が授業内スクリーン時間の制限へ</a></li><li><a href="https://edsource.org/updates/los-angeles-unified-approves-screen-time-policy-for-next-school-year" target="_blank" rel="noopener">EdSource ロサンゼルス統一学区がスクリーン時間方針を承認</a></li><li><a href="https://www.houstonpublicmedia.org/articles/education/2026/07/24/557895/katy-isd-ai-restrictions-elementary-school/" target="_blank" rel="noopener">Katy ISD のK-6生成AI禁止方針</a></li><li><a href="https://www.mext.go.jp/content/20260213-mxt_kyoiku01-00004732__06.pdf" target="_blank" rel="noopener">文部科学省 情報・技術ワーキンググループ資料（2026年2月13日）</a></li><li><a href="https://reseed.resemom.jp/article/2026/07/03/13600.html" target="_blank" rel="noopener">ReseEd 文科省 生成AIガイドライン Ver.2.1 を了承</a></li><li><a href="https://reseed.resemom.jp/article/2026/04/24/13110.html" target="_blank" rel="noopener">ReseEd 東京都 子供のインターネット利用状況調査</a></li><li><a href="https://www.nature.com/articles/s41599-026-07019-z" target="_blank" rel="noopener">ChatGPTの学習成果に関するメタ分析（Nature HSSC）</a></li><li><a href="https://link.springer.com/article/10.1007/s11145-026-10764-x" target="_blank" rel="noopener">幼稚園児への AIチャットボット音韻指導研究（Reading and Writing）</a></li></ol></div>
+
+<footer>
+  台本は自動生成、出典は調査時に取得したURLをそのまま並べています。
+  有料記事の本文にあたる数値は「確認できず」と明記しました。
+</footer>
+</div>
+
+</body>
+</html>
