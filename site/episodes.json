@@ -2,39 +2,43 @@
   {
     "id": "260826_morningbrief_v1_AI",
     "title": "8月26日のブリーフ",
-    "published_at": "2026-08-26T06:01:01+09:00",
+    "published_at": "2026-08-26T07:04:21+09:00",
     "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260826_morningbrief_v1_AI/260826_morningbrief_v1_AI.mp3",
-    "duration_sec": 991,
-    "bytes": 4103037,
-    "summary": "・大型クロマグロ国際枠25%拡大も国内配分は未定<br>・ペルーのアンチョビ不漁で魚粉供給に懸念<br>・OpenAIが管理者向けAI機能を発表",
+    "duration_sec": 1215,
+    "bytes": 5024217,
+    "summary": "・ペルーのアンチョビ漁、今年は枠の24%消化で終了と発表<br>・米ロサンゼルスなど幼児期のAI端末利用を制限する動きが拡大<br>・Anthropicとベインが提携、企業導入は教育と業務設計が焦点に",
     "chapters": [
       {
         "section": "opening",
         "start_sec": 0
       },
       {
+        "section": "verification",
+        "start_sec": 13.4
+      },
+      {
         "section": "jp_fisheries",
-        "start_sec": 20.5
+        "start_sec": 335.0
       },
       {
         "section": "world_fisheries",
-        "start_sec": 217.0
+        "start_sec": 515.8
       },
       {
         "section": "genai",
-        "start_sec": 356.5
+        "start_sec": 705.9
       },
       {
         "section": "education",
-        "start_sec": 506.1
+        "start_sec": 887.4
       },
       {
         "section": "discussion",
-        "start_sec": 646.2
+        "start_sec": 1068.3
       },
       {
         "section": "closing",
-        "start_sec": 983.4
+        "start_sec": 1206.5
       }
     ]
   },
