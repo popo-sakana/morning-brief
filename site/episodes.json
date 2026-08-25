@@ -1,0 +1,41 @@
+[
+  {
+    "id": "260825_morningbrief_v1_AI",
+    "title": "8月25日のブリーフ",
+    "published_at": "2026-08-25T22:51:27+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260825_morningbrief_v1_AI/260825_morningbrief_v1_AI.mp3",
+    "duration_sec": 795,
+    "bytes": 3272019,
+    "summary": "・クロマグロ大型魚の枠、2027〜28年に25%増で合意<br>・豪州キングフィッシュに寄生虫、生食安全性が今後の課題<br>・OpenAIがGPT-5.6を開発エージェントKiroに提供開始",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 20.6
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 182.0
+      },
+      {
+        "section": "genai",
+        "start_sec": 336.3
+      },
+      {
+        "section": "education",
+        "start_sec": 448.2
+      },
+      {
+        "section": "discussion",
+        "start_sec": 551.5
+      },
+      {
+        "section": "closing",
+        "start_sec": 787.9
+      }
+    ]
+  }
+]

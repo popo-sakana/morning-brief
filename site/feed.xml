@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>popo 朝のニュースブリーフ</title>
+    <link>https://popo-sakana.github.io/morning-brief/</link>
+    <description>水産・生成AI・教育の4テーマを毎朝30分で</description>
+    <language>ja</language>
+    <lastBuildDate>Tue, 25 Aug 2026 14:05:57 +0000</lastBuildDate>
+    <itunes:author>popo</itunes:author>
+    <itunes:summary>水産・生成AI・教育の4テーマを毎朝30分で</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News"/>
+    <item>
+      <title>8月25日のブリーフ</title>
+      <description><![CDATA[・クロマグロ大型魚の枠、2027〜28年に25%増で合意<br>・豪州キングフィッシュに寄生虫、生食安全性が今後の課題<br>・OpenAIがGPT-5.6を開発エージェントKiroに提供開始]]></description>
+      <pubDate>Tue, 25 Aug 2026 22:51:27 +0900</pubDate>
+      <guid isPermaLink="false">260825_morningbrief_v1_AI</guid>
+      <enclosure url="https://github.com/popo-sakana/morning-brief/releases/download/260825_morningbrief_v1_AI/260825_morningbrief_v1_AI.mp3" length="3272019" type="audio/mpeg"/>
+      <itunes:duration>795</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://popo-sakana.github.io/morning-brief/episodes/260825_morningbrief_v1_AI.html</link>
+    </item>
+  </channel>
+</rss>
