@@ -1,0 +1,112 @@
+name: 毎朝のブリーフを作る
+
+on:
+  schedule:
+    # UTC 20:00 = 日本時間 午前5時。
+    #
+    # なぜ5時か:
+    #   官庁（水産庁・農水省）は早朝に動かず、前日10〜18時に出そろうので制約になりません。
+    #   縛りになるのは日刊水産経済新聞で、毎朝5時に更新されます。これを拾える最速が5時台。
+    #   米国のAI企業の発表は日本時間の深夜1〜2時台に集中するので、5時ならすでに入っています。
+    #   GitHub の定時実行は10〜20分遅れることが多く、結果として5時15分前後に走ります。
+    #   これがちょうど狙いどおりの時刻です。25分で生成が終わるので、6時前には配信されます。
+    - cron: "0 20 * * *"
+  workflow_dispatch:      # 手動でいつでも走らせられるボタンが出ます
+
+permissions:
+  contents: write         # 台本・RSSのコミットと、音声のリリース公開に必要
+
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 必要なライブラリを入れる
+        run: pip install -r requirements.txt
+
+      - name: 番組をつくる
+        id: build
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          BASE_URL: ${{ vars.BASE_URL }}
+        run: python src/run.py
+
+      - name: 音声を公開する
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          AUDIO="${{ steps.build.outputs.audio_path }}"
+          TAG="${{ steps.build.outputs.episode_id }}"
+          if [ -z "$AUDIO" ] || [ ! -f "$AUDIO" ]; then
+            echo "音声ができていないため、公開をとばします"
+            exit 1
+          fi
+          gh release create "$TAG" "$AUDIO" \
+            --title "$TAG" \
+            --notes "毎朝のニュースブリーフ（自動生成）" \
+            || gh release upload "$TAG" "$AUDIO" --clobber
+
+      - name: 台本とRSSを保存する
+        run: |
+          set -euo pipefail
+          git config user.name  "morning-brief bot"
+          git config user.email "actions@github.com"
+          # まだ存在しないフォルダがあっても止まらないようにする（初回対策）
+          for d in site data requests hypotheses out; do
+            if [ -d "$d" ]; then git add -A "$d"; fi
+          done
+          git reset -q -- 'out/*.mp3' 'out/*.wav' 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "brief ${{ steps.build.outputs.episode_id }}"
+          git push
+
+      - name: 古い回を片づける（40日より前のリリースを削除）
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          CUTOFF=$(date -u -d '40 days ago' +%s)
+          gh release list --limit 200 --json tagName,createdAt \
+            --jq '.[] | [.tagName, .createdAt] | @tsv' | while IFS=$'\t' read -r tag created; do
+              ts=$(date -u -d "$created" +%s)
+              if [ "$ts" -lt "$CUTOFF" ]; then
+                echo "削除: $tag"
+                gh release delete "$tag" --yes --cleanup-tag || true
+              fi
+            done
+
+  # 生成した site/ を GitHub Pages として公開する
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4
