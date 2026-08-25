@@ -31,7 +31,7 @@ hosts:
 tts:
   # google / openai / voicevox のいずれか。あとから差し替えられます。
   provider: "google"
-  speaking_rate: 1.0       # 1.0 が標準。速く聞きたければ 1.1〜1.2
+  speaking_rate: 1.05      # 8/25の音声で「ちょうどよい」と確認済み。上げるほど速くなる
   turn_gap_ms: 320         # 発言と発言のあいだの間（ミリ秒）
   segment_gap_ms: 900      # コーナーとコーナーのあいだの間
   bitrate: "64k"           # 音声ファイルの品質。64k で30分あたり約14MB
