@@ -24,8 +24,10 @@ ensure()
 
 import yaml  # noqa: E402
 
+import curator  # noqa: E402
 import hypotheses as hyp_mod  # noqa: E402
 import judge  # noqa: E402
+import stock  # noqa: E402
 import requests_inbox  # noqa: E402
 import research as research_mod  # noqa: E402
 import script_writer  # noqa: E402
@@ -185,11 +187,52 @@ def main() -> int:
         print(f"[run] 調査結果を保存しました: {research_path.name} "
               f"（${total_cost:.3f} 相当）")
 
+        # --- ニュースを1件ずつに切り分け、在庫に足して、今日の分を選ぶ -------
+        seg_titles = {s["id"]: s["title"] for s in cfg["segments"]}
+        inv = stock.load()
+        stock.prune(inv, now.date())
+        model = cfg.get("script", {}).get("model", "claude-sonnet-5")
+
+        items = curator.extract_items(
+            model, results, stock.recent_headlines(inv, now.date()), seg_titles
+        )
+        added = stock.add(inv, items, now.date())
+        print(f"[stock] 新しく {added}件を登録（切り出し {len(items)}件）／ "
+              f"{stock.summary(inv, now.date())}")
+
+        picks: dict[str, dict[str, list]] = {}
+        aired: list[dict] = []
+        for seg in cfg["segments"]:
+            want = int(seg.get("items", max(3, round(seg["minutes"]))))
+            fresh, stocked = stock.select(inv, seg["id"], want, now.date())
+            picks[seg["id"]] = {"fresh": fresh, "stock": stocked}
+            aired.extend(fresh + stocked)
+            note = "（材料なし）" if not fresh and not stocked else ""
+            print(f"[stock] {seg['title']}: 新着{len(fresh)}件 + 在庫{len(stocked)}件 {note}")
+
+        requested = next((r for r in results if r.segment_id == "requested"), None)
+
         script = script_writer.write_script(
-            cfg, results, date_label, wishes=wishes, checks=checks
+            cfg, date_label, picks,
+            requested=requested, wishes=wishes, checks=checks,
         )
         script["requests"] = wishes
         script["hypothesis_checks"] = checks
+        script["aired_items"] = [
+            {"id": i["id"], "theme": i["theme"], "headline": i["headline"],
+             "source_url": i.get("source_url", ""), "source_title": i.get("source_title", ""),
+             "from_stock": i["first_seen"] != now.date().isoformat()}
+            for i in aired
+        ]
+        # 出典は在庫から引き継ぐ（台本には書かせない＝捏造を防ぐ）
+        script["sources"] = [
+            {"segment": seg_titles.get(i["theme"], i["theme"]),
+             "title": i.get("source_title") or i["headline"], "url": i.get("source_url", "")}
+            for i in aired if i.get("source_url")
+        ]
+
+        stock.mark_aired(inv, aired, now.date())
+        stock.save(inv)
         requests_inbox.archive(wishes, now)
         script_path = out_dir / f"{stem_prefix}_script.json"
         script_path.write_text(
