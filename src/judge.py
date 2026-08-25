@@ -19,13 +19,22 @@ import requests
 from hypotheses import Verdict
 
 API_URL = "https://api.anthropic.com/v1/messages"
-TIMEOUT = 600
+TIMEOUT = 900
+
+# 返答の余白。足りないと、答えを書き切る前に打ち切られて空になります。
+EXTRACT_TOKENS = 24000
+MAP_TOKENS = 16000
 
 
-def _call(model: str, prompt: str, max_tokens: int = 8000) -> str:
+class EmptyReply(Exception):
+    """本文が空で返ってきたとき。余白を増やして試し直す合図。"""
+
+
+def _call(model: str, prompt: str, max_tokens: int) -> str:
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
         raise RuntimeError("環境変数 ANTHROPIC_API_KEY が設定されていません")
+
     resp = requests.post(
         API_URL,
         json={"model": model, "max_tokens": max_tokens,
@@ -36,19 +45,53 @@ def _call(model: str, prompt: str, max_tokens: int = 8000) -> str:
     )
     if resp.status_code >= 400:
         raise RuntimeError(f"Claude API エラー HTTP {resp.status_code}: {resp.text[:400]}")
-    return "".join(b.get("text", "") for b in resp.json().get("content", [])
-                   if b.get("type") == "text")
+
+    data = resp.json()
+    blocks = data.get("content", []) or []
+    text = "".join(b.get("text", "") for b in blocks if b.get("type") == "text")
+
+    if not text.strip():
+        # 何が返ってきたのかを必ず残す。ここが空だと原因が追えなくなる。
+        kinds = [b.get("type") for b in blocks] or ["（本文なし）"]
+        raise EmptyReply(
+            f"本文が空でした。stop_reason={data.get('stop_reason')} / "
+            f"返ってきた種類={kinds} / max_tokens={max_tokens} / "
+            f"使用トークン={data.get('usage', {})}"
+        )
+
+    if data.get("stop_reason") == "max_tokens":
+        raise EmptyReply(
+            f"答えが途中で打ち切られました。max_tokens={max_tokens} / "
+            f"{len(text)}文字まで出力"
+        )
+
+    return text
+
+
+def _call_with_retry(model: str, prompt: str, max_tokens: int) -> str:
+    """空や打ち切りで返ってきたら、余白を倍にして1度だけやり直す。"""
+    try:
+        return _call(model, prompt, max_tokens)
+    except EmptyReply as exc:
+        print(f"[hyp] {exc}\n[hyp] 余白を増やしてもう一度試します", flush=True)
+        return _call(model, prompt, max_tokens * 2)
 
 
 def _parse(text: str) -> Any:
     fence = re.search(r"```(?:json)?\s*(.*?)```", text, re.S)
     if fence:
         text = fence.group(1)
-    start = min([i for i in (text.find("{"), text.find("[")) if i != -1], default=-1)
-    if start == -1:
-        raise ValueError(f"JSONが見つかりません: {text[:200]}")
+    starts = [i for i in (text.find("{"), text.find("[")) if i != -1]
+    if not starts:
+        raise ValueError(f"JSONが見つかりません。返答の冒頭: {text[:200]!r}")
+    start = min(starts)
     end = max(text.rfind("}"), text.rfind("]"))
-    return json.loads(text[start : end + 1])
+    try:
+        return json.loads(text[start : end + 1])
+    except json.JSONDecodeError as exc:
+        raise ValueError(
+            f"JSONとして読めませんでした（{exc}）。返答の冒頭: {text[:200]!r}"
+        ) from None
 
 
 def extract_cards(model: str, research: list) -> list[dict[str, Any]]:
@@ -71,13 +114,16 @@ def extract_cards(model: str, research: list) -> list[dict[str, Any]]:
 - 調査結果に書かれていないことを足さない
 - 意見・見通しは tier 3 にし、claim の文末を「〜との見方が示されている」の形にする
 - 同じ出来事を複数の記事が伝えている場合は、1枚にまとめる（同じ話で証拠が何倍にもならないように）
-- 20〜40枚を目安に
+- **25枚以内**にしてください。重要なものから順に。
 
-JSONの配列だけを出力してください。説明は不要です。
+JSONの配列だけを出力してください。前置きも説明も、考えた過程も書かないでください。
+1文字目が「[」になるようにしてください。
 
 {blocks}
 """
-    cards = _parse(_call(model, prompt, 12000))
+    cards = _parse(_call_with_retry(model, prompt, EXTRACT_TOKENS))
+    if not isinstance(cards, list):
+        raise ValueError(f"配列が返ってきませんでした: {type(cards).__name__}")
     return [c for c in cards if isinstance(c, dict) and c.get("claim")]
 
 
@@ -141,11 +187,13 @@ neutral は出力しないでください。support と contradict だけを出�
   ]
 }}
 
-JSONだけを出力してください。該当がなければ空の配列にしてください。
-無理にヒットを作らないでください。「今日は該当なし」が正しい日は多くあります。
+JSONだけを出力してください。前置きも説明も、考えた過程も書かないでください。
+1文字目が「{{」になるようにしてください。
+該当がなければ空の配列にしてください。無理にヒットを作らないでください。
+「今日は該当なし」が正しい日は多くあります。
 """
 
-    data = _parse(_call(model, prompt, 8000))
+    data = _parse(_call_with_retry(model, prompt, MAP_TOKENS))
 
     verdicts: list[Verdict] = []
     for v in data.get("verdicts", []):
