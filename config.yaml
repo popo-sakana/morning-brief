@@ -10,7 +10,7 @@ program:
   timezone: "Asia/Tokyo"
   # 1分あたりの日本語文字数の目安。台本の長さ計算に使います。
   # 実際の音声を聞いて長い／短いと感じたら、この数字を上下させてください。
-  chars_per_minute: 320
+  chars_per_minute: 640
 
 # 話し手の設定。2人の対話形式です。
 hosts:
@@ -31,7 +31,7 @@ hosts:
 tts:
   # google / openai / voicevox のいずれか。あとから差し替えられます。
   provider: "google"
-  speaking_rate: 1.05      # 1.0 が標準。速く聞きたければ 1.1〜1.2
+  speaking_rate: 1.0       # 1.0 が標準。速く聞きたければ 1.1〜1.2
   turn_gap_ms: 320         # 発言と発言のあいだの間（ミリ秒）
   segment_gap_ms: 900      # コーナーとコーナーのあいだの間
   bitrate: "64k"           # 音声ファイルの品質。64k で30分あたり約14MB
