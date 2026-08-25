@@ -70,37 +70,51 @@ def fake_post(url, json=None, headers=None, params=None, timeout=None, **kw):
     if "anthropic" in url:
         CALLS["claude"] += 1; _save()
         prompt = json["messages"][0]["content"]
+        def turns(n, size=180):
+            return {"turns": [{"speaker": "analyst" if i % 2 else "navigator",
+                               "text": "あ" * size} for i in range(n)]}
+
         if "事実の主張を1件ずつカードに" in prompt:
             body = J.dumps([
                 {"claim": "ペルーのアンチョビ1期漁は枠191万トンに対し46万トンで終漁した",
                  "source_url": "https://example.go.jp/a", "tier": 1, "date": "2026-08-19"},
                 {"claim": "日本のぶり輸出は上半期434億円、前年同期比プラス69%だった",
                  "source_url": "https://example.go.jp/a", "tier": 1, "date": "2026-08-04"}])
-        elif "事実カード" in prompt and "崩壊条件" in prompt:
+        elif "事実カード" in prompt and "崩壊条件" in prompt and "判定のしかた" in prompt:
             body = J.dumps({"verdicts": [
                 {"hypothesis_id": "H-001", "card": 1, "relation": "support",
-                 "directness": 0.8, "rationale": "飼料原料の供給制約を裏づける"},
-                {"hypothesis_id": "H-002", "card": 2, "relation": "support",
-                 "directness": 0.5, "rationale": "対米輸出の伸びを示す"}],
+                 "directness": 0.8, "rationale": "飼料原料の供給制約を裏づける"}],
                 "falsifier_hits": []})
+        elif "ニュース1件ずつに切り分けて" in prompt:
+            CALLS["curate_prompt"] = prompt
+            out = []
+            for tid in ["jp_fisheries", "world_fisheries", "genai", "education"]:
+                for k in range(6):
+                    out.append({"theme_id": tid, "headline": f"{tid}の話題{k}",
+                                "detail": "内容" * 40, "numbers": ["191万トン"],
+                                "source_url": f"https://ex.com/{tid}/{k}",
+                                "source_title": "出典", "published": "2026-08-26",
+                                "importance": 5 - (k % 3)})
+            body = J.dumps(out)
+        elif "オープニングとクロージング" in prompt:
+            body = J.dumps({"opening": [{"speaker": "navigator", "text": "お" * 200}],
+                            "closing": [{"speaker": "navigator", "text": "し" * 80}],
+                            "highlights": ["要点1", "要点2", "要点3"]})
         else:
-            turn = lambda sp, n: {"speaker": sp, "text": "あ" * n}
-            body = J.dumps({
-                "opening": [turn("navigator", 160)],
-                "verification": {"title": "きょうの検証", "turns": [
-                    turn("analyst", 200), turn("navigator", 120), turn("analyst", 200)]},
-                "segments": [{"id": s, "title": s, "turns": [turn("analyst", 200), turn("navigator", 80)]}
-                             for s in ["jp_fisheries", "world_fisheries", "genai", "education"]],
-                "discussion": {"title": "きょうの論点", "turns": [turn("navigator", 150), turn("analyst", 200)]},
-                "closing": [turn("navigator", 60)],
-                "highlights": ["要点1", "要点2", "要点3"]})
+            # コーナーごとの執筆。指示された文字数をそのまま満たす形で返す
+            import re as RE
+            m = RE.search(r"合計(\d+)文字", prompt)
+            target = int(m.group(1)) if m else 3200
+            n = max(2, target // 180)
+            CALLS.setdefault("segment_targets", []).append(target)
+            body = J.dumps(turns(n, 180))
         return R(200, {"content": [{"type": "text", "text": body}],
                        "usage": {"input_tokens": 1000, "output_tokens": 500}})
 
     if "texttospeech" in url:
         CALLS["tts"] += 1; _save()
         text = json["input"]["text"]
-        sec = max(0.4, len(text) / 320 * 60)
+        sec = max(0.4, len(text) / 640 * 60)
         import mp3util
         d = mp3util.silence(int(sec * 1000))
         return R(200, {"audioContent": base64.b64encode(d).decode()})
@@ -118,6 +132,7 @@ requests.post = fake_post
         "BASE_URL": "https://example.github.io/mb",
         "PYTHONPATH": str(repo),
     }
+    sys.path.insert(0, str(repo / "src"))
     proc = subprocess.run([sys.executable, "src/run.py"], cwd=repo, env=env,
                           capture_output=True, text=True)
     print(proc.stdout[-2500:])
@@ -149,11 +164,31 @@ requests.post = fake_post
     assert led["hypotheses"][0]["evidence"], "証拠が記録されていない"
     assert led["hypotheses"][0]["ops"]["last_redteam"], "反証さがしの記録がない"
 
-    # 5) 台本に検証コーナーが入り、音声にも含まれていること
+    # 5) 台本に検証コーナーと各コーナーが入っていること
     script = json.loads(next((repo / "out").glob("*_script.json")).read_text(encoding="utf-8"))
     assert script.get("verification"), "検証コーナーが台本にない"
     assert script.get("hypothesis_checks"), "仮説の変化が台本に渡っていない"
     assert script.get("requests"), "注文が台本に渡っていない"
+    assert len(script["segments"]) >= 4, f"コーナー数が足りない: {len(script['segments'])}"
+
+    # 5b) 尺が目標どおりか（コーナー分割の効果）
+    import yaml as Y
+    cfgy = Y.safe_load((repo / "config.yaml").read_text(encoding="utf-8"))
+    cpm = cfgy["program"]["chars_per_minute"]
+    import script_writer as SW
+    turns_all = SW.iter_turns(script)
+    total = sum(len(t) for _, _, t in turns_all)
+    assert total > 15000, f"台本が短すぎる: {total}文字"
+
+    # 5c) 在庫が作られ、取り上げ実績が記録されたこと
+    inv = json.loads((repo / "data" / "stock.json").read_text(encoding="utf-8"))
+    aired = [i for i in inv["items"] if i["aired"]]
+    assert len(inv["items"]) == 24, f"在庫の件数が想定と違う: {len(inv['items'])}"
+    assert aired, "取り上げ実績が記録されていない"
+    assert all(len(i["aired"]) == 1 for i in aired), "同じ項目が複数回記録されている"
+
+    # 5d) 切り分けの指示に、既出の見出しを渡す仕組みが入っていること
+    assert "既に拾ってある出来事" in calls.get("curate_prompt", ""), "既出の照合が渡っていない"
 
     # 6) 注文は使い終わったら空に戻り、控えが残ること
     inbox = (repo / "requests" / "next.md").read_text(encoding="utf-8")
@@ -173,7 +208,6 @@ requests.post = fake_post
     import xml.etree.ElementTree as ET
     ET.fromstring((repo / "site" / "feed.xml").read_text(encoding="utf-8"))
 
-    sys.path.insert(0, str(repo / "src"))
     import mp3util
     mins = mp3util.duration(mp3.read_bytes()) / 60
 
@@ -182,6 +216,7 @@ requests.post = fake_post
     print(f"  調査 {calls['perplexity']}本（4テーマ＋注文＋反証さがし）")
     print(f"  Claude {calls['claude']}回（カード抽出・仮説照合・台本）")
     print(f"  音声合成 {calls['tts']}回 / 完成 {mins:.1f}分")
+    print(f"  台本 {total}文字 / 在庫 {len(inv['items'])}件（取上済 {len(aired)}件）")
     print(f"  作業フォルダ: {repo}")
     return 0
 
