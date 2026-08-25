@@ -1,0 +1,2354 @@
+{
+  "opening": [
+    {
+      "speaker": "navigator",
+      "text": "おはようございます。2026年8月26日、水曜日の朝ニュースです。今日は太平洋クロマグロの国際漁獲枠拡大、ペルーのアンチョビ不漁、OpenAIの新しい推論チップ、そして幼児教育とAIの向き合い方についてお届けします。"
+    }
+  ],
+  "segments": [
+    {
+      "id": "jp_fisheries",
+      "title": "日本の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "まずは日本の水産です。クロマグロの話題からいきましょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "中西部太平洋まぐろ類委員会の会合で、大型クロマグロの国際漁獲枠を2027年から2年間、25%拡大することで合意しました。一方で小型魚の枠は6%削減されます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "国内の漁獲量も増えるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこがポイントです。8月20日に水産庁が決めた国内措置は、全国の枠を増やすものではありません。まき網漁業の管理区分の間で134.3トンを振り替えただけです。全国の大型クロマグロの漁獲可能量は1万504.7トンで据え置きです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "じゃあ、すぐに値段が下がるわけではないんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。報道では、供給が増えて価格が1割から2割ほど下がる可能性があるという専門家の見方も出ています。ただ国や地域ごとの具体的な配分はまだ決まっていません。2026年の国内価格にすぐ影響する話ではありません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "次はペルーのアンチョビですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ペルー生産省が、北中部海域の2026年第1期のアンチョビ漁を終了したと発表しました。漁獲枠は191万トンでしたが、実際の漁獲は約46万トン、枠の24%にとどまりました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "かなり残したまま終わったんですね。なぜ重要なんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "アンチョビは魚粉や魚油の原料で、日本の養殖用配合飼料にもつながります。供給不安や国際価格の上昇圧力になる可能性があります。ただ、実際に飼料価格へどれだけ転嫁されるかは、今の資料では確認できていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "国内の漁の様子はどうですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "釧路港の2026年7月の水揚げが、前年同月より大きく落ち込みました。水揚げ量はわずか64トンで、前年比99.7%減です。金額も4077万円で96.4%減でした。夏の主力であるイワシの水揚げがゼロだったことが大きな要因です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "原因は分かっているんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "イワシがなぜ釧路沖から移動したのか、今回の記事では確認できませんでした。今後の回復時期も分かっていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "養殖の方はどうでしょう。ぶり類の話題が気になります。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "8月19日に水産研究・教育機構が特別セミナーを開き、高成長のブリ種苗による量産化などが取り上げられました。実用化の時期やコスト削減の幅は、まだ確認できていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "夏の高水温の影響は続いているんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。養殖のブリやマダイで、高水温による死亡や出荷制限が続いていると市場資料は伝えています。9月の予想価格では、養殖ブリのラウンドが1キロあたり1600円から1800円という水準が示されています。あくまで見通しの数字です。"
+        }
+      ]
+    },
+    {
+      "id": "world_fisheries",
+      "title": "世界の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "続いて世界の水産です。ぶり類で気になるニュースは。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "豪州のニューサウスウェールズ州で、yellowtail kingfishという養殖・天然で人気の高い魚から寄生虫が見つかった調査が報じられました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "どんな寄生虫ですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "Unicapsula seriolaeというミクソスポル類の寄生虫です。2024年と2025年に集めた魚を調べたところ、38.9%から検出されました。過去の報告では29.3%から80%という幅がありました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "食べても大丈夫なんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "感染した魚のうち71.4%は、調理しても身が崩れる症状が出なかったそうです。ただ寄生虫と身崩れの関係はまだはっきり証明されておらず、豪州で食中毒の証拠も確認されていません。日本ではかんぱちの生食との関連が報告されているとのことです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "他に気になる動きはありますか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ペルー政府が8月23日、漁業と養殖の分野に120日間の非常事態を宣言しました。沿岸のエルニーニョ現象が深刻化したためです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "さっきのアンチョビの話ともつながりますね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。ペルーは世界の魚粉生産の約20%を占めるとされています。一方で中国の飼料生産は2026年上半期に前年同期比17.4%増と報じられています。魚粉の供給が細る一方、需要は伸びていて、価格が引き締まる可能性があると記事は分析しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "サーモンやえびの方はどうですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "サーモンはノルウェーの7月の輸出額が前年同月比16%増と好調でした。ただスポット価格は輸出量が多いために弱含んでいるという報道もあります。えびはタイで疾病とコスト上昇が重なり、2026年の生産量が約25万トンにとどまる可能性が業界団体から示されています。"
+        }
+      ]
+    },
+    {
+      "id": "genai",
+      "title": "生成AIの重大ニュース",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "続いて生成AIの重大ニュースです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "OpenAIが8月25日、自社開発の推論用チップ、ジャラペーニョの初期テスト結果を公表しました。推論というのは、AIが学習済みの内容をもとに答えを出す処理のことです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "どれくらい速くなるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "OpenAIの発表では、電力あたりの処理性能が既存システムの1.5倍から1.9倍、応答の速さも1.7倍から3.6倍向上したとしています。2026年末までに自社の計算基盤への導入を始める予定です。ただこれは自社内のテストで、第三者による検証は確認できていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "一般の利用者にはいつ関係してきそうですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこはまだ分かりません。提供時期や価格は発表されていません。ただ推論のコストが下がれば、いずれ利用料金にも影響してくる可能性はあります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "他にはどんな発表がありましたか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "同じく8月25日、企業向けのChatGPT Workと開発支援サービスCodexに、管理者用のプラグインが追加されました。チャットで話しかけるだけで、利用状況の確認や、メンバーの権限変更、予算の承認などができる機能です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "業務の仕組み化に関わる話ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。管理画面をいくつも切り替えずに、自然な言葉で管理業務を処理できる点は実務的です。ただ対象プランや料金、地域ごとの提供状況はまだ確認できていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "国内の動きもありましたか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。日本政府が8月25日、生成AI事業者に学習データの透明性を求める原則コードを採択したと報じられています。法律による強制ではなく、守るか、守らない理由を説明する方式です。国内企業だけでなく、日本でサービスを提供する海外事業者も対象に含まれるとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "どんな内容を求められるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "モデルの概要や学習データの種類の公表、著作権者から問い合わせがあった際の対応窓口の整備などが盛り込まれています。ただ8月25日の最終採択についての詳しい政府原文や施行時期は、まだ確認できていません。"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "title": "AI時代の教育トレンド",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "続いてAI時代の教育トレンドです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "この1か月の世界の動きを見ると、幼児にAIを自由に使わせる方向ではなく、AIの出力を検証したり判断したりする、人間側の力を重視する方向がはっきりしています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "具体的にはどんな力ですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "批判的思考、創造性、協働、自己調整、それに倫理的な判断力です。OECDやユネスコの文書が、こうした力を重視する方向を示しています。ただこれは政策上の提言であり、効果が確定した研究結果ではありません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "読み書きや計算は軽視されていくんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうではないようです。AIの答えを検証するためにこそ、文章を正確に読む力や数量を理解する力が土台として必要だ、という整理がされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "遊びの位置づけはどうなっていますか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "中国で行われた幼稚園児90人の研究では、AIロボットを使った協同遊びのグループが、相手の気持ちを理解する力で伸びを示したと報告されています。ただ1つの園、8週間の調査で、長期的な効果は分かっていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "各国のカリキュラムはどう変わっていますか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "香港は7月21日、小学校向けにAIの予備学習を試行版として盛り込む文書を公表しました。米国でも8月19日、幼児から高校生まで対象の無料のAIリテラシー教材が公開されています。ただこれは非営利団体の教材で、公教育を義務づけるものではありません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "幼児のスクリーン利用についてはどうですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "英国の指針では、2歳未満は原則スクリーンを避け、2歳から5歳は1日1時間以内が目安とされています。AI玩具についても、幼児だけで使わせることには慎重な姿勢が示されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "日本の状況はどうですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "文部科学省は2024年12月公表のガイドラインを今も使っていて、改訂に向けた検討が報じられています。ただ2026年8月25日時点で正式な改訂版は確認できていません。"
+        }
+      ]
+    }
+  ],
+  "discussion": {
+    "title": "きょうの論点",
+    "turns": [
+      {
+        "speaker": "navigator",
+        "text": "ここからは今日の論点です。4つのテーマ、つながりはありそうですか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "水産と生成AIは、飼料コストと業務の仕組み化という2本の糸でつながっていると思います。教育は今日は少し独立した話題として扱った方が正直だと思います。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "まず水産のつながりから聞かせてください。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "ペルーでアンチョビの漁獲が枠の24%にとどまり、しかも8月23日に沿岸エルニーニョで120日間の非常事態が宣言されました。アンチョビは魚粉や魚油の原料で、鹿児島のぶり養殖でも配合飼料に使われています。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "実際に飼料価格が上がるかどうかは、まだ分からないんですよね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。今回の資料では、飼料価格への転嫁幅は確認できませんでした。ただ中国の飼料生産が2026年上半期に17.4%増と伸びていて、供給が細る一方で需要は増えています。価格が締まりやすい構図はあると言えます。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "popoさんの仕事にはどう関係してきそうですか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "配合飼料価格安定基金という制度があります。令和7年度第4四半期には、1トンあたり3万3780円の補填金が発動されました。飼料コストが上がる局面では、こうした制度の活用支援が生産者にとって意味を持ちやすくなります。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "補助金申請支援という専門性が生きる場面ですね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうですね。ただし令和8年度第1四半期の発動状況はまだ公表が確認できていません。次の四半期の数字が出た時点で、改めてクライアントに伝える価値がありそうです。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "クロマグロの話はどうでしょう。ぶり養殖とは魚種が違いますが。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "直接の関係は薄いですが、示唆はあると思います。大型クロマグロの国際枠が2027年から25%拡大で合意した一方、国別の配分はまだ決まっていません。国際合意と国内の実際の恩恵にはタイムラグがあるという構図です。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "それがぶり類の輸出戦略にも当てはまる、ということですか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。国際的な枠組みが変わっても、実際に価格や取引条件へ反映されるまでには段階があります。輸出戦略を考える際、発表された数字だけでなく、いつ何が確定するのかを追い続ける視点が要ると思います。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "世界の水産ニュースで、ぶり類そのものの話題もありましたね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "豪州のyellowtail kingfishで寄生虫の調査がありました。感染した魚の多くは見た目も食感も正常だったという点が興味深いところです。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "これは輸出の現場にも関係しそうですね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "品質基準や説明責任という観点では、参考になる事例だと思います。ただ今回は豪州の野生・釣り由来のサンプルの話で、日本の養殖ぶり類の生産に直接影響する情報ではありません。過度に結びつけない方がよいと思います。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "続いて生成AIの話です。飼料コストとは別の糸があるとおっしゃっていましたね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。OpenAIが管理者用のプラグインを発表しました。チャットで話しかけるだけで利用状況の確認や権限変更ができる機能です。一人でコンサルティング業務をしながらAIを仕組み化する上で、参考になる発想だと思います。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "具体的にはどう参考になりますか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "業務ツールを画面ごとに切り替えるのではなく、対話の中で処理を完結させる設計です。補助金申請の進捗管理や、クライアントごとの資料作成の状態管理などに応用できる余地があると思います。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "日本の原則コードの話もありましたね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。生成AI事業者に学習データの透明性を求める内容でした。これは事業者向けですが、AIを使って資料や提案書を作る立場としても、何をどう使ったのか説明できる状態にしておく意識は参考になると思います。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "最後に教育の話ですが、これは独立した話題ということでしたね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい、今日の材料では、水産や生成AIと無理につなげるのは難しいと思います。ただ長い目で見ると、ひとつだけ触れておきたい点があります。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "どんな点でしょう。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "AIの答えを鵜呑みにせず検証する力や、自分で考え続ける力が重視される方向が、世界的な政策文書で示されています。これは10年後、20年後に働く世代が身につけていく力です。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "お子さんが生まれたばかりのpopoさんにとっては、遠い未来の話でもありますね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうですね。今すぐ何かを変える話ではありません。ただ水産業でも生成AIの活用が広がる中で、将来その担い手になる世代がどんな力を育てられているのか、頭の片隅に置いておく価値はあると思います。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "今日は水産と生成AIがコストと仕組み化の面でつながり、教育は少し離れた話題だった、ということですね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい、そのように整理できると思います。"
+      }
+    ]
+  },
+  "closing": [
+    {
+      "speaker": "navigator",
+      "text": "以上、2026年8月26日の朝ニュースでした。また明日、お会いしましょう。"
+    }
+  ],
+  "highlights": [
+    "大型クロマグロ国際枠25%拡大も国内配分は未定",
+    "ペルーのアンチョビ不漁で魚粉供給に懸念",
+    "OpenAIが管理者向けAI機能を発表"
+  ],
+  "sources": [
+    {
+      "segment": "日本の水産",
+      "url": "https://www.suikei.co.jp/cat/news/aquaculture",
+      "title": "養殖"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://suisan-navi.jp/uncategorized/news-2026-week34/",
+      "title": "今週の水産業界ニュースまとめ【8/17〜8/23】クロマグロ枠 ..."
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.suikei.co.jp/cat/news",
+      "title": "ニュース"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.suikei.co.jp/tag/kai",
+      "title": "貝類 - 日刊水産経済新聞"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.suikei.co.jp/tag/buri",
+      "title": "ブリ類"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://news.livedoor.com/article/detail/32099710/",
+      "title": "鈴木農水相「前進があったものと考える」大型クロマグロの漁獲枠25％増で合意"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://uomedia.jp/articles/weekly-seafood-news-20260809",
+      "title": "【週刊水産ニュース】熊本地震で陸上養殖サーモン20万匹死ぬ ..."
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://suisan.jp/",
+      "title": "水産新聞"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.jiji.com/jc/article?k=2026081800758&g=flash",
+      "title": "【速報】水産庁は、大型の太平洋クロマグロの漁獲枠を２５％拡大することで合意したと発表した"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://suisan-navi.jp/uncategorized/news-2026-week32/",
+      "title": "今週の水産業界ニュースまとめ【8/3〜8/9】"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://en.sedaily.com/society/2026/08/24/high-water-temperatures-kill-108-million-fish-at-koreas",
+      "title": "High Water Temperatures Kill 1.08 Million Fish at Korea's Largest Fish Farms"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.suikei.co.jp/tag/unagi",
+      "title": "ウナギ - 日刊水産経済新聞"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.seafood.media/fis/worldnews/worldnews.asp?monthyear=8-2026&day=24&id=139083&l=e&country=&special=&ndb=1&df=0",
+      "title": "Japan Revises Bluefin Tuna Management Framework as ..."
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.suikei.co.jp/cat/news/fishery",
+      "title": "漁業"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.suikei.co.jp/tag/shigenkanri",
+      "title": "資源管理 - 日刊水産経済新聞"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.pref.aomori.lg.jp/sangyo/suisan/",
+      "title": "水産業 - 青森県庁"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.jfa.maff.go.jp/j/suisin/",
+      "title": "資源管理の部屋 - 水産庁 - 農林水産省"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.suikei.co.jp/cat/people",
+      "title": "人"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.jafic.or.jp/business/eez/tac/",
+      "title": "TAC採捕実績"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.suikei.co.jp/tag/iwashi",
+      "title": "イワシ類"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://news.yahoo.co.jp/articles/41f355c22555a7614a488eceb8158ad920890687",
+      "title": "マグロ枠配分、据え置き 26年度、大型2990トン（共同通信）"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.jfa.maff.go.jp/j/suisin/attach/pdf/index-799.pdf",
+      "title": "漁獲可能量（ＴＡＣ）と採捕実績の推移（単位：トン）"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://news.livedoor.com/article/detail/32108248/",
+      "title": "大型クロマグロ漁獲枠拡大「来年から2年間25％増で合意」小型マグロ漁獲枠は減で県内漁業者は《長崎》"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.linkedin.com/pulse/perus-anchovy-fishery-crisis-systemic-alert-global-poiee",
+      "title": "Peru's Anchovy Fishery Crisis: A Systemic Alert for the Global ..."
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.suikei.co.jp/archives/106043",
+      "title": "ペルー・アンチョビ、ほぼ全海域で禁漁 24日から5月3日まで"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.seafoodnews.com/Story/1338794/Peru-Opens-First-2026-Anchovy-Season-with-1-point-91-Million-Metric-Ton-Quota-Down-36-percent-",
+      "title": "Peru Opens First 2026 Anchovy Season with 1.91 Million Metric Ton ..."
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://seafood.media/fis/worldnews/worldnews.asp?country=0&monthyear=&l=e&id=137100&ndb=1&df=0",
+      "title": "Seafood Media Group - Worldnews"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://insights.tridge.com/speaker-product-news-reports/KJLyFXpzJzgKuB1Gqsm5QUKHGgR43AVdqLNcLCdFng1x3p81FQie2GnV",
+      "title": "Peru Sets Lowest Anchovy Quota in a Decade for 2026 ..."
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://weareaquaculture.com/news/fisheries/perus-anchovy-quota-has-been-announced-a-36-reduction",
+      "title": "Peru's anchovy quota has been announced: a 36% reduction"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.linkedin.com/posts/efeedlink_perus-2026-north-central-anchovy-season-activity-7484848753993072640-of8s",
+      "title": "Peru's 2026 Anchovy Catch Falls Short of Quota"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.maff.go.jp/j/chikusan/sinko/lin/l_siryo/haigou/index.html",
+      "title": "配合飼料価格安定制度について"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.gyoankyo.or.jp/feed",
+      "title": "配合飼料（セーフティーネット） - 漁業経営安定化推進協会"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.zennikki.or.jp/news/",
+      "title": "お知らせ - 一般社団法人 全日本配合飼料価格畜産安定基金"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.zennikki.or.jp/",
+      "title": "一般社団法人 全日本配合飼料価格畜産安定基金"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.bairdmaritime.com/fishing/regulation-enforcement/peru-authorises-anchovy-quota-for-2026-southern-fishing-season",
+      "title": "Peru authorises anchovy quota for 2026 southern fishing ..."
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.uoichi.co.jp/products_strategy_allview.html",
+      "title": "株式会社うおいち 商品情報 2026年09月号"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://sakana-souba-navi.jp/market/2026-08-12",
+      "title": "2026-08-12の魚市場相場・市況まとめ | 魚相場ナビ"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.suigi.pref.iwate.jp/sp/shikyo/findBy/2026/08/21/4",
+      "title": "市況情報 - いわて大漁ナビ - 岩手県"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://sakana-souba-navi.jp/market/2026-08-06",
+      "title": "2026-08-06の魚市場相場・市況まとめ"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://sakana-souba-navi.jp/market/2026-08-11",
+      "title": "2026-08-11の魚市場相場・市況まとめ | 魚相場ナビ"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.fukuuo.co.jp/members/market/file/20260728_shikyo.pdf",
+      "title": "untitled"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://sakana-souba-navi.jp/markets/takamatsu",
+      "title": "高松市場の水産物相場【今日の卸売価格・取引量】 - 市況 - 魚相場ナビ"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.city.matsuyama.ehime.jp/kurashi/kurashi/shohisha/shikyou/sikyousuisan.files/sengyo20260730.PDF",
+      "title": "7月30日水産部市況（PDF：35KB）"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.suigi.pref.iwate.jp/shikyo/daily/report/2026/8/7/12",
+      "title": "普代 市況日報"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://sakana-souba-navi.jp/fish/%E9%A4%8A%E6%AE%96%E3%83%8F%E3%83%9E%E3%83%81",
+      "title": "養殖ハマチの相場・卸売価格【今日のkg単価】"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://sakana-souba-navi.jp/markets/toyosu",
+      "title": "豊洲市場の水産物相場【今日の卸売価格・取引量】 - 市況"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://osakafu-ichiba.jp/CMS/data/img/products_000046_17.pdf",
+      "title": "年月度 2026/05"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.esakikin.or.jp/",
+      "title": "一般社団法人 全国配合飼料供給安定基金"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.gyoankyo.or.jp/safetynet/compensation_payment",
+      "title": "補填発動状況 | セーフティーネット構築事業 | 漁業経営安定化推進協会"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://agri-ja.net/articles/compound-feed-price-stabilization",
+      "title": "配合飼料価格安定制度の発動条件と単価 | 農業情報メディア"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.pref.okinawa.jp/shigoto/chikusangyo/1011238/1011370.html",
+      "title": "令和8年度沖縄県配合飼料価格差補助緊急対策事業"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.gyoankyo.or.jp/wp514/wp-content/uploads/2024/04/HP%E6%8E%B2%E8%BC%89%E9%85%8D%E5%90%88%E9%A3%BC%E6%96%99%EF%BC%88R5.4Q.pdf",
+      "title": "漁業経営セーフティーネット構築事業 養殖用配合飼料価格安定対策の補 ..."
+    },
+    {
+      "segment": "日本の水産",
+      "url": "http://www.tikusankikin.com/hotenkin/",
+      "title": "補塡金の交付状況"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/739842.pdf",
+      "title": "原油価格・物価高騰等に関する 農林水産分野支援等情報 - 福島県"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.gyoankyo.or.jp/safetynet/information",
+      "title": "業務情報 | セーフティーネット構築事業"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.maff.go.jp/",
+      "title": "農林水産省ホームページ"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.maff.go.jp/j/kokuji_tuti/",
+      "title": "告示・通知"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.maff.go.jp/j/tokei/kouhyou/kaimen_gyosei/",
+      "title": "海面漁業生産統計調査"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.jfa.maff.go.jp/j/kikaku/toukei/index.html",
+      "title": "水産統計情報"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.maff.go.jp/j/press/index.html",
+      "title": "報道発表資料"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.maff.go.jp/chushi/calendar/index.html",
+      "title": "イベント情報（行事カレンダー）"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www3.nhk.or.jp/lnews/fukushima/20240824/6050027214.html",
+      "title": "岸田首相が福島県を訪問 漁業支援策の方向性を来週示す意向｜NHK 福島県のニュース"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www3.nhk.or.jp/news/html/20240601/k10014468151000.html",
+      "title": "サバやカツオも…漁獲量 去年は過去最低か 「未利用魚」に活路 | NHK"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.affrc.maff.go.jp/",
+      "title": "農林水産技術会議ホームページ - 農林水産省"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.maff.go.jp/j/nousan/index.html",
+      "title": "農産"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www3.nhk.or.jp/news/html/20240821/k10014553901000.html",
+      "title": "沖合底引き網漁の水揚げ 高級魚ノドグロやマダイも 島根 浜田 | NHK"
+    },
+    {
+      "segment": "日本の水産",
+      "url": "https://www.jfa.maff.go.jp/j/gyosei/index.html",
+      "title": "分野別情報"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://phys.org/news/2026-08-parasite-linked-mushy-fish-widespread.html",
+      "title": "Parasite linked to 'mushy fish' could be much more widespread than thought"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.seafood.media/fis/worldnews/search_brief.asp?l=e&id=138849&ndb=1",
+      "title": "FIS - Worldnews in Brief - IN BRIEF"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.seafoodnews.com/Login.aspx?ReturnUrl=/SearchStory/fvMZeaKnBmRvHwCAy381yHKlcULN4MaXXWF__wYNrySsBRPt1AaZE4095kp__QAI1C/1176739?cookieCheck=1",
+      "title": "SeafoodNews.com | Global Seafood News & Prices."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.seafoodnews.com/Story/1352152/Seafoodnewscom-Summary-Thursday-August-20",
+      "title": "Seafoodnews.com Summary Thursday, August 20"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://english.elpais.com/climate/2026-08-13/aquaculture-is-depleting-the-oceans-a-farmed-salmon-can-consume-more-than-six-times-its-weight-in-wild-fish.html",
+      "title": "Aquaculture is depleting the oceans: A farmed salmon can ..."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.fishfarmingexpert.com/amerjack-brazil-forever-oceans/us-fish-farmer-wins-biggest-ever-concession-off-brazil/1318212",
+      "title": "US fish farmer wins biggest-ever concession off Brazil"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://suisan-navi.jp/uncategorized/news-2026-week34/",
+      "title": "今週の水産業界ニュースまとめ【8/17〜8/23】クロマグロ枠合意 ..."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://suisan-navi.jp/uncategorized/news-2026-week32/",
+      "title": "今週の水産業界ニュースまとめ【8/3〜8/9】 | 水産ナビ"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://seafood.media/fis/marketmonitor/news.asp?l=e&id=138825&specie=4&ndb=1",
+      "title": "FIS - News - Tuna"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://perishablenews.com/seafood/consumption-of-eu-fishery-and-aquaculture-products-sinks-to-decade-low/",
+      "title": "Consumption of EU Fishery and Aquaculture Products Sinks to ..."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.fishfarmingexpert.com/national-institute-of-water-and-atmospheric-research-new-zealand-yellowtail-kingfish/land-based-yellowtail-farm-opens-in-new-zealand/1808571",
+      "title": "Land-based yellowtail farm opens in New Zealand"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.suikei.co.jp/cat/news/aquaculture",
+      "title": "養殖"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.customs.go.jp/toukei/info/",
+      "title": "財務省貿易統計 Trade Statistics of Japan"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.customs.go.jp/toukei/shinbun/happyou.htm",
+      "title": "過去の報道発表資料 : 財務省貿易統計 Trade Statistics ..."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.customs.go.jp/moji/moji_toukei/202602s.pdf",
+      "title": "九 州 経 済 圏 貿 易 概 況"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.customs.go.jp/yusyutu/",
+      "title": "輸出統計品目表"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.customs.go.jp/toukei/shinbun/trade-st_e/2026/2026064e.pdf",
+      "title": "Trade Statistics"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://jp.reuters.com/world/japan/ENZAJ2OJIBK6XMJK4YCP4TPWUA-2026-02-18/",
+      "title": "貿易収支、1月は1兆1526億円の赤字 対米輸出が2カ月連続減"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.customs.go.jp/toukei/suii/html/time.htm",
+      "title": "輸出入額の推移（地域（国）別・主要商品別） : 財務省貿易統計 ..."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.customs.go.jp/toukei/shinbun/trade-st_e/2026/2026015e.pdf",
+      "title": "[PDF] Trade Statistics"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://x.com/MOF_Japan/status/2079753523370266822",
+      "title": "財務省"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.customs.go.jp/toukei/latest/index.htm",
+      "title": "令和8年7月分速報発表 : 財務省貿易統計 Trade Statistics of ..."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.lnews.jp/2026/06/s0626605.html",
+      "title": "財務省／6月上旬分の貿易統計、輸出21.1％増、輸入30.4％増"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.customs.go.jp/toukei/info/index_e.htm",
+      "title": "Trade Statistics of Japan Ministry of Finance"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.selinawamucii.com/insights/prices/united-states-of-america/salmon/",
+      "title": "Salmon Price in US - August 2026 Market Prices (Updated Monthly)"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.seafoodnews.com/Story/1343613/Circle-Seafoods-Sets-2026-Alaska-Seine-Prices-Holds-Pink-Base-at-0-point-61",
+      "title": "Circle Seafoods Sets 2026 Alaska Seine Prices, Holds ..."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.seafoodnews.com/Story/1349401/ANALYSIS-US-Sockeye-Prices-Hold-Firm-as-Reports-of-Increased-Freezing-Surface",
+      "title": "ANALYSIS: US Sockeye Prices Hold Firm as Reports of ..."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.salmonprices.com/",
+      "title": "Salmon Prices — Global Market Data: Norway, Chile, EU & USA"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.tridge.com/market-overview/fresh-pacific-salmon",
+      "title": "Fresh Pacific Salmon Suppliers, Export Data & Price Trends - Tridge"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.adfg.alaska.gov/index.cfm?adfg=commercialbyfisherysalmon.bluesheetsummary",
+      "title": "Inseason Alaska Commercial Salmon Summary"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://tradingeconomics.com/commodity/salmon",
+      "title": "Salmon - Price - Chart - Historical Data - News"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.selinawamucii.com/insights/prices/united-states-of-america/fish/",
+      "title": "Fish Price in US - August 2026 Market Prices (Updated Monthly)"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.ams.usda.gov/mnreports/bh_fv040.pdf",
+      "title": "[PDF] Terminal Market Price Report"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.alaskaseafood.org/wp-content/uploads/2026-Sockeye-salmon-market-bulletin.pdf",
+      "title": "2026 Alaska Sockeye Salmon Outlook & Summary"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.alaskaseafood.org/wp-content/uploads/Coho-salmon-market-bulletin-2026.pdf",
+      "title": "2026 Alaska Coho Salmon Outlook & Summary"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.nationalfisherman.com/retail-prices-for-2026-alaska-salmon-are-still-a-wild-card",
+      "title": "Retail prices for 2026 Alaska salmon are still a wild card"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://thefishsite.com/region/north-america",
+      "title": "North America | The Fish Site"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://thefishsite.com/category/production-systems/open-farming-systems",
+      "title": "Open farming systems | The Fish Site"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://thefishsite.com/species/salmonids",
+      "title": "Salmonids | The Fish Site"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://thefishsite.com/species/crustaceans/shrimp",
+      "title": "Shrimp"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.undercurrentnews.com/",
+      "title": "Undercurrent - Seafood prices, news, data"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.undercurrentnews.com/latestnews/",
+      "title": "Latest news"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.fishfarmingexpert.com/",
+      "title": "Fishfarming expert"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://thefishsite.com/category/fisheries",
+      "title": "Fisheries"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://thefishsite.com/category/husbandry",
+      "title": "Husbandry"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://thefishsite.com/region/asia",
+      "title": "Asia"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://thefishsite.com/category/people/events",
+      "title": "Events | The Fish Site"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://thefishsite.com/articles",
+      "title": "Articles"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.fisheries.noaa.gov/inport/item/3481",
+      "title": "Census Imports"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.fisheries.noaa.gov/national/sustainable-fisheries/fisheries-united-states",
+      "title": "Fisheries of the United States"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.trade.gov/data-visualization/tradestats-express-us-trade-products",
+      "title": "TradeStats Express - U.S. Trade by Products"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.trade.gov/report/tradestats-express-national-and-state-trade-data",
+      "title": "TradeStats Express-National and State Trade Data"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.fisheries.noaa.gov/inport/item/3480",
+      "title": "Foreign Trade | InPort"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.trade.gov/trade-data-analysis",
+      "title": "Trade Data and Analysis"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.trade.gov/data-visualization/us-monthly-product-trade-insights",
+      "title": "U.S. Monthly Product Trade Insights"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://fred.stlouisfed.org/series/IMP0015",
+      "title": "U.S. Imports of Goods by Customs Basis from World (IMP0015)"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://apps.fas.usda.gov/gats/default.aspx?publish=1",
+      "title": "FAS - Global Agricultural Trade System (GATS)"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.fisheries.noaa.gov/national/sustainable-fisheries/foreign-fishery-trade-data",
+      "title": "Foreign Fishery Trade Data"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.trade.gov/data-visualization/tradestats-express-year-date-ytd-trade-partner-state",
+      "title": "TradeStats Express - Year-to-Date (YTD) Trade by Partner by State"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://fred.stlouisfed.org/series/IMPCH",
+      "title": "U.S. Imports of Goods by Customs Basis from China (IMPCH) - FRED"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.seafoodnews.com/",
+      "title": "SeafoodNews | Global News on Seafood Resources, Markets ..."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.seafoodnews.com/Default.aspx",
+      "title": "SeafoodNews.com, the most widely read seafood industry news in North America"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.seafood.media/fis/worldnews/worldnews.asp?monthyear=8-2026&day=21&id=139065&l=e&country=&special=&ndb=1&df=0",
+      "title": "Zalmhuys Group acquires majority stake in BML Food ..."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.seafoodnews.com/Login.aspx?ReturnUrl=/ArchiveStory/1148861/3?cookieCheck=1",
+      "title": "Global Seafood News & Prices."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.seafoodnews.com/Story/1352256/Middle-East-Market-Intelligence-Brief-Week-Ending-August-21-2026",
+      "title": "Middle East Market Intelligence Brief: Week Ending August 21, 2026"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.mispeces.com/en/news/",
+      "title": "Aquaculture News: Latest Industry Updates & Trends"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://seafood.media/fis/marketmonitor/news.asp?l=e&id=139074&specie=8&ndb=1",
+      "title": "FIS - News - Shrimp"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.seafoodnews.com/Story/1351640/Expanas-Weekly-Top-10",
+      "title": "Expanas Weekly Top 10"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.seafoodnews.com/Story/1351604/Middle-East-Market-Intelligence-Brief-Week-Ending-August-14-2026",
+      "title": "Middle East Market Intelligence Brief: Week Ending August ..."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.seafoodnews.com/Story/1343524/SalMar-Lifts-2026-Harvest-Guidance-after-Strong-First-Quarter",
+      "title": "SalMar Lifts 2026 Harvest Guidance after Strong First Quarter"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://weareaquaculture.com/",
+      "title": "Be inspired! Premium news, interviews, analyses and profiles from the aquaculture, seafood and fisheries industry"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.wlf.louisiana.gov/news/ldwf-announces-commercial-greater-amberjack-season-to-close-on-august-8-2026",
+      "title": "LDWF Announces Commercial Greater Amberjack Season ..."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.fisheries.noaa.gov/bulletin/commercial-harvest-greater-amberjack-federal-waters-gulf-america-will-close-august-8",
+      "title": "Commercial Harvest of Greater Amberjack in Federal ..."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.nationalfisherman.com/gulf-greater-amberjack-commercial-season-to-close",
+      "title": "Gulf greater amberjack commercial season to close"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.aquafeed.co.uk/magazine-1/",
+      "title": "Latest edition - International Aquafeed"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.mispeces.com/en/news/Acuicultura-Cadiz-moves-into-technology-installation-phase-as-it-prepares-for-first-seriola-juveniles/",
+      "title": "Acuicultura Cádiz moves into technology installation phase as it prepares for first seriola juveniles"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.wlf.louisiana.gov/news/lwfc-passes-resolution-of-support-for-amberjack-exempted-fishing-permit",
+      "title": "LWFC Passes Resolution of Support for Amberjack ..."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/",
+      "title": "Innovative design used to farm greater amberjack in RAS"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://www.mispeces.com/en/news/Three-greater-amberjack-projects-in-Spain-mobilise-around-18-million-in-public-funding/",
+      "title": "Three greater amberjack projects in Spain mobilise around ..."
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://insights.tridge.com/speaker-product-news-reports/KJLyFXpzJzgKuB1Gqsm5QUKHGgR43AVdqLTfwvtS6eyiozUHK1AvV5od",
+      "title": "Rising Seafood Prices Linked to Extreme Heat Waves and Elevated Sea Temperatures | Tridge Insights"
+    },
+    {
+      "segment": "世界の水産",
+      "url": "https://jen.jiji.com/jc/eng_agt?g=tuoitre&k=2025051200836",
+      "title": "Vietnam becomes first nation to successfully breed high-value amberjack"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.thestandard.com.hk/news/article/231420/HK-produced-AI-chatbot-HKChat-to-be-launched-this-year",
+      "title": "HK-produced AI chatbot 'HKChat' to be launched this year"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000216.000056138.html",
+      "title": "【国産モデル追加】PLaMo 3.0 Primeを2026年8月25日（火曜日 ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://dentro.de/ai/news/",
+      "title": "AI News - August 2026: Key Events & Releases - dentro.de/ai"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.digital.go.jp/en/policies/genai",
+      "title": "Government AI “GENAI”｜Digital Agency"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://letsdatascience.com/news/topic/llms",
+      "title": "LLM News: Model Releases, Benchmarks & Research"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.akm.ru/eng/press/yandex-has-confirmed-its-compliance-with-the-international-standard-for-responsible-ai-development/",
+      "title": "Yandex has confirmed its compliance with the international ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://tt-tsukumochi.com/archives/tag/%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB",
+      "title": "大規模言語モデル | つくもち屋"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://note.com/bunsekiya_tech/n/ncd0c36e6219c",
+      "title": "生成AIの気になるニュース・記事（8/26～8/30）｜分析屋 - note"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://spikestudio.jp/blog/japan-llm-companies-2026",
+      "title": "【2026年版】国産LLM15選｜日本企業の日本語モデルを商用利用の ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000070.000058133.html",
+      "title": "OpenAI社の最新LLM「GPT-5」を法人向け生成AIサービス「Tachyon 生成AI」に搭載"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.sbbit.jp/article/cont1/186002",
+      "title": "Googleが追加学習不要の予測モデル「TabFM」を発表"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://etcjournal.com/2026/08/01/august-2026-where-ai-is-headed-in-next-5-years/",
+      "title": "August 2026: Where AI Is Headed in Next 5 Years"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2514585/japan-unveils-draft-generative-ai-code-on-ip-protection-transparency",
+      "title": "Japan unveils draft generative-AI code on IP protection, ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.mlex.com/mlex/articles/2514585/japan-unveils-draft-generative-ai-code-on-ip-protection-transparency",
+      "title": "Japan unveils draft generative-AI code on IP protection, transparency"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.digital.go.jp/en/news/b6d94913-60d0-450d-ab46-8e89659f1fc6",
+      "title": "Online Briefing on the Government AI GENAI OSS Ver 2.0 ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.japantimes.co.jp/news/2026/08/25/japan/japan-urges-learning-data-disclosure/",
+      "title": "Government urges AI firms to disclose learning data"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.digital.go.jp/en/news/7eef939d-1c58-4229-b210-7b5adc9af590",
+      "title": "Government AI GENAI starts trial use of Domestic ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+      "title": "Japan to require AI firms to disclose training data"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://note.com/yasuhitoo/n/n6a2ac9e464c9?hl=en",
+      "title": "Daily AI Search Memo (August 20, 2026 Issue)"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.marketwatch.com/story/yomiuri-japanese-govt-ai-panel-approves-draft-of-basic-rules-on-disclosing-training-data-14f15ca6",
+      "title": "Yomiuri: Japanese Govt AI Panel Approves Draft of Basic ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.digital.go.jp/en/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f",
+      "title": "Emergency Provision of Government AI GENAI to Local ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://note.com/yasuhitoo/n/ne7ac79855376?hl=en",
+      "title": "Daily AI Search Memo (2026/8/19 Issue)｜Yasuhito Morimoto"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://nagano-yorozu.go.jp/12114",
+      "title": "8/25（火），9/15（火）開催『生成AI活用セミナー』開催のお知らせ ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://datafluct.com/industries/food/",
+      "title": "食品業界のAI事例 - DATAFLUCT[データフラクト]"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://dcross.impress.co.jp/docs/usecase/003744.html",
+      "title": "食品卸のヤマエ久野、需要予測に基づく自動発注システムで業務 ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://magee.co.jp/news/2026-06-09-retail-ai-demand-forecasting-food-waste-reduction-2026",
+      "title": "食品ロス30%削減を実現、小売業界のAI需要予測が本格普及"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://b-luck.jp/column/260425/",
+      "title": "食品ロス削減にAIはどう活かせる？需要予測・事例・導入の ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://koromo.io/blog/food-loss-reduction-ai/",
+      "title": "【2026年最新】フードロスAI完全ガイド｜業種別ユースケース ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.arc-hack.com/blog/food-wholesale-ai-prediction/",
+      "title": "【食品卸・商社】AI予測・分析で意思決定を高度化した事例集"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://dcross.impress.co.jp/docs/usecase/004532.html",
+      "title": "食品ロス削減に向け需要や適正価格を予測するAIシステムを実証実験"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://weel.co.jp/media/food-industry-case/",
+      "title": "食品業界における生成AI活用事例10選！メリットから ... - WEEL"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.matrixflow.net/case-study/78/",
+      "title": "食品業界のAI活用方法を、事例8点を交えてご紹介"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://ai-revolution.co.jp/media/ai-in-food/",
+      "title": "食品・食品加工業のAI活用事例｜HACCP自動化・需要予測 ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://dx-king.designone.jp/ai-demand-forecast-retail",
+      "title": "AI需要予測で食品ロス30％削減！中小の小売業が月10 ... - DX王"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://research.konicaminolta.com/jp/column/food-ai-case/",
+      "title": "食品業界のAI活用事例9選と解決できる課題を解説"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+      "title": "Disrupting a new covert influence campaign from Russia"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence/",
+      "title": "The full stack behind abundant intelligence"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://openai.com/index/jalapeno-first-results/",
+      "title": "Jalapeño's first results show industry-leading speed and ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.anthropic.com/news",
+      "title": "Newsroom"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://openai.com/index/introducing-admin-plugin/",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://blog.google/",
+      "title": "News from Google"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/",
+      "title": "From asking to doing: How the world is putting ChatGPT ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://openai.com/index/previewing-ultrafast/",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "title": "Gemini 3.7 Flash: our most intelligent workhorse model"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business/",
+      "title": "Premium seats are coming to ChatGPT Business"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://vorplabs.com/ai-regulatory-updates/federal-enforcement",
+      "title": "US Federal AI Enforcement Tracker, August 2026: FTC, SEC, DOJ"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.ftc.gov/industry/technology/artificial-intelligence",
+      "title": "Artificial Intelligence | Federal Trade Commission"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.ftc.gov/ai",
+      "title": "Artificial Intelligence Compliance Plan"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/ai-act-standardisation",
+      "title": "Standardisation of the AI Act | Shaping Europe's digital future"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-code-practice-marking-and-labelling-ai-generated-content",
+      "title": "Commission publishes Code of Practice on marking and ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence",
+      "title": "European approach to artificial intelligence"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-guidelines-transparency-obligations-providers-and-deployers-certain-ai-systems",
+      "title": "Commission publishes guidelines on transparency obligations ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force",
+      "title": "AI Omnibus enters into force | Shaping Europe's digital future"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems",
+      "title": "Guidelines on transparency obligations for providers and ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/digital-omnibus-ai-regulation-proposal",
+      "title": "Digital Omnibus on AI Regulation Proposal"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "title": "Commission starts enforcing AI Act rules and new ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "title": "AI Act | Shaping Europe's digital future - Europa.eu"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000141.000025761.html",
+      "title": "Shippio、主要貿易書類であるインボイスおよびパッキングリスト ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.foodwatch.jp/nihs202508c",
+      "title": "輸入食品審査システムにAI - FoodWatchJapan"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.jmd.co.jp/article.php?no=308790",
+      "title": "ゼンポート、貿易書類 自動読み取り。AIと人の確認を融合"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.binal.co.jp/example/",
+      "title": "導入事例 アーカイブ - 輸出入の貿易管理システム・通関業務 ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://ai-market.jp/purpose/customs-documents/",
+      "title": "通関書類業務でのAI活用方法とは？輸出入手続きの必要書類"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.ap-com.co.jp/trade-ocr/",
+      "title": "TradeOCR | さようなら、手動入力。自動化で貿易をスムーズに"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.binal.co.jp/toss/ai/",
+      "title": "TOSS-AI - 輸出入の貿易管理システム・通関業務管理ソフト"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.idx.jp/notice/customs/",
+      "title": "AI孔明 on IDX for Customs 輸出入業務を支援する次世代AIモジュール"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.sato.co.jp/market/partner/flax-scanner-for-trade/",
+      "title": "高精度AI-OCRで貿易書類の確認・入力作業を軽減・脱属人化 Flax Scanner for 貿易書類"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://ai-ex-agt.food-x.co.jp/",
+      "title": "AI輸出エージェント | 食品輸出業務特化型AI支援サービス - Food-X"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000257.pdf",
+      "title": "000257.pdf"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://aismiley.co.jp/ai_news/aiocr-flaxscannerforbouekishorui/",
+      "title": "貿易書類専用AI-OCR「Flax Scanner for ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+      "title": "Responsible Scaling Policy Version 3.0"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "title": "The Anthropic Economic Index connector"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
+      "title": "A new initiative for developing third-party model evaluations"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "title": "Introducing Claude Opus 4.8 - Anthropic"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.anthropic.com/news/the-long-term-benefit-trust",
+      "title": "The Long-Term Benefit Trust"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "title": "A research agenda for the Economic Futures Research Fund"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.anthropic.com/news/introducing-anthropic-transparency-hub",
+      "title": "Introducing Anthropic's Transparency Hub"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic",
+      "title": "Anthropic partners with the University of Chicago's Becker Friedman ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.anthropic.com/news/protecting-well-being-of-users",
+      "title": "Protecting the wellbeing of our users"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.anthropic.com/news/series-h",
+      "title": "Anthropic raises $65B in Series H funding at $965B post- ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.cas.go.jp/jp/seisakukaigi/titeki2/260612/keikaku_all.pdf",
+      "title": "知的財産推進計画2026"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.cas.go.jp/jp/seisakukaigi/titeki2/ai_kentoukai/gijisidai/dai12/shiryo6-1.pdf",
+      "title": "[PDF] 「生成AIの適切な利活用等に向けた知的財産の保護及び透明性に ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.cas.go.jp/jp/seisakukaigi/titeki2/ai_kentoukai/gijisidai/dai12/sanko1-1.pdf",
+      "title": "生成AIの適切な利活用等に向けた知的財産の保護及び透明性 ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.cas.go.jp/jp/seisakukaigi/titeki2/ai_kentoukai/gijisidai/dai11/sanko1-1.pdf",
+      "title": "[PDF] 生成AIの適切な利活用等に向けた知的財産の保護及び透明性 ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.cas.go.jp/jp/seisakukaigi/titeki2/ai_kentoukai/gijisidai/dai12/sanko2-1.pdf",
+      "title": "生成AIの適切な利活用等に向けた知的財産の保護 ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.cas.go.jp/jp/seisakukaigi/titeki2/ai_kentoukai/gijisidai/dai11/gijiroku.pdf",
+      "title": "AI時代の知的財産権検討会(第11回)"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.cas.go.jp/jp/seisakukaigi/titeki2/ai_kentoukai/gijisidai/dai12/shiryo4.pdf",
+      "title": "[PDF] 「生成AIプリンシプル・コード（仮称）（案）」に関する意見"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.cas.go.jp/jp/seisakukaigi/titeki2/ai_kentoukai/gijisidai/dai13/sanko2.pdf",
+      "title": "知的財産推進計画2026～成長戦略を支える知財戦略の推進"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.cas.go.jp/jp/seisakukaigi/titeki2/ai_kentoukai/gijisidai/dai11/shiryo3-1.pdf",
+      "title": "[PDF] 生成AIの適切な利活用等に向けた知的財産の保護及び透明性に関する ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.cas.go.jp/jp/seisakukaigi/titeki2/ai_kentoukai/gijisidai/dai12/shiryo2.pdf",
+      "title": "[PDF] 生成AIの適切な利活用等に向けた知的財産の 保護及び透明性 ..."
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.cas.go.jp/jp/seisakukaigi/titeki2/ai_kentoukai/gijisidai/dai11/shiryo5.pdf",
+      "title": "[PDF] 生成AIプリンシプル・コード案に対する JIPA意見概要"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "url": "https://www.cas.go.jp/jp/seisakukaigi/titeki2/ai_kentoukai/gijisidai/dai13/sanko1.pdf",
+      "title": "生成AIの適切な利活用等に向けた知的財産の保護 ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.unesco.org/en/digital-education/artificial-intelligence",
+      "title": "Artificial intelligence in education - AI"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://unesco.unscoblog.org/news/unesco-ai-education-guidelines-2026",
+      "title": "UNESCO Issues Comprehensive Guidance for Governments on ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://applications.edb.gov.hk/circular/upload/EDBCM/EDBCM26113E.pdf",
+      "title": "EDUCATION BUREAU CIRCULAR MEMORANDUM NO. ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research",
+      "title": "Guidance for generative AI in education and research"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://dayofai.org/news/day-of-ai-launches-nations-first-free-grade-by-grade-prek-12-ai-literacy-curriculum",
+      "title": "Day of AI Launches Nation's First Free, Grade-by-Grade…"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.mendeley.com/catalogue/0664eeda-cf88-3ace-a30e-ec27d071b5b9/",
+      "title": "Play with AI (PL-AI): A play-centered, design-based curriculum ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.cedefop.europa.eu/en/tools/vet-toolkit-tackling-early-leaving/resources/guidance-generative-ai-education-and-research-unesco",
+      "title": "Guidance for generative AI in education and research - UNESCO"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.edb.gov.hk/en/edu-system/primary-secondary/applicable-to-primary-secondary/it-in-edu/AI_literacy_Pri.html",
+      "title": "AI Literacy (Primary School) - Education Bureau"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.unesco.org/en/articles/ai-and-education-guidance-policy-makers",
+      "title": "AI and education: guidance for policy-makers | UNESCO"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://medicalxpress.com/news/2026-07-screen-guidelines-kids-adolescents-shifted.html",
+      "title": "Screen time guidelines for kids and adolescents have ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://whiteboardadvisors.com/screen-time-legislation-is-moving-fast-heres-whats-actually-enacted/",
+      "title": "Screen Time Legislation Is Moving Fast. Here's What's ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.gov.uk/government/news/new-screen-time-guidance-for-parents-of-under-5s",
+      "title": "New screen time guidance for parents of under-5s - GOV.UK"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeb9403",
+      "title": "Digital support systems to improve child development in Peru"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://journals.plos.org/digitalhealth/article/file?id=10.1371/journal.pdig.0001357&type=printable",
+      "title": "Effectiveness of a universal digital–human parenting ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41779842/",
+      "title": "Digital support systems to improve child development in Peru: A cluster-randomized controlled open-label trial - PubMed"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://srcd.secure-platform.com/site/solicitations/102002/sessiongallery/94228/application/6335",
+      "title": "Society for Research in Child Development"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.intechopen.com/chapters/1224771",
+      "title": "Effectiveness of Technology-Enhanced Language ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.ijiet.org/vol14/IJIET-V14N7-2119.pdf",
+      "title": "Artificial Intelligence Applications (Fluency SIS, Articulation ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33501096/",
+      "title": "A Long-Term Study of Young Children's Rapport, Social Emulation ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://today.uconn.edu/2024/01/talkative-parents-a-key-factor-in-childrens-language-development/",
+      "title": "Talkative Parents a Key Factor in Children's Language Development"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://journals.rcsi.science/2077-1770/article/view/362090",
+      "title": "Artificial intelligence in children's speech development"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://dspace.mit.edu/bitstream/handle/1721.1/123871/frobt-06-00081.pdf?sequence=1&isAllowed=y",
+      "title": "A Long-Term Study of Young Children's Rapport, Social Emulation, and Language Learning With a Peer-Like Robot Playmate in Preschool"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38262448/",
+      "title": "Oral language enrichment in preschool improves children's ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/jcal.13040",
+      "title": "Early artificial intelligence education: Effects of cooperative ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://mihata.jp/column/generative-ai-school-guideline",
+      "title": "学校・教育現場の生成AIガイドライン｜文科省Ver.2.0の要点 - Mihata"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.elephancube.co.jp/2026/07/school-genai-guideline/",
+      "title": "学校の生成AIガイドラインがVer2.1へ改訂検討開始｜文科省 ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.mext.go.jp/content/20260430-kyoikushokuin-000049466_1-1.pdf",
+      "title": "学校教育におけるAI活用に関する これまでの取組"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.mext.go.jp/zyoukatsu/ai/",
+      "title": "学校現場における生成AIの利用について"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://edu.watch.impress.co.jp/docs/news/2106509.html",
+      "title": "文部科学省、生成AI活用のこれまでの取り組みを公開"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://reseed.resemom.jp/article/2026/07/03/13600.html",
+      "title": "文科省、生成AIとセキュリティ指針を改訂…次世代校務DX"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://uravation.com/media/mext-generative-ai-guidelines-2026/",
+      "title": "文部科学省の生成AIガイドライン解説｜学校・教育委員会 ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://note.com/monte_kugahara/n/n4467a072705e",
+      "title": "【2026年版】「スマホ・タブレットを手放さない」依存症になる前 ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://mirakuu.jp/series/dr-kawabe/dr-kawabe39",
+      "title": "AI時代の幼児のからだ 世界が取り組むデジタルデバイスと ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.mext.go.jp/zyoukatsu/ai/about.html",
+      "title": "生成AIの利用にあたって - 文部科学省"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-mext-ai-guidelines/",
+      "title": "【2026年8月最新】文部科学省の生成AIガイドラインを徹底解説"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://note.com/edutechnology/n/n7d7445467b10",
+      "title": "試行錯誤から本格導入のフェーズへ！文科省最新資料 ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/screen-use",
+      "title": "Screen use - Help for early years providers"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://beststartinlife.gov.uk/screen-time-under-5s/",
+      "title": "Baby and toddler screen time guidance"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.gov.uk/government/publications/screen-use-by-children-aged-under-5",
+      "title": "Screen use by children aged under 5 - GOV.UK"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.gov.uk/government/news/newguidance-on-screen-use-for-children-aged-5-16",
+      "title": "New guidance on screen use for children aged 5–16"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.gov.uk/government/calls-for-evidence/early-years-screen-time-and-usage",
+      "title": "Early years screen time and usage - GOV.UK"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.health.gov.au/topics/physical-activity-and-exercise/physical-activity-and-exercise-guidelines-for-all-australians/recommendations-for-infants-toddlers-and-preschoolers-birth-to-5-years?language=en",
+      "title": "Recommendations for infants, toddlers and preschoolers (birth to 5 ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.gov.uk/government/groups/early-years-screen-time-advisory-group",
+      "title": "Early Years Screen Time Advisory Group"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://educationhub.blog.gov.uk/2026/03/new-advice-for-parents-on-screen-time-for-young-children/",
+      "title": "New advice for parents on screen time for young children"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.education.gov.au/early-childhood/announcements/changes-legislation-strengthenchild-safety-early-education",
+      "title": "Changes to legislation to strengthen child safety in early ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://beststartinlife.gov.uk/baby/",
+      "title": "Baby (0-2 years)"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://consult.education.gov.uk/screen-time-policy-team/screen-use-by-children-aged-5-to-16-cal/supporting_documents/screen-use-by-children-aged-5-to-16-call-for-evidencepdf",
+      "title": "Screen use by children aged 5 to 16 - call for evidence"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://media.capital.ro/wp-content/uploads/2026/06/65cd27d4-en.pdf",
+      "title": "[PDF] Empowering Learners for the Age of AI (EN) - Capital"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://news.un.org/en/audio/2026/01/1166841",
+      "title": "‘We need to dismantle the myths’ surrounding AI in education"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.cedefop.europa.eu/en/print/pdf/node/162066",
+      "title": "\\[PDF\\] OECD Digital Education Outlook 2026 - Cedefop"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/784574/IUST_BRI(2026)784574_EN.pdf",
+      "title": "Artificial Intelligence in Classrooms: Pedagogical Dimensions"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://digital-skills-jobs.europa.eu/en/latest/news/oecd-digital-education-outlook-2026-how-generative-ai-can-support-learning-when-used",
+      "title": "OECD Digital Education Outlook 2026: how generative AI can ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.cedefop.europa.eu/en/tools/vet-toolkit-tackling-early-leaving/resources/oecd-digital-education-outlook-2026",
+      "title": "OECD Digital Education Outlook 2026 | CEDEFOP"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.uninnovation.network/challenges-calls/unesco-ict-in-education-prize",
+      "title": "Challenges & Calls | UNESCO ICT in Education Prize"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://iite.unesco.org/news/invest-in-human-agency-unesco-iite-at-mobile-world-congress-2026/",
+      "title": "Invest in Human Agency: UNESCO IITE at Mobile World ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://eric.ed.gov/?id=ED681441",
+      "title": "ERIC - ED681441 - OECD Digital Education Outlook 2026 ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://opportunitiesforyouth.org/2026/05/18/unesco-ict-in-education-prize-2025-by-unesco-25000-award-for-innovative-ai-education-projects-open-to-institutions-ngos-individuals-globally/",
+      "title": "UNESCO ICT in Education Prize 2026 - Opportunities for Youth"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.oecd.org/en/publications/trustworthy-artificial-intelligence-ai-in-education_a6c90fa9-en.html",
+      "title": "Trustworthy artificial intelligence (AI) in education"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://assets.zyrosite.com/A1aPElrneJcR1NQq/2-as---no.2_2026-0RN5e135NrpZJ180.pdf",
+      "title": "POLICY BRIEF n. 2/2026"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10688615/",
+      "title": "Time spent playing predicts early reading and math skills through ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.keepingintouchbc.com/blog/2026/3/24/ns-study-play-based-early-learning-supports-numeracy-and-literacy",
+      "title": "NS Study: Play-based Early Learning Supports Numeracy and Literacy — Keeping In Touch"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://journal.uinsi.ac.id/index.php/bocah/article/download/12531/3672/",
+      "title": "[PDF] Pengaruh Metode Bermain Peran terhadap Literasi Baca Tulis dan ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://multidisciplinaryjournals.com/wp-content/uploads/2026/01/Abstract-Building-School-Readiness-Through-Pre-Kdaycare-Program-Literacy-Numeracy-and-Socio-Emotional-Development-in-the-Province-of-Catanduanes.pdf",
+      "title": "BUILDINGSCHOOLREADINESSTHROUGHPRE-K/DAYCAREPROGRAM ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://medicalxpress.com/news/2026-08-baby-conversations-words-adults-speech.html",
+      "title": "Baby conversations begin before words, with adults ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://discovery.researcher.life/article/the-effects-of-play-based-learning-in-behavior-and-academic-progress-in-kindergarten-classrooms/834c6224648b395086ce843a09295af2",
+      "title": "THE EFFECTS OF PLAY-BASED LEARNING IN BEHAVIOR AND ..."
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13002848/",
+      "title": "Exploring the influence of AI self-study rooms on K–12 ... - PMC"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://orcid.org/0000-0001-5828-5852",
+      "title": "Sonia White"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2300671120",
+      "title": "Everyday language input and production in 1,001 children from six continents | PNAS"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "url": "https://nces.ed.gov/use-work/international/iap-international-activities-program/iels-international-early-learning-study/study-details",
+      "title": "Study Details | IES - National Center for Education Statistics (NCES)"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://seafood.media/fis/worldnews/worldnews.asp?country=0&monthyear=&l=e&id=137100&ndb=1&df=0",
+      "title": "Seafood Media Group - Worldnews"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://weareaquaculture.com/news/fisheries/more-than-90-of-perus-anchovy-quota-already-landed",
+      "title": "More than 90% of Peru's anchovy quota already landed"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.indexbox.io/blog/perus-fleet-catches-98-of-2025s-second-anchovy-quota/",
+      "title": "Peru's Fleet Catches 98% of 2025's Second Anchovy Quota"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.jetro.go.jp/biznews/2021/11/561761dfb2e360de.html",
+      "title": "ペルー生産省、カタクチイワシの2021年第2漁期（夏漁）漁獲量 ..."
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://weareaquaculture.com/news/fisheries/second-anchovy-fishing-season-in-peru-reaches-over-72-of-authorized-quota",
+      "title": "Second anchovy fishing season in Peru reaches over 72% ..."
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://weareaquaculture.com/news/fisheries/peru-closed-2024-with-7791-of-the-second-seasons-anchovy-quota-landed",
+      "title": "Peru closed 2024 with 77.91% of the second season's anchovy ..."
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.kanematsu.vn/ja/news/kanematsuvietnam_iffo2024",
+      "title": "記事詳細"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.salmonbusiness.com/perus-anchovy-landings-reach-80-of-quota-before-early-closure/",
+      "title": "Peru's anchovy landings reach 80% of quota before early closure"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.jetro.go.jp/biznews/2023/10/86b5badb5c3566a0.html",
+      "title": "カタクチイワシ漁がようやく解禁、漁獲枠は縮小(ペルー)"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.jetro.go.jp/biznews/2019/11/790cf4b961bfeab1.html",
+      "title": "ペルー生産省、カタクチイワシの第2漁期（夏漁）漁獲量枠を発表"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://mag.hookandnet.com/2023/12/15/2023-12anchovetaeng/content.html",
+      "title": "Anchovy season finally opens"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.seafoodnews.com/Story/1296545/ANALYSIS-Anchovy-Catch-Reaches-96-point-5-percent-of-Quota-as-Peru-Closes-Second-Season",
+      "title": "ANALYSIS: Anchovy Catch Reaches 96.5% of Quota as Peru Closes Second Season"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://sakana-souba-navi.jp/fish/%E9%A4%8A%E6%AE%96%E3%83%8F%E3%83%9E%E3%83%81",
+      "title": "養殖ハマチの相場・卸売価格【今日のkg単価】 - 魚相場ナビ"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://jp.gdfreak.com/public/detail/jp011013999600100210/5",
+      "title": "グラフ 豊洲市場のハマチの市況(値段・価格と数量) 養殖 ... - GD Freak!"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://jp.gdfreak.com/public/detail/jp011013999600100210/7",
+      "title": "グラフで見る! 豊洲市場のハマチの市況(値段・価格と数量) 養殖ハマチの月別卸売取扱金額"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.iyoirc.jp/wp-content/uploads/2025/08/e25465e4ba9aa32731a42f40ace26a1c.pdf",
+      "title": "地場産業の"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.jfa.maff.go.jp/j/kikaku/wpaper/r05_h/trend/1/t1_2_2.html",
+      "title": "（2）漁業・養殖業の経営の動向 - 水産庁"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.uoichi.co.jp/products_strategy_allview.html",
+      "title": "株式会社うおいち 商品情報 2026年09月号"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.foodwatch.jp/shikyo202412w2m",
+      "title": "ハマチ2割増。タラ類は微減 - FoodWatchJapan"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://jp.gdfreak.com/public/detail/jp011013999600100210/6",
+      "title": "グラフで見る! 豊洲市場のハマチの市況(値段・価格と数量) 養殖ハマチの月別卸売取扱数量"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.sobunsha.com/aq-10/aq-10-0704.html",
+      "title": "鮮魚・活魚市況"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.sobunsha.com/aq-10/aq-10-1107.html",
+      "title": "6月の鮮魚類（天然および養殖）は、数量で前年比94"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://hachimenroppi.com/item/1/15/129/",
+      "title": "養殖ブリ（ハマチ） 【業務用食材の仕入れなら八面六臂】"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.iyoirc.jp/post_economy/post_economy-10768/",
+      "title": "2025年8月 地場産業の景気天気図 | IRC"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.iyoirc.jp/post_economy/post_economy-10821/",
+      "title": "2025年9月 地場産業の景気天気図 | IRC"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.iyoirc.jp/post_economy/post_economy-10638/",
+      "title": "2025年6月 地場産業の景気天気図 - いよぎん地域経済研究センター"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.jafic.or.jp/.assets/2025gyokyou.pdf",
+      "title": "2025（令和7）年上半期の わが国周辺の漁海況の特徴について"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "http://www.acn-npo.org/news/pdf/no61.pdf",
+      "title": "[PDF] 第34回 ACNフォーラムのご案内"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.city.tokushima.tokushima.jp/chuo_ichiba/sikyonenpou/nenpou/2025/reiwa7nennsuisann.files/5072.pdf",
+      "title": "[PDF] 月別概況（令和7年）水産 1月 生鮮水産物 1kg 当たりの平均単価 ..."
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.sobunsha.com/aq-10/aq-10-1507.html",
+      "title": "鮮魚・活魚市況"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.sobunsha.com/aq-10/aq-10-0610.html",
+      "title": "鮮魚・活魚市況"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.city.tokushima.tokushima.jp/chuo_ichiba/sikyonenpou/nenpou/2015/suisan.files/suisan01.pdf",
+      "title": "[PDF] 月別概況（平成27年）水産 1月 生鮮水産物 1kg当たり平均単価 ..."
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.city.tokushima.tokushima.jp/chuo_ichiba/sikyonenpou/nenpou/2022/suisan.files/R50207tukibetugaiyou.pdf",
+      "title": "平目水揚げが多いが高値保合、スズキ多く安値"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.pacific-trading.co.jp/information/acn-%E9%A4%8A%E6%AE%96%E6%A6%82%E6%B3%81-6/",
+      "title": "ACN 養殖概況 | 太平洋貿易株式会社～水産種苗の飼料・資材の販売"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.city.tokushima.tokushima.jp/chuo_ichiba/sikyonenpou/nenpou/2014/suisan.files/suisan01.pdf",
+      "title": "月別概況（平成２６年）水産"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://diamond.jp/articles/-/307557",
+      "title": "値上げの夏でもお得な「すしネタ」3選！高騰するマグロで意外 ..."
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.jfa.maff.go.jp/j/kikaku/wpaper/r02_h/trend/1/t1_2_2.html",
+      "title": "（2）漁業経営の動向 - 水産庁"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.jfa.maff.go.jp/j/kakou/sikyou/",
+      "title": "水産物の市況の情報"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.maff.go.jp/j/tokei/syohi/oroshi_kakaku/tikusan.html",
+      "title": "日別情報グラフ（畜産物）"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.jfa.maff.go.jp/j/kikaku/toukei/index.html",
+      "title": "水産統計情報"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.maff.go.jp/j/seisan/keikaku/soukatu/kakaku.html",
+      "title": "過去に公表した米の相対取引価格・数量"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.jfa.maff.go.jp/j/kikaku/wpaper/R3/attach/pdf/220603-16.pdf",
+      "title": "利用上の注意"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.maff.go.jp/j/zyukyu/anpo/kouri/",
+      "title": "食品の価格動向"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.maff.go.jp/j/tokei/index.html",
+      "title": "統計情報"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.jfa.maff.go.jp/j/kikaku/wpaper/r01_h/trend/1/sankou_2_9.html",
+      "title": "2-9 主要品目別産地価格の推移：水産庁"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.maff.go.jp/j/tokei/syohi/oroshi_kakaku/index.html",
+      "title": "毎日の卸売価格"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.member.iyoirc.jp/forecast",
+      "title": "地場産業の景気天気図 - いよぎん地域経済研究センター"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.member.iyoirc.jp/report/post-117",
+      "title": "愛媛県経済・産業の動き 〜今年をふりかえって〜｜いよぎん地域 ..."
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.jimin-ehime.jp/oa-09/oa-09-03/index.html",
+      "title": "平成23年12月 - 自由民主党愛媛県連"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.city.tokushima.tokushima.jp/chuo_ichiba/sikyonenpou/nenpou/2024/suisan.files/R6tsukibetsu.pdf",
+      "title": "Microsoft Word - 1-02 %‡Áä„t\t4#.docx"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.pref.nara.lg.jp/documents/7532/05-01suisan.pdf",
+      "title": "数量"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.osakana-hiroba.jafic.jp/shijo/docs/201708.pdf",
+      "title": "水 産 物 市 場 月 報 - JAFIC"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://jp.gdfreak.com/public/detail/jp011027999601100130/7",
+      "title": "大阪・本場市場の生鮮ハマチの市況(値段・価格と数量) 7. 天然 ..."
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.suikei.co.jp/feature-news?feature_id=324",
+      "title": "ブリ・カンパチ特集2025 - 日刊水産経済新聞"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.jetro.go.jp/ext_images/_Marketing/price/2025/62.pdf",
+      "title": "主要都市におけるブリ・ハマチの市場価格調査"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.iyoirc.jp/post_economy/post_economy-10444/",
+      "title": "地場産業の景気天気図"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.city.matsuyama.ehime.jp/kurashi/kurashi/shohisha/shikyou/sikyousuisan.files/sengyo20260730.PDF",
+      "title": "7月30日水産部市況（PDF：35KB）"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.suikei.co.jp/archives/107728",
+      "title": "ペルー・アンチョビ再禁漁 相場、2700ドルオファーも"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.suikei.co.jp/archives/113773",
+      "title": "ペルー、アンチョビ 再び全面一時禁漁で、相場「異次元の高値」"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://tsurinews.jp/221537/",
+      "title": "ペルーでアンチョビが高騰すると日本でブリやマダイの値段が ..."
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.shijou.metro.tokyo.lg.jp/documents/d/shijou/2025012-pdf",
+      "title": "水産物の週間市況について - 東京都中央卸売市場"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.suikei.co.jp/archives/106043",
+      "title": "ペルー・アンチョビ、ほぼ全海域で禁漁 24日から5月3日まで"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.suikei.co.jp/tag/iwashi",
+      "title": "イワシ類"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.suikei.co.jp/archives/104082",
+      "title": "魚粉・魚油情報 ペルー、アンチョビ漁9日からスタート 漁獲順調も ..."
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.market.jafic.or.jp/today.htm",
+      "title": "本日の水揚げ情報"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.member.iyoirc.jp/storage/mon_img/mon_pdf_47bf3e18-9400-4316-9360-88244d775f73.pdf",
+      "title": "[PDF] 福助工業株式会社 県内大学生の就職観に関する調査"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.iyoirc.jp/",
+      "title": "いよぎん地域研究センター(IRC) | 愛媛県経済・地域研究"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.iyoirc.jp/post_economy/post_economy-9684/",
+      "title": "地場産業の景気天気図"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.member.iyoirc.jp/storage/mon_img/mon_pdf_b9da0fe7-8285-465d-8c1d-56d360ccea0d.pdf",
+      "title": "[PDF] 都道府県別「子育て世代の女性の働きやすさ指標」"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.iyoirc.jp/wp-content/uploads/2025/03/c97e8dc4d37668221ce13d280cf6d14d.pdf",
+      "title": "地場産業の"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.iyoirc.jp/post_economy/post_economy-10718/",
+      "title": "地場産業の景気天気図"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.iyoirc.jp/post_economy/post_economy-9001/",
+      "title": "2023年6月 地場産業の景気天気図 - いよぎん地域経済研究センター"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://jp.gdfreak.com/public/detail/jp011013999600200810/1",
+      "title": "グラフで見る! 豊洲市場の活ハマチの市況（月報） 活ハマチの月別卸売平均価格"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://jp.gdfreak.com/public/detail/jp011013999600100210/3",
+      "title": "グラフで見る! 豊洲市場のハマチの市況(値段・価格と数量) ハマチ(活〆)（国産）の日別卸値(相対取引)の相場"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://plaza.rakuten.co.jp/jfyawatahama/diary/202503030000/",
+      "title": "令和7年3月3日(月)の相場 - ＪＦ八幡浜漁業協同組合：楽天ブログ"
+    },
+    {
+      "segment": "反証さがし（H-001）",
+      "url": "https://www.sobunsha.com/aq-10/aq-10-0708.html",
+      "title": "鮮魚・活魚市況"
+    }
+  ],
+  "_usage": {
+    "input_tokens": 33718,
+    "output_tokens": 17889,
+    "model": "claude-sonnet-5"
+  },
+  "requests": "",
+  "hypothesis_checks": []
+}

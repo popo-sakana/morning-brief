@@ -1,5 +1,44 @@
 [
   {
+    "id": "260826_morningbrief_v1_AI",
+    "title": "8月26日のブリーフ",
+    "published_at": "2026-08-26T06:01:01+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260826_morningbrief_v1_AI/260826_morningbrief_v1_AI.mp3",
+    "duration_sec": 991,
+    "bytes": 4103037,
+    "summary": "・大型クロマグロ国際枠25%拡大も国内配分は未定<br>・ペルーのアンチョビ不漁で魚粉供給に懸念<br>・OpenAIが管理者向けAI機能を発表",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 20.5
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 217.0
+      },
+      {
+        "section": "genai",
+        "start_sec": 356.5
+      },
+      {
+        "section": "education",
+        "start_sec": 506.1
+      },
+      {
+        "section": "discussion",
+        "start_sec": 646.2
+      },
+      {
+        "section": "closing",
+        "start_sec": 983.4
+      }
+    ]
+  },
+  {
     "id": "260825_morningbrief_v1_AI",
     "title": "8月25日のブリーフ",
     "published_at": "2026-08-25T22:51:27+09:00",
