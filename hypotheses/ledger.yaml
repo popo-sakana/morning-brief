@@ -12,7 +12,7 @@ hypotheses:
   theme: jp_fisheries
   statement: 2027年にかけての養殖ぶり類の採算圧迫は、魚粉・魚油の供給制約が主因であり、 産地価格の上昇では吸収しきれない。
   created: '2026-08-25'
-  confidence: 0.699
+  confidence: 0.826
   status: active
   horizon_end: '2027-06-30'
   decision_link: 鹿児島の養殖案件で、飼料代替・斃死率改善のどちらに提案の軸を置くか
@@ -47,9 +47,39 @@ hypotheses:
     source_url: https://www.gyoankyo.or.jp/safetynet/compensation_payment
     tier: 1
     origin: normal
+  - date: '2026-08-26'
+    relation: support
+    claim: 全養殖協は2026年8月18日、農林水産省に対し餌・配合飼料対策の拡充を要請した。
+    source_url: https://www.suikei.co.jp/archives/125392
+    tier: 2
+    origin: normal
+  - date: '2026-08-26'
+    relation: support
+    claim: 2026年7～9月期の配合飼料供給価格は、全畜種平均で前期比1トン当たり約3,700円上昇した。
+    source_url: https://jaccnet.zennoh.or.jp/product/haigou/2026/p2606.html
+    tier: 1
+    origin: normal
+  - date: '2026-08-26'
+    relation: support
+    claim: ペルー北中部海域の2026年第1漁期は、漁獲枠191万トンに対し実績が約46万トン（約24%）にとどまり、2026年8月19日に終漁が発表された。
+    source_url: https://www.suikei.co.jp/tag/iwashi
+    tier: 2
+    origin: normal
+  - date: '2026-08-26'
+    relation: support
+    claim: 配合飼料価格安定基金は、2025年度第3四半期（2025年10～12月）に養殖用配合飼料で1トン当たり25,340円の補填を発動した。
+    source_url: https://www.gyoankyo.or.jp/wp514/wp-content/uploads/2026/01/%E9%A3%BC%E6%96%99%E8%A3%9C%E3%81%A6%E3%82%93%E5%88%A4%E5%AE%9A%E7%B5%90%E6%9E%9CR7.3Q.pdf
+    tier: 1
+    origin: normal
+  - date: '2026-08-26'
+    relation: contradict
+    claim: 中国の飼料生産は2026年上半期に前年同期比17.4%増となった。
+    source_url: https://www.mispeces.com/en/news/
+    tier: 2
+    origin: normal
   ops:
     last_support: '2026-08-26'
-    last_contradiction: null
+    last_contradiction: '2026-08-26'
     last_on_air: '2026-08-26'
     last_redteam: '2026-08-26'
     on_air_count: 1
@@ -58,7 +88,7 @@ hypotheses:
   theme: world_fisheries
   statement: 日本産ぶりの対米輸出の伸びは、米国産天然サーモンの供給不足による 代替需要が主因であり、数量よりも単価の要因が大きい。
   created: '2026-08-25'
-  confidence: 0.5
+  confidence: 0.548
   status: active
   horizon_end: '2027-03-31'
   decision_link: 対米輸出の提案で、価格訴求と品質訴求のどちらを前面に出すか
@@ -81,13 +111,19 @@ hypotheses:
   - neutral_query: 財務省 貿易統計 ぶり 輸出 数量 金額 月次
   - neutral_query: US wholesale salmon price sockeye pink weekly
   - neutral_query: yellowtail amberjack import United States volume
-  evidence: []
+  evidence:
+  - date: '2026-08-26'
+    relation: support
+    claim: 2026年7月中旬時点の米国天然sockeye（頭付き・内臓除去）の平均価格は1ポンド当たり7.625米ドルで、前年同時点（約5.90米ドル）比約29%高となった。
+    source_url: https://www.seafoodnews.com/Story/1349401/ANALYSIS-US-Sockeye-Prices-Hold-Firm-as-Reports-of-Increased-Freezing-Surface
+    tier: 2
+    origin: normal
   ops:
-    last_support: null
+    last_support: '2026-08-26'
     last_contradiction: null
-    last_on_air: null
-    last_redteam: null
-    on_air_count: 0
+    last_on_air: '2026-08-26'
+    last_redteam: '2026-08-26'
+    on_air_count: 1
   _sustain: 0
 - id: H-003
   theme: genai
@@ -126,7 +162,7 @@ hypotheses:
   theme: education
   statement: 幼児期については、AIへの早期接触よりも大人との対話量のほうが、 後の言語・非認知能力への効果が大きいという証拠が積み上がっていく。
   created: '2026-08-25'
-  confidence: 0.655
+  confidence: 0.682
   status: active
   horizon_end: '2027-12-31'
   decision_link: 自分の子どもについて、就学前に何に時間を使うか
@@ -160,6 +196,12 @@ hypotheses:
     relation: support
     claim: テキサス州ケイティ独立学区は2026-2027年度から幼稚園から小学6年までMicrosoft CopilotやGoogle Geminiなど生成AIチャットツールの利用を禁止する枠組みを示した
     source_url: https://www.pursuit.us/news/ai-in-education-news-policies-innovations
+    tier: 2
+    origin: normal
+  - date: '2026-08-26'
+    relation: support
+    claim: ノルウェーでは2026年8月開始の新学年度から、小学校1～7年生（6～13歳）は生成AIを原則として利用しない方針が示された。
+    source_url: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/
     tier: 2
     origin: normal
   ops:

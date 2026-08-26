@@ -2,11 +2,11 @@
   {
     "id": "260826_morningbrief_v1_AI",
     "title": "8月26日のブリーフ",
-    "published_at": "2026-08-26T07:04:21+09:00",
+    "published_at": "2026-08-26T09:49:21+09:00",
     "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260826_morningbrief_v1_AI/260826_morningbrief_v1_AI.mp3",
-    "duration_sec": 1215,
-    "bytes": 5024217,
-    "summary": "・ペルーのアンチョビ漁、今年は枠の24%消化で終了と発表<br>・米ロサンゼルスなど幼児期のAI端末利用を制限する動きが拡大<br>・Anthropicとベインが提携、企業導入は教育と業務設計が焦点に",
+    "duration_sec": 1975,
+    "bytes": 8199693,
+    "summary": "・水産機構が新養殖技術を発表<br>・スペインでカンパチ陸上養殖が商業生産開始<br>・複数国でAI教育規制の動きが同時期に",
     "chapters": [
       {
         "section": "opening",
@@ -14,31 +14,31 @@
       },
       {
         "section": "verification",
-        "start_sec": 13.4
+        "start_sec": 36.9
       },
       {
         "section": "jp_fisheries",
-        "start_sec": 335.0
+        "start_sec": 187.6
       },
       {
         "section": "world_fisheries",
-        "start_sec": 515.8
+        "start_sec": 632.3
       },
       {
         "section": "genai",
-        "start_sec": 705.9
+        "start_sec": 960.1
       },
       {
         "section": "education",
-        "start_sec": 887.4
+        "start_sec": 1343.7
       },
       {
         "section": "discussion",
-        "start_sec": 1068.3
+        "start_sec": 1708.2
       },
       {
         "section": "closing",
-        "start_sec": 1206.5
+        "start_sec": 1963.7
       }
     ]
   },

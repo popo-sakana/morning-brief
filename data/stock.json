@@ -1,0 +1,479 @@
+{
+ "items": [
+  {
+   "id": "fb907bc70556",
+   "theme": "jp_fisheries",
+   "headline": "水研機構、高成長ブリ種苗など次世代養殖技術を発表",
+   "detail": "水産研究・教育機構は2026年8月19日、シーフードショー内の特別セミナーで次世代養殖システムと高成長ブリ種苗の社会実装をテーマに講演した。出荷期間短縮や飼料効率改善が期待されるが、量産化・全国普及の実態や生存率、コスト削減効果は確認できていない。国が掲げるブリ類生産目標の具体数値も非公開のまま。",
+   "numbers": [
+    "開催日2026年8月19日",
+    "展示会8月19〜21日"
+   ],
+   "source_url": "https://www.suikei.co.jp/archives/126117",
+   "source_title": "日刊水産経済新聞",
+   "published": "2026-08-19",
+   "importance": 5,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "5b47165ae895",
+   "theme": "jp_fisheries",
+   "headline": "6月のブリ輸出、数量・金額とも前年同月比約3割増",
+   "detail": "財務省貿易統計をもとにした報道で、2026年6月のブリ類輸出は数量2,725トン（前年同月比32.7％増）、金額57億631万円（同32.2％増）となった。2026年1〜6月累計輸出量は18,299トンで前年同期比19.5％増。米国など海外市場が国産ブリ供給拡大を支えている一方、収益改善効果や国内価格への影響は確認できていない。",
+   "numbers": [
+    "輸出量2,725トン",
+    "前年同月比32.7％増",
+    "輸出額57億631万円",
+    "上半期累計18,299トン、19.5％増"
+   ],
+   "source_url": "https://www.suikei.co.jp/tag/buri",
+   "source_title": "日刊水産経済新聞",
+   "published": "2026-08-20",
+   "importance": 5,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "a839c8b98ba9",
+   "theme": "jp_fisheries",
+   "headline": "養殖業団体、飼料費高騰への対策拡充を農水省に要請",
+   "detail": "全国漁連海面魚類養殖業対策協議会と全国海水養魚協会は2026年8月18日、農林水産省に餌・配合飼料対策の拡充を要請した。養殖経費に占める餌飼料費は約6〜7割とされ、2026年7〜9月期の配合飼料供給価格は全畜種平均で1トン当たり約3,700円上昇している。要請が制度変更や補助金増額につながったかは2026年8月26日時点で確認できていない。",
+   "numbers": [
+    "要請日2026年8月18日",
+    "餌飼料費約6〜7割",
+    "配合飼料価格1トン当たり約3,700円上昇"
+   ],
+   "source_url": "https://www.suikei.co.jp/archives/125392",
+   "source_title": "日刊水産経済新聞",
+   "published": "2026-08-18",
+   "importance": 4,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "ebc70a68cae7",
+   "theme": "jp_fisheries",
+   "headline": "ペルー・アンチョビ漁獲、枠191万トンに対し実績約46万トン",
+   "detail": "ペルー北中部海域の2026年第1漁期は資源保護のため終了した。漁獲枠191万トンに対し実績は約46万トン（枠の約24％）にとどまり、終漁発表は2026年8月19日。前年2025年第1漁期の枠300万トンから約36％少ない設定だった。魚粉・魚油の供給を下押しし、養殖用配合飼料価格の上昇要因となる可能性があるが、実際の価格転嫁額は確認できていない。",
+   "numbers": [
+    "漁獲枠191万トン",
+    "漁獲実績約46万トン",
+    "枠に対する実績約24％",
+    "前年枠比約36％減"
+   ],
+   "source_url": "https://www.suikei.co.jp/tag/iwashi",
+   "source_title": "日刊水産経済新聞",
+   "published": "2026-08-19",
+   "importance": 4,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "73bed4680ea7",
+   "theme": "jp_fisheries",
+   "headline": "養殖ブリ・ハマチ、市場価格に地域差　全国月平均は未確認",
+   "detail": "2026年8月分の養殖ブリ・ハマチの産地価格月次確定値は確認できなかった。参考値として、松山市公設市場（8月20日）で養殖はまち高値1kg1,944円、別集計の全国6市場平均（8月25日）で高値1kg3,078円。市場・規格・産地が異なるため単純比較はできない。",
+   "numbers": [
+    "松山市場高値1,944円/kg",
+    "全国6市場平均高値3,078円/kg"
+   ],
+   "source_url": "https://www.city.matsuyama.ehime.jp/kurashi/kurashi/shohisha/shikyou/sikyousuisan.files/sengyo20260820.PDF",
+   "source_title": "松山市公設水産地方卸売市場",
+   "published": "2026-08-20",
+   "importance": 4,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "bfb1f149b160",
+   "theme": "jp_fisheries",
+   "headline": "配合飼料価格安定基金、2025年度第3四半期は補填発動",
+   "detail": "漁業経営安定化推進協会の公開情報では、2025年10〜12月期の平均配合飼料価格は1トン当たり233,654.6円、補填基準価格208,313.1円に対し補填単価25,340円で発動した。2026年度第1四半期（4〜6月分）の発動有無・補填単価は2026年8月26日時点で確認できていない。",
+   "numbers": [
+    "平均価格233,654.6円/トン",
+    "補填単価25,340円/トン"
+   ],
+   "source_url": "https://www.gyoankyo.or.jp/safetynet/compensation_payment",
+   "source_title": "漁業経営安定化推進協会",
+   "published": "2026-08-26",
+   "importance": 4,
+   "first_seen": "2026-08-26",
+   "aired": []
+  },
+  {
+   "id": "e6b52299e834",
+   "theme": "jp_fisheries",
+   "headline": "太平洋クロマグロ大型魚、2027〜2028年の漁獲枠25％増で合意",
+   "detail": "太平洋クロマグロの国際会議再協議で、中西部太平洋の30kg以上の大型魚について2027〜2028年の漁獲枠を11,869トンから14,836トンへ25％増やす案が合意された。一方30kg未満の小型魚は5,125トンから4,823トンへ約6％減となる。日本への国別配分や国内漁業種類別配分は今後の協議事項で、2026年の流通価格への影響は確認できていない。",
+   "numbers": [
+    "大型魚枠11,869トン→14,836トン",
+    "増加率25％",
+    "小型魚枠約6％減"
+   ],
+   "source_url": "https://www.suikei.co.jp/tag/maguro",
+   "source_title": "日刊水産経済新聞",
+   "published": "2026-08-20",
+   "importance": 3,
+   "first_seen": "2026-08-26",
+   "aired": []
+  },
+  {
+   "id": "b84e7b3cffd7",
+   "theme": "jp_fisheries",
+   "headline": "岩手サーモン、2026年生産量3,600トン台、来期6割増計画",
+   "detail": "岩手県の養殖サーモンは2026年の生産量が3,600トン台に達し、来期は今期比約6割増を目指す計画であると日刊水産経済新聞の聞き取り調査で報じられた。価格や販売先が十分に確保できるかは確認できていない。",
+   "numbers": [
+    "2026年生産量3,600トン台",
+    "来期計画約60％増"
+   ],
+   "source_url": "https://www.suikei.co.jp/cat/statistics/markets",
+   "source_title": "日刊水産経済新聞",
+   "published": "2026-08-19",
+   "importance": 2,
+   "first_seen": "2026-08-26",
+   "aired": []
+  },
+  {
+   "id": "fd2a6e253dc5",
+   "theme": "jp_fisheries",
+   "headline": "宮城県ギンザケ、2026年生産量が前年比3.5％増",
+   "detail": "宮城県の養殖ギンザケは2026年の生産を終え、生産量15,858トンと前年を3.5％上回った。当初は減産予想だったが漁期終盤に生産が伸びたと報じられている。今後の価格や翌年の生産計画への影響は確認できていない。",
+   "numbers": [
+    "生産量15,858トン",
+    "前年比3.5％増"
+   ],
+   "source_url": "https://www.suikei.co.jp/cat/seafood",
+   "source_title": "日刊水産経済新聞",
+   "published": "2026-08-21",
+   "importance": 2,
+   "first_seen": "2026-08-26",
+   "aired": []
+  },
+  {
+   "id": "f0c48b11e286",
+   "theme": "jp_fisheries",
+   "headline": "サンマ初競り価格が前年から大幅下落、資源量は低水準見通し",
+   "detail": "2026年8月18日、豊洲市場でサンマの初競りが行われ最高値は1kg約2万〜3万円と、前年（8.8万円）を大幅に下回った。2026年の来遊量見通しは前年の約4割で、1尾約100グラム程度の小型魚が多いとの見方が示されている。",
+   "numbers": [
+    "2026年初競り最高値約2〜3万円/kg",
+    "前年8.8万円/kg",
+    "来遊量見通し前年の約4割"
+   ],
+   "source_url": "https://www.htb.co.jp/news/archives_39019.html",
+   "source_title": "HTB北海道テレビ",
+   "published": "2026-08-18",
+   "importance": 1,
+   "first_seen": "2026-08-26",
+   "aired": []
+  },
+  {
+   "id": "84ee234fbb11",
+   "theme": "world_fisheries",
+   "headline": "スペインでカンパチの陸上RAS商業生産が開始",
+   "detail": "スペイン・アリカンテ港でアリカンテ・アクアカルチャーがグレーターアンバージャック（カンパチ）の陸上循環式養殖（RAS）による商業生産を開始したと報じられた。初期年間生産能力600トン、将来900トンを目標に投資額約1,500万ユーロ。標準出荷サイズ約3kg、成長期間約1年。販売先に日本も想定される。掲載日は不明で直近1週間のニュースとは断定できない。",
+   "numbers": [
+    "初期生産能力600トン/年",
+    "拡張目標900トン/年",
+    "投資額約1,500万ユーロ",
+    "標準サイズ約3kg/尾"
+   ],
+   "source_url": "https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/",
+   "source_title": "Eurofish Magazine",
+   "published": "",
+   "importance": 4,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "2edcc8882098",
+   "theme": "world_fisheries",
+   "headline": "ペルー・アンチョビ不漁と中国飼料増産、養殖飼料供給に懸念",
+   "detail": "ペルーの2026年第一漁期はアンチョビ漁獲が割当量の約25％にとどまり漁期が停止された。一方、中国の飼料生産は2026年上半期に前年同期比17.4％増。ノルウェーのオキアミ漁は許容量62万トンに達し8月12日に終了した。魚粉・魚油の供給不安定化が代替原料への依存を高めるとの見方が示されているが、価格への影響額は確認できていない。",
+   "numbers": [
+    "ペルー漁獲実績約25％",
+    "中国飼料生産17.4％増",
+    "ノルウェーオキアミ漁62万トン"
+   ],
+   "source_url": "https://www.mispeces.com/en/news/",
+   "source_title": "Mispeces",
+   "published": "",
+   "importance": 4,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "01eb37a54fec",
+   "theme": "world_fisheries",
+   "headline": "豪州キングフィッシュで寄生虫の感染範囲が拡大確認",
+   "detail": "ニューサウスウェールズ州の野生イエローテールキングフィッシュについて、寄生虫Unicapsula seriolaeがサンプルの38.9％で検出され、同州での確認は初めてとされた。感染魚の71.4％は加熱後の身崩れ症状を示さず、食中毒の証拠も確認されていない。ぶり類近縁種の品質管理上のリスクとして注目される。",
+   "numbers": [
+    "感染率38.9％",
+    "身崩れ非発症71.4％"
+   ],
+   "source_url": "https://phys.org/news/2026-08-parasite-linked-mushy-fish-widespread.html",
+   "source_title": "Phys.org",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "e0e021df4c75",
+   "theme": "world_fisheries",
+   "headline": "米国、ベトナム産パンガシウス・エビへの関税負担が拡大",
+   "detail": "米国の一部企業向け反ダンピング関税が1kg当たり1米ドルに引き上げられ、従来の0.29米ドルから上昇。さらにセクション301関税12.5％が重なる。2026年上半期の米国向け出荷量は前年同期比5％減。エビ輸出も2026年7月は前年同月比4.5％増だが7カ月累計の12.6％増を下回った。輸出先の中国・EU・中東への分散圧力になるとの見方が示されている。",
+   "numbers": [
+    "反ダンピング関税1米ドル/kg（旧0.29米ドル）",
+    "セクション301関税12.5％",
+    "対米出荷量5％減"
+   ],
+   "source_url": "https://www.efeedlink.com/channels/aquaculture",
+   "source_title": "eFeedLink",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "5bdae9c05460",
+   "theme": "world_fisheries",
+   "headline": "ノルウェー産サーモン、中国向け航空輸送能力が週200トン増",
+   "detail": "中国南方航空がオスロ―上海間の直行貨物路線を開始し、ノルウェー産サーモンの輸送能力が週200トン増えると2026年8月19日に報じられた。ノルウェーの生産量は7年ぶりの低水準となったとの報道もあり、供給・価格・規制が同時に存在する状況が続いている。",
+   "numbers": [
+    "輸送能力週200トン増"
+   ],
+   "source_url": "https://www.salmonbusiness.com/industry",
+   "source_title": "SalmonBusiness",
+   "published": "2026-08-19",
+   "importance": 2,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "0b9c1316ca26",
+   "theme": "genai",
+   "headline": "Thomson Reuters、初の自社大規模言語モデル「Thomson」発表",
+   "detail": "Thomson Reutersは2026年8月24日、法律・税務・会計分野向け自社開発LLM「Thomson」を発表した。開発・学習に4,000万米ドルを投資し、同社コンテンツの10％未満で学習したと説明。最初の導入先はCoCounsel LegalのTabular Analysis。同等の最先端モデルと比べコストが「ごく一部」としているが具体額は非公表。外部評価者は引用品質が主要フロンティアモデルと概ね競合すると評価している。",
+   "numbers": [
+    "投資額4,000万米ドル",
+    "学習データ同社コンテンツの10％未満"
+   ],
+   "source_url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+   "source_title": "Thomson Reuters",
+   "published": "2026-08-24",
+   "importance": 2,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "ecbf980ec2e3",
+   "theme": "genai",
+   "headline": "Anthropic、AIの利用者ウェルビーイング評価に500万ドル助成",
+   "detail": "Anthropicは2026年8月25日、AIが利用者のウェルビーイングに及ぼす影響を評価する独立研究に500万米ドルの助成プログラムを開始すると発表した。研究費やモデルアクセス、技術支援を提供し、成果はオープンソース公開の方針。応募締切は2026年9月21日。研究成果はまだ公表されていない。",
+   "numbers": [
+    "助成総額500万米ドル",
+    "応募締切2026年9月21日"
+   ],
+   "source_url": "https://www.anthropic.com/news/wellbeing-research-grants",
+   "source_title": "Anthropic",
+   "published": "2026-08-25",
+   "importance": 2,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "c366c74887fd",
+   "theme": "genai",
+   "headline": "OpenAI、ChatGPTから「o3」を8月26日に退役予定",
+   "detail": "OpenAIの公式リリースノートによると、o3は2026年8月26日にChatGPTから退役予定。90日間の移行期間を経ての措置で、APIには変更なし。合わせてGPT-5.6 SolやLunaの機能改善も記載されているが主要更新日は8月6日で直近の新規発表ではない。",
+   "numbers": [
+    "退役予定日2026年8月26日",
+    "移行期間90日間"
+   ],
+   "source_url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source_title": "OpenAI ChatGPT Release Notes",
+   "published": "2026-08-26",
+   "importance": 1,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "3397b718eccd",
+   "theme": "genai",
+   "headline": "食品卸でAI需要予測・自動発注の導入効果が判明",
+   "detail": "伊藤忠食品とDATAFLUCTは5倉庫・約4,500アイテムを対象にAI需要予測の実証を実施し、一部倉庫でWAPE28.9％を確認（2026年3月発表）。ヤマエ久野と日立は2024年4月からAI自動発注を稼働、発注業務時間が1人1日約3時間から約1時間30分へ約50％削減された。全社展開やロス削減効果は確認できていない。",
+   "numbers": [
+    "対象約4,500アイテム",
+    "WAPE28.9％",
+    "発注時間約50％削減"
+   ],
+   "source_url": "https://datafluct.com/news/n0017/",
+   "source_title": "DATAFLUCT",
+   "published": "2026-03",
+   "importance": 3,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "ebc0999910ea",
+   "theme": "education",
+   "headline": "ノルウェー、小学校1〜7年生で生成AI利用を原則禁止",
+   "detail": "ノルウェーでは2026年8月開始の新学年度から、小学校1〜7年生（6〜13歳）は生成AIを原則利用しない方針が示された。8〜10年生は教師の直接監督下で慎重利用、17歳以上は自立的利用を学ぶ方向。政府は読み・書き・数学の基礎習得を優先する考えを示している。",
+   "numbers": [
+    "対象年齢6〜13歳"
+   ],
+   "source_url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+   "source_title": "Reuters",
+   "published": "2026-08",
+   "importance": 4,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "04500973af42",
+   "theme": "education",
+   "headline": "米LA学区、幼児教育〜小1のスクリーン利用を原則ゼロに",
+   "detail": "ロサンゼルス統一学区は2026年8月から、幼児教育・幼稚園・小学1年生について学区支給端末による授業上のスクリーン利用を原則0分とする方針を段階導入した。小学2〜3年生は2026年11月から1日20分または週100分に制限される。低年齢層では教師・紙・会話・遊びを優先する方針とされる。",
+   "numbers": [
+    "幼児教育〜小1：0分（2026年8月〜）",
+    "小2〜3年：1日20分/週100分（2026年11月〜）"
+   ],
+   "source_url": "https://abcnews.com/GMA/News/la-school-district-approves-new-screen-time-limits/story?id=134161969",
+   "source_title": "ABC News",
+   "published": "2026-08",
+   "importance": 4,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "4a392e4400c2",
+   "theme": "education",
+   "headline": "インド・ノイダ、小学校のスマートボード利用を1日30分に制限",
+   "detail": "インド・ウッタルプラデーシュ州ノイダ地区は2026年8月14日、公立・私立校に対しスマートボード等の利用を小学校1日30分以内、高学年初等教育1日60分以内に制限した。20分ごとに20秒遠くを見る「20-20-20」ルールも導入。背景には児童が1日4〜5時間デジタルボードを使っているとの苦情があった。",
+   "numbers": [
+    "小学校1日30分以内",
+    "高学年初等教育1日60分以内"
+   ],
+   "source_url": "https://education.economictimes.indiatimes.com/amp/news/school-education/noida-schools-told-to-cap-smart-board-use-at-30-mins-for-primary-60-mins-for-upper-primary/133229598",
+   "source_title": "Economic Times",
+   "published": "2026-08-14",
+   "importance": 3,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "b7ae7e543449",
+   "theme": "education",
+   "headline": "AI共同読書、親子会話は増加も幼児の識字能力に有意差なし",
+   "detail": "2026年4月公表の無作為化研究で、4〜5歳児と保護者40組を対象にAI会話エージェント支援の共同読書を1か月実施した結果、親子の本文外会話や会話ターンテイキングが増加した。しかし介入終了時点の幼児の初期識字能力には対照群との有意差は確認されなかった。",
+   "numbers": [
+    "対象40組",
+    "介入期間1か月"
+   ],
+   "source_url": "https://pubmed.ncbi.nlm.nih.gov/41973803/",
+   "source_title": "PubMed",
+   "published": "2026-04",
+   "importance": 3,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "468ca84bf4fd",
+   "theme": "education",
+   "headline": "幼児の言語発達、大人との応答的な会話量が重要と研究が示す",
+   "detail": "4〜6歳児36人を対象にした研究では、大人・子どもの会話ターンが1時間あたり11回増えるごとに言語能力合成得点が約1点高い関連が示された。6大陸1,001人超の研究でも大人の発声が1時間に100回増えると子どもの発声が約27回増える関連が報告されている。因果関係を完全に証明するものではない。",
+   "numbers": [
+    "会話ターン11回増で得点約1点向上",
+    "大人発声100回増で子ども発声27回増"
+   ],
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5945324/",
+   "source_title": "PMC",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-08-26",
+   "aired": [
+    "2026-08-26"
+   ]
+  },
+  {
+   "id": "4b5d84eebdd9",
+   "theme": "education",
+   "headline": "香港教育局、小学校向けAIカリキュラム試行版を公表",
+   "detail": "香港教育局は2026年7月21日、初等学校向け「人工知能の予備学習」カリキュラム案の試行版を学校に配布した。2026/27学年度からの初等・中等教育向けAIリテラシー枠組みと連動し、2026年8月に教員研修を実施する。低学年の自由な生成AI利用を認めるものではなく、学校管理下のAI教育カリキュラム化である。",
+   "numbers": [
+    "公表日2026年7月21日"
+   ],
+   "source_url": "https://applications.edb.gov.hk/circular/upload/EDBCM/EDBCM26113E.pdf",
+   "source_title": "香港教育局",
+   "published": "2026-07-21",
+   "importance": 2,
+   "first_seen": "2026-08-26",
+   "aired": []
+  },
+  {
+   "id": "7e6747fcb1d5",
+   "theme": "education",
+   "headline": "文科省、生成AIガイドラインVer.2.1への改訂を検討",
+   "detail": "2026年8月6日公表の文部科学省資料で、初等中等教育向け生成AIガイドラインVer.2.1への改訂方針が示された。学習過程のショートカット対応、AI利用を前提にした評価、教師とAIの役割分担などが検討項目に含まれる。正式決定ではなく公表時期も確認できていない。",
+   "numbers": [],
+   "source_url": "https://www.nier.go.jp/06_jigyou/symposium/_uploads/2026/08/906a92213c5ed13df2363bd2a9a20b4f91a74cdd.pdf",
+   "source_title": "国立教育政策研究所",
+   "published": "2026-08-06",
+   "importance": 2,
+   "first_seen": "2026-08-26",
+   "aired": []
+  },
+  {
+   "id": "25e769618c04",
+   "theme": "education",
+   "headline": "次期教育振興基本計画、中教審へ諮問　AI依存が論点に",
+   "detail": "2026年8月21日、2028年度から5年間の次期教育振興基本計画の策定に向け中央教育審議会への諮問が行われた。AIの適切な利用能力や、AI依存によって自ら考え判断する機会が減る懸念が論点として挙げられている。具体的な制度設計は今後の検討事項。",
+   "numbers": [
+    "諮問日2026年8月21日"
+   ],
+   "source_url": "https://view-next.benesse.jp/news/page-jiji/jiji/id-2026082100316/",
+   "source_title": "ベネッセ教育情報",
+   "published": "2026-08-21",
+   "importance": 2,
+   "first_seen": "2026-08-26",
+   "aired": []
+  }
+ ]
+}
