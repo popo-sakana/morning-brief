@@ -126,11 +126,14 @@ def test_falsifier_forces_on_air():
     ids = [c["id"] for c in agenda]
 
     assert after < before, "崩壊条件に触れたのに下がっていない"
-    assert status == "review_required", f"見直し扱いになっていない: {status}"
+    assert status == "active", f"観測に当たっただけで状態が変わっている: {status}"
     assert hid in ids, f"崩壊条件に触れた仮説が番組に入っていない: {ids}"
     assert agenda[0]["id"] == hid, "崩壊条件に触れた仮説が最優先になっていない"
     assert agenda[0]["falsifier_texts"], "崩壊条件が台本に渡っていない"
-    print(f"6. 崩壊条件ヒットで {before:.2f} → {after:.2f}、当日必修  OK")
+    assert after >= 0.32, f"観測1件で落としすぎ（大きな論点には強すぎる）: {after}"
+    assert next(h["status"] for h in led["hypotheses"] if h["id"] == hid) == "active", \
+        "観測に当たっただけで状態を凍らせている"
+    print(f"6. 観測ヒットで {before:.2f} → {after:.2f}（凍結せず・当日必修）  OK")
 
 
 def test_demotion():
