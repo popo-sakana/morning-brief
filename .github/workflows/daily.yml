@@ -2,15 +2,17 @@ name: 毎朝のブリーフを作る
 
 on:
   schedule:
-    # UTC 20:00 = 日本時間 午前5時。
-    #
-    # なぜ5時か:
+    # なぜ5時台か:
     #   官庁（水産庁・農水省）は早朝に動かず、前日10〜18時に出そろうので制約になりません。
     #   縛りになるのは日刊水産経済新聞で、毎朝5時に更新されます。これを拾える最速が5時台。
     #   米国のAI企業の発表は日本時間の深夜1〜2時台に集中するので、5時ならすでに入っています。
-    #   GitHub の定時実行は10〜20分遅れることが多く、結果として5時15分前後に走ります。
-    #   これがちょうど狙いどおりの時刻です。25分で生成が終わるので、6時前には配信されます。
-    - cron: "0 20 * * *"
+    #
+    # なぜ「00分」を避けるか:
+    #   GitHub の定時実行は毎時00分に世界中の予約が集中し、遅延や取りこぼしが起きます。
+    #   実際 8/26 は1時間遅れ、8/27 は1本も走りませんでした。
+    #   そこで00分を外し、さらに保険をもう1本置いています。
+    - cron: "47 19 * * *"   # UTC 19:47 = 日本時間 4:47（本番）
+    - cron: "23 21 * * *"   # UTC 21:23 = 日本時間 6:23（保険。すでに今日の分があれば何もしない）
   workflow_dispatch:      # 手動でいつでも走らせられるボタンが出ます
 
 permissions:
@@ -28,16 +30,37 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # 保険の実行が、すでにできている今日の回を作り直してしまわないようにする。
+      # 手動実行（workflow_dispatch）のときは、作り直したいはずなので素通しします。
+      - name: 今日の回がすでにあるか調べる
+        id: guard
+        run: |
+          set -euo pipefail
+          TODAY=$(TZ=Asia/Tokyo date +%y%m%d)
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "手動実行なので、そのまま作ります"
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          elif [ -f site/episodes.json ] && grep -q "\"${TODAY}_" site/episodes.json; then
+            echo "今日（${TODAY}）の回はすでにあります。今回は何もしません"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "今日（${TODAY}）の回はまだありません。作ります"
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-python@v5
+        if: steps.guard.outputs.skip != 'true'
         with:
           python-version: "3.12"
           cache: pip
 
       - name: 必要なライブラリを入れる
+        if: steps.guard.outputs.skip != 'true'
         run: pip install -r requirements.txt
 
       - name: 番組をつくる
         id: build
+        if: steps.guard.outputs.skip != 'true'
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -47,6 +70,7 @@ jobs:
         run: python src/run.py
 
       - name: 音声を公開する
+        if: steps.guard.outputs.skip != 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -63,6 +87,7 @@ jobs:
             || gh release upload "$TAG" "$AUDIO" --clobber
 
       - name: 台本とRSSを保存する
+        if: steps.guard.outputs.skip != 'true'
         run: |
           set -euo pipefail
           git config user.name  "morning-brief bot"
@@ -76,6 +101,7 @@ jobs:
           git push
 
       - name: 古い回を片づける（40日より前のリリースを削除）
+        if: steps.guard.outputs.skip != 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
