@@ -62,7 +62,7 @@ def test_redteam():
 def test_no_runaway_confidence():
     led = fresh()
     today = date(2026, 8, 25)
-    hid = "H-001"
+    hid = "L-1"
     conf = []
     for i in range(30):
         d = today + timedelta(days=i)
@@ -76,7 +76,7 @@ def test_no_runaway_confidence():
 def test_support_discounted_without_contradiction():
     led_a, led_b = fresh(), fresh()
     d = date(2026, 8, 25)
-    hid = "H-002"
+    hid = "L-2"
 
     # A: 反証が一度も出ていない → 支持は半分の効き
     H.apply(led_a, [ev(hid, "support")], {}, d)
@@ -95,7 +95,7 @@ def test_support_discounted_without_contradiction():
 
 def test_silence_decays():
     led = fresh()
-    hid = "H-003"
+    hid = "L-3"
     d0 = date(2026, 8, 25)
     H.apply(led, [ev(hid, "support"), ev(hid, "support")], {}, d0)
     high = next(h["confidence"] for h in led["hypotheses"] if h["id"] == hid)
@@ -113,11 +113,11 @@ def test_silence_decays():
 def test_falsifier_forces_on_air():
     led = fresh()
     d = date(2026, 8, 25)
-    hid = "H-004"
+    hid = "L-4"
     before = next(h["confidence"] for h in led["hypotheses"] if h["id"] == hid)
 
     # ほかの仮説には強い支持を与え、スコア上は上位に来るようにしておく
-    verdicts = [ev("H-001", "support"), ev("H-002", "support"), ev("H-003", "support")]
+    verdicts = [ev("L-1", "support"), ev("L-2", "support"), ev("L-3", "support")]
     changes = H.apply(led, verdicts, {hid: ["幼児期AIが有効という査読研究が2件出た"]}, d)
     agenda = H.agenda(led, changes, d)
 
@@ -135,12 +135,12 @@ def test_falsifier_forces_on_air():
 
 def test_demotion():
     led = fresh()
-    hid = "H-001"
+    hid = "L-1"
     d0 = date(2026, 8, 25)
     H.apply(led, [ev(hid, "support")], {}, d0)
 
     seen = {}
-    for i in range(1, 50):
+    for i in range(1, 75):
         d = d0 + timedelta(days=i)
         H.apply(led, [], {}, d)
         st = next(h["status"] for h in led["hypotheses"] if h["id"] == hid)
@@ -148,8 +148,8 @@ def test_demotion():
 
     assert "probation" in seen, "様子見に降格していない"
     assert "archived" in seen, "棚上げになっていない"
-    assert 20 <= seen["probation"] <= 22, f"降格が想定日数とずれている: {seen['probation']}日目"
-    assert 44 <= seen["archived"] <= 46, f"棚上げが想定日数とずれている: {seen['archived']}日目"
+    assert 29 <= seen["probation"] <= 31, f"降格が想定日数とずれている: {seen['probation']}日目"
+    assert 59 <= seen["archived"] <= 61, f"棚上げが想定日数とずれている: {seen['archived']}日目"
     print(f"7. 支持なしで {seen['probation']}日目に様子見 / {seen['archived']}日目に棚上げ  OK")
 
 
@@ -157,15 +157,17 @@ def test_cooldown():
     led = fresh()
     d0 = date(2026, 8, 25)
     picks = []
-    for i in range(6):
+    for i in range(8):
         d = d0 + timedelta(days=i)
         ch = H.apply(led, [ev(h["id"], "support") for h in H.active(led)], {}, d)
         picks.append([c["id"] for c in H.agenda(led, ch, d)])
-    # 同じ仮説が3日連続で深掘りに入っていないこと
-    for i in range(len(picks) - 2):
-        both = set(picks[i]) & set(picks[i + 1]) & set(picks[i + 2])
-        assert not both, f"同じ仮説が3日連続で深掘りされている: {both}"
-    print(f"8. 深掘りの持ち回り  {picks}  OK")
+    # 連日同じ論点を扱わないこと（以前は3日連続でなければ可としていた）
+    for i in range(len(picks) - 1):
+        both = set(picks[i]) & set(picks[i + 1])
+        assert not both, f"同じ論点が連日扱われている: {both}"
+    flat = [x for p in picks for x in p]
+    assert len(set(flat)) >= 5, f"論点が回っていない: {set(flat)}"
+    print(f"8. 論点の持ち回り  {picks}  OK")
 
 
 if __name__ == "__main__":

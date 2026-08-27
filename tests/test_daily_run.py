@@ -82,7 +82,7 @@ def fake_post(url, json=None, headers=None, params=None, timeout=None, **kw):
                  "source_url": "https://example.go.jp/a", "tier": 1, "date": "2026-08-04"}])
         elif "事実カード" in prompt and "崩壊条件" in prompt and "判定のしかた" in prompt:
             body = J.dumps({"verdicts": [
-                {"hypothesis_id": "H-001", "card": 1, "relation": "support",
+                {"hypothesis_id": "L-1", "card": 1, "relation": "support",
                  "directness": 0.8, "rationale": "飼料原料の供給制約を裏づける"}],
                 "falsifier_hits": []})
         elif "ニュース1件ずつに切り分けて" in prompt:
@@ -160,14 +160,19 @@ requests.post = fake_post
     assert "返さないでください" in red[0]
 
     # 4) 台帳が更新され、確からしさが動いていること
-    assert led["hypotheses"][0]["confidence"] != 0.55, "H-001 が動いていない"
+    assert led["hypotheses"][0]["confidence"] != 0.5, "L-1 が動いていない"
     assert led["hypotheses"][0]["evidence"], "証拠が記録されていない"
     assert led["hypotheses"][0]["ops"]["last_redteam"], "反証さがしの記録がない"
 
     # 5) 台本に検証コーナーと各コーナーが入っていること
     script = json.loads(next((repo / "out").glob("*_script.json")).read_text(encoding="utf-8"))
-    assert script.get("verification"), "検証コーナーが台本にない"
-    assert script.get("hypothesis_checks"), "仮説の変化が台本に渡っていない"
+    assert script.get("verification"), "論点コーナーが台本にない"
+    ver_text = "".join(t["text"] for t in script["verification"]["turns"])
+    import re as _re
+    bad = _re.findall(r"0\\.\\d\\d", ver_text)
+    assert not bad, f"論点コーナーで確からしさの数字を読み上げている: {bad}"
+    assert script.get("hypothesis_checks"), "論点の変化が台本に渡っていない"
+    assert len(script["hypothesis_checks"]) == 1, "1回で扱う論点は1本のはず"
     assert script.get("requests"), "注文が台本に渡っていない"
     assert len(script["segments"]) >= 4, f"コーナー数が足りない: {len(script['segments'])}"
 
@@ -203,7 +208,7 @@ requests.post = fake_post
     mp3 = next((repo / "out").glob("*_AI.mp3"))
     assert mp3.stat().st_size > 0
     page = next((repo / "site" / "episodes").glob("*.html")).read_text(encoding="utf-8")
-    assert "きょうの検証" in page and "確からしさ" in page, "検証がページに出ていない"
+    assert "大きな流れ" in page and "放送では読みません" in page, "論点コーナーがページに出ていない"
     assert "この回への注文" in page, "注文がページに出ていない"
     import xml.etree.ElementTree as ET
     ET.fromstring((repo / "site" / "feed.xml").read_text(encoding="utf-8"))
