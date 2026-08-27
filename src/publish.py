@@ -98,7 +98,7 @@ def build_episode_page(
     hosts = cfg["hosts"]
     seg_titles = {s["id"]: s["title"] for s in cfg["segments"]}
     seg_titles["opening"] = "オープニング"
-    seg_titles["verification"] = "きょうの検証"
+    seg_titles["verification"] = "大きな流れ"
     seg_titles["requested"] = "指定された論点"
     seg_titles["discussion"] = (cfg.get("discussion") or {}).get("title", "きょうの論点")
     seg_titles["closing"] = "クロージング"
@@ -116,21 +116,23 @@ def build_episode_page(
 
     ver = script.get("verification") or {}
     if ver:
-        body.append(f'<h2>{_esc(ver.get("title", "きょうの検証"))}</h2>')
+        body.append(f'<h2>{_esc(ver.get("title", "大きな流れ"))}</h2>')
         # 仮説の動きを表で添える（耳で聞いたあと、目で確かめられるように）
         rows = []
         for c in script.get("hypothesis_checks", []) or []:
             hits = "／".join(c.get("falsifier_hits", []))
             rows.append(
-                f'<tr><td>{_esc(c["id"])}</td>'
+                f'<tr><td>{_esc(c["id"])}（{_esc(c.get("axis", ""))}）</td>'
                 f'<td>{_esc(c["statement"].strip())}</td>'
+                f'<td>{_esc(c.get("stance", ""))}<br>{_esc(c.get("shift", ""))}</td>'
                 f'<td class="num">{c["before"]:.2f} → {c["after"]:.2f}</td>'
-                f'<td>支持{c.get("support", 0)} / 反証{c.get("contradict", 0)}'
-                + (f'<br>崩壊条件に接触: {_esc(hits)}' if hits else '') + '</td></tr>'
+                f'<td>追い風{c.get("support", 0)} / 逆風{c.get("contradict", 0)}'
+                + (f'<br>見方が変わる観測に接触: {_esc(hits)}' if hits else '') + '</td></tr>'
             )
         if rows:
             body.append(
-                '<table><tr><th>ID</th><th>見立て</th><th>確からしさ</th><th>今日の材料</th></tr>'
+                '<table><tr><th>ID</th><th>論点</th><th>見え方（放送で読む言葉）</th>'
+                '<th>内部の目安（放送では読みません）</th><th>今日の材料</th></tr>'
                 + "".join(rows) + '</table>'
             )
         body.append(turns_html(ver.get("turns", [])))

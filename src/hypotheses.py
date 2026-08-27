@@ -1,8 +1,16 @@
-"""仮説台帳の読み書きと、確からしさの更新。
+"""論点台帳の読み書きと、見え方の更新。
+
+ここで持つのは「検定したい命題」ではなく、その日のニュースを置く座標軸です。
+生産・流通・販売にまたがる大きな論点を数本だけ持ち、毎朝そのうち1本に
+その日のニュースを当てます。狙いは、場当たり的なニュース羅列にしないこと。
+細かい数字を正確に当てにいくことではありません。
+
+番組では確からしさの数字は読み上げません（stance_word / shift_word で言葉に直します）。
+数字は内部の目安としてだけ使い、同じ論点を連日こすらないよう輪番で回します。
 
 考え方は3つだけです。
 
-1. 探索を仮説で汚さない
+1. 探索を論点で汚さない
    毎朝の4テーマの検索には、仮説の文章を一切渡しません。仮説を知った状態で
    探すと、それに合う材料ばかりが集まります。仮説を見るのは、材料が出そろった
    あとの「判定」の段階だけです。
@@ -91,7 +99,8 @@ def neutral_queries(ledger: dict[str, Any]) -> dict[str, list[str]]:
     for h in active(ledger):
         for ind in h.get("next_indicators") or []:
             out.setdefault(h["theme"], []).append(ind["neutral_query"])
-    return out
+    # 1テーマに指標を積みすぎると、調査が指標探しに寄ってニュースが薄くなる
+    return {k: v[:3] for k, v in out.items()}
 
 
 def pick_redteam(ledger: dict[str, Any], today: date) -> dict[str, Any] | None:
@@ -250,39 +259,103 @@ def _transition(h: dict[str, Any], today: date, st: dict[str, Any]) -> str | Non
     return None
 
 
+def stance_word(conf: float) -> str:
+    """確からしさを言葉に直す。番組で数字を読み上げないための対応表。"""
+    if conf >= 0.75:
+        return "支持する材料がかなり積み上がっている"
+    if conf >= 0.60:
+        return "支持する材料のほうが多い"
+    if conf > 0.40:
+        return "まだどちらとも言えない"
+    if conf > 0.25:
+        return "疑わしくなってきている"
+    return "ほぼ否定されている"
+
+
+def shift_word(before: float, after: float) -> str:
+    """今日の動きを言葉に直す。"""
+    d = after - before
+    if d >= 0.06:
+        return "今日の材料で、この見方は少し強まりました"
+    if d <= -0.06:
+        return "今日の材料で、この見方は弱まりました"
+    if abs(d) < 0.015:
+        return "今日の材料では、見方は動いていません"
+    return "今日の材料での動きはごくわずかです"
+
+
+def _norm_claim(s: str) -> str:
+    return "".join(ch for ch in str(s) if ch.isalnum())[:40]
+
+
 def agenda(ledger: dict[str, Any], changes: list[dict[str, Any]], today: date) -> list[dict[str, Any]]:
-    """今日の番組で深掘りする仮説を選ぶ。"""
+    """今日の番組で扱う論点を選ぶ。
+
+    以前は「今日動いた仮説」からしか選ばなかったため、材料が出た仮説だけが
+    毎日出てくる（＝同じ話をこすり続ける）状態になっていました。
+    いまは有効な論点すべてを対象にし、直近で扱っていないものを優先します。
+    材料が無い日でも1本は扱います。「今日は動きませんでした」も情報だからです。
+    """
     st = ledger["settings"]
     by_id = {h["id"]: h for h in ledger["hypotheses"]}
-    scored = []
+    by_change = {c["id"]: c for c in changes}
+    scored: list[tuple[float, dict[str, Any]]] = []
 
-    for c in changes:
-        h = by_id[c["id"]]
+    for h in active(ledger):
+        c = by_change.get(h["id"])
         since_air = _days(h["ops"].get("last_on_air"), today)
+        never_aired = since_air is None
+        if c is None:
+            # 動きが無かった論点も候補にする（この場合の中身は空）
+            c = {
+                "id": h["id"], "theme": h["theme"], "statement": h["statement"],
+                "before": float(h["confidence"]), "after": float(h["confidence"]),
+                "evidence_today": [], "support": 0, "contradict": 0,
+                "falsifier_hits": [], "status": h["status"], "moved": None,
+            }
+
+        # 「間が空いていること」を最優先にして、輪番に近い挙動にする
+        gap = 30 if never_aired else min(since_air, 30)
         score = (
-            40 * abs(c["after"] - c["before"])
-            + 35 * (1 if c["falsifier_hits"] else 0)
-            + 30 * (1 if c["moved"] else 0)
-            + 20 * (1 if c["contradict"] else 0)
-            + 12 * (1 if c["support"] else 0)
-            + 8 * min((since_air or 21) / 7, 3)
+            10.0 * gap
+            + 60 * (1 if c["falsifier_hits"] else 0)
+            + 25 * (1 if c["moved"] else 0)
+            + 18 * (1 if c["contradict"] else 0)
+            + 20 * abs(c["after"] - c["before"])
+            + 6 * (1 if c["support"] else 0)
         )
-        # 同じ仮説を連日深掘りしない（崩壊条件に触れた日は例外）
-        if since_air is not None and since_air < st["cooldown_days"] and not c["falsifier_hits"]:
-            score = 0
+        # 連日同じ論点は扱わない（見立てが崩れる材料が出た日だけ例外）
+        if not never_aired and since_air < st["cooldown_days"] and not c["falsifier_hits"]:
+            score -= 1000
         scored.append((score, c))
 
+    if not scored:
+        return []
+
     scored.sort(key=lambda x: -x[0])
-    must = [c for s, c in scored if c["falsifier_hits"]]
-    rest = [c for s, c in scored if not c["falsifier_hits"] and s > 0]
-    chosen = (must + rest)[: st["deep_dive_slots"]]
+    chosen = [c for _, c in scored[: max(1, int(st.get("deep_dive_slots", 1)))]]
 
     for c in chosen:
         h = by_id[c["id"]]
+        # すでに番組で話した根拠は、二度は使わない
+        said = [e["claim"] for e in (h.get("evidence") or []) if e.get("aired")]
+        c["already_said"] = said[-15:]
+        seen = {_norm_claim(s) for s in said}
+        c["evidence_today"] = [
+            e for e in c.get("evidence_today", []) if _norm_claim(e.get("claim", "")) not in seen
+        ]
+        for e in h.get("evidence") or []:
+            if e.get("date") == today.isoformat():
+                e["aired"] = True
+
         h["ops"]["last_on_air"] = today.isoformat()
         h["ops"]["on_air_count"] = h["ops"].get("on_air_count", 0) + 1
+        c["axis"] = h.get("axis", "")
         c["falsifier_texts"] = [f["text"] for f in h["falsifiers"]]
         c["decision_link"] = h.get("decision_link", "")
+        c["stance"] = stance_word(float(h["confidence"]))
+        c["shift"] = shift_word(c["before"], c["after"])
+        c["on_air_count"] = h["ops"]["on_air_count"]
 
     return chosen
 
