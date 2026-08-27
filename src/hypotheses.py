@@ -15,13 +15,14 @@
    探すと、それに合う材料ばかりが集まります。仮説を見るのは、材料が出そろった
    あとの「判定」の段階だけです。
 
-2. 反証を探す係を別に立てる
-   毎朝1本、仮説の「崩壊条件」だけを狙った検索を回します。支持材料は返すなと
-   明示します。バランスを取ろうとして反証を弱く扱うのが、いちばんよくある失敗です。
+2. 逆風を探す係を別に立てる
+   毎朝1本、「見方が変わるとしたら何が観測されたときか」だけを狙った検索を回します。
+   支持材料は返すなと明示します。バランスを取ろうとして逆風を弱く扱うのが、
+   いちばんよくある失敗です。
 
 3. 放っておくと確からしさは下がる
-   支持も反証も出ない仮説は、静かに正しく見えてしまいます。証拠が来ない日は
-   自動で 0.5 のほうへ戻し、21日出なければ様子見、45日で棚上げにします。
+   支持も逆風も出ない論点は、静かに正しく見えてしまいます。材料が来ない日は
+   自動で 0.5 のほうへ戻し、30日出なければ様子見、60日で棚上げにします。
    「放置＝確信の維持」にしないための仕掛けです。
 """
 
@@ -45,6 +46,8 @@ DAILY_CAP = 1.0          # 1日で動かせる上限（ロジット）
 SILENCE_DECAY = 0.02     # 証拠が来ない日の減衰率
 NO_CONTRA_DAYS = 7       # 反証がこの日数出ていなければ、支持の効きを半分にする
 LOGIT_LIMIT = 2.9        # 確からしさが 0.05〜0.95 を超えないようにする
+WATCH_HIT_STEP = 0.5     # 「見方が変わる観測」に当たったときの下げ幅（強めの逆風1件ぶん）
+DAILY_CAP_WATCH = 0.7    # その日に観測が当たったときの、1日の変動上限
 
 
 def _logit(p: float) -> float:
@@ -76,7 +79,25 @@ class Verdict:
 
 
 def load() -> dict[str, Any]:
-    return yaml.safe_load(LEDGER.read_text(encoding="utf-8"))
+    led = yaml.safe_load(LEDGER.read_text(encoding="utf-8"))
+    _heal(led)
+    return led
+
+
+def _heal(led: dict[str, Any]) -> None:
+    """古い扱い方で凍りついた状態を解く。
+
+    8/27 までは「見方が変わる観測」に当たると status を review_required にして
+    固定していました。人が手を入れるまで自動更新が止まる状態です。
+    大きな論点にこの扱いは強すぎるので、いまは自動では入れていません。
+    すでに凍っているものは、ここで一度だけ active に戻します。
+    """
+    for h in led.get("hypotheses", []):
+        if h.get("status") == "review_required":
+            h["status"] = "active"
+            h["ops"] = h.get("ops") or {}
+            h["ops"]["unfrozen"] = True
+            print(f"[hyp] {h['id']} の凍結を解きました（観測1件では止めない扱いに変更）")
 
 
 def save(ledger: dict[str, Any]) -> None:
@@ -183,15 +204,23 @@ def apply(
             else:
                 ops["last_contradiction"] = today.isoformat()
 
-        # (c) 崩壊条件に触れたら、大きく下げたうえで当日の番組で必ず扱う
+        # (c) 「見方が変わる観測」に当たったら下げ、その日の番組で必ず扱う
+        #
+        # 以前はここで 1.2 下げたうえ status を review_required に固定していました。
+        # それは「これが起きたら仮説を捨てる」という細かい命題向けの扱いで、
+        # 大きな論点には強すぎます。実際 8/27 の実行では、2007年のFAO調査1本と
+        # 香港のカリキュラム通知1本で、2つの論点が初日に 0.5 から 0.27 へ落ち、
+        # 状態が凍って自動更新も止まりました。
+        # いまは「強めの逆風1件」として扱い、状態は凍らせません。
         for _ in hits:
-            lg -= 1.2
+            lg -= WATCH_HIT_STEP
         if hits:
-            h["status"] = "review_required"
             h["review_note"] = " / ".join(hits)
+            h["ops"]["last_watch_hit"] = today.isoformat()
 
         # (d) 1日の変動幅と、上下の頭打ち
-        lg = max(_logit(before) - DAILY_CAP, min(_logit(before) + DAILY_CAP, lg))
+        cap = DAILY_CAP_WATCH if hits else DAILY_CAP
+        lg = max(_logit(before) - cap, min(_logit(before) + cap, lg))
         lg = max(-LOGIT_LIMIT, min(LOGIT_LIMIT, lg))
         after = round(_sigmoid(lg), 3)
         h["confidence"] = after
@@ -225,7 +254,8 @@ def _transition(h: dict[str, Any], today: date, st: dict[str, Any]) -> str | Non
     conf = float(h["confidence"])
 
     if h["status"] == "review_required":
-        return None  # 人が見るまでこのまま
+        # 人が手で置いたときだけこの状態になります。自動では入りません。
+        return None
 
     if conf >= st["graduate_confidence"]:
         h.setdefault("_sustain", 0)
