@@ -26,7 +26,16 @@ def _target_chars(minutes: float, cpm: int) -> int:
     return int(minutes * cpm)
 
 
-def _call(model: str, prompt: str, max_tokens: int) -> str:
+class EmptyReply(Exception):
+    """本文が空で返ってきたとき。余白を増やして試し直す合図。
+
+    考える量が多い指示だと、余白をぜんぶ思考に使い切って本文が0文字になります。
+    実際 8/27 の実行が、この形（stop_reason=max_tokens / 種類=['thinking']）で
+    止まりました。指示を弱めるのではなく、余白を広げて取り直します。
+    """
+
+
+def _once(model: str, prompt: str, max_tokens: int) -> str:
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
         raise RuntimeError("環境変数 ANTHROPIC_API_KEY が設定されていません")
@@ -45,11 +54,31 @@ def _call(model: str, prompt: str, max_tokens: int) -> str:
                    if b.get("type") == "text")
     if not text.strip():
         kinds = [b.get("type") for b in data.get("content", [])] or ["（本文なし）"]
-        raise RuntimeError(
+        raise EmptyReply(
             f"本文が空でした。stop_reason={data.get('stop_reason')} / 種類={kinds} / "
-            f"max_tokens={max_tokens}"
+            f"max_tokens={max_tokens} / 使用トークン={data.get('usage', {})}"
         )
     return text
+
+
+MAX_BUDGET = 48000
+
+
+def _call(model: str, prompt: str, max_tokens: int) -> str:
+    """空で返ってきたら、余白を倍にして2回まで取り直す。"""
+    budget = max_tokens
+    last: Exception | None = None
+    for attempt in range(3):
+        try:
+            return _once(model, prompt, budget)
+        except EmptyReply as exc:
+            last = exc
+            if budget >= MAX_BUDGET:
+                break
+            budget = min(budget * 2, MAX_BUDGET)
+            print(f"[script] 本文が空だったので余白を{budget}に広げて取り直します"
+                  f"（{attempt + 1}回目）: {exc}", flush=True)
+    raise RuntimeError(f"{last}")
 
 
 def _parse(text: str) -> Any:
@@ -318,9 +347,14 @@ def write_script(
 
     if checks:
         print(f"[script] 大きな流れ（{len(checks)}件）を執筆中…", flush=True)
-        turns = _write_verification(cfg, model, checks, date_label)
-        script["verification"] = {"title": "大きな流れ", "turns": turns}
-        print(f"[script]   {len(turns)}発言 / {sum(len(t['text']) for t in turns)}文字")
+        try:
+            turns = _write_verification(cfg, model, checks, date_label)
+            script["verification"] = {"title": "大きな流れ", "turns": turns}
+            print(f"[script]   {len(turns)}発言 / {sum(len(t['text']) for t in turns)}文字")
+        except Exception as exc:  # noqa: BLE001
+            # このコーナーが書けなくても、ニュース本体は届けたい。
+            # 番組ごと落とすほどの価値はないので、飛ばして続けます。
+            print(f"[script] 大きな流れは書けませんでした（番組は続けます）: {exc}", flush=True)
 
     for seg in cfg["segments"]:
         p = picks.get(seg["id"], {"fresh": [], "stock": []})
