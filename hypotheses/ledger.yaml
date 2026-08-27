@@ -1,213 +1,136 @@
+# 論点台帳
+#
+# ここに置くのは「検定したい命題」ではなく、その日のニュースを置く座標軸です。
+# 目的は、場当たり的なニュース羅列にしないこと。細かい数字を当てにいくことではありません。
+#
+# だから次の3つを守ります。
+#   - 論点は大きく持つ（生産・流通・販売・横断）。個別の相場を追う話にしない。
+#   - 番組では確からしさの数字を読み上げない。追い風か逆風かを言葉で言う。
+#   - 1回につき1本だけ扱い、連日同じ論点をこすらない。
+#
+# confidence は内部の目安で、放送では使いません。
+# 全件 0.5（どちらとも言えない）から始めます。初期の見立てに引っ張られないためです。
 settings:
   active_limit: 6
-  deep_dive_slots: 2
-  cooldown_days: 2
-  probation_days: 21
-  archive_days: 45
+  deep_dive_slots: 1        # 1回につき扱う論点は1本だけ
+  cooldown_days: 3          # 同じ論点を連日扱わない
+  probation_days: 30
+  archive_days: 60
   graduate_confidence: 0.9
   refute_confidence: 0.15
-  sustain_days: 14
+  sustain_days: 21
+
 hypotheses:
-- id: H-001
+- id: L-1
   theme: jp_fisheries
-  statement: 2027年にかけての養殖ぶり類の採算圧迫は、魚粉・魚油の供給制約が主因であり、 産地価格の上昇では吸収しきれない。
-  created: '2026-08-25'
-  confidence: 0.826
+  axis: 生産
+  statement: 養殖の競争力の源泉が、規模と餌のコスト勝負から、種苗・育種と斃死率のコントロールへ移りつつある。
+  created: '2026-08-27'
+  confidence: 0.5
   status: active
-  horizon_end: '2027-06-30'
-  decision_link: 鹿児島の養殖案件で、飼料代替・斃死率改善のどちらに提案の軸を置くか
+  decision_link: 養殖案件で、飼料の置き換えと生残率の改善のどちらを提案の軸に置くか
   falsifiers:
-  - text: ペルーのアンチョビ漁が2期で漁獲枠の8割以上を消化する
-    keywords:
-    - ペルー
-    - アンチョビ
-    - 漁獲枠
-    - 2期
-  - text: 養殖ハマチの産地相場が前年同月比プラス15%以上に上がる
-    keywords:
-    - ハマチ
-    - ブリ
-    - 浜値
-    - 産地価格
-    - 相場
+  - text: 種苗・育種や斃死率よりも、餌のコストが収益差の主因だと示すデータが出る
+    keywords: [飼料, 餌, コスト, 採算, 収益]
+  - text: 育種・種苗への投資が縮小する、または効果が出ていないという報告が出る
+    keywords: [育種, 種苗, 投資, 撤退]
   next_indicators:
-  - neutral_query: ペルー アンチョビ 漁獲枠 実績 最新
-  - neutral_query: 養殖ブリ ハマチ 産地価格 相場 月次
-  - neutral_query: 配合飼料 価格安定基金 発動 水産
-  evidence:
-  - date: '2026-08-26'
-    relation: support
-    claim: ペルー生産省は2026年8月19日、北中部海域アンチョビ漁第1期を漁獲枠191万4049トンに対し実績約46万トン、消化率約24%で終了したと発表した
-    source_url: https://www.gob.pe/institucion/produce/noticias/1373721-produce-autoriza-inicio-de-la-primera-temporada-de-pesca-de-anchoveta-con-una-cuota-de-1-91-millones-de-toneladas
-    tier: 1
-    origin: normal
-  - date: '2026-08-26'
-    relation: support
-    claim: 水産用配合飼料価格安定対策の直近公表実績は2025年度第1四半期の補てん金56,970円/トンである
-    source_url: https://www.gyoankyo.or.jp/safetynet/compensation_payment
-    tier: 1
-    origin: normal
-  - date: '2026-08-26'
-    relation: support
-    claim: 全養殖協は2026年8月18日、農林水産省に対し餌・配合飼料対策の拡充を要請した。
-    source_url: https://www.suikei.co.jp/archives/125392
-    tier: 2
-    origin: normal
-  - date: '2026-08-26'
-    relation: support
-    claim: 2026年7～9月期の配合飼料供給価格は、全畜種平均で前期比1トン当たり約3,700円上昇した。
-    source_url: https://jaccnet.zennoh.or.jp/product/haigou/2026/p2606.html
-    tier: 1
-    origin: normal
-  - date: '2026-08-26'
-    relation: support
-    claim: ペルー北中部海域の2026年第1漁期は、漁獲枠191万トンに対し実績が約46万トン（約24%）にとどまり、2026年8月19日に終漁が発表された。
-    source_url: https://www.suikei.co.jp/tag/iwashi
-    tier: 2
-    origin: normal
-  - date: '2026-08-26'
-    relation: support
-    claim: 配合飼料価格安定基金は、2025年度第3四半期（2025年10～12月）に養殖用配合飼料で1トン当たり25,340円の補填を発動した。
-    source_url: https://www.gyoankyo.or.jp/wp514/wp-content/uploads/2026/01/%E9%A3%BC%E6%96%99%E8%A3%9C%E3%81%A6%E3%82%93%E5%88%A4%E5%AE%9A%E7%B5%90%E6%9E%9CR7.3Q.pdf
-    tier: 1
-    origin: normal
-  - date: '2026-08-26'
-    relation: contradict
-    claim: 中国の飼料生産は2026年上半期に前年同期比17.4%増となった。
-    source_url: https://www.mispeces.com/en/news/
-    tier: 2
-    origin: normal
-  ops:
-    last_support: '2026-08-26'
-    last_contradiction: '2026-08-26'
-    last_on_air: '2026-08-26'
-    last_redteam: '2026-08-26'
-    on_air_count: 1
-  _sustain: 0
-- id: H-002
-  theme: world_fisheries
-  statement: 日本産ぶりの対米輸出の伸びは、米国産天然サーモンの供給不足による 代替需要が主因であり、数量よりも単価の要因が大きい。
-  created: '2026-08-25'
-  confidence: 0.548
-  status: active
-  horizon_end: '2027-03-31'
-  decision_link: 対米輸出の提案で、価格訴求と品質訴求のどちらを前面に出すか
-  falsifiers:
-  - text: 米国の天然サーモン価格が前年並みに戻っても、対米ぶり数量が前年比プラスを維持する
-    keywords:
-    - サーモン
-    - 価格
-    - 米国
-    - ぶり
-    - 輸出
-    - 数量
-  - text: ぶりの輸出単価が横ばいのまま数量だけが2割以上伸びる
-    keywords:
-    - ぶり
-    - 輸出単価
-    - 輸出数量
-    - 貿易統計
-  next_indicators:
-  - neutral_query: 財務省 貿易統計 ぶり 輸出 数量 金額 月次
-  - neutral_query: US wholesale salmon price sockeye pink weekly
-  - neutral_query: yellowtail amberjack import United States volume
-  evidence:
-  - date: '2026-08-26'
-    relation: support
-    claim: 2026年7月中旬時点の米国天然sockeye（頭付き・内臓除去）の平均価格は1ポンド当たり7.625米ドルで、前年同時点（約5.90米ドル）比約29%高となった。
-    source_url: https://www.seafoodnews.com/Story/1349401/ANALYSIS-US-Sockeye-Prices-Hold-Firm-as-Reports-of-Increased-Freezing-Surface
-    tier: 2
-    origin: normal
-  ops:
-    last_support: '2026-08-26'
-    last_contradiction: null
-    last_on_air: '2026-08-26'
-    last_redteam: '2026-08-26'
-    on_air_count: 1
-  _sustain: 0
-- id: H-003
-  theme: genai
-  statement: 水産・食品の輸出実務で生成AIが最初に定着するのは、需要予測ではなく、 輸出書類・衛生証明・認証まわりの事務処理である。
-  created: '2026-08-25'
-  confidence: 0.45
-  status: active
-  horizon_end: '2027-08-31'
-  decision_link: 自分の業務の仕組み化で、どこから着手すると顧客に売れる形になるか
-  falsifiers:
-  - text: 水産・食品分野で需要予測AIの商用導入事例が3件以上出る
-    keywords:
-    - 需要予測
-    - AI
-    - 水産
-    - 食品
-    - 導入
-  - text: 輸出書類の自動化事例が半年間ひとつも出ない
-    keywords:
-    - 輸出書類
-    - 衛生証明
-    - 原産地証明
-    - 自動化
-  next_indicators:
-  - neutral_query: 貿易書類 自動化 AI 食品 輸出 事例
-  - neutral_query: 食品 需要予測 AI 導入 事例 小売 卸
+  - neutral_query: 養殖 種苗 育種 成果 最新
+  - neutral_query: 養殖 斃死率 生残率 データ
   evidence: []
-  ops:
-    last_support: null
-    last_contradiction: null
-    last_on_air: null
-    last_redteam: null
-    on_air_count: 0
-  _sustain: 0
-- id: H-004
-  theme: education
-  statement: 幼児期については、AIへの早期接触よりも大人との対話量のほうが、 後の言語・非認知能力への効果が大きいという証拠が積み上がっていく。
-  created: '2026-08-25'
-  confidence: 0.682
+  ops: {}
+
+- id: L-2
+  theme: world_fisheries
+  axis: 流通
+  statement: 水産物の流通は、鮮度を遠くへ運ぶ方向と、需要地の近くで作って加工する方向へ分岐している。
+  created: '2026-08-27'
+  confidence: 0.5
   status: active
-  horizon_end: '2027-12-31'
-  decision_link: 自分の子どもについて、就学前に何に時間を使うか
+  decision_link: 輸出を伸ばすのか、現地生産・現地加工に投資するのか
   falsifiers:
-  - text: 幼児期のAI利用が有意に有効だとする査読つき研究が2件以上出る
-    keywords:
-    - 幼児
-    - AI
-    - 効果
-    - 研究
-    - ランダム化
-  - text: 幼児のAI利用制限を導入した国が、その方針を撤回する
-    keywords:
-    - 幼児
-    - スクリーンタイム
-    - 規制
-    - 撤回
-    - 見直し
+  - text: 長距離の生鮮輸送（航空・活魚）が拡大し、需要地生産は伸びていない
+    keywords: [航空輸送, 生鮮, 活魚, 輸送能力]
+  - text: 陸上養殖や現地加工の事業が採算割れで撤退・縮小している
+    keywords: [陸上養殖, RAS, 撤退, 破綻, 縮小]
   next_indicators:
-  - neutral_query: early childhood AI use randomized study outcome
-  - neutral_query: preschool screen time policy change country
-  - neutral_query: 幼児 言語発達 大人 対話量 研究
-  evidence:
-  - date: '2026-08-26'
-    relation: support
-    claim: ロサンゼルス統一学区は2026年8月から幼児教育・トランジショナルキンダーガーテン・キンダーガーテン・小学1年生についてデジタル端末利用を原則廃止する方針を実施した
-    source_url: https://thelalocal.org/neighborhoods/lausds-youngest-students-will-start-a-screen-free-school-year-heres-what-parents-need-to-know/
-    tier: 1
-    origin: normal
-  - date: '2026-08-26'
-    relation: support
-    claim: テキサス州ケイティ独立学区は2026-2027年度から幼稚園から小学6年までMicrosoft CopilotやGoogle Geminiなど生成AIチャットツールの利用を禁止する枠組みを示した
-    source_url: https://www.pursuit.us/news/ai-in-education-news-policies-innovations
-    tier: 2
-    origin: normal
-  - date: '2026-08-26'
-    relation: support
-    claim: ノルウェーでは2026年8月開始の新学年度から、小学校1～7年生（6～13歳）は生成AIを原則として利用しない方針が示された。
-    source_url: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/
-    tier: 2
-    origin: normal
-  ops:
-    last_support: '2026-08-26'
-    last_contradiction: null
-    last_on_air: '2026-08-26'
-    last_redteam: null
-    on_air_count: 1
-  _sustain: 0
+  - neutral_query: 陸上養殖 商業生産 稼働 最新
+  - neutral_query: 水産物 輸送 コールドチェーン 動向
+  evidence: []
+  ops: {}
+
+- id: L-3
+  theme: jp_fisheries
+  axis: 販売
+  statement: ぶり類は国内需要の停滞と輸出の伸びが同時に進み、価格の決まり方が輸出側の事情に寄りつつある。
+  created: '2026-08-27'
+  confidence: 0.5
+  status: active
+  decision_link: 国内市場向けの商品設計を続けるか、輸出仕様に寄せるか
+  falsifiers:
+  - text: 国内の消費や単価が回復し、輸出比率が下がる
+    keywords: [国内消費, 家計調査, 単価, 内需]
+  - text: 輸出が減速しても国内の産地価格が下がらない
+    keywords: [輸出, 減少, 産地価格, 浜値]
+  next_indicators:
+  - neutral_query: ぶり かんぱち 輸出 実績 最新
+  - neutral_query: 水産物 国内消費 単価 動向
+  evidence: []
+  ops: {}
+
+- id: L-4
+  theme: world_fisheries
+  axis: 横断
+  statement: 水産事業の収益の振れは、資源量や相場よりも、制度・貿易ルール（関税・規制・認証）の変化に左右される比重が増している。
+  created: '2026-08-27'
+  confidence: 0.5
+  status: active
+  decision_link: 事業リスクの見積もりで、資源変動と制度変更のどちらに重みを置くか
+  falsifiers:
+  - text: 収益の変動が、制度変更ではなく資源量や相場でほぼ説明できる事例が示される
+    keywords: [資源量, 漁獲量, 相場, 変動要因]
+  - text: 主要市場で関税・規制・認証要件の変更がしばらく起きていない
+    keywords: [関税, 規制, 認証, 撤廃, 据え置き]
+  next_indicators:
+  - neutral_query: 水産物 関税 規制 変更 最新
+  - neutral_query: 水産 認証 要件 見直し
+  evidence: []
+  ops: {}
+
+- id: L-5
+  theme: genai
+  axis: 横断
+  statement: 生成AIの競争軸は、モデルの性能比べから、業務への埋め込みと責任の分け方へ移っている。
+  created: '2026-08-27'
+  confidence: 0.5
+  status: active
+  decision_link: AI導入の検討で、モデル選定と業務プロセス設計のどちらに時間を割くか
+  falsifiers:
+  - text: モデル性能の差だけで採用が決まった事例が続く
+    keywords: [ベンチマーク, 性能, 乗り換え, 精度]
+  - text: 業務導入が進まず、実証で止まっているという報告が相次ぐ
+    keywords: [PoC, 実証, 停滞, 導入見送り]
+  next_indicators:
+  - neutral_query: 生成AI 業務導入 効果 実績
+  - neutral_query: AI 責任 契約 規約 変更
+  evidence: []
+  ops: {}
+
+- id: L-6
+  theme: education
+  axis: 横断
+  statement: 幼児から小学校段階のAI対応は、使わせ方の工夫より、使わせない時間をどう設計するかに寄りつつある。
+  created: '2026-08-27'
+  confidence: 0.5
+  status: active
+  decision_link: 家庭で、AIに触れさせる方針と触れさせない時間の設計のどちらを先に決めるか
+  falsifiers:
+  - text: 低学年からのAI活用を推進する制度やカリキュラムが広がる
+    keywords: [AI教育, 導入, カリキュラム, 推進]
+  - text: 利用制限を導入した地域が、効果なしとして方針を撤回する
+    keywords: [撤回, 見直し, 制限, 解除]
+  next_indicators:
+  - neutral_query: 幼児教育 スクリーンタイム 方針 最新
+  - neutral_query: 小学校 生成AI 利用 ルール 各国
+  evidence: []
+  ops: {}
