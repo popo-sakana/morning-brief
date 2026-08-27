@@ -7,11 +7,21 @@
     <link>https://popo-sakana.github.io/morning-brief/</link>
     <description>水産・生成AI・教育の4テーマを毎朝30分で</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 01:14:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 02:09:38 +0000</lastBuildDate>
     <itunes:author>popo</itunes:author>
     <itunes:summary>水産・生成AI・教育の4テーマを毎朝30分で</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+    <item>
+      <title>8月27日のブリーフ</title>
+      <description><![CDATA[・上半期の農林水産物輸出額8977億円、過去最高を記録<br>・中国の陸上養殖施設が年間8000トンの生産能力に到達<br>・EUのAI法、大部分の規則が8月2日から適用開始]]></description>
+      <pubDate>Thu, 27 Aug 2026 10:46:11 +0900</pubDate>
+      <guid isPermaLink="false">260827_morningbrief_v1_AI</guid>
+      <enclosure url="https://github.com/popo-sakana/morning-brief/releases/download/260827_morningbrief_v1_AI/260827_morningbrief_v1_AI.mp3" length="7271232" type="audio/mpeg"/>
+      <itunes:duration>1751</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://popo-sakana.github.io/morning-brief/episodes/260827_morningbrief_v1_AI.html</link>
+    </item>
     <item>
       <title>8月26日のブリーフ</title>
       <description><![CDATA[・水産機構が新養殖技術を発表<br>・スペインでカンパチ陸上養殖が商業生産開始<br>・複数国でAI教育規制の動きが同時期に]]></description>

@@ -1,0 +1,1067 @@
+{
+  "segments": [
+    {
+      "id": "jp_fisheries",
+      "title": "日本の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "日本の水産、始めていきましょう。今日はまず輸出の話題からですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。2026年の1月から6月、上半期の農林水産物・食品の輸出額が発表されました。合計8977億円で、前の年の同じ時期より10.9パーセント増えています。上半期としては過去最高です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "8977億円って、そもそも大きい数字なんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、過去最高というのがまず大きなポイントです。その中でも水産物だけを見ると2384億円で、前の年より19.5パーセント増えています。全体の伸び率よりさらに大きいです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "水産物が特に伸びているんですね。中でも目立った魚はありますか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ブリです。輸出額は434億円で、前の年より69.0パーセントも増えました。これも上半期として過去最高です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "69パーセント増は相当な伸びですよね。何が背景にあるんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "北米や韓国向けの需要と、単価の上昇が背景にあるとされています。ただ輸出した量そのもの、数量ベースの詳しい数字は今回の資料では確認できませんでした。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "量が増えたのか、値段が上がったのか、まだはっきりしないということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。金額としては大きく伸びていますが、内訳まではまだ見えていません。今後の発表を追う必要があります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いての話題は予算の話ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。2027年度の水産関係予算の概算要求について、自民党の会議で議論がありました。概算要求額はおよそ4200億円以上と報じられています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "概算要求というのは、来年度の予算をこれくらい欲しいという事前の要望のことですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そのとおりです。実際に決まる予算とは別で、あくまで要求段階の数字です。養殖や資源管理、漁港整備など、個別の項目ごとの内訳は今回確認できた記事には示されていませんでした。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "水産関係の予算をまとめて要求する方向、というのも気になります。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、水産関係予算を一本化して要求する方向が示されています。ただ最終的な予算額や具体的な事業内容は、これから決まっていきます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今の段階では、まだ様子見という感じですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。今後の予算編成の過程を追っていく話題だと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いて北海道の養殖の話です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。北海道で2026年4月から7月に水揚げされた海面養殖のサーモンが、約520トンとなりました。前の年の同じ時期より22パーセント増えています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "サーモンの養殖って北海道で盛んなんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "道南や日本海側で試験養殖が始まったのが2019年度で、そこから6年連続で水揚げが増えています。じわじわと産地として定着してきている動きです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "北海道というと、これまではブリ類などの印象が強かったですが。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。従来の主要な養殖魚に加えて、サーモンの産地形成が進んでいることを示す動きです。輸入サーモンの一部を代替したり、地域の新しい収益源になる可能性がある、という見方も出ています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ただ、今後どれくらい増やしていくかは、まだ分からないんですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、今後の生産目標や採算性については、記事からは確認できませんでした。今の時点では増加傾向が続いている、というところまでです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ここからは、少し前の話になりますが、まだ番組で扱っていなかった話題を二つご紹介します。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "一つ目は配合飼料の価格の話です。養殖の魚などに与える餌の値段が上がったときに、経営を助ける基金があります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "配合飼料価格安定基金というものですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。2025年の10月から12月の平均価格は1トンあたり23万3654.6円でした。補填の基準となる価格は20万8313.1円で、これを上回ったため補填が発動しました。補填の単価は1トンあたり2万5340円です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "つまり餌の値段が基準より高くなって、その分を補ったということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そのとおりです。なお2026年度の4月から6月分について、補填が発動したかどうかは、2026年8月26日の時点ではまだ確認できていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "もう一つの話題は何でしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "太平洋クロマグロの漁獲枠の話です。国際会議での再協議で、2027年から2028年にかけての漁獲枠が合意されました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "枠が増えたんですか、減ったんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "大型魚、体重30キロ以上のマグロについては、1万1869トンから1万4836トンへと25パーセント増える案です。一方で30キロ未満の小型魚は、5125トンから4823トンへ、約6パーセント減ります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "大きいマグロは増やして、小さいマグロは減らす、という方向なんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。ただ日本にどれだけ配分されるか、国内の漁業の種類ごとの配分は今後の協議事項です。2026年の流通価格への影響も、まだ確認できていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今後どう決まっていくか、引き続き注目したいですね。今日の水産のコーナーはここまでです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ありがとうございました。輸出も養殖も伸びが目立つ一方で、予算やマグロの枠など、これから詳細が決まる話も多い回でした。"
+        }
+      ]
+    },
+    {
+      "id": "world_fisheries",
+      "title": "世界の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "世界の水産、始めます。今日は5つの話題を見ていきます。まずは中国のサーモン養殖からです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "中国の寧波にあるRAS、つまり水をろ過して循環させながら育てる陸上型の養殖農場が、年間8000トンの設計生産能力に到達したと発表されました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "8000トンというのは大きいんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "これは今回のStage1とStage2を合わせた最大能力です。ただし2026年第2四半期の実際の収穫は1362トンにとどまっています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "設計能力とは差がありますね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。2026年通年の収穫見込みは5500トンから6000トンとされていて、まだ立ち上げの途中という段階です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "この先はどうなりそうですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "Stage3の詳細設計が始まっていて、長期的には年間約2万トンへ拡大する構想があります。ただ最終的な投資判断や着工時期はまだ決まっていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "陸上養殖のサーモンが中国国内で育てられているというのは、これからの供給を考えるうえで注目しておきたいですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。次の話題ともつながる、中国国内の需要拡大を支える動きの一つです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いては、その中国のサーモン消費についてです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ノルウェー水産物審議会の調査によると、2026年上半期の中国のサーモン輸入量は前年同期比で43パーセント増えました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "43パーセント増は相当な伸びですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "2025年通年でも前年比約50パーセント増でしたので、この数年続けて大きく伸びている状況です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "何がきっかけで増えているんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "調査では、中国の主要都市の消費者のうち週1回以上サーモンの刺身を食べる人が約4人に1人にのぼるとされています。世界平均は13パーセントですので、かなり高い水準です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "日本食レストランでの消費というイメージがありましたが。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこが特徴的な点で、外食中心だった消費が家庭内での消費にも広がってきているとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "家庭で食べる習慣が定着すると、需要の増え方も変わってきそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そう見ることもできます。中国国内の生産拡大と、この輸入増加が同時に進んでいる点は押さえておきたいところです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いてはヨーロッパの話です。EUの水産物消費が減っているそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "欧州漁業・養殖市場観測所のデータによると、EUの水産物の見かけ消費量は2014年の1294万トンから2023年には1025万トンまで減りました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "10年でかなり減ったんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "1人当たりの消費量でも2014年の25.5キログラムから2023年は22.9キログラムに下がっていて、この10年間で最も低い水準になっています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "EU全体で一律に減っているんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "いえ、国によって差があります。ポルトガルやスペインは高い消費水準を維持している一方、イタリアやポーランドなどでは増加しているところもあります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "同じヨーロッパでも傾向が分かれているんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。全体としては減少傾向ですが、地域差がある点は数字を見るうえで注意が必要です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "次はアメリカの関税の話です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "アメリカでは通商法301条に基づいて、2026年7月24日から水産物の輸入に追加関税がかかっています。強制労働対策が根拠とされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "国によって税率は違うんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "エクアドル、インド、インドネシア産は10パーセント、ベトナム、中国、ノルウェー、チリ、ブラジルなどは12.5パーセントです。一方でUSMCAに準拠するカナダとメキシコ産は0パーセントです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "かなり差がありますね。エクアドル産のえびはどうなったんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "従来は別の措置、122条という根拠でしたが、今回301条に根拠が変わりました。ただ税率は10パーセントのまま据え置かれています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "日本産のブリへの影響はどうですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこは現時点で確認できていません。今後、実際の輸出入への影響が出てくるかどうか、注視が必要な部分です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "最後は物流の話ですね。航空運賃が高いままだと聞きました。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "物流業界の情報によると、2026年8月26日から27日時点で国際航空運賃は中東情勢の悪化前の水準より25パーセントから30パーセント高い状態が続いています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "一時はもっと高かったんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。4月下旬には戦争前の水準より40パーセント超まで上昇した時期がありました。そこからは下がったものの、高止まりが続いています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "水産物への影響はあるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "生鮮のブリ類など、航空輸送に頼る割合が高い商品では、輸送費や輸送時間と販売価格のバランスが引き続き課題になっています。ただ、ブリ類の輸送コストに限った最新の数字は確認できていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "いろいろな地域の動きが、それぞれ水産物の流れに関わっているんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "生産の拡大、消費の変化、関税、物流のコスト、それぞれが別々に動いているようで、実はつながっているという点を今日は見てきました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "以上、世界の水産でした。"
+        }
+      ]
+    },
+    {
+      "id": "genai",
+      "title": "生成AIの重大ニュース",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "生成AIの重大ニュース、今日は3つのトピックをお届けします。まずはEUの新しい規則についてです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。EUのAI Act、つまりEUが定めたAIに関する法律の大部分の規則が、2026年8月2日から適用開始になりました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "適用開始って、具体的にはどんなことが求められるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "チャットボットを使っていることの表示や、ディープフェイクへのラベル付けが必要になります。AIが作った映像や音声を、それと分かるようにする決まりです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "AI生成のコンテンツだと分かるようにする、ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。加えて、AIが作った文章や画像に機械が読み取れる印を付ける、プロヴィナンスという仕組みも対象になっています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "全部いっぺんに対応しないといけないんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "一部、既存のシステムでの機械可読マーキングについては、対応期限が2026年12月2日まで延長されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "少し余裕があるんですね。日本の企業にも関係してくるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "EU域内でサービスを提供する生成AIの事業者は対応が必要になります。日本からEUにサービスを出している事業者も含まれます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "海外の規則ですが、影響は広く出そうですね。続いての話題です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "Googleが8月26日、音声をテキストに変換する新しいモデル、Gemini3.5Transcribeを発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "文字起こしのモデルですね。何ができるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "85以上の言語を自動で検出して文字起こしできます。話者の識別や、単語ごとの時間情報の付与、それにえーとかあーといったフィラー語の除去にも対応します。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "85言語というのは多い方なんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "文字起こしのモデルとしては幅広い方だと言えます。精度についても数字が出ています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "どんな数字ですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "FLEURSという評価の仕組みでの誤り率が、リアルタイム処理で5.50パーセント、後からまとめて処理する方式で5.04パーセントです。この数字は低いほど精度が高いことを示します。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "5パーセント前後というのは、どのくらいの水準なんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "材料には前世代との比較の数字までは詳しく出ていませんが、Googleは前世代モデルに比べて最終的な文字起こしまでの時間が70パーセント改善したと説明しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "70パーセントの時間短縮というと、かなり速くなった印象です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "処理を待つ時間が大きく減るということですね。今は開発者向けにパブリックプレビュー、つまり試験公開の段階で提供されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "会議の記録や字幕作りなどに使われそうですね。では最後の話題です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "同じ8月26日、Googleは音声対話サービスのGemini Liveに、複数の段階を含む作業を代わりにやってもらう機能を追加したと発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "複数段階の作業というのは、どういうことでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "音声で指示すると、Google DocsやSheets、Driveといった文書やファイルのサービスと連携して作業を進めてくれます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "他にはどんな機能があるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "1日の予定をまとめて知らせるDaily Briefという機能や、メールを整理するGmail整理機能も加わりました。数日から数週間にわたる予約型の作業にも対応するということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "長い時間、AIに作業を任せられるのは便利そうですが、少し不安もありますね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その点についてですが、長時間の作業やメール整理をAIに任せる際の誤操作や権限管理について、具体的な検証結果は今のところ確認できていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "便利さと安全性、両方を見ていく必要がありそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。今後、実際にどう使われていくのか、続報を見ていきたいところです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今日はEUの新しい規則、Googleの文字起こしモデル、そしてGemini Liveの新機能についてお伝えしました。以上、生成AIの重大ニュースです。"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "title": "AI時代の教育トレンド",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "続いてのコーナーです。AI時代の教育トレンド、今週も幼い子どもとデジタル機器の関係についての動きが目立ちますね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。今回は英国と米国、両方の教育現場で子ども向けの画面利用やAI利用を制限する動きが相次いで出ています。順番に見ていきましょう。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "まずは英国からですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "英国教育省が2026年7月13日付で更新した資料で、保育・幼児教育の現場向けにスクリーン時間の指針を示しました。2歳未満は原則利用を避け、2歳から5歳は1日1時間以内、できればそれより少なくとする内容です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "1日1時間というのは、感覚として長いんでしょうか、短いんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "上限として示された数字なので、決して緩い基準ではないと思います。しかも学習目的が明確な場合に限って慎重に使う、という条件つきです。睡眠や体を動かす遊び、対面でのやり取りを置き換えてはいけない、とも明記されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "つまり便利だから使う、というのはだめだということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。特別な教育的ニーズのための支援技術は対象外なので、一律禁止ではなく、目的をはっきりさせよう、という方向性だと理解できます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "次はアメリカの動きですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。バージニア州のフェアファックス郡公立学校が2026年7月16日、就学前と幼稚園の子どもによる学校支給端末の利用を制限すると決めました。小学生の生成AI利用も原則禁止です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "生成AIというのは、文章や画像を自動で作るあのAIですよね。それを小学生には使わせない、と。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。ただし特別支援計画や翻訳、多言語教育のためといった例外はあります。全面禁止というより、用途を絞り込んだ形ですね。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "英国と似た考え方に見えます。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "似ていますね。学習効果がはっきりしない使い方を減らして、必要な場面に限定しよう、という発想が共通しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "アメリカでは他の州でも似た動きがあるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、2026年7月23日の報道によると、教室内のスクリーンタイムを制限する州法が相次いでいます。アイオワ州は幼稚園から小学5年生のデジタル授業を1日60分に制限しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "60分というのはどんな位置づけの数字なんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "デジタル教材を使った授業時間の上限として設定された数字です。ユタ州は幼稚園から小学3年生の教室内スクリーン利用を禁止するモデル方針の策定を求めていますし、テネシー州も各学区に年齢相応の抑制方針を求めています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "州によって細かさが違いますね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。アラバマ州は保育から幼稚園向けの基準を策定していて、2027年1月1日に施行予定です。この報道では2026年中に保育から小学5年生を対象とする州法が4件成立したとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "4件というのは、去年までと比べて多いんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこまでの比較は材料にはありませんが、複数の州でほぼ同時期に法整備が進んでいる点は、教育現場での問題意識が広がっていることを示していると言えそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "個別の学区でも独自の対応があるんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、テキサス州のケイティ独立学区は2026から27学年度から、幼稚園から小学6年生までの児童生徒に生成AIチャットツールの利用を禁止します。小学7年生からは教師の監督下で段階的に導入する方針です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "小学7年生というと、日本でいう中学1年生くらいですよね。それより下は完全に使わせない、と。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。ただしAIを内蔵した読解支援ソフトのような教育目的のツールは対象外で、自由に会話できる生成AIチャットと、目的を絞った教育用ソフトを明確に分けているのが特徴です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "使い分けをはっきりさせているんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。禁止か解禁かの二択ではなく、ツールの種類によって線引きをしている点は、他の地域の議論にも参考になりそうな考え方です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "最後は研究の話ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "エディンバラ大学が2026年7月27日、幼児期のAI教育に関する研究をまとめた論文を公表しました。子どもの学習にAIを使う取り組みと、AIやデータの仕組みを理解させる取り組みを分けて整理しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "この二つは、具体的にはどう違うんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "前者は道具としてAIを学習に生かす話で、後者はAIとは何か、データがどう扱われるかを子ども自身が考える話です。この論文では、既存の研究が技術を操作する技能を優先しすぎていて、発達段階や文化的な背景への配慮が足りないと指摘しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "操作を教えることが目的化してしまっている、ということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そういう懸念が示されています。幼児にAIの使い方を急いで教えるより、AIと人間の違いや、データがどう扱われるかを年齢に合わせて考えさせる教育が必要だという見方が示されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "英国や米国の規制の動きと、この研究の指摘は、方向性としてはつながっていそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そう感じます。使う時間を制限するだけでなく、何のために、どう使うかを考える教育のあり方が、各地で同時に問われている段階だと言えそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今日はイギリスとアメリカの規制の動き、そして研究者からの指摘まで、幅広く見てきました。ありがとうございました。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ありがとうございました。"
+        }
+      ]
+    }
+  ],
+  "verification": {
+    "title": "大きな流れ",
+    "turns": [
+      {
+        "speaker": "analyst",
+        "text": "はい。養殖で勝つための鍵が、規模を大きくして餌のコストを下げる勝負から、優れた種苗を育てる技術や、稚魚が死んでしまう割合をどう抑えるかという勝負に移りつつある、という見方です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。餌のコストのほうが結局は効いているのではないか、という懐疑が強まっていました。ただ今日の材料で、その懐疑はやや弱まりました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "近畿大学が2026年2月に発表した内容です。人工の種苗から育てた親魚から、さらに次の世代の仔魚を得るという、ノドグロの完全養殖に世界で初めて成功したとしています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。天然の親に頼らずに世代を回せるということは、種苗づくりの技術そのものが競争力の核になり得る、という話を裏付けます。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "水産研究・教育機構の研究成果です。クロマグロの人工種苗について、冬を越える生残率が、従来の30パーセントから40パーセント程度だったところ、早期に育てた種苗では80パーセント以上になったとしています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そう理解できます。稚魚がどれだけ死なずに育つかという、斃死率のコントロールが、種苗の育て方の工夫で大きく変わり得ることを示しています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "あります。FAOがアジア6か国、340の養殖場を調べた調査です。調査期間は2005年10月15日から2006年2月14日で、2007年に公表されました。総生産費に占める餌料費が平均で58.0パーセント、稚魚や種苗にかかる費用は15.5パーセントで、餌料費のほうが大きく上回っています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "その通りです。さらにFAOの世界調査もあります。2019年2月公表で、回答期間は2015年6月から2017年6月です。92か国の回答のうち45パーセントが、遺伝的な改良は養殖生産に影響しなかった、または影響は小さかったと答えています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "厳しい材料であることは確かです。ただ、その解釈以外に説明がつかないかというと、そうとも言い切れません。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "この二つのFAO調査は、いずれもかなり前の時点のデータです。2007年公表と2019年公表で、種苗や斃死率をめぐる技術は、その後も進んでいます。過去の構図と、直近の技術進展を、そのまま同じ土俵で比べていいかは考えどころです。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。ですので今日は、疑わしさが完全に消えたわけではなく、あくまで弱まった、という言い方にとどめています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "種苗や斃死率の改善よりも、やはり餌のコストのほうが収益の差を決めている、と示す新しいデータが出てきたときです。そうなれば、また懐疑のほうへ戻ることになります。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。養殖の案件を見るときに、飼料を置き換える提案を軸にするか、それとも生残率の改善を軸にするか、その判断に関わる話として、今後も追っていきます。"
+      }
+    ]
+  },
+  "discussion": {
+    "title": "きょうの論点",
+    "turns": [
+      {
+        "speaker": "navigator",
+        "text": "きょうの論点です。今日は水産物の輸出、中国のサーモン養殖、EUのAI規制、教育トレンドの4つを見てきました。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "ブリの輸出額が434億円で69パーセント増えた話ですね。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "追い風というのは、輸出戦略の提案がしやすくなるということですか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "一方で中国のサーモン養殖の話もありましたね。RASという陸上型の養殖です。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "ブリとサーモンは違う魚ですが、関係あるんでしょうか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "続いてAIの規制の話です。EUのAI Actが8月2日から適用開始になりましたね。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "コンサルの仕事でも影響が出てくるんでしょうか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "機械可読マーキングの対応期限は延長されているんでしたね。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "最後は教育トレンドです。今日は英国と米国の子ども向けスクリーン利用の話でした。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "生まれたばかりのお子さんがいるpopoさんには、今すぐというより先の話ですね。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "水産とAIと教育、それぞれ別々のテーマですが、それぞれに接点はありそうですね。"
+      }
+    ]
+  },
+  "opening": [
+    {
+      "speaker": "navigator",
+      "text": "2026年8月27日の音声ニュースをお届けします。今日は4つのテーマを取り上げます。まず日本の水産、農林水産物・食品の輸出額が上半期として過去最高を記録しました。世界の水産では、中国の陸上養殖施設が大きな生産能力に到達しました。生成AIの分野では、EUのAIに関する法律の大部分が適用開始となりました。そしてAI時代の教育トレンドでは、英国と米国で子ども向けの利用制限の動きが相次いでいます。それでは順番に見ていきましょう。"
+    }
+  ],
+  "closing": [
+    {
+      "speaker": "navigator",
+      "text": "以上、今日の音声ニュースでした。詳しい台本と出典は番組ページに掲載しています。またお聴きください。"
+    }
+  ],
+  "highlights": [
+    "上半期の農林水産物輸出額8977億円、過去最高を記録",
+    "中国の陸上養殖施設が年間8000トンの生産能力に到達",
+    "EUのAI法、大部分の規則が8月2日から適用開始"
+  ],
+  "requests": "",
+  "hypothesis_checks": [
+    {
+      "id": "L-1",
+      "theme": "jp_fisheries",
+      "statement": "養殖の競争力の源泉が、規模と餌のコスト勝負から、種苗・育種と斃死率のコントロールへ移りつつある。",
+      "before": 0.5,
+      "after": 0.269,
+      "evidence_today": [
+        {
+          "relation": "support",
+          "claim": "近畿大学は2026年2月、人工種苗から育てた親魚から仔魚を得るノドグロの完全養殖に世界で初めて成功したと発表した。",
+          "source_url": "https://www.kindai.ac.jp/news-pr/news-release/2026/02/049322.html",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "水産研究・教育機構の研究成果では、クロマグロ人工種苗の冬季生残率が従来の30～40%程度から早期種苗で80%以上に向上した。",
+          "source_url": "https://www.fra.go.jp/home/kenkyushokai/special/files/r05/2023SPresult_04Ver2.pdf",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "FAOによるアジア6か国・計340養殖場調査（調査期間2005年10月15日～2006年2月14日、2007年公表）では、総生産費に占める餌料費が平均58.0%で稚魚・種苗費15.5%を大きく上回った。",
+          "source_url": "https://www.fao.org/4/a1456e/a1456e.pdf",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "FAOの世界調査（2019年2月公表、回答期間2015年6月～2017年6月）では、92か国の回答のうち45%が遺伝的改良は養殖生産に「影響しなかった」または「影響は小さかった」と回答した。",
+          "source_url": "https://openknowledge.fao.org/server/api/core/bitstreams/39c1cce8-d1e7-4047-aa85-bc33ab99b73f/content",
+          "origin": "normal"
+        }
+      ],
+      "support": 2,
+      "contradict": 2,
+      "falsifier_hits": [
+        "FAOによるアジア6か国・計340養殖場調査（調査期間2005年10月15日～2006年2月14日、2007年公表）では、総生産費に占める餌料費が平均58.0%で稚魚・種苗費15.5%を大きく上回った。（餌料費が種苗費を大きく上回るとFAO調査が示す）",
+        "FAOの世界調査（2019年2月公表、回答期間2015年6月～2017年6月）では、92か国の回答のうち45%が遺伝的改良は養殖生産に「影響しなかった」または「影響は小さかった」と回答した。（45%が遺伝的改良は生産に影響小さいと回答）"
+      ],
+      "status": "review_required",
+      "moved": null,
+      "already_said": [],
+      "axis": "生産",
+      "falsifier_texts": [
+        "種苗・育種や斃死率よりも、餌のコストが収益差の主因だと示すデータが出る",
+        "育種・種苗への投資が縮小する、または効果が出ていないという報告が出る"
+      ],
+      "decision_link": "養殖案件で、飼料の置き換えと生残率の改善のどちらを提案の軸に置くか",
+      "stance": "疑わしくなってきている",
+      "shift": "今日の材料で、この見方は弱まりました",
+      "on_air_count": 1
+    }
+  ],
+  "aired_items": [
+    {
+      "id": "8f432353b280",
+      "theme": "jp_fisheries",
+      "headline": "2026年上半期の農水産物輸出が過去最高、ブリは69%増",
+      "source_url": "https://www.maff.go.jp/j/shokusan/export/e_info/zisseki.html",
+      "source_title": "農林水産省／nippon.com",
+      "from_stock": false
+    },
+    {
+      "id": "2266aa40d49b",
+      "theme": "jp_fisheries",
+      "headline": "2027年度水産関係予算概算要求、4200億円以上で議論",
+      "source_url": "https://www.suikei.co.jp/cat/news/policy",
+      "source_title": "日刊水産経済新聞",
+      "from_stock": false
+    },
+    {
+      "id": "22ec52a56b76",
+      "theme": "jp_fisheries",
+      "headline": "北海道の海面養殖サーモン、4〜7月水揚げが前年比22%増",
+      "source_url": "https://www.suikei.co.jp/tag/hokkaido",
+      "source_title": "日刊水産経済新聞",
+      "from_stock": false
+    },
+    {
+      "id": "bfb1f149b160",
+      "theme": "jp_fisheries",
+      "headline": "配合飼料価格安定基金、2025年度第3四半期は補填発動",
+      "source_url": "https://www.gyoankyo.or.jp/safetynet/compensation_payment",
+      "source_title": "漁業経営安定化推進協会",
+      "from_stock": true
+    },
+    {
+      "id": "e6b52299e834",
+      "theme": "jp_fisheries",
+      "headline": "太平洋クロマグロ大型魚、2027〜2028年の漁獲枠25％増で合意",
+      "source_url": "https://www.suikei.co.jp/tag/maguro",
+      "source_title": "日刊水産経済新聞",
+      "from_stock": true
+    },
+    {
+      "id": "524f5fceb69f",
+      "theme": "world_fisheries",
+      "headline": "中国寧波のRASサーモン農場、年間8000トン設計能力でフル稼働",
+      "source_url": "https://www.seafoodnews.com/Story/1352701/Nordic-Aqua-Partners-Reaches-Full-Capacity-at-China-RAS-Farm-Eyes-Stage-3-Expansion",
+      "source_title": "SeafoodNews",
+      "from_stock": false
+    },
+    {
+      "id": "fe37f6ab59b3",
+      "theme": "world_fisheries",
+      "headline": "中国で家庭内サーモン刺身消費が拡大、輸入量43%増",
+      "source_url": "https://www.salmonbusiness.com/china-one-in-four-big-city-residents-now-eats-salmon-sashimi-every-week/",
+      "source_title": "SalmonBusiness",
+      "from_stock": false
+    },
+    {
+      "id": "f90bab0c6367",
+      "theme": "world_fisheries",
+      "headline": "EUの水産物消費、2023年に過去10年で最低水準に低下",
+      "source_url": "https://perishablenews.com/seafood/consumption-of-eu-fishery-and-aquaculture-products-sinks-to-decade-low/",
+      "source_title": "Perishable News",
+      "from_stock": false
+    },
+    {
+      "id": "0e5d876794ec",
+      "theme": "world_fisheries",
+      "headline": "米国、通商法301条に基づき水産物輸入に10〜12.5%の追加関税",
+      "source_url": "https://www.expanamarkets.com/insights/article/section-301-seafood-tariffs-what-changed-and-whos-exposed/",
+      "source_title": "Expana Markets",
+      "from_stock": false
+    },
+    {
+      "id": "795b26fda0bd",
+      "theme": "world_fisheries",
+      "headline": "中東情勢の影響で国際航空運賃、戦争前比25〜30%高で高止まり",
+      "source_url": "https://www.gcca.org/news-announcements/middle-east-conflict-disruption-updates-situation-report-may-21-2026/",
+      "source_title": "GCCA",
+      "from_stock": false
+    },
+    {
+      "id": "33245ee0f38c",
+      "theme": "genai",
+      "headline": "EU AI Actの透明性規則、8月2日から適用開始",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "source_title": "European Commission",
+      "from_stock": false
+    },
+    {
+      "id": "04be904727b9",
+      "theme": "genai",
+      "headline": "Google、音声文字起こしモデル「Gemini 3.5 Transcribe」を発表",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "source_title": "Google Blog",
+      "from_stock": false
+    },
+    {
+      "id": "c3c947b63c17",
+      "theme": "genai",
+      "headline": "Google、Gemini Liveに音声での複数段階タスク代行機能を追加",
+      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
+      "source_title": "Google Blog",
+      "from_stock": false
+    },
+    {
+      "id": "883af8a721f4",
+      "theme": "education",
+      "headline": "英教育省、2〜5歳のスクリーン時間を1日1時間以内と指針改定",
+      "source_url": "https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/screen-use",
+      "source_title": "英国教育省",
+      "from_stock": false
+    },
+    {
+      "id": "76ea9460cfe4",
+      "theme": "education",
+      "headline": "米フェアファックス郡、就学前・幼稚園児の学校端末利用を制限",
+      "source_url": "https://www.ffxnow.com/2026/07/23/fairfax-county-school-board-approves-restrictions-on-generative-ai-digital-devices/",
+      "source_title": "FFXnow",
+      "from_stock": false
+    },
+    {
+      "id": "8b70c93dd2d7",
+      "theme": "education",
+      "headline": "米国各州、教室内スクリーンタイムを制限する法律が相次ぐ",
+      "source_url": "https://stateline.org/2026/07/23/states-move-to-limit-classroom-screen-time/",
+      "source_title": "Stateline",
+      "from_stock": false
+    },
+    {
+      "id": "2caf514d1627",
+      "theme": "education",
+      "headline": "米ケイティ学区、幼稚園〜小6の生成AIチャット利用を禁止",
+      "source_url": "https://www.houstonpublicmedia.org/articles/education/2026/07/24/557895/katy-isd-ai-restrictions-elementary-school/",
+      "source_title": "Houston Public Media",
+      "from_stock": false
+    },
+    {
+      "id": "ba2bfc7fbb9d",
+      "theme": "education",
+      "headline": "エディンバラ大学、幼児期AI教育研究の課題を整理した論文公表",
+      "source_url": "https://www.research.ed.ac.uk/en/publications/ai-pedagogies-and-ai-literacies-for-early-childhood-education-and/",
+      "source_title": "University of Edinburgh",
+      "from_stock": false
+    }
+  ],
+  "sources": [
+    {
+      "segment": "日本の水産",
+      "title": "農林水産省／nippon.com",
+      "url": "https://www.maff.go.jp/j/shokusan/export/e_info/zisseki.html"
+    },
+    {
+      "segment": "日本の水産",
+      "title": "日刊水産経済新聞",
+      "url": "https://www.suikei.co.jp/cat/news/policy"
+    },
+    {
+      "segment": "日本の水産",
+      "title": "日刊水産経済新聞",
+      "url": "https://www.suikei.co.jp/tag/hokkaido"
+    },
+    {
+      "segment": "日本の水産",
+      "title": "漁業経営安定化推進協会",
+      "url": "https://www.gyoankyo.or.jp/safetynet/compensation_payment"
+    },
+    {
+      "segment": "日本の水産",
+      "title": "日刊水産経済新聞",
+      "url": "https://www.suikei.co.jp/tag/maguro"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "SeafoodNews",
+      "url": "https://www.seafoodnews.com/Story/1352701/Nordic-Aqua-Partners-Reaches-Full-Capacity-at-China-RAS-Farm-Eyes-Stage-3-Expansion"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "SalmonBusiness",
+      "url": "https://www.salmonbusiness.com/china-one-in-four-big-city-residents-now-eats-salmon-sashimi-every-week/"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "Perishable News",
+      "url": "https://perishablenews.com/seafood/consumption-of-eu-fishery-and-aquaculture-products-sinks-to-decade-low/"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "Expana Markets",
+      "url": "https://www.expanamarkets.com/insights/article/section-301-seafood-tariffs-what-changed-and-whos-exposed/"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "GCCA",
+      "url": "https://www.gcca.org/news-announcements/middle-east-conflict-disruption-updates-situation-report-may-21-2026/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "英国教育省",
+      "url": "https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/screen-use"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "FFXnow",
+      "url": "https://www.ffxnow.com/2026/07/23/fairfax-county-school-board-approves-restrictions-on-generative-ai-digital-devices/"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "Stateline",
+      "url": "https://stateline.org/2026/07/23/states-move-to-limit-classroom-screen-time/"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "Houston Public Media",
+      "url": "https://www.houstonpublicmedia.org/articles/education/2026/07/24/557895/katy-isd-ai-restrictions-elementary-school/"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "University of Edinburgh",
+      "url": "https://www.research.ed.ac.uk/en/publications/ai-pedagogies-and-ai-literacies-for-early-childhood-education-and/"
+    }
+  ]
+}

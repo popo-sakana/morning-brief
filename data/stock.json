@@ -109,7 +109,9 @@
    "published": "2026-08-26",
    "importance": 4,
    "first_seen": "2026-08-26",
-   "aired": []
+   "aired": [
+    "2026-08-27"
+   ]
   },
   {
    "id": "e6b52299e834",
@@ -126,7 +128,9 @@
    "published": "2026-08-20",
    "importance": 3,
    "first_seen": "2026-08-26",
-   "aired": []
+   "aired": [
+    "2026-08-27"
+   ]
   },
   {
    "id": "b84e7b3cffd7",
@@ -473,6 +477,344 @@
    "published": "2026-08-21",
    "importance": 2,
    "first_seen": "2026-08-26",
+   "aired": []
+  },
+  {
+   "id": "22ec52a56b76",
+   "theme": "jp_fisheries",
+   "headline": "北海道の海面養殖サーモン、4〜7月水揚げが前年比22%増",
+   "detail": "北海道で2026年4〜7月に水揚げされた海面養殖サーモンが前年比22％増の約520トンとなった。道南や日本海側で試験養殖が始まった2019年度以降、6年連続の増加となる。ブリ類など従来の主要養殖魚に加え、道内でサーモンの産地形成が進んでいることを示す動きで、輸入サーモンの一部代替や地域の新たな収益源となる可能性がある。今後の生産目標や採算性は記事からは確認できなかった。",
+   "numbers": [
+    "水揚げ量約520トン",
+    "前年比22％増",
+    "2019年度以降6年連続増"
+   ],
+   "source_url": "https://www.suikei.co.jp/tag/hokkaido",
+   "source_title": "日刊水産経済新聞",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "8f432353b280",
+   "theme": "jp_fisheries",
+   "headline": "2026年上半期の農水産物輸出が過去最高、ブリは69%増",
+   "detail": "2026年1〜6月の農林水産物・食品輸出額は前年同期比10.9％増の8,977億円となり、上半期として過去最高を更新した。水産物輸出額は報道ベースで2,384億円、前年同期比19.5％増。ブリの輸出額は434億円、前年同期比69.0％増で上半期として過去最高となった。北米・韓国向け需要や単価上昇が背景とされる。輸出数量ベースの詳細は今回の資料では確認できなかった。",
+   "numbers": [
+    "農水産物輸出額8977億円",
+    "前年比10.9％増",
+    "水産物2384億円・前年比19.5％増",
+    "ブリ434億円・前年比69.0％増"
+   ],
+   "source_url": "https://www.maff.go.jp/j/shokusan/export/e_info/zisseki.html",
+   "source_title": "農林水産省／nippon.com",
+   "published": "2026-08-04",
+   "importance": 5,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "2266aa40d49b",
+   "theme": "jp_fisheries",
+   "headline": "2027年度水産関係予算概算要求、4200億円以上で議論",
+   "detail": "自民党の水産関係会議で2027年度の水産関係予算概算要求案が議論され、概算要求額は4,200億円以上と報じられた。養殖、資源管理、漁港整備などの個別項目別の内訳は今回確認できた記事では示されていない。水産関係予算を一本化して要求する方向が示されているが、最終的な予算額や事業内容は今後決まる。",
+   "numbers": [
+    "概算要求額4200億円以上"
+   ],
+   "source_url": "https://www.suikei.co.jp/cat/news/policy",
+   "source_title": "日刊水産経済新聞",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "524f5fceb69f",
+   "theme": "world_fisheries",
+   "headline": "中国寧波のRASサーモン農場、年間8000トン設計能力でフル稼働",
+   "detail": "Nordic Aqua Partnersは、中国・寧波の陸上RAS型アトランティックサーモン農場でStage1・2を合わせた年間8,000トンの設計生産能力に到達したと発表した。2026年第2四半期の収穫量は1,362トンで、2026年の収穫見込みは5,500〜6,000トン。Stage3の詳細設計を開始しており、長期的には年間約20,000トンへの拡大構想があるが、最終投資決定や着工時期は未定。",
+   "numbers": [
+    "設計能力年間8000トン",
+    "2026年Q2収穫1362トン",
+    "2026年収穫見込み5500〜6000トン",
+    "将来構想2万トン/年"
+   ],
+   "source_url": "https://www.seafoodnews.com/Story/1352701/Nordic-Aqua-Partners-Reaches-Full-Capacity-at-China-RAS-Farm-Eyes-Stage-3-Expansion",
+   "source_title": "SeafoodNews",
+   "published": "2026-08-26",
+   "importance": 4,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "f5d8e2f244a2",
+   "theme": "world_fisheries",
+   "headline": "独Oceanloop、ジャイアントグルーパーの陸上養殖を商業販売開始",
+   "detail": "ドイツのOceanloopは、ジャイアントグルーパーの陸上RAS養殖で2026年4月から商業販売を開始した。既存施設の生産量は2026年に約20トン、2027年に約40トンを見込む。新設予定のキール農場は年間約250トン、将来のグラン・カナリア施設は年間約2000トンを計画し、調達資金は最大3,850万ユーロ。計画値であり稼働済み生産量ではない。",
+   "numbers": [
+    "2026年生産約20トン",
+    "2027年約40トン",
+    "キール農場計画250トン/年",
+    "将来計画2000トン/年",
+    "資金3850万ユーロ"
+   ],
+   "source_url": "https://perishablenews.com/seafood/oceanloop-secures-funding-to-scale-land-based-aquaculture-technology-and-europes-first-farmed-giant-grouper/",
+   "source_title": "Perishable News",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-08-27",
+   "aired": []
+  },
+  {
+   "id": "fe37f6ab59b3",
+   "theme": "world_fisheries",
+   "headline": "中国で家庭内サーモン刺身消費が拡大、輸入量43%増",
+   "detail": "ノルウェー水産物審議会の調査によると、2026年上半期の中国のサーモン輸入量は前年同期比43％増となった。2025年通年でも前年比約50％増。中国のTier1都市の水産物消費者のうち週1回以上サーモン刺身を食べる人は約4人に1人（世界平均13％）に上る。従来の日本食レストラン中心から家庭内消費へ広がっている点が特徴とされる。",
+   "numbers": [
+    "2026年上半期輸入43％増",
+    "2025年通年約50％増",
+    "週1回以上刺身消費約25％（世界平均13％）"
+   ],
+   "source_url": "https://www.salmonbusiness.com/china-one-in-four-big-city-residents-now-eats-salmon-sashimi-every-week/",
+   "source_title": "SalmonBusiness",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "f90bab0c6367",
+   "theme": "world_fisheries",
+   "headline": "EUの水産物消費、2023年に過去10年で最低水準に低下",
+   "detail": "欧州漁業・養殖市場観測所（EUMOFA）のデータによると、EUの水産物見かけ消費量は2014年の1,294万トンから2023年に1,025万トンへ減少した。1人当たり消費量も同期間に25.5キログラムから22.9キログラムへ低下し、10年間で最低水準となった。ポルトガル・スペインは高水準を維持する一方、イタリアやポーランドなどでは増加した。",
+   "numbers": [
+    "2023年消費量1025万トン",
+    "2014年1294万トン",
+    "1人当たり消費量22.9kg（2014年25.5kg）"
+   ],
+   "source_url": "https://perishablenews.com/seafood/consumption-of-eu-fishery-and-aquaculture-products-sinks-to-decade-low/",
+   "source_title": "Perishable News",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "795b26fda0bd",
+   "theme": "world_fisheries",
+   "headline": "中東情勢の影響で国際航空運賃、戦争前比25〜30%高で高止まり",
+   "detail": "物流業界情報によると、2026年8月26〜27日時点で国際航空運賃は戦争前水準を概ね25〜30％上回っている。4月下旬には戦争前比40％超まで上昇したが、その後は低下した。生鮮ぶり類など航空輸送比率が高い商品では、輸送費・輸送時間・販売価格のバランスが引き続き課題となる。ぶり類の輸送コストに限定した最新値は確認できていない。",
+   "numbers": [
+    "航空運賃戦争前比25〜30％高",
+    "4月末ピーク40％超"
+   ],
+   "source_url": "https://www.gcca.org/news-announcements/middle-east-conflict-disruption-updates-situation-report-may-21-2026/",
+   "source_title": "GCCA",
+   "published": "2026-08-26",
+   "importance": 3,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "6bffaf40a4e5",
+   "theme": "world_fisheries",
+   "headline": "カナダ、米国産水産物に25%の対抗関税を9月8日に導入予定",
+   "detail": "米国との通商交渉中断を受け、カナダは幅広い米国産水産品に25％の対抗関税を課す方針を示した。発効予定日は2026年9月8日。対象となるHSコードや魚種別の詳細リストは確認した記事では示されていない。対象に米国産サーモンやロブスターなどが含まれる場合、カナダ市場での米国産品の価格競争力低下や、代替調達・物流変更につながる可能性がある。",
+   "numbers": [
+    "税率25％",
+    "発効予定2026年9月8日"
+   ],
+   "source_url": "https://weareaquaculture.com/",
+   "source_title": "We Are Aquaculture",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-08-27",
+   "aired": []
+  },
+  {
+   "id": "0e5d876794ec",
+   "theme": "world_fisheries",
+   "headline": "米国、通商法301条に基づき水産物輸入に10〜12.5%の追加関税",
+   "detail": "米国では強制労働対策を根拠とする通商法301条に基づき、2026年7月24日から水産物輸入に追加関税が適用されている。エクアドル・インド・インドネシア産は10％、ベトナム・中国・ノルウェー・チリ・ブラジル産などは12.5％。USMCA準拠のカナダ・メキシコ品は追加関税0％。エクアドル産えびは従来の122条措置から根拠が301条に変更されたが、税率は10％で据え置きとなった。日本産ブリへの影響は確認できていない。",
+   "numbers": [
+    "エクアドル・インド・インドネシア10％",
+    "ベトナム・中国・ノルウェー等12.5％",
+    "カナダ・メキシコ（USMCA）0％"
+   ],
+   "source_url": "https://www.expanamarkets.com/insights/article/section-301-seafood-tariffs-what-changed-and-whos-exposed/",
+   "source_title": "Expana Markets",
+   "published": "2026-07-24",
+   "importance": 3,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "04be904727b9",
+   "theme": "genai",
+   "headline": "Google、音声文字起こしモデル「Gemini 3.5 Transcribe」を発表",
+   "detail": "Googleは2026年8月26日、音声をテキスト化する新モデル「Gemini 3.5 Transcribe」を発表した。85以上の言語の自動検出・文字起こし、話者識別、単語単位のタイムスタンプ、フィラー語除去などに対応する。FLEURSベンチマークの単語誤り率はストリーミング時5.50％、非ストリーミング時5.04％。前世代モデル比で最終文字起こしまでの時間が70％改善したとGoogleは説明している。開発者向けにはパブリックプレビューとして提供される。",
+   "numbers": [
+    "対応言語85以上",
+    "WER（FLEURS）ストリーミング5.50％",
+    "非ストリーミング5.04％",
+    "前世代比70％時間短縮"
+   ],
+   "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+   "source_title": "Google Blog",
+   "published": "2026-08-26",
+   "importance": 2,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "c3c947b63c17",
+   "theme": "genai",
+   "headline": "Google、Gemini Liveに音声での複数段階タスク代行機能を追加",
+   "detail": "Googleは2026年8月26日、Gemini Liveに音声指示で複数段階のタスクを実行する機能やGoogle Docs・Sheets・Driveとの連携、日次タスク概要を知らせる「Daily Brief」、Gmail整理機能などを追加したと発表した。数日〜数週間にわたる長時間・予約型タスクにも対応する。長時間タスクやメール整理をAIに任せる際の誤操作・権限管理についての具体的な検証結果は確認できていない。",
+   "numbers": [],
+   "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
+   "source_title": "Google Blog",
+   "published": "2026-08-26",
+   "importance": 2,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "33245ee0f38c",
+   "theme": "genai",
+   "headline": "EU AI Actの透明性規則、8月2日から適用開始",
+   "detail": "EUの公式情報によると、EU AI Actの大部分の規則と執行が2026年8月2日から開始された。チャットボットのAI利用表示、ディープフェイクのラベル付け、AI生成コンテンツへの機械可読マーク付与などが対象。一部既存システムの機械可読マーキング対応期限は2026年12月2日まで延長されている。EU域内でサービスを提供する生成AI事業者は表示・provenance実装への対応が必要になる。",
+   "numbers": [
+    "適用開始2026年8月2日",
+    "既存システム対応期限2026年12月2日"
+   ],
+   "source_url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+   "source_title": "European Commission",
+   "published": "2026-08-02",
+   "importance": 2,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "2caf514d1627",
+   "theme": "education",
+   "headline": "米ケイティ学区、幼稚園〜小6の生成AIチャット利用を禁止",
+   "detail": "テキサス州ケイティ独立学区は2026〜27学年度から、幼稚園から小学6年生までの児童生徒が生成AIチャットツールを使うことを禁止し、小学7年生から教師主導・監督下で段階的に導入する方針を示した。AIを内蔵した読解支援ソフトなど特定の教育目的ツールは対象外で、「生成AIチャットツール」と「AI組み込み教育用ソフト」を区別している。",
+   "numbers": [
+    "対象：幼稚園〜小6禁止",
+    "小7から教師監督下で導入"
+   ],
+   "source_url": "https://www.houstonpublicmedia.org/articles/education/2026/07/24/557895/katy-isd-ai-restrictions-elementary-school/",
+   "source_title": "Houston Public Media",
+   "published": "2026-07-24",
+   "importance": 3,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "76ea9460cfe4",
+   "theme": "education",
+   "headline": "米フェアファックス郡、就学前・幼稚園児の学校端末利用を制限",
+   "detail": "バージニア州フェアファックス郡公立学校は2026年7月16日の教育委員会決定により、小学生の生成AI利用を原則禁止し、就学前・幼稚園児による学校支給タブレット・ノートパソコンの利用を制限した。特別支援計画、翻訳、多言語教育などの例外がある。",
+   "numbers": [],
+   "source_url": "https://www.ffxnow.com/2026/07/23/fairfax-county-school-board-approves-restrictions-on-generative-ai-digital-devices/",
+   "source_title": "FFXnow",
+   "published": "2026-07-16",
+   "importance": 3,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "883af8a721f4",
+   "theme": "education",
+   "headline": "英教育省、2〜5歳のスクリーン時間を1日1時間以内と指針改定",
+   "detail": "英国教育省は2026年7月13日更新の保育・幼児教育事業者向け資料で、2歳未満は原則スクリーン利用を避け、2〜5歳は1日当たり1時間以内、可能ならそれ未満とする方針を示した。保育現場では具体的な学習・発達目的がある場合に限り慎重に使用し、スクリーンが睡眠・身体活動・対面交流・実物を使った遊びを置き換えてはならないとしている。特別な教育的ニーズのための支援技術は対象外。",
+   "numbers": [
+    "2〜5歳：1日1時間以内"
+   ],
+   "source_url": "https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/screen-use",
+   "source_title": "英国教育省",
+   "published": "2026-07-13",
+   "importance": 3,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "8b70c93dd2d7",
+   "theme": "education",
+   "headline": "米国各州、教室内スクリーンタイムを制限する法律が相次ぐ",
+   "detail": "米国ではアイオワ州が幼稚園〜小5のデジタル授業を1日60分に制限、ユタ州が幼稚園〜小3の教室内スクリーン利用禁止のモデル方針策定を求め、テネシー州は各学区に年齢相応の端末利用抑制方針を求めた。アラバマ州は保育・就学前・幼稚園向けにスクリーン利用基準を策定し2027年1月1日施行予定。2026年7月23日の報道では、保育〜小5を対象とする州法が同年に4件成立したとされる。",
+   "numbers": [
+    "アイオワ州1日60分制限",
+    "アラバマ州施行2027年1月1日",
+    "2026年に4州で成立"
+   ],
+   "source_url": "https://stateline.org/2026/07/23/states-move-to-limit-classroom-screen-time/",
+   "source_title": "Stateline",
+   "published": "2026-07-23",
+   "importance": 3,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "ba2bfc7fbb9d",
+   "theme": "education",
+   "headline": "エディンバラ大学、幼児期AI教育研究の課題を整理した論文公表",
+   "detail": "エディンバラ大学は2026年7月27日、幼児教育・保育におけるAI研究をレビューする論文を公開した。子どもの学習にAIを使う「AI pedagogy」と、AIやデータの仕組みを理解する「AI literacy」に研究領域を分類し、既存研究が技術的技能を過度に優先し、文化的・発達的観点を十分に扱っていないと指摘している。幼児にAI操作技能を急いで教えるより、AIと人間の違いやデータの扱いを年齢相応に考えさせる教育が必要との見方が示されている。",
+   "numbers": [],
+   "source_url": "https://www.research.ed.ac.uk/en/publications/ai-pedagogies-and-ai-literacies-for-early-childhood-education-and/",
+   "source_title": "University of Edinburgh",
+   "published": "2026-07-27",
+   "importance": 2,
+   "first_seen": "2026-08-27",
+   "aired": [
+    "2026-08-27"
+   ]
+  },
+  {
+   "id": "596cff2ff7ea",
+   "theme": "education",
+   "headline": "デジタル遊び研究、幼児の非認知能力への改善効果を報告",
+   "detail": "2026年7月29日公開の幼児対象研究「デジタル遊びと早期学習」では、インタラクティブな教育技術を使った群で、注意、実行機能、初期リテラシー、初期計算、感情調整、協力、共感などに改善が報告された。効果量は認知・学習領域でCohen's d＝0.54〜0.68、情動・社会領域で0.63〜0.70とされる。単一研究の結果であり、長期的発達効果や他集団への一般化可能性は確認できず、政策判断にそのまま適用できないとの見方が示されている。",
+   "numbers": [
+    "効果量Cohen's d 0.54〜0.70"
+   ],
+   "source_url": "https://journal.ummat.ac.id/index.php/IJECA/article/viewFile/38430/pdf",
+   "source_title": "International Journal of Early Childhood Additional",
+   "published": "2026-07-29",
+   "importance": 2,
+   "first_seen": "2026-08-27",
    "aired": []
   }
  ]

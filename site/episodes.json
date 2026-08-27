@@ -1,5 +1,48 @@
 [
   {
+    "id": "260827_morningbrief_v1_AI",
+    "title": "8月27日のブリーフ",
+    "published_at": "2026-08-27T10:46:11+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260827_morningbrief_v1_AI/260827_morningbrief_v1_AI.mp3",
+    "duration_sec": 1751,
+    "bytes": 7271232,
+    "summary": "・上半期の農林水産物輸出額8977億円、過去最高を記録<br>・中国の陸上養殖施設が年間8000トンの生産能力に到達<br>・EUのAI法、大部分の規則が8月2日から適用開始",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 40.7
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 247.8
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 634.6
+      },
+      {
+        "section": "genai",
+        "start_sec": 1005.3
+      },
+      {
+        "section": "education",
+        "start_sec": 1276.2
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1670.8
+      },
+      {
+        "section": "closing",
+        "start_sec": 1743.2
+      }
+    ]
+  },
+  {
     "id": "260826_morningbrief_v1_AI",
     "title": "8月26日のブリーフ",
     "published_at": "2026-08-26T09:49:21+09:00",

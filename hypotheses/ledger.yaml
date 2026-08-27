@@ -1,136 +1,299 @@
-# 論点台帳
-#
-# ここに置くのは「検定したい命題」ではなく、その日のニュースを置く座標軸です。
-# 目的は、場当たり的なニュース羅列にしないこと。細かい数字を当てにいくことではありません。
-#
-# だから次の3つを守ります。
-#   - 論点は大きく持つ（生産・流通・販売・横断）。個別の相場を追う話にしない。
-#   - 番組では確からしさの数字を読み上げない。追い風か逆風かを言葉で言う。
-#   - 1回につき1本だけ扱い、連日同じ論点をこすらない。
-#
-# confidence は内部の目安で、放送では使いません。
-# 全件 0.5（どちらとも言えない）から始めます。初期の見立てに引っ張られないためです。
 settings:
   active_limit: 6
-  deep_dive_slots: 1        # 1回につき扱う論点は1本だけ
-  cooldown_days: 3          # 同じ論点を連日扱わない
+  deep_dive_slots: 1
+  cooldown_days: 3
   probation_days: 30
   archive_days: 60
   graduate_confidence: 0.9
   refute_confidence: 0.15
   sustain_days: 21
-
 hypotheses:
 - id: L-1
   theme: jp_fisheries
   axis: 生産
   statement: 養殖の競争力の源泉が、規模と餌のコスト勝負から、種苗・育種と斃死率のコントロールへ移りつつある。
   created: '2026-08-27'
-  confidence: 0.5
-  status: active
+  confidence: 0.269
+  status: review_required
   decision_link: 養殖案件で、飼料の置き換えと生残率の改善のどちらを提案の軸に置くか
   falsifiers:
   - text: 種苗・育種や斃死率よりも、餌のコストが収益差の主因だと示すデータが出る
-    keywords: [飼料, 餌, コスト, 採算, 収益]
+    keywords:
+    - 飼料
+    - 餌
+    - コスト
+    - 採算
+    - 収益
   - text: 育種・種苗への投資が縮小する、または効果が出ていないという報告が出る
-    keywords: [育種, 種苗, 投資, 撤退]
+    keywords:
+    - 育種
+    - 種苗
+    - 投資
+    - 撤退
   next_indicators:
   - neutral_query: 養殖 種苗 育種 成果 最新
   - neutral_query: 養殖 斃死率 生残率 データ
-  evidence: []
-  ops: {}
-
+  evidence:
+  - date: '2026-08-27'
+    relation: support
+    claim: 近畿大学は2026年2月、人工種苗から育てた親魚から仔魚を得るノドグロの完全養殖に世界で初めて成功したと発表した。
+    source_url: https://www.kindai.ac.jp/news-pr/news-release/2026/02/049322.html
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-08-27'
+    relation: support
+    claim: 水産研究・教育機構の研究成果では、クロマグロ人工種苗の冬季生残率が従来の30～40%程度から早期種苗で80%以上に向上した。
+    source_url: https://www.fra.go.jp/home/kenkyushokai/special/files/r05/2023SPresult_04Ver2.pdf
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-08-27'
+    relation: contradict
+    claim: FAOによるアジア6か国・計340養殖場調査（調査期間2005年10月15日～2006年2月14日、2007年公表）では、総生産費に占める餌料費が平均58.0%で稚魚・種苗費15.5%を大きく上回った。
+    source_url: https://www.fao.org/4/a1456e/a1456e.pdf
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-08-27'
+    relation: contradict
+    claim: FAOの世界調査（2019年2月公表、回答期間2015年6月～2017年6月）では、92か国の回答のうち45%が遺伝的改良は養殖生産に「影響しなかった」または「影響は小さかった」と回答した。
+    source_url: https://openknowledge.fao.org/server/api/core/bitstreams/39c1cce8-d1e7-4047-aa85-bc33ab99b73f/content
+    tier: 1
+    origin: normal
+    aired: true
+  ops:
+    last_support: '2026-08-27'
+    last_contradiction: '2026-08-27'
+    last_on_air: '2026-08-27'
+    on_air_count: 1
+    last_redteam: '2026-08-27'
+  review_note: FAOによるアジア6か国・計340養殖場調査（調査期間2005年10月15日～2006年2月14日、2007年公表）では、総生産費に占める餌料費が平均58.0%で稚魚・種苗費15.5%を大きく上回った。（餌料費が種苗費を大きく上回るとFAO調査が示す）
+    / FAOの世界調査（2019年2月公表、回答期間2015年6月～2017年6月）では、92か国の回答のうち45%が遺伝的改良は養殖生産に「影響しなかった」または「影響は小さかった」と回答した。（45%が遺伝的改良は生産に影響小さいと回答）
 - id: L-2
   theme: world_fisheries
   axis: 流通
   statement: 水産物の流通は、鮮度を遠くへ運ぶ方向と、需要地の近くで作って加工する方向へ分岐している。
   created: '2026-08-27'
-  confidence: 0.5
+  confidence: 0.695
   status: active
   decision_link: 輸出を伸ばすのか、現地生産・現地加工に投資するのか
   falsifiers:
   - text: 長距離の生鮮輸送（航空・活魚）が拡大し、需要地生産は伸びていない
-    keywords: [航空輸送, 生鮮, 活魚, 輸送能力]
+    keywords:
+    - 航空輸送
+    - 生鮮
+    - 活魚
+    - 輸送能力
   - text: 陸上養殖や現地加工の事業が採算割れで撤退・縮小している
-    keywords: [陸上養殖, RAS, 撤退, 破綻, 縮小]
+    keywords:
+    - 陸上養殖
+    - RAS
+    - 撤退
+    - 破綻
+    - 縮小
   next_indicators:
   - neutral_query: 陸上養殖 商業生産 稼働 最新
   - neutral_query: 水産物 輸送 コールドチェーン 動向
-  evidence: []
-  ops: {}
-
+  evidence:
+  - date: '2026-08-27'
+    relation: support
+    claim: スペイン・アリカンテ港のAlicante Aquacultureがカンパチの陸上循環式養殖（RAS）で商業規模生産を開始し、初期生産能力は年間600トン、将来計画は年間900トンとされる。
+    source_url: https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/
+    tier: 2
+    origin: normal
+  - date: '2026-08-27'
+    relation: support
+    claim: Nordic Aqua Partnersは中国・寧波の陸上RAS型アトランティックサーモン農場でStage1・2合わせた年間8,000トンの設計生産能力にフル稼働で到達したと発表した。
+    source_url: https://www.seafoodnews.com/Story/1352701/Nordic-Aqua-Partners-Reaches-Full-Capacity-at-China-RAS-Farm-Eyes-Stage-3-Expansion
+    tier: 1
+    origin: normal
+  - date: '2026-08-27'
+    relation: support
+    claim: ノルウェー水産物審議会の調査によると2026年上半期の中国のサーモン輸入量は前年同期比43%増となった。
+    source_url: https://www.salmonbusiness.com/china-one-in-four-big-city-residents-now-eats-salmon-sashimi-every-week/
+    tier: 2
+    origin: normal
+  - date: '2026-08-27'
+    relation: support
+    claim: 中国南方航空は2026年8月19日にノルウェー・オスロと中国・上海を結ぶ直行貨物便を週2便開始し、輸送能力は週約200トンでノルウェー産サーモン輸送に充てられる見込みである。
+    source_url: https://www.travelwires.com/china-southern-launches-oslo-shanghai-cargo-route-carrying-up-to-200-tonnes-of-norwegian-salmon-weekly/
+    tier: 2
+    origin: normal
+  ops:
+    last_support: '2026-08-27'
+  _sustain: 0
 - id: L-3
   theme: jp_fisheries
   axis: 販売
   statement: ぶり類は国内需要の停滞と輸出の伸びが同時に進み、価格の決まり方が輸出側の事情に寄りつつある。
   created: '2026-08-27'
-  confidence: 0.5
+  confidence: 0.608
   status: active
   decision_link: 国内市場向けの商品設計を続けるか、輸出仕様に寄せるか
   falsifiers:
   - text: 国内の消費や単価が回復し、輸出比率が下がる
-    keywords: [国内消費, 家計調査, 単価, 内需]
+    keywords:
+    - 国内消費
+    - 家計調査
+    - 単価
+    - 内需
   - text: 輸出が減速しても国内の産地価格が下がらない
-    keywords: [輸出, 減少, 産地価格, 浜値]
+    keywords:
+    - 輸出
+    - 減少
+    - 産地価格
+    - 浜値
   next_indicators:
   - neutral_query: ぶり かんぱち 輸出 実績 最新
   - neutral_query: 水産物 国内消費 単価 動向
-  evidence: []
-  ops: {}
-
+  evidence:
+  - date: '2026-08-27'
+    relation: support
+    claim: 2026年1～6月の日本の農林水産物・食品輸出額は前年同期比10.9%増の8,977億円で上半期として過去最高を更新し、ブリ輸出額は前年同期比69.0%増の434億円だった。
+    source_url: https://www.maff.go.jp/j/shokusan/export/e_info/zisseki.html
+    tier: 1
+    origin: normal
+  - date: '2026-08-27'
+    relation: support
+    claim: 2025年の日本のブリ類輸出量は3万3,752トン、輸出額はおおむね528億円だった。
+    source_url: https://www.suikei.co.jp/archives/94342
+    tier: 2
+    origin: normal
+  ops:
+    last_support: '2026-08-27'
+  _sustain: 0
 - id: L-4
   theme: world_fisheries
   axis: 横断
   statement: 水産事業の収益の振れは、資源量や相場よりも、制度・貿易ルール（関税・規制・認証）の変化に左右される比重が増している。
   created: '2026-08-27'
-  confidence: 0.5
+  confidence: 0.64
   status: active
   decision_link: 事業リスクの見積もりで、資源変動と制度変更のどちらに重みを置くか
   falsifiers:
   - text: 収益の変動が、制度変更ではなく資源量や相場でほぼ説明できる事例が示される
-    keywords: [資源量, 漁獲量, 相場, 変動要因]
+    keywords:
+    - 資源量
+    - 漁獲量
+    - 相場
+    - 変動要因
   - text: 主要市場で関税・規制・認証要件の変更がしばらく起きていない
-    keywords: [関税, 規制, 認証, 撤廃, 据え置き]
+    keywords:
+    - 関税
+    - 規制
+    - 認証
+    - 撤廃
+    - 据え置き
   next_indicators:
   - neutral_query: 水産物 関税 規制 変更 最新
   - neutral_query: 水産 認証 要件 見直し
-  evidence: []
-  ops: {}
-
+  evidence:
+  - date: '2026-08-27'
+    relation: support
+    claim: 国際会議で、太平洋中西部の30キログラム以上のクロマグロ大型魚の漁獲枠を2027～2028年に年間1万1,869トンから1万4,836トンへ25%増やすことで合意した。
+    source_url: https://www.suikei.co.jp/archives/125394
+    tier: 2
+    origin: normal
+  - date: '2026-08-27'
+    relation: support
+    claim: カナダは米国との通商交渉中断を受け、米国産水産物を含む幅広い米国産品に25%の対抗関税を2026年9月8日発効予定で課す方針を示した。
+    source_url: https://weareaquaculture.com/
+    tier: 2
+    origin: normal
+  - date: '2026-08-27'
+    relation: support
+    claim: 米国では2026年7月24日から通商法301条に基づき、原産国によって水産物輸入に10%または12.5%の追加関税が適用されている。
+    source_url: https://www.expanamarkets.com/insights/article/section-301-seafood-tariffs-what-changed-and-whos-exposed/
+    tier: 2
+    origin: normal
+  ops:
+    last_support: '2026-08-27'
+  _sustain: 0
 - id: L-5
   theme: genai
   axis: 横断
   statement: 生成AIの競争軸は、モデルの性能比べから、業務への埋め込みと責任の分け方へ移っている。
   created: '2026-08-27'
-  confidence: 0.5
+  confidence: 0.655
   status: active
   decision_link: AI導入の検討で、モデル選定と業務プロセス設計のどちらに時間を割くか
   falsifiers:
   - text: モデル性能の差だけで採用が決まった事例が続く
-    keywords: [ベンチマーク, 性能, 乗り換え, 精度]
+    keywords:
+    - ベンチマーク
+    - 性能
+    - 乗り換え
+    - 精度
   - text: 業務導入が進まず、実証で止まっているという報告が相次ぐ
-    keywords: [PoC, 実証, 停滞, 導入見送り]
+    keywords:
+    - PoC
+    - 実証
+    - 停滞
+    - 導入見送り
   next_indicators:
   - neutral_query: 生成AI 業務導入 効果 実績
   - neutral_query: AI 責任 契約 規約 変更
-  evidence: []
-  ops: {}
-
+  evidence:
+  - date: '2026-08-27'
+    relation: support
+    claim: Googleは2026年8月26日、Gemini Liveに音声による複数段階タスク実行やGoogle Docs等との連携機能を追加したと発表した。
+    source_url: https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/
+    tier: 1
+    origin: normal
+  - date: '2026-08-27'
+    relation: support
+    claim: EU AI Actの大部分の規則と執行、AI利用の透明性義務が2026年8月2日から適用開始された。
+    source_url: https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august
+    tier: 1
+    origin: normal
+  ops:
+    last_support: '2026-08-27'
+  _sustain: 0
 - id: L-6
   theme: education
   axis: 横断
   statement: 幼児から小学校段階のAI対応は、使わせ方の工夫より、使わせない時間をどう設計するかに寄りつつある。
   created: '2026-08-27'
-  confidence: 0.5
-  status: active
+  confidence: 0.269
+  status: review_required
   decision_link: 家庭で、AIに触れさせる方針と触れさせない時間の設計のどちらを先に決めるか
   falsifiers:
   - text: 低学年からのAI活用を推進する制度やカリキュラムが広がる
-    keywords: [AI教育, 導入, カリキュラム, 推進]
+    keywords:
+    - AI教育
+    - 導入
+    - カリキュラム
+    - 推進
   - text: 利用制限を導入した地域が、効果なしとして方針を撤回する
-    keywords: [撤回, 見直し, 制限, 解除]
+    keywords:
+    - 撤回
+    - 見直し
+    - 制限
+    - 解除
   next_indicators:
   - neutral_query: 幼児教育 スクリーンタイム 方針 最新
   - neutral_query: 小学校 生成AI 利用 ルール 各国
-  evidence: []
-  ops: {}
+  evidence:
+  - date: '2026-08-27'
+    relation: support
+    claim: ノルウェー政府は2026年8月下旬開始の新学年から小学校1～7年生（6～13歳）の生成AI利用を原則認めない方針を示した。
+    source_url: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/
+    tier: 1
+    origin: normal
+  - date: '2026-08-27'
+    relation: contradict
+    claim: 香港教育局は2026年7月21日付通知で初等学校向けカリキュラムに「AIの予備学習」領域の試行版を公表し、2026/27学年からAI教育を導入する方針を示した。
+    source_url: https://applications.edb.gov.hk/circular/upload/EDBCM/EDBCM26113E.pdf
+    tier: 1
+    origin: normal
+  - date: '2026-08-27'
+    relation: support
+    claim: OECDの「デジタル教育アウトルック2026」は、一般用途の生成AIは課題の成果物を改善しても学習成果を保証しないと報告している。
+    source_url: https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html
+    tier: 1
+    origin: normal
+  ops:
+    last_support: '2026-08-27'
+    last_contradiction: '2026-08-27'
+  review_note: 香港教育局は2026年7月21日付通知で初等学校向けカリキュラムに「AIの予備学習」領域の試行版を公表し、2026/27学年からAI教育を導入する方針を示した。（香港が初等学校向けAI教育カリキュラムの導入方針を公表）
