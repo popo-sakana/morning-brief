@@ -1,0 +1,1196 @@
+{
+  "segments": [
+    {
+      "id": "jp_fisheries",
+      "title": "日本の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "「日本の水産」のコーナーです。今日は北海道を中心に、水揚げをめぐるニュースが目立ちます。まずは釧路のマイワシからお願いします。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "北海道釧路港では、マイワシのまき網漁が2026年6月16日に解禁されました。ただ8月19日まで、約2カ月間、水揚げがゼロという状態が続きました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "2カ月もゼロというのは、かなり異例なのではないですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。7月の水揚げ量は64トンで、前年同月と比べて99.7％の減少です。ほぼ獲れなかったと言っていい数字です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "水揚げ金額の方も減っているんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。7月の水揚げ金額は4077万円で、前年同月比96.4％減となっています。量だけでなく金額も大きく落ち込んでいます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "なぜここまで獲れなくなったのでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "水産研究・教育機構の研究者が8月25日に、マイワシ太平洋系群の分布域が縮小しているという解説を行っています。魚がいる場所自体が変わってきているという見方です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "分布域が縮小しているというのは、これまでいた海域に魚がいなくなっているということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そういう理解でよいと思います。ただ、この点は研究者の解説として示されているもので、今後さらに詳しい分析が続く見込みです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いては秋サケです。8月18日に懇談会が開かれたそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。札幌市で全国秋サケ取引懇談会が開かれ、加工や流通の関係者およそ240人が集まりました。高値への対応策を話し合う場です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "高値ということは、やはり不漁が背景にあるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。北海道の秋サケ来遊予測は364万4700尾で、前年比46.9％減となっています。前年の半分近くまで落ち込む見通しです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "これはかなり大きな減少ですね。現場への影響はどう出ているんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "道内の定置業者による親魚の捕獲計画は、約48万尾不足する見込みとされています。卵をとるための親魚さえ足りない可能性があるということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "それは資源の先行きにも関わりそうな話ですね。対策は話し合われたんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "懇談会では、付加価値商品の開発などが対策として示されています。量が減る中で、価値を高めて乗り切ろうという方向性のようです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "次は明るい話題でしょうか。浜松市のうなぎ養殖です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。浜松市の西遠浄化センターで、下水処理の余熱を使った陸上養鰻の実証事業の成果が、8月20日に公表されました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "下水の熱を使ってうなぎを育てるというのは、ちょっと意外な組み合わせですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。処理の過程で出る余った熱と、既存の設備を活用する仕組みです。温水をかけ流しにして養殖しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "実際にどれくらいの成果が出ているんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "生産効率は、当初計画と比べて約30倍になったということです。養殖密度も、今月末には一般的な養鰻業の18％まで到達する見込みです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "30倍というのは、かなり大きな伸びに聞こえます。コストの面はどうでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "温水の消費量は、当初想定の5分の1に削減されました。コストも、タンク式の陸上養殖と比べて15から20％減という見通しです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "実際の規模で見ると、どのくらいの生産を目指しているんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "実規模の設備では、年間約90トンの生産を目標としています。二酸化炭素の削減効果は、年間約3500トンとなる可能性があるということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "うなぎの資源が心配される中で、こうした取り組みは注目されそうですね。最後はサンマですが、これは以前も気になっていた話題です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "少し前の話になりますが、8月18日に豊洲市場でサンマの初競りが行われています。最高値は1キロ約2万から3万円で、前年の8万8000円を大幅に下回りました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "値段が下がったということは、量が多く獲れたということでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうではなく、その時点で2026年の来遊量見通しは前年の約4割とされていました。1尾およそ100グラム程度の小型魚が多いという見方も出ていました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "その後、実際の漁の状況はどうなっているんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "北海道のサンマ棒受網漁では、8月25日までの累計水揚げ量が836.4トンとなりました。前年同期の2048.6トンから、59.1％の減少です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "見通しの通り、実際に不振が続いているということですね。値段の方はどうなっていますか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "魚体の大きさは前年並みですが、札幌市場の卸売価格は前年の約2倍に上昇しています。水産庁などが示した低水準の予測と、序盤の漁の状況が一致する形になっています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "マイワシもサケもサンマも、それぞれ厳しい数字が並んだ一方で、陸上養鰻のような新しい取り組みも出てきているということですね。以上、日本の水産のコーナーでした。"
+        }
+      ]
+    },
+    {
+      "id": "world_fisheries",
+      "title": "世界の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "「世界の水産」の時間です。今日はノルウェーの養殖ニュースを中心にお届けします。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。まずはノルウェーの陸上養殖企業アンドフィヨルド・サーモンの話題です。2026年8月26日時点で、育てているサケの総重量が1969トンに達したと発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "総重量、というのはどういうことですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "養殖の世界では、育てている魚全体の重さを「バイオマス」と呼びます。今どれくらいの量を育てているかを示す目安です。この会社は海ではなく陸上のプールで、水を流し込み続ける方式で育てています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "陸上で育てるサケ、ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。現在の生産能力は年間5000トン、工事中の分を含めると年間6000トンになります。K0という区画のプールでは、生存率が98.62パーセントという数字が出ています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "98.62パーセントというのは、高いんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "多くの魚が育つ過程で失われずに残っているという意味では、良い数字だと受け止められます。最初の成魚の収穫は2026年の第3四半期か第4四半期を予定しているとのことです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "この先、どれくらい大きくしていく計画なんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "長期計画では、まず年間1万1000トンを目指す段階があり、その後の拡張も含めると年間4万8000トン超という規模を掲げています。まだ計画段階の数字だという点は押さえておきたいところです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "陸上養殖が広がっていく流れの一つ、ということですね。続いてもノルウェー関連ですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。今度は養殖の飼料を作るBioMarという会社の話です。ノルウェーの沿岸で使う、飼料を運ぶ新しい船を発注したと発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "飼料を運ぶ専用の船、ということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。全長は約75メートル、積める重さは約4000トンです。エギル・ウルヴァン・レダライという会社と、長期の契約を結んでいます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "この船の特徴は何かあるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "電気で動く仕組みと、従来のディーゼルエンジンを組み合わせたハイブリッド方式です。荷物の積み下ろしのときなどにバッテリーを使うことで、燃料の消費を抑える狙いがあるとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "就航はいつごろになりそうですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "2029年の第2四半期を予定しています。少し先の話ですが、養殖業を支える物流の面でも、こうした環境への配慮が進んでいるという一つの例になります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "なるほど、育てる技術だけでなく運ぶ技術も変わってきているんですね。次はサーモンの価格の話でしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。ノルウェー統計局の発表によると、2026年第34週、生鮮サーモンの平均輸出価格は1キログラムあたり73.52ノルウェー・クローネでした。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "これは前の週と比べてどうなんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "前の週と比べて1.2パーセント上昇しています。大きな変動というほどではありませんが、じわりと値上がりした週だったと言えます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "冷凍のサーモンについても数字があるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。冷凍サーモンの輸出量は727トンで、価格は1キログラムあたり75.03ノルウェー・クローネでした。生鮮より少し高い水準です。なお、ぶり類については、世界的に比較できる週ごとの価格の指標は確認できていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ここからは少し前の話題に移ります。数日前に見つけて、まだ取り上げていなかったものですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、少し前の話になりますが、ドイツのオーシャンループという会社が、ジャイアントグルーパーという魚の陸上養殖で、商業販売を2026年4月から始めていました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ジャイアントグルーパー、あまり聞かない魚ですね。陸上養殖というのはさっきのサーモンと同じ方式ですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "近い考え方で、水を閉じた形で循環させながら育てる、いわゆるRAS養殖という方式です。既存の施設での生産量は2026年に約20トン、2027年には約40トンを見込んでいます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今後さらに増やす計画もあるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。新しく建設予定のキールの農場では年間約250トン、将来的にはグランカナリアの施設で年間約2000トンという計画が示されています。調達する資金は最大3850万ユーロとされています。ただ、こちらはあくまで計画上の数字で、実際に稼働している生産量ではない点には注意が必要です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "計画と実績は分けて聞いた方が良さそうですね。もう一つの少し前の話題は何でしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "少し前の話になりますが、カナダが米国産の水産物に25パーセントの対抗関税をかける方針を示しています。発効の予定日は2026年9月8日です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "対抗関税というのは、どういう意味の言葉ですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "相手の国が自国に課している関税などに対抗して、自分の国も同じように税を上乗せする措置のことです。今回は米国との通商交渉が中断したことを受けての方針とされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "どんな水産物が対象になるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "確認できた記事の範囲では、対象となる具体的な品目のリストまでは示されていません。ただ、もし米国産のサーモンやロブスターなどが含まれる場合、カナダ国内での米国産品の価格競争力が下がり、調達先の変更や物流の見直しにつながる可能性がある、という見方が出ています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "実際どうなるかは、9月8日以降の動きを見てみないと分からないですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。関税の対象がどこまで広がるか、続報を追っていきたいところです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今日は陸上養殖の広がりと、価格や関税をめぐる動きをお伝えしました。「世界の水産」でした。"
+        }
+      ]
+    },
+    {
+      "id": "genai",
+      "title": "生成AIの重大ニュース",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "生成AIの重大ニュース、今日は5件のトピックをお届けします。まずはGoogleの動画生成モデルからです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。Googleが2026年8月27日に、動画生成モデル『Gemini Omni 1.1 Flash』を発表しました。動画を自動で作るAIの新しいバージョンです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "動画生成AI、最近よく聞きますが、今回の目玉は何でしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "既存の動画の続きを作る『シーン延長』機能です。過去10秒分の映像を参照しながら、合計40秒まで動画を延ばせます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "40秒というのは、これまでと比べて長いんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこは材料に前の数字がなく比較は難しいのですが、開始と終了のフレームを指定して中間の映像を作る機能もあり、作り込みの自由度が上がっています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "画質の面ではどうですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "低解像度の360pでプレビューを確認してから、1080pや4Kで本番出力する流れになっています。Google側は360pのプレビューが720p生成より最大60パーセント速く、コストは3分の1になると説明しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "先に小さい画質で確認してから本番、という順番なんですね。無駄が減りそうです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そういう狙いだと思います。ただAPIの単価は今のところ確認できていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いて、SalesforceとAnthropicの提携です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "2026年8月27日、両社が『Claudeforce』という戦略的提携を発表しました。企業の営業活動をAIで支援する取り組みです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "具体的にはどんなことができるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "最初の製品『Salesforce in Claude』では、営業向けに事前に作られたスキルが37種類用意されています。商談準備やパイプラインの見直しなどを、Salesforceが持つリアルタイムの収益情報を使って自動化します。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "37種類というのは結構な数ですね。もう使えるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "一部のパイロット顧客向けにはすでに提供中です。より広く試せるオープンベータは2026年9月に開始予定で、追加のスキルは2026年第3四半期から提供されるとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "営業支援の分野でも、AIが実務に入り込んできているということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。生成AIの企業への導入が、実際の業務データと組み合わさる段階に来ているという見方ができそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "次はOpenAIのAPI価格改定です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "OpenAIがGPT-5.6シリーズのAPI価格を発表しました。開発者がAIを組み込む際に使う料金体系です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "具体的な数字を教えてください。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "GPT-5.6 Solは、入力100万トークンあたり4米ドル、出力は20米ドルで、これは2026年11月21日までのプロモーション価格です。GPT-5.6 Terraは入力2米ドル、出力12米ドル。GPT-5.6 Lunaは入力0.20米ドル、出力1.20米ドルとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "トークンという単位、あらためて言うと何でしたっけ。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "AIが文章を処理する際の最小単位で、100万トークンはおおよそ長い文章数百ページ分に相当する量です。モデルの種類によって価格に幅があるのが特徴です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "一般のChatGPT利用者の料金には関係あるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ChatGPTのサブスクリプション料金や利用枠には変更がないとされています。今回はあくまで開発者向けのAPI価格の話です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いて、Stability AIの資金調達のニュースです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "Stability AIが2026年8月25日、シリーズBという段階の資金調達で7600万米ドルを調達したと発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "これまでの累計だとどれくらいになるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "株式による調達2回と、転換社債を含めて累計2億3200万米ドルになったということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "どんな企業が投資しているんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "新規投資家として、Electronic Arts、Sony Music Group、Universal Music Group、Warner Music Group、AMD Venturesなどが名前に挙がっています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ゲーム会社や音楽会社が並んでいるのが目を引きますね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。資金はクリエイティブな制作向けの製品開発や応用研究に充てるとされていて、映像や音楽といった分野との関わりが深いことがうかがえます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "最後に、Anthropicの科学者向け支援策です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "Anthropicが2026年8月27日、科学研究を支援する取り組みの拡大を発表しました。世界の科学者向けに1万席を開放するというものです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "1万席というのは、無料で使えるということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "標準の席は1年間無料です。より利用上限が高いプレミアム席は月額15米ドルで、利用上限は標準の5倍とされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "研究プロジェクトごとに追加の支援もあるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、研究プロジェクトごとに最大5万米ドル相当のクレジットも申請可能です。対象分野も生物学と化学だけでなく、それ以外にも広げられています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "研究者にとっては、AIを使える範囲がぐっと広がるということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そう言えそうです。生成AI各社が科学研究の支援に力を入れる動きが、続いていることがうかがえます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "動画生成、企業向け提携、価格改定、資金調達、そして研究支援と、幅広い動きが出た一日でしたね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "それぞれの分野で生成AIの使われ方が具体化してきている印象です。次回もまた動きを追っていきましょう。"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "title": "AI時代の教育トレンド",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "今日は「AI時代の教育トレンド」のコーナーです。世界各国で子どもとAIの学び方をめぐる動きが出ています。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。今日は日本、フランス、中国の新しい話題と、少し前に出ていた香港と日本のガイドラインの話も合わせてお伝えします。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "まず日本の話題からです。小学校の「総合的な学習の時間」に変化があるそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "文部科学省の検討資料で、小学校の総合的な学習の時間に「情報の領域」という仮の名前の区分を設ける案が議論されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "情報の領域というのは、もう正式に決まったことなんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "いえ、現時点では正式な学習指導要領の改訂ではなく、あくまで検討段階です。今後の議論次第だと考えられます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "この案が出てきた背景には、どういう狙いがあるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "将来的な情報活用能力の強化策の一つとして、小学校でAIや情報の教育を体系立てて教える方向性が確認できます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "読み書きや計算の授業をAI教育に置き換える、といった話ではないんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこは確認できていません。あくまで総合学習の枠の中に新しい領域を検討している段階、というのが今の状況です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "保護者としては、まだ様子見の段階ということになりそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。正式決定にはまだ時間がかかりそうですし、今後どういう形になるか注目したいところです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "次はフランスです。小学校でのAI教育について方針が示されたそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "フランス教育省の2026年度方針で、小学校では生成AIを直接操作させない、という方向性が明確になりました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "直接操作しない、というのは具体的にどういうことなんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "小学校段階では、生成AIの仕組みや原理を、実際にAIを使わない活動を通じて学ぶという意味だそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "では実際に生成AIを使えるようになるのはいつからなんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "中学校4年級相当、日本でいう中学2年くらいからです。そこでは教師の監督と説明のもとで利用が認められます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "高校になると、また扱い方が変わるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。高校では教師が定めた学習の枠内で、より自律的な利用が認められるとされています。段階的に広げる形ですね。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "小学校の段階では、代わりに何を重視しているんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "メディアや情報の教育、デジタル能力、それからAIの仕組みそのものへの理解が重視されているということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "段階を踏んで少しずつ利用の自由度を広げていく、という考え方なんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そう捉えられます。年齢が上がるにつれて自律的に使わせていく設計になっているようです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いて中国です。就学前の子どもを対象にした調査が出たそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "2026年8月23日に公表された研究で、就学前児童向けのAIリテラシーを測る尺度が開発され、検証が行われました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "どれくらいの規模の調査なんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "調査対象は1万341人、そのうち分析対象は8512人と、就学前を対象にした調査としてはかなり大規模なものです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "結果はどうだったんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "能力が高いとされた群が50.59パーセント、十分な群が37.37パーセント、萌芽段階の群が12.04パーセントでした。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "半数以上が「能力が高い」というのは、大きい数字と考えていいんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "材料からは前年との比較は分かりませんが、多くの子どもが一定の理解を持っているという結果として読めます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "このリテラシーというのは、AIを上手に操作できるという意味なんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "いえ、そうではありません。AIと人間の区別や個人情報の保護、出力を疑う姿勢などを指しているということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "操作の上手さより、判断力のようなものを重視しているんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。ただこの研究は介入によって能力が伸びるかを示したものではない、という点は注意が必要です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ここからは少し前の話になりますが、香港の話題もお伝えします。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "香港教育局が2026年7月21日に、初等学校向けのAI教育カリキュラムの試行版を学校に配布しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "これは2026年度の新しい枠組みと関係があるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。2026年から27年の学年度から始まるAIリテラシーの枠組みと連動していて、8月には教員研修も行われます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "低学年の子どもが自由に生成AIを使えるようになる、というわけではないんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。あくまで学校が管理する形でのAI教育のカリキュラム化、という位置づけです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "フランスの方針とも近い考え方に見えますね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。学校の管理下で段階的に教えるという点は、共通しているように見えます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "もう一つ、少し前になりますが、日本の生成AIガイドラインの話題です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "2026年8月6日に公表された資料で、初等中等教育向けの生成AIガイドラインをバージョン2.1に改訂する方針が示されました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "どんな内容が検討されているんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "学習の過程を省略してしまう、いわゆるショートカットへの対応や、AI利用を前提にした評価の仕方が挙がっています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "教師とAIの役割分担、というのも含まれているんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。ただこちらも正式決定ではなく、公表時期も確認できていない段階です。今後の発表を待つ形になります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今日は日本、フランス、中国、香港と、各国の教育現場でのAIとの向き合い方を見てきました。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "どの国も、AIをどこまで、いつから、どう使わせるかを慎重に検討している段階だと感じます。今後も動きを追っていきたいと思います。"
+        }
+      ]
+    }
+  ],
+  "verification": {
+    "title": "大きな流れ",
+    "turns": [
+      {
+        "speaker": "analyst",
+        "text": "この論点は、AIをどう使わせるかより、使わせない時間をどう設計するかに重心が移りつつある、という話です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。これまでも支持する材料のほうが多かったのですが、今日出た材料でその見方が少し強まりました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "まずノルウェー政府が2026年6月19日、2026年秋の新学期から小学1年から7年生が学校でAIを自分で使うことを原則認めない方針を発表しました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。使わせ方を工夫する前に、そもそも使わせる場面自体を減らす、という設計になっています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "英国教育省が2026年7月13日に公表した幼児教育者向けの指針です。2歳未満は原則スクリーン利用を避け、2歳から5歳は1日1時間以内を目安とするよう示しました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。ノルウェーは学校での自己使用の可否、英国は家庭も含めた画面接触の時間、切り口は違いますが、どちらも触れる時間を先に決めるという設計です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "2026年8月23日に公表された中国の研究です。就学前の子供1万341人を対象に、AIリテラシーを測る尺度を検証しました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "子供がAIの仕組みや限界をどれだけ理解しているかを測る指標です。この研究では分析対象8512人のうち、能力が高いとされた群が約50.6%でした。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そう読める材料です。触れさせない設計を急ぐより、理解を育てる余地がある、という見方も成り立ちます。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "その可能性はあります。尺度の作りによって高得点が出やすいこともありますので、この一件だけで逆風と決めるのは早いと思います。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "利用制限を導入した地域が、効果がなかったとして方針そのものを撤回したときです。それが出れば、時間の設計を優先する流れは弱まります。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうですね。触れさせる方針を決める前に、触れさせない時間をどう作るか、という順番で考える材料が今日も積み上がった形です。"
+      }
+    ]
+  },
+  "discussion": {
+    "title": "きょうの論点",
+    "turns": [
+      {
+        "speaker": "navigator",
+        "text": "それでは最後のコーナー、きょうの論点です。今日の4つの話題を振り返りながら、つながりを考えていきます。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "今日は水産が2本、AIが2本という構成でした。まず水産の2つを並べると、対照的な姿が見えてきます。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "対照的、というと。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "釧路のマイワシは、まき網漁が解禁されても2カ月間水揚げがゼロでした。海の状況に左右される漁業の姿です。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "一方でノルウェーの方は。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "陸上のプールで育てる養殖です。海がどうなっているかに関係なく、生存率98.62パーセントという数字を出しています。環境を人間側でコントロールする発想です。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "これはpopoさんの仕事にも関係しそうですね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "鹿児島のぶり類養殖は海面養殖が中心だと思います。海の変化に左右されるリスクは、マイワシの話と同じ構造を持っていると言えそうです。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "陸上養殖という選択肢が、そのリスクへの一つの答えになっている、ということですか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そういう見方もできます。ただノルウェーの事例がそのまま鹿児島に当てはまるとは言い切れません。あくまで一つの参考事例として押さえておく、という程度だと思います。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "続いて生成AIと教育の話です。こちらもつながりはありますか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "こちらは共通の軸として、AIを使いこなす側の体制づくりという点があります。Googleの動画生成モデルは業務での使い方が広がる技術ですし、教育の話は使いこなす人を育てる側の話です。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "Gemini Omni 1.1 Flashの話、popoさんの業務に活かせそうな部分はありますか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "輸出向けのプロモーション動画作りに応用できる可能性はあります。シーン延長機能で既存の映像を伸ばせる点は、素材が少ない場面で役立つかもしれません。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "コストが抑えられる、という説明もありましたね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "360pのプレビューが720p生成より最大60パーセント速く、コストは3分の1になるとGoogle側は説明しています。業務の仕組み化を進める上で、試作を安く回せる点は参考になりそうです。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "では教育の話の方は、どう位置づけられますか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "小学校の総合的な学習の時間に、情報の領域という仮の名前の区分を設ける案が議論されています。まだ検討段階ですが、方向性としては情報活用能力の強化があります。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "生まれたばかりのお子さんがいるpopoさんにとっては、遠い未来の話でもなさそうですね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "10年後、20年後にこの子が学校に通う頃には、AIを扱う教育がもっと当たり前になっているという見方が出ています。今の検討段階の議論が、将来の教育の土台になっていく可能性はあります。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "今日は水産2本、AI2本と、それぞれのペアの中でつながりが見える一日でしたね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうですね。水産では環境依存とコントロールの対比、AIでは使う技術と育てる教育という対比でした。両方を横断する一本の線というより、それぞれの対比を押さえておくのがよさそうです。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "以上、きょうの論点でした。今日の音声ニュースはここまでです。"
+      }
+    ]
+  },
+  "opening": [
+    {
+      "speaker": "navigator",
+      "text": "皆さん、こんにちは。2026年8月29日の音声ニュースをお届けします。"
+    },
+    {
+      "speaker": "navigator",
+      "text": "盛りだくさんですね。順番に見ていきましょう。"
+    }
+  ],
+  "closing": [
+    {
+      "speaker": "navigator",
+      "text": "今日のニュースは以上です。"
+    }
+  ],
+  "highlights": [
+    "釧路港のマイワシ漁、解禁後約2カ月水揚げゼロが続いた",
+    "ノルウェーの陸上養殖サケ、総重量1969トンに到達",
+    "Googleが動画生成AI新版Gemini Omni 1.1 Flashを発表"
+  ],
+  "requests": "",
+  "hypothesis_checks": [
+    {
+      "id": "L-6",
+      "theme": "education",
+      "statement": "幼児から小学校段階のAI対応は、使わせ方の工夫より、使わせない時間をどう設計するかに寄りつつある。",
+      "before": 0.5,
+      "after": 0.731,
+      "evidence_today": [
+        {
+          "relation": "support",
+          "claim": "ノルウェー政府は2026年6月19日、2026年秋の新学期から小学1~7年生の児童が学校でAIを自ら使うことを原則として認めない方針を発表した。",
+          "source_url": "https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "英国教育省は2026年7月13日公表の幼児教育者向け指針で、2歳未満は原則スクリーン利用を避け、2~5歳は1日1時間以内を目安とするよう示した。",
+          "source_url": "https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/screen-use",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "2026年8月23日公表の中国の研究で、就学前児童10,341人を対象にAIリテラシー尺度（CPALS）を検証し、分析対象8,512人のうち「能力が高い」群が50.59%だった。",
+          "source_url": "https://www.tandfonline.com/doi/full/10.1080/10409289.2026.2716775",
+          "origin": "normal"
+        }
+      ],
+      "support": 2,
+      "contradict": 1,
+      "falsifier_hits": [],
+      "status": "active",
+      "moved": null,
+      "already_said": [],
+      "axis": "横断",
+      "falsifier_texts": [
+        "低学年からのAI活用を推進する制度やカリキュラムが広がる",
+        "利用制限を導入した地域が、効果なしとして方針を撤回する"
+      ],
+      "decision_link": "家庭で、AIに触れさせる方針と触れさせない時間の設計のどちらを先に決めるか",
+      "stance": "支持する材料のほうが多い",
+      "shift": "今日の材料で、この見方は少し強まりました",
+      "on_air_count": 1
+    }
+  ],
+  "aired_items": [
+    {
+      "id": "76f9eeec3041",
+      "theme": "jp_fisheries",
+      "headline": "釧路港マイワシ水揚げ、解禁後約2カ月間ゼロが継続",
+      "source_url": "https://www.fnn.jp/articles/-/1099274",
+      "source_title": "FNNプライムオンライン",
+      "from_stock": false
+    },
+    {
+      "id": "4662207ec8ba",
+      "theme": "jp_fisheries",
+      "headline": "秋サケ不漁で全国取引懇談会、親魚48万尾不足見込み",
+      "source_url": "https://suisan.jp/article-22523.html",
+      "source_title": "水産新聞",
+      "from_stock": false
+    },
+    {
+      "id": "80243d2a7702",
+      "theme": "jp_fisheries",
+      "headline": "浜松市で下水熱活用の陸上養鰻、生産効率30倍達成",
+      "source_url": "https://www.veolia.jp/ja/newsroom/news-20260820",
+      "source_title": "Veolia Japan ニュースリリース",
+      "from_stock": false
+    },
+    {
+      "id": "ec244db61537",
+      "theme": "jp_fisheries",
+      "headline": "サンマ水揚げ、8月25日までで前年比59％減の836トン",
+      "source_url": "https://www.suikei.co.jp/archives/126711",
+      "source_title": "日刊水産経済新聞",
+      "from_stock": false
+    },
+    {
+      "id": "f0c48b11e286",
+      "theme": "jp_fisheries",
+      "headline": "サンマ初競り価格が前年から大幅下落、資源量は低水準見通し",
+      "source_url": "https://www.htb.co.jp/news/archives_39019.html",
+      "source_title": "HTB北海道テレビ",
+      "from_stock": true
+    },
+    {
+      "id": "589d8499db76",
+      "theme": "world_fisheries",
+      "headline": "ノルウェーAndfjord Salmon、陸上養殖バイオマス2000トン迫る",
+      "source_url": "https://www.investing.com/news/company-news/andfjord-salmon-q2-2026-slides-revenue-returns-biomass-nears-2000-tonnes-93CH-4878444",
+      "source_title": "Investing.com",
+      "from_stock": false
+    },
+    {
+      "id": "3f6b155c5578",
+      "theme": "world_fisheries",
+      "headline": "BioMar、ノルウェー沿岸向けハイブリッド飼料運搬船を新造契約",
+      "source_url": "https://www.biomar.com/insights/insights-hub/new-feed-vessel-to-strengthen-norwegian-logistics-for-biomar",
+      "source_title": "BioMar",
+      "from_stock": false
+    },
+    {
+      "id": "13a160e59dad",
+      "theme": "world_fisheries",
+      "headline": "ノルウェー産生鮮サーモン、第34週価格は1kg73.52クローネ",
+      "source_url": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks/artikler/laksepris",
+      "source_title": "ノルウェー統計局",
+      "from_stock": false
+    },
+    {
+      "id": "f5d8e2f244a2",
+      "theme": "world_fisheries",
+      "headline": "独Oceanloop、ジャイアントグルーパーの陸上養殖を商業販売開始",
+      "source_url": "https://perishablenews.com/seafood/oceanloop-secures-funding-to-scale-land-based-aquaculture-technology-and-europes-first-farmed-giant-grouper/",
+      "source_title": "Perishable News",
+      "from_stock": true
+    },
+    {
+      "id": "6bffaf40a4e5",
+      "theme": "world_fisheries",
+      "headline": "カナダ、米国産水産物に25%の対抗関税を9月8日に導入予定",
+      "source_url": "https://weareaquaculture.com/",
+      "source_title": "We Are Aquaculture",
+      "from_stock": true
+    },
+    {
+      "id": "7f5d92ada70f",
+      "theme": "genai",
+      "headline": "Google、動画生成モデル「Gemini Omni 1.1 Flash」を発表",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "source_title": "Google Blog",
+      "from_stock": false
+    },
+    {
+      "id": "5666ca1f967e",
+      "theme": "genai",
+      "headline": "SalesforceとAnthropic、企業向け提携「Claudeforce」を発表",
+      "source_url": "https://www.salesforce.com/claudeforce/",
+      "source_title": "Salesforce公式",
+      "from_stock": false
+    },
+    {
+      "id": "2142ca3f5123",
+      "theme": "genai",
+      "headline": "OpenAI、GPT-5.6シリーズのAPI価格を改定",
+      "source_url": "https://community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726",
+      "source_title": "OpenAI Community",
+      "from_stock": false
+    },
+    {
+      "id": "09b8c4e3d09c",
+      "theme": "genai",
+      "headline": "Stability AI、シリーズBで7600万米ドルを調達",
+      "source_url": "https://stability.ai/news-updates/stability-ai-latest-funding-backed-by-entertainment-industry-biggest-names",
+      "source_title": "Stability AI公式",
+      "from_stock": false
+    },
+    {
+      "id": "a82fbe5046e0",
+      "theme": "genai",
+      "headline": "Anthropic、科学者向けClaude無償枠を1万席に拡大",
+      "source_url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+      "source_title": "Anthropic公式",
+      "from_stock": false
+    },
+    {
+      "id": "8ecbc73e39d2",
+      "theme": "education",
+      "headline": "文科省、小学校「総合的な学習」に情報領域新設を検討",
+      "source_url": "https://reseed.resemom.jp/article/2026/07/03/13600.html",
+      "source_title": "リセマム",
+      "from_stock": false
+    },
+    {
+      "id": "4f02e5a53d7e",
+      "theme": "education",
+      "headline": "フランス、小学校では生成AIを直接操作させない方針を明確化",
+      "source_url": "https://www.education.gouv.fr/sites/default/files/document/rentree-scolaire-2026-2027-l-ecole-au-coeur-519805.pdf",
+      "source_title": "フランス教育省",
+      "from_stock": false
+    },
+    {
+      "id": "9d28e3c2f277",
+      "theme": "education",
+      "headline": "中国、就学前児童1万人超対象にAIリテラシー尺度を検証",
+      "source_url": "https://www.tandfonline.com/doi/full/10.1080/10409289.2026.2716775",
+      "source_title": "Early Education and Development誌",
+      "from_stock": false
+    },
+    {
+      "id": "4b5d84eebdd9",
+      "theme": "education",
+      "headline": "香港教育局、小学校向けAIカリキュラム試行版を公表",
+      "source_url": "https://applications.edb.gov.hk/circular/upload/EDBCM/EDBCM26113E.pdf",
+      "source_title": "香港教育局",
+      "from_stock": true
+    },
+    {
+      "id": "7e6747fcb1d5",
+      "theme": "education",
+      "headline": "文科省、生成AIガイドラインVer.2.1への改訂を検討",
+      "source_url": "https://www.nier.go.jp/06_jigyou/symposium/_uploads/2026/08/906a92213c5ed13df2363bd2a9a20b4f91a74cdd.pdf",
+      "source_title": "国立教育政策研究所",
+      "from_stock": true
+    }
+  ],
+  "sources": [
+    {
+      "segment": "日本の水産",
+      "title": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/1099274"
+    },
+    {
+      "segment": "日本の水産",
+      "title": "水産新聞",
+      "url": "https://suisan.jp/article-22523.html"
+    },
+    {
+      "segment": "日本の水産",
+      "title": "Veolia Japan ニュースリリース",
+      "url": "https://www.veolia.jp/ja/newsroom/news-20260820"
+    },
+    {
+      "segment": "日本の水産",
+      "title": "日刊水産経済新聞",
+      "url": "https://www.suikei.co.jp/archives/126711"
+    },
+    {
+      "segment": "日本の水産",
+      "title": "HTB北海道テレビ",
+      "url": "https://www.htb.co.jp/news/archives_39019.html"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "Investing.com",
+      "url": "https://www.investing.com/news/company-news/andfjord-salmon-q2-2026-slides-revenue-returns-biomass-nears-2000-tonnes-93CH-4878444"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "BioMar",
+      "url": "https://www.biomar.com/insights/insights-hub/new-feed-vessel-to-strengthen-norwegian-logistics-for-biomar"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "ノルウェー統計局",
+      "url": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks/artikler/laksepris"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "Perishable News",
+      "url": "https://perishablenews.com/seafood/oceanloop-secures-funding-to-scale-land-based-aquaculture-technology-and-europes-first-farmed-giant-grouper/"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "We Are Aquaculture",
+      "url": "https://weareaquaculture.com/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "Salesforce公式",
+      "url": "https://www.salesforce.com/claudeforce/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "OpenAI Community",
+      "url": "https://community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "Stability AI公式",
+      "url": "https://stability.ai/news-updates/stability-ai-latest-funding-backed-by-entertainment-industry-biggest-names"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "Anthropic公式",
+      "url": "https://www.anthropic.com/news/expanding-support-for-scientists"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "リセマム",
+      "url": "https://reseed.resemom.jp/article/2026/07/03/13600.html"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "フランス教育省",
+      "url": "https://www.education.gouv.fr/sites/default/files/document/rentree-scolaire-2026-2027-l-ecole-au-coeur-519805.pdf"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "Early Education and Development誌",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/10409289.2026.2716775"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "香港教育局",
+      "url": "https://applications.edb.gov.hk/circular/upload/EDBCM/EDBCM26113E.pdf"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "国立教育政策研究所",
+      "url": "https://www.nier.go.jp/06_jigyou/symposium/_uploads/2026/08/906a92213c5ed13df2363bd2a9a20b4f91a74cdd.pdf"
+    }
+  ]
+}

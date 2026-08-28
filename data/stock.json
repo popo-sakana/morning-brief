@@ -183,7 +183,9 @@
    "published": "2026-08-18",
    "importance": 1,
    "first_seen": "2026-08-26",
-   "aired": []
+   "aired": [
+    "2026-08-29"
+   ]
   },
   {
    "id": "84ee234fbb11",
@@ -453,7 +455,9 @@
    "published": "2026-07-21",
    "importance": 2,
    "first_seen": "2026-08-26",
-   "aired": []
+   "aired": [
+    "2026-08-29"
+   ]
   },
   {
    "id": "7e6747fcb1d5",
@@ -466,7 +470,9 @@
    "published": "2026-08-06",
    "importance": 2,
    "first_seen": "2026-08-26",
-   "aired": []
+   "aired": [
+    "2026-08-29"
+   ]
   },
   {
    "id": "25e769618c04",
@@ -576,7 +582,9 @@
    "published": "",
    "importance": 2,
    "first_seen": "2026-08-27",
-   "aired": []
+   "aired": [
+    "2026-08-29"
+   ]
   },
   {
    "id": "fe37f6ab59b3",
@@ -648,7 +656,9 @@
    "published": "",
    "importance": 2,
    "first_seen": "2026-08-27",
-   "aired": []
+   "aired": [
+    "2026-08-29"
+   ]
   },
   {
    "id": "0e5d876794ec",
@@ -1087,6 +1097,296 @@
    "first_seen": "2026-08-28",
    "aired": [
     "2026-08-28"
+   ]
+  },
+  {
+   "id": "80243d2a7702",
+   "theme": "jp_fisheries",
+   "headline": "浜松市で下水熱活用の陸上養鰻、生産効率30倍達成",
+   "detail": "浜松市西遠浄化センターで、下水処理の余剰熱と既存設備を活用した「温水かけ流し式陸上養鰻」の実証事業成果が2026年8月20日に公表された。生産効率は当初計画比で約30倍、養殖密度は今月末に一般的な養鰻業の18％へ到達見込み。温水消費量は当初想定の5分の1に削減され、コストはタンク式陸上養殖比で約15〜20％減の見通し。実規模設備では年間約90トンの生産を目標とし、二酸化炭素削減効果は年間約3500トンとなる可能性がある。",
+   "numbers": [
+    "生産効率約30倍",
+    "養殖密度18%(目標)",
+    "温水消費量1/5に削減",
+    "コスト15〜20%減見通し",
+    "年間生産目標90トン",
+    "CO2削減年間3500トン"
+   ],
+   "source_url": "https://www.veolia.jp/ja/newsroom/news-20260820",
+   "source_title": "Veolia Japan ニュースリリース",
+   "published": "2026-08-20",
+   "importance": 2,
+   "first_seen": "2026-08-29",
+   "aired": [
+    "2026-08-29"
+   ]
+  },
+  {
+   "id": "ec244db61537",
+   "theme": "jp_fisheries",
+   "headline": "サンマ水揚げ、8月25日までで前年比59％減の836トン",
+   "detail": "北海道のサンマ棒受網漁で、2026年8月25日までの累計水揚げ量は836.4トンとなり、前年同期の2048.6トンから59.1％減少した。魚体は前年並みだが、札幌市場の卸売価格は前年の約2倍に上昇している。水産庁などが示した2026年来遊量の低水準予測と、実際の序盤漁の不振が一致する形となっている。",
+   "numbers": [
+    "累計水揚げ836.4トン",
+    "前年同期2048.6トン",
+    "前年比59.1%減",
+    "卸売価格前年比約2倍"
+   ],
+   "source_url": "https://www.suikei.co.jp/archives/126711",
+   "source_title": "日刊水産経済新聞",
+   "published": "2026-08-25",
+   "importance": 2,
+   "first_seen": "2026-08-29",
+   "aired": [
+    "2026-08-29"
+   ]
+  },
+  {
+   "id": "76f9eeec3041",
+   "theme": "jp_fisheries",
+   "headline": "釧路港マイワシ水揚げ、解禁後約2カ月間ゼロが継続",
+   "detail": "北海道釧路港では2026年6月16日のマイワシまき網漁解禁後、8月19日まで約2カ月間水揚げがゼロの状態が続いた。7月の水揚げ量は64トンで前年同月比99.7％減、水揚げ金額は4077万円で前年同月比96.4％減だった。水産研究・教育機構の研究者は8月25日、マイワシ太平洋系群の分布域縮小について解説した。",
+   "numbers": [
+    "水揚げゼロ期間約2カ月(6/16〜8/19)",
+    "7月水揚げ64トン",
+    "前年同月比99.7%減",
+    "7月水揚げ金額4077万円",
+    "前年同月比96.4%減"
+   ],
+   "source_url": "https://www.fnn.jp/articles/-/1099274",
+   "source_title": "FNNプライムオンライン",
+   "published": "2026-08-25",
+   "importance": 3,
+   "first_seen": "2026-08-29",
+   "aired": [
+    "2026-08-29"
+   ]
+  },
+  {
+   "id": "4662207ec8ba",
+   "theme": "jp_fisheries",
+   "headline": "秋サケ不漁で全国取引懇談会、親魚48万尾不足見込み",
+   "detail": "2026年8月18日、札幌市で全国秋サケ取引懇談会が開かれ、約240人の加工・流通関係者が高値への対応策を協議した。北海道の秋サケ来遊予測は364万4700尾で前年比46.9％減、道内定置業者の親魚捕獲計画は約48万尾不足する見込みとされた。付加価値商品の開発などが対策として示された。",
+   "numbers": [
+    "来遊予測364万4700尾",
+    "前年比46.9%減",
+    "懇談会参加者約240人",
+    "親魚不足見込み約48万尾"
+   ],
+   "source_url": "https://suisan.jp/article-22523.html",
+   "source_title": "水産新聞",
+   "published": "2026-08-18",
+   "importance": 2,
+   "first_seen": "2026-08-29",
+   "aired": [
+    "2026-08-29"
+   ]
+  },
+  {
+   "id": "589d8499db76",
+   "theme": "world_fisheries",
+   "headline": "ノルウェーAndfjord Salmon、陸上養殖バイオマス2000トン迫る",
+   "detail": "ノルウェーの陸上フロースルー養殖企業Andfjord Salmonは2026年8月26日時点で、立体バイオマスが1969トンに達したと発表した。現在の操業生産能力は年間5000トン、工事中を含む総能力は年間6000トン。K0プールの累積生存率は98.62％で、初回成魚収穫は2026年第3四半期または第4四半期を予定している。長期計画ではPhase 1で年間1万1000トン、後続フェーズを含め4万8000トン超を目指すとしている。",
+   "numbers": [
+    "バイオマス1969トン",
+    "現行生産能力年間5000トン",
+    "総能力年間6000トン",
+    "K0生存率98.62%",
+    "長期計画4万8000トン超"
+   ],
+   "source_url": "https://www.investing.com/news/company-news/andfjord-salmon-q2-2026-slides-revenue-returns-biomass-nears-2000-tonnes-93CH-4878444",
+   "source_title": "Investing.com",
+   "published": "2026-08-26",
+   "importance": 2,
+   "first_seen": "2026-08-29",
+   "aired": [
+    "2026-08-29"
+   ]
+  },
+  {
+   "id": "13a160e59dad",
+   "theme": "world_fisheries",
+   "headline": "ノルウェー産生鮮サーモン、第34週価格は1kg73.52クローネ",
+   "detail": "ノルウェー統計局によると、2026年第34週の生鮮サーモン平均輸出価格は1キログラム当たり73.52ノルウェー・クローネで、前週比1.2％上昇した。冷凍サーモンの輸出量は727トン、価格は1キログラム当たり75.03ノルウェー・クローネだった。ぶり類については世界的に比較可能な週次価格指標は確認できていない。",
+   "numbers": [
+    "生鮮サーモン73.52クローネ/kg",
+    "前週比1.2%上昇",
+    "冷凍サーモン輸出量727トン",
+    "冷凍サーモン75.03クローネ/kg"
+   ],
+   "source_url": "https://www.ssb.no/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks/artikler/laksepris",
+   "source_title": "ノルウェー統計局",
+   "published": "2026-08-21",
+   "importance": 1,
+   "first_seen": "2026-08-29",
+   "aired": [
+    "2026-08-29"
+   ]
+  },
+  {
+   "id": "3f6b155c5578",
+   "theme": "world_fisheries",
+   "headline": "BioMar、ノルウェー沿岸向けハイブリッド飼料運搬船を新造契約",
+   "detail": "養殖飼料メーカーBioMarは、ノルウェー沿岸向け飼料輸送能力を高めるため、Egil Ulvan Rederiと新造船の長期契約を締結したと発表した。船は全長約75メートル、載貨重量約4000トンで、電気推進とディーゼル機械推進のハイブリッド方式を採用し、2029年第2四半期の就航を予定している。バッテリー搭載により荷役時などの燃料消費抑制も図る。",
+   "numbers": [
+    "全長約75m",
+    "載貨重量約4000トン",
+    "就航予定2029年第2四半期"
+   ],
+   "source_url": "https://www.biomar.com/insights/insights-hub/new-feed-vessel-to-strengthen-norwegian-logistics-for-biomar",
+   "source_title": "BioMar",
+   "published": "2026-08-01",
+   "importance": 1,
+   "first_seen": "2026-08-29",
+   "aired": [
+    "2026-08-29"
+   ]
+  },
+  {
+   "id": "7f5d92ada70f",
+   "theme": "genai",
+   "headline": "Google、動画生成モデル「Gemini Omni 1.1 Flash」を発表",
+   "detail": "Googleは2026年8月27日、動画生成モデル「Gemini Omni 1.1 Flash」を発表した。既存動画の続きを生成する「シーン延長」機能で最大10秒の過去映像参照により合計40秒まで延長可能なほか、開始・終了フレーム指定による中間映像生成、360p低解像度プレビューから1080p・4K出力への対応などを備える。Googleは360pプレビューが720p生成より最大60％高速でコストが3分の1になると説明している。API単価は確認できていない。",
+   "numbers": [
+    "最大40秒まで延長",
+    "10秒単位",
+    "360pは720p比60%高速",
+    "コスト1/3"
+   ],
+   "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+   "source_title": "Google Blog",
+   "published": "2026-08-27",
+   "importance": 2,
+   "first_seen": "2026-08-29",
+   "aired": [
+    "2026-08-29"
+   ]
+  },
+  {
+   "id": "5666ca1f967e",
+   "theme": "genai",
+   "headline": "SalesforceとAnthropic、企業向け提携「Claudeforce」を発表",
+   "detail": "SalesforceとAnthropicは2026年8月27日、戦略的提携拡大として「Claudeforce」を発表した。最初の製品「Salesforce in Claude」は営業向け事前構築済みスキル37種類を提供し、商談準備やパイプラインレビューなどをSalesforceのリアルタイム収益情報を用いて自動化する。一部パイロット顧客向けに提供中で、オープンベータは2026年9月開始予定。追加スキルは2026年第3四半期から提供予定。",
+   "numbers": [
+    "事前構築済みスキル37種類",
+    "オープンベータ2026年9月開始"
+   ],
+   "source_url": "https://www.salesforce.com/claudeforce/",
+   "source_title": "Salesforce公式",
+   "published": "2026-08-27",
+   "importance": 2,
+   "first_seen": "2026-08-29",
+   "aired": [
+    "2026-08-29"
+   ]
+  },
+  {
+   "id": "a82fbe5046e0",
+   "theme": "genai",
+   "headline": "Anthropic、科学者向けClaude無償枠を1万席に拡大",
+   "detail": "Anthropicは2026年8月27日、科学研究向け支援策の拡大を発表した。世界の科学者向けに1万席を開放し、標準席は1年間無料、プレミアム席は利用上限を標準の5倍として月額15米ドルとする。研究プロジェクトごとに最大5万米ドル相当のクレジットも申請可能で、対象分野を生物学・化学以外にも拡大した。",
+   "numbers": [
+    "1万席開放",
+    "プレミアム席月額15米ドル",
+    "上限標準の5倍",
+    "最大5万米ドル相当のクレジット"
+   ],
+   "source_url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+   "source_title": "Anthropic公式",
+   "published": "2026-08-27",
+   "importance": 1,
+   "first_seen": "2026-08-29",
+   "aired": [
+    "2026-08-29"
+   ]
+  },
+  {
+   "id": "09b8c4e3d09c",
+   "theme": "genai",
+   "headline": "Stability AI、シリーズBで7600万米ドルを調達",
+   "detail": "Stability AIは2026年8月25日、シリーズBで7600万米ドルの新規資金調達を発表した。累計調達額は株式ラウンド2回と転換社債を含め2億3200万米ドルとなった。新規投資家にはElectronic Arts、Sony Music Group、Universal Music Group、Warner Music Group、AMD Venturesなどが含まれ、資金はクリエイティブ制作向け製品群の開発や応用研究に充てられる。",
+   "numbers": [
+    "調達額7600万米ドル",
+    "累計調達額2億3200万米ドル"
+   ],
+   "source_url": "https://stability.ai/news-updates/stability-ai-latest-funding-backed-by-entertainment-industry-biggest-names",
+   "source_title": "Stability AI公式",
+   "published": "2026-08-25",
+   "importance": 1,
+   "first_seen": "2026-08-29",
+   "aired": [
+    "2026-08-29"
+   ]
+  },
+  {
+   "id": "2142ca3f5123",
+   "theme": "genai",
+   "headline": "OpenAI、GPT-5.6シリーズのAPI価格を改定",
+   "detail": "OpenAIはGPT-5.6 SolのAPI価格について、入力100万トークンあたり4米ドル、キャッシュ入力0.40米ドル、出力20米ドルとするプロモーション価格を2026年11月21日まで適用すると発表した。GPT-5.6 Terraは入力2米ドル・出力12米ドル、GPT-5.6 Lunaは入力0.20米ドル・出力1.20米ドルとされている。ChatGPTのサブスクリプション料金や利用枠に変更はないとされる。",
+   "numbers": [
+    "Sol入力4米ドル/100万トークン",
+    "Sol出力20米ドル/100万トークン",
+    "Terra入力2米ドル/出力12米ドル",
+    "Luna入力0.20米ドル/出力1.20米ドル"
+   ],
+   "source_url": "https://community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726",
+   "source_title": "OpenAI Community",
+   "published": "2026-08-21",
+   "importance": 1,
+   "first_seen": "2026-08-29",
+   "aired": [
+    "2026-08-29"
+   ]
+  },
+  {
+   "id": "4f02e5a53d7e",
+   "theme": "education",
+   "headline": "フランス、小学校では生成AIを直接操作させない方針を明確化",
+   "detail": "フランス教育省の2026年度方針では、小学校ではAIの基本原理を、生成AIを直接操作しない活動で学ぶとされた。生成AIの授業内利用は中学校4年級相当（日本の中学2年程度）以降で教師の監督・説明のもとで可能とし、高校では教師が定めた学習枠内でより自律的な利用を認めるとしている。小学校段階ではメディア・情報教育やデジタル能力、AIの仕組みの理解が重視される。",
+   "numbers": [],
+   "source_url": "https://www.education.gouv.fr/sites/default/files/document/rentree-scolaire-2026-2027-l-ecole-au-coeur-519805.pdf",
+   "source_title": "フランス教育省",
+   "published": "2026-08-01",
+   "importance": 2,
+   "first_seen": "2026-08-29",
+   "aired": [
+    "2026-08-29"
+   ]
+  },
+  {
+   "id": "9d28e3c2f277",
+   "theme": "education",
+   "headline": "中国、就学前児童1万人超対象にAIリテラシー尺度を検証",
+   "detail": "2026年8月23日に公表された中国の研究で、就学前児童向けAIリテラシー尺度（CPALS）が開発され、1万341人を対象に信頼性・妥当性が検証された。分析対象の8512人のうち、「能力が高い」群が50.59％、「十分」群が37.37％、「萌芽」群が12.04％だった。研究はAIリテラシーを操作技能ではなく、AIと人間の区別、個人情報保護、出力への疑問、主体性維持として捉えている。因果効果を示す介入研究ではない。",
+   "numbers": [
+    "調査対象10341人",
+    "分析対象8512人",
+    "能力が高い群50.59%",
+    "十分群37.37%",
+    "萌芽群12.04%"
+   ],
+   "source_url": "https://www.tandfonline.com/doi/full/10.1080/10409289.2026.2716775",
+   "source_title": "Early Education and Development誌",
+   "published": "2026-08-23",
+   "importance": 2,
+   "first_seen": "2026-08-29",
+   "aired": [
+    "2026-08-29"
+   ]
+  },
+  {
+   "id": "8ecbc73e39d2",
+   "theme": "education",
+   "headline": "文科省、小学校「総合的な学習」に情報領域新設を検討",
+   "detail": "文部科学省の検討資料では、将来的な情報活用能力の強化策として、小学校の「総合的な学習の時間」に「情報の領域（仮称）」を設ける案が議論されている。これは現時点で正式な学習指導要領改訂ではなく検討段階であり、小学校でAI・情報教育を体系化する方向性は確認できるが、新教科・新領域の正式決定や、読み書き・計算をAI教育に置き換える方針は確認されていない。",
+   "numbers": [],
+   "source_url": "https://reseed.resemom.jp/article/2026/07/03/13600.html",
+   "source_title": "リセマム",
+   "published": "2026-07-03",
+   "importance": 3,
+   "first_seen": "2026-08-29",
+   "aired": [
+    "2026-08-29"
    ]
   }
  ]

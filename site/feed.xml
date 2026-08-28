@@ -7,11 +7,21 @@
     <link>https://popo-sakana.github.io/morning-brief/</link>
     <description>水産・生成AI・教育の4テーマを毎朝30分で</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Aug 2026 02:43:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:24:18 +0000</lastBuildDate>
     <itunes:author>popo</itunes:author>
     <itunes:summary>水産・生成AI・教育の4テーマを毎朝30分で</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+    <item>
+      <title>8月29日のブリーフ</title>
+      <description><![CDATA[・釧路港のマイワシ漁、解禁後約2カ月水揚げゼロが続いた<br>・ノルウェーの陸上養殖サケ、総重量1969トンに到達<br>・Googleが動画生成AI新版Gemini Omni 1.1 Flashを発表]]></description>
+      <pubDate>Sat, 29 Aug 2026 07:00:17 +0900</pubDate>
+      <guid isPermaLink="false">260829_morningbrief_v1_AI</guid>
+      <enclosure url="https://github.com/popo-sakana/morning-brief/releases/download/260829_morningbrief_v1_AI/260829_morningbrief_v1_AI.mp3" length="8004204" type="audio/mpeg"/>
+      <itunes:duration>1925</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://popo-sakana.github.io/morning-brief/episodes/260829_morningbrief_v1_AI.html</link>
+    </item>
     <item>
       <title>8月28日のブリーフ</title>
       <description><![CDATA[・くら寿司子会社がブリ養殖にAI給餌システムを導入<br>・農水産物輸出額、上半期で過去最高の8977億円<br>・生成AIと教育、国内外で相次ぐ新たな動き]]></description>

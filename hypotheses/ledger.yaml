@@ -13,7 +13,7 @@ hypotheses:
   axis: 生産
   statement: 養殖の競争力の源泉が、規模と餌のコスト勝負から、種苗・育種と斃死率のコントロールへ移りつつある。
   created: '2026-08-27'
-  confidence: 0.273
+  confidence: 0.455
   status: active
   decision_link: 養殖案件で、飼料の置き換えと生残率の改善のどちらを提案の軸に置くか
   falsifiers:
@@ -62,8 +62,14 @@ hypotheses:
     tier: 1
     origin: normal
     aired: true
+  - date: '2026-08-29'
+    relation: support
+    claim: 水産研究・教育機構は高成長ブリ人工種苗の育種で、天然種苗由来魚に比べ成長を1.33倍にし、2029年に実用化する計画を2026年8月19日のセミナーで示した。
+    source_url: https://www.fra.go.jp/home/cooperation/platform/seriola_workshop/files/oda.pdf
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-08-27'
+    last_support: '2026-08-29'
     last_contradiction: '2026-08-27'
     last_on_air: '2026-08-27'
     on_air_count: 1
@@ -77,7 +83,7 @@ hypotheses:
   axis: 流通
   statement: 水産物の流通は、鮮度を遠くへ運ぶ方向と、需要地の近くで作って加工する方向へ分岐している。
   created: '2026-08-27'
-  confidence: 0.724
+  confidence: 0.877
   status: active
   decision_link: 輸出を伸ばすのか、現地生産・現地加工に投資するのか
   falsifiers:
@@ -157,8 +163,32 @@ hypotheses:
     tier: 1
     origin: normal
     aired: true
+  - date: '2026-08-29'
+    relation: support
+    claim: 中国南方航空はオスロと上海浦東を結ぶ直行貨物便を2026年8月19日に開始し、週2便・週約200トンのノルウェー産サーモン輸送能力を持つ。
+    source_url: https://seafoodnews.com/Story/1352456/China-Southern-Launches-Direct-Oslo-Shanghai-Cargo-Route-for-Norwegian-Salmon
+    tier: 2
+    origin: normal
+  - date: '2026-08-29'
+    relation: support
+    claim: Nordic Aqua Partnersの中国・寧波の陸上養殖施設は、2026年第2四半期の商業収穫量が1,362トン（HOG重量、前年同期756トン）、6月末バイオマスが5,644トンとなった。
+    source_url: https://www.investing.com/news/company-news/nordic-aqua-q2-2026-slides-record-harvest-china-premium-pricing-93CH-4876409
+    tier: 1
+    origin: normal
+  - date: '2026-08-29'
+    relation: support
+    claim: 中国のサーモン輸入量は2026年上半期に前年同期比43%増となり、中国第1級都市の消費者の約4人に1人が週1回以上サーモン刺身を食べている（世界平均13%）。
+    source_url: https://www.salmonbusiness.com/china-one-in-four-big-city-residents-now-eats-salmon-sashimi-every-week/
+    tier: 2
+    origin: normal
+  - date: '2026-08-29'
+    relation: support
+    claim: 中国のノルウェー産水産物輸入額は2025年に前年比31%増の123億ノルウェー・クローネとなり、中国はノルウェーにとって2025年に第3位の水産物市場となった。
+    source_url: https://www.salmonbusiness.com/china-one-in-four-big-city-residents-now-eats-salmon-sashimi-every-week/
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-08-28'
+    last_support: '2026-08-29'
     last_contradiction: '2026-08-28'
     last_watch_hit: '2026-08-28'
     last_on_air: '2026-08-28'
@@ -171,7 +201,7 @@ hypotheses:
   axis: 販売
   statement: ぶり類は国内需要の停滞と輸出の伸びが同時に進み、価格の決まり方が輸出側の事情に寄りつつある。
   created: '2026-08-27'
-  confidence: 0.698
+  confidence: 0.694
   status: active
   decision_link: 国内市場向けの商品設計を続けるか、輸出仕様に寄せるか
   falsifiers:
@@ -211,13 +241,14 @@ hypotheses:
     origin: normal
   ops:
     last_support: '2026-08-28'
+    last_redteam: '2026-08-29'
   _sustain: 0
 - id: L-4
   theme: world_fisheries
   axis: 横断
   statement: 水産事業の収益の振れは、資源量や相場よりも、制度・貿易ルール（関税・規制・認証）の変化に左右される比重が増している。
   created: '2026-08-27'
-  confidence: 0.723
+  confidence: 0.782
   status: active
   decision_link: 事業リスクの見積もりで、資源変動と制度変更のどちらに重みを置くか
   falsifiers:
@@ -268,15 +299,21 @@ hypotheses:
     source_url: https://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KBN3UI0QS?channel=BEQ259
     tier: 2
     origin: normal
+  - date: '2026-08-29'
+    relation: support
+    claim: カナダ政府は2026年8月27日、米国産品への報復関税リストから魚介類・水産物を削除し、2026年9月8日に予定していた25%の報復関税を発動しないことを決めた。
+    source_url: https://www.reuters.com/business/canada-excludes-us-seafood-retaliatory-tariffs-2026-08-27/
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-08-28'
+    last_support: '2026-08-29'
   _sustain: 0
 - id: L-5
   theme: genai
   axis: 横断
   statement: 生成AIの競争軸は、モデルの性能比べから、業務への埋め込みと責任の分け方へ移っている。
   created: '2026-08-27'
-  confidence: 0.838
+  confidence: 0.904
   status: active
   decision_link: AI導入の検討で、モデル選定と業務プロセス設計のどちらに時間を割くか
   falsifiers:
@@ -332,15 +369,27 @@ hypotheses:
     source_url: https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd121130.html
     tier: 1
     origin: normal
+  - date: '2026-08-29'
+    relation: support
+    claim: SalesforceとAnthropicは2026年8月27日、企業向け提携「Claudeforce」を発表し、営業向けスキル37種類を提供する「Salesforce in Claude」を一部パイロット顧客に提供開始した。
+    source_url: https://www.salesforce.com/claudeforce/
+    tier: 1
+    origin: normal
+  - date: '2026-08-29'
+    relation: support
+    claim: Anthropicは2026年8月27日、世界の科学者向けにClaudeの無償・割引席を10,000席開放する研究支援プログラム拡大を発表した。
+    source_url: https://www.anthropic.com/news/expanding-support-for-scientists
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-08-28'
-  _sustain: 0
+    last_support: '2026-08-29'
+  _sustain: 1
 - id: L-6
   theme: education
   axis: 横断
   statement: 幼児から小学校段階のAI対応は、使わせ方の工夫より、使わせない時間をどう設計するかに寄りつつある。
   created: '2026-08-27'
-  confidence: 0.5
+  confidence: 0.731
   status: active
   decision_link: 家庭で、AIに触れさせる方針と触れさせない時間の設計のどちらを先に決めるか
   falsifiers:
@@ -390,9 +439,32 @@ hypotheses:
     source_url: https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/screen-use
     tier: 1
     origin: normal
+  - date: '2026-08-29'
+    relation: support
+    claim: ノルウェー政府は2026年6月19日、2026年秋の新学期から小学1~7年生の児童が学校でAIを自ら使うことを原則として認めない方針を発表した。
+    source_url: https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-08-29'
+    relation: support
+    claim: 英国教育省は2026年7月13日公表の幼児教育者向け指針で、2歳未満は原則スクリーン利用を避け、2~5歳は1日1時間以内を目安とするよう示した。
+    source_url: https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/screen-use
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-08-29'
+    relation: contradict
+    claim: 2026年8月23日公表の中国の研究で、就学前児童10,341人を対象にAIリテラシー尺度（CPALS）を検証し、分析対象8,512人のうち「能力が高い」群が50.59%だった。
+    source_url: https://www.tandfonline.com/doi/full/10.1080/10409289.2026.2716775
+    tier: 1
+    origin: normal
+    aired: true
   ops:
-    last_support: '2026-08-28'
-    last_contradiction: '2026-08-27'
+    last_support: '2026-08-29'
+    last_contradiction: '2026-08-29'
     unfrozen: true
+    last_on_air: '2026-08-29'
+    on_air_count: 1
   review_note: 香港教育局は2026年7月21日付通知で初等学校向けカリキュラムに「AIの予備学習」領域の試行版を公表し、2026/27学年からAI教育を導入する方針を示した。（香港が初等学校向けAI教育カリキュラムの導入方針を公表）
   _sustain: 0

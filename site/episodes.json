@@ -1,5 +1,48 @@
 [
   {
+    "id": "260829_morningbrief_v1_AI",
+    "title": "8月29日のブリーフ",
+    "published_at": "2026-08-29T07:00:17+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260829_morningbrief_v1_AI/260829_morningbrief_v1_AI.mp3",
+    "duration_sec": 1925,
+    "bytes": 8004204,
+    "summary": "・釧路港のマイワシ漁、解禁後約2カ月水揚げゼロが続いた<br>・ノルウェーの陸上養殖サケ、総重量1969トンに到達<br>・Googleが動画生成AI新版Gemini Omni 1.1 Flashを発表",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 10.4
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 157.2
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 513.9
+      },
+      {
+        "section": "genai",
+        "start_sec": 913.9
+      },
+      {
+        "section": "education",
+        "start_sec": 1303.6
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1707.3
+      },
+      {
+        "section": "closing",
+        "start_sec": 1923.3
+      }
+    ]
+  },
+  {
     "id": "260828_morningbrief_v1_AI",
     "title": "8月28日のブリーフ",
     "published_at": "2026-08-28T11:19:45+09:00",
