@@ -146,7 +146,9 @@
    "published": "2026-08-19",
    "importance": 2,
    "first_seen": "2026-08-26",
-   "aired": []
+   "aired": [
+    "2026-08-28"
+   ]
   },
   {
    "id": "fd2a6e253dc5",
@@ -162,7 +164,9 @@
    "published": "2026-08-21",
    "importance": 2,
    "first_seen": "2026-08-26",
-   "aired": []
+   "aired": [
+    "2026-08-28"
+   ]
   },
   {
    "id": "f0c48b11e286",
@@ -816,6 +820,274 @@
    "importance": 2,
    "first_seen": "2026-08-27",
    "aired": []
+  },
+  {
+   "id": "bfc02d336f0d",
+   "theme": "jp_fisheries",
+   "headline": "くら寿司系養殖会社、ブリ類にAI給餌導入をアピール",
+   "detail": "回転寿司大手くら寿司の子会社KURAおさかなファームが和歌山県内の養殖場をメディアに公開し、ブリ類にAI給餌システムを導入していることを明らかにした。AIが魚の食欲や成長状況に応じて給餌量を調整するとされ、飼料費や環境負荷の低減を狙う。具体的な削減率や生産規模は公表されていない。飼料費が経営を圧迫する養殖業界で、外食企業が生産段階まで関与する垂直統合の動きとしても注目される。",
+   "numbers": [],
+   "source_url": "https://www.suikei.co.jp/cat/news/aquaculture",
+   "source_title": "日刊水産経済新聞",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
+  },
+  {
+   "id": "98569a6daf75",
+   "theme": "jp_fisheries",
+   "headline": "北海道の2026年秋サケ来遊、前年比47%減の365万尾予測",
+   "detail": "北海道の2026年秋サケ来遊予測は365万尾で、2025年実績686万尾から321万尾、約47%減となった。道内各地の定置漁業者は人工ふ化放流に必要な親魚を確保するため、操業開始時期を遅らせるなど自主規制を実施している。全道では親魚捕獲計画に対し48万尾不足する見通し。根室海区では定置網の投網を8月10日から開始したと報じられた。",
+   "numbers": [
+    "来遊予測365万尾",
+    "前年比約47%減",
+    "親魚48万尾不足"
+   ],
+   "source_url": "https://www.suikei.co.jp/single?news_code=OK0000026073100301_01&feature_id=427",
+   "source_title": "日刊水産経済新聞",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
+  },
+  {
+   "id": "2915f08618e4",
+   "theme": "jp_fisheries",
+   "headline": "釧路港7月水揚げ、前年比99.7%減の64トンに急減",
+   "detail": "釧路港の2026年7月水揚げ量は64トンで、前年同月比99.7%減となった。水揚げ金額も4,077万円で前年同月比96.4%減。夏季主力のまき網によるイワシ水揚げがゼロの状態が続いたことが響いた。水産研究・教育機構の研究者はマイワシの資源量減少により分布域が縮小し、北から獲れなくなってきていると説明している。",
+   "numbers": [
+    "水揚げ量64トン",
+    "前年比99.7%減",
+    "水揚げ金額4,077万円"
+   ],
+   "source_url": "https://www.suikei.co.jp/cat/news/fishery",
+   "source_title": "日刊水産経済新聞",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
+  },
+  {
+   "id": "baad7238e429",
+   "theme": "world_fisheries",
+   "headline": "日本のぶり輸出、2026年上半期に過去最高の434億円",
+   "detail": "日本の農林水産物・食品輸出額は2026年1〜6月に8,977億円となり、前年同期比10.9%増で上半期として過去最高を更新した。ぶり輸出額は前年同期比69.0%増の434億円で上半期として過去最高。米国向け農林水産物・食品輸出は1,626億円で前年同期比15.3%増、中国向けも940億円で前年同期比4.3%増となった。北米・韓国の需要と単価上昇が伸びを支えたとみられている。",
+   "numbers": [
+    "輸出総額8,977億円",
+    "ぶり輸出額434億円",
+    "前年同期比69.0%増",
+    "米国向け1,626億円"
+   ],
+   "source_url": "https://www.reuters.com/world/asia-pacific/japans-h1-food-exports-record-high-fuelled-green-tea-yellowtail-2026-08-04/",
+   "source_title": "Reuters",
+   "published": "2026-08-04",
+   "importance": 4,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
+  },
+  {
+   "id": "9ef86f2e7d1f",
+   "theme": "world_fisheries",
+   "headline": "米国、中国産ティラピア高騰でベトナム産パンガシウスに代替機会",
+   "detail": "ベトナム水産物輸出加工協会(VASEP)が8月24日に公表した分析によると、米国市場で中国産冷凍ティラピア・フィレの卸売価格が供給減少を背景に上昇しており、ベトナム産パンガシウスが中価格帯白身魚市場で代替機会を得る可能性があるとの見方が示されている。ただし価格差や物流費、衛生要件への適合が条件となる。米国の白エビ輸入量は2026年6月に約74,915トンで前年同月比3%増だったが、卸売価格下落で平均輸入単価は低下したとされる。",
+   "numbers": [
+    "白エビ輸入量約74,915トン",
+    "前年同月比3%増"
+   ],
+   "source_url": "https://www.seafood.media/fis/worldnews/worldnews.asp?monthyear=8-2026&day=25&id=139103&l=e&country=&special=&ndb=1&df=0",
+   "source_title": "Seafood.media",
+   "published": "2026-08-25",
+   "importance": 2,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
+  },
+  {
+   "id": "401251df1465",
+   "theme": "world_fisheries",
+   "headline": "カナダ、対米報復関税リストから水産物を除外",
+   "detail": "カナダ政府は8月26日、米国産品への報復関税リストを発表したが、魚・水産物はその対象から除外した。関税自体は2026年9月8日発効予定で、米国がカナダ産品に新たに50%の関税を課したことへの対抗措置。水産物が除外されたことで、サーモン、ロブスター、カニなど北米の水産物流通への直接的な影響は回避された。",
+   "numbers": [
+    "発効予定2026年9月8日",
+    "対米新関税50%"
+   ],
+   "source_url": "https://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KBN3UI0QS?channel=BEQ259",
+   "source_title": "Reuters",
+   "published": "2026-08-26",
+   "importance": 3,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
+  },
+  {
+   "id": "8b015b8d2d47",
+   "theme": "world_fisheries",
+   "headline": "チリ、米国のサーモン関税12.5%撤廃を要請",
+   "detail": "チリ政府は、米国が2026年7月に導入した水産物への12.5%関税について、サーモンを対象から除外するよう米国に要請していることが報じられた。これは交渉・要請段階であり、実際に関税が撤廃されたかは確認されていない。",
+   "numbers": [
+    "関税12.5%"
+   ],
+   "source_url": "https://www.salmonbusiness.com/chile-presses-us-to-remove-12-5-salmon-tariff-as-talks-continue/",
+   "source_title": "SalmonBusiness",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
+  },
+  {
+   "id": "62d41f5f8dc0",
+   "theme": "world_fisheries",
+   "headline": "米FDA、水産加工品の輸入警告リストを更新",
+   "detail": "米国食品医薬品局(FDA)は2026年8月26日付で、塩蔵・乾燥・燻製・漬込み・発酵・塩水漬けなどの魚製品について、身体検査なしで拘留対象となる輸入警告を更新・掲載した。関税変更ではなく食品安全・検査運用に関する規制措置で、対象品目や事業者の詳細は個別の警告番号ごとの確認が必要となる。ぶり類への直接適用は確認できていない。",
+   "numbers": [],
+   "source_url": "https://www.accessdata.fda.gov/cms_ia/ialist.html",
+   "source_title": "FDA",
+   "published": "2026-08-26",
+   "importance": 2,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
+  },
+  {
+   "id": "ec6e18d0ddca",
+   "theme": "genai",
+   "headline": "Google Cloud、AIエージェントの費用上限管理機能を拡充",
+   "detail": "Google Cloudは8月26日、法人向けGemini Enterpriseや開発者ツールにAIエージェントの費用管理機能を発表した。月次のAI支出上限設定や、予算消化率50%・80%・100%到達時のメール通知、上限到達時のAPI呼び出し一時停止機能などを導入。1年契約でトークン費用10%割引、3年契約で20%割引となる「Flexible Savings Plans」も提供する。AIエージェント利用の費用予測難という課題への対応とされる。",
+   "numbers": [
+    "予算消化率50%/80%/100%で通知",
+    "1年契約10%割引",
+    "3年契約20%割引"
+   ],
+   "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents",
+   "source_title": "Google Cloud Blog",
+   "published": "2026-08-26",
+   "importance": 1,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
+  },
+  {
+   "id": "2adadf5ea277",
+   "theme": "genai",
+   "headline": "MicrosoftとサウジHUMAIN、アラビア語AIで長期提携",
+   "detail": "MicrosoftとサウジアラビアのHUMAINは8月26日、AI分野の長期的戦略提携を発表した。初期段階ではHUMAINのアラビア語大規模言語モデル「ALLAM」をMicrosoft Foundryなどを通じて企業・開発者向けに提供する。提携金額や提供開始日、料金は公表されていない。データ主権を重視する地域向けの主権AI需要を取り込む動きとみられる。",
+   "numbers": [],
+   "source_url": "https://news.microsoft.com/source/emea/2026/08/microsoft-and-humain-announce-long-term-strategic-collaboration-to-enable-ai-transformation-in-saudi-arabia-and-beyond/",
+   "source_title": "Microsoft News",
+   "published": "2026-08-26",
+   "importance": 1,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
+  },
+  {
+   "id": "672db98dfbb2",
+   "theme": "genai",
+   "headline": "Anthropic、AIエージェントの機器操作標準仕様を研究公開",
+   "detail": "Anthropicは8月27日、AIエージェントが物理機器を安全に操作するための共通仕様「Model Hardware Standard(MHS)」の研究プレビューを開始した。OSと物理機器をつなぐ標準ドライバーを設ける構想で、研究機関や製造業者を初期参加者として想定している。現時点では研究プレビュー段階で、国際標準としての採用実績や対応機器数は確認されていない。",
+   "numbers": [],
+   "source_url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+   "source_title": "Anthropic",
+   "published": "2026-08-27",
+   "importance": 1,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
+  },
+  {
+   "id": "65f65c74bc96",
+   "theme": "education",
+   "headline": "OECD、AI時代の学習者向けリテラシー枠組みを公表",
+   "detail": "OECDは2026年6月、「AI時代の学習者をエンパワーする」と題する報告書を公表した。AIリテラシーを単なる操作技能ではなく、AIシステムの理解、出力の評価、倫理的活用、創造的活用、社会への影響への考察などを含む能力として整理している。初等・中等教育の学習成果に位置づける方向性を示しているが、低年齢児への具体的な導入方法は発達段階に応じるとされている。",
+   "numbers": [],
+   "source_url": "https://www.oecd.org/en/publications/empowering-learners-for-the-age-of-ai_65cd27d4-en.html",
+   "source_title": "OECD",
+   "published": "2026-06-01",
+   "importance": 1,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
+  },
+  {
+   "id": "871b56541e48",
+   "theme": "education",
+   "headline": "OECD報告、AI利用が「見せかけの熟達」生む懸念を指摘",
+   "detail": "OECDの「デジタル教育展望2026」は、生成AIを教師の指導下でチューターや学習パートナーとして使う場合は批判的思考・創造性・協働を支援し得る一方、答えを直接出させるだけの利用では課題の見かけ上の成績が上がっても実際の理解が伴わない「偽の熟達の幻影」が生じ得ると指摘した。AIは思考を代替するのではなく足場掛けとして設計・利用すべきだとの見方が示されている。",
+   "numbers": [],
+   "source_url": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html",
+   "source_title": "OECD",
+   "published": "",
+   "importance": 1,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
+  },
+  {
+   "id": "89eec3fa99fb",
+   "theme": "education",
+   "headline": "米教育省、学校向け教育技術の責任ある利用指針を公表",
+   "detail": "米国教育省は2026年8月20日、教育技術の責任ある利用に関する通知を公表した。学校・教育委員会に対し、娯楽的利用より教育上の価値を優先すること、独立した証拠に基づきツールを選ぶこと、教師の判断を中心に置くこと、保護者への説明、データ利用の透明化などを求めている。学習成果を改善しないツールは見直すよう促しているが、全国一律のスクリーンタイム上限は定めていない。",
+   "numbers": [],
+   "source_url": "https://www.ed.gov/about/news/press-release/us-department-of-education-releases-guidance-responsible-use-of-education-technology-classroom",
+   "source_title": "米国教育省",
+   "published": "2026-08-20",
+   "importance": 2,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
+  },
+  {
+   "id": "8d64d5ff615c",
+   "theme": "education",
+   "headline": "UNESCO、K-12向けAIカリキュラム承認国は11カ国と発表",
+   "detail": "UNESCOは2026年7月31日、政府承認のK-12向けAIカリキュラムに関する調査結果を公表した。承認済みの国は11カ国、開発中の国は4カ国にとどまるとしている。UNESCOはAI教育の学習成果として、単なる操作技能ではなく創造性、文脈に応じた倫理、プロジェクト型学習、教師研修、特定企業に依存しない設計を重視すべきだとの見方を示している。",
+   "numbers": [
+    "承認済み11カ国",
+    "開発中4カ国"
+   ],
+   "source_url": "https://www.unesco.org/en/articles/k-12-ai-curricula-mapping-government-endorsed-ai-curricula",
+   "source_title": "UNESCO",
+   "published": "2026-07-31",
+   "importance": 2,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
+  },
+  {
+   "id": "aac7238e16a9",
+   "theme": "education",
+   "headline": "文科省、次期学習指導要領でAI活用力の拡充を検討",
+   "detail": "文部科学省は2026年7〜8月に示した資料で、次期学習指導要領を見据え、AIやデータの適切な活用力、AI生成物を評価・改善する力、情報活用能力、プログラミングなどを拡充する方向性を示した。小学校での具体的な授業時数や「情報」領域の正式決定はまだ案の段階であり、全面実施年度や時数は確定していない。",
+   "numbers": [],
+   "source_url": "https://www.mext.go.jp/content/202600818-mxt_kyokasyo01-000051650_6.pdf",
+   "source_title": "文部科学省",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-08-28",
+   "aired": [
+    "2026-08-28"
+   ]
   }
  ]
 }

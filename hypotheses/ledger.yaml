@@ -13,8 +13,8 @@ hypotheses:
   axis: 生産
   statement: 養殖の競争力の源泉が、規模と餌のコスト勝負から、種苗・育種と斃死率のコントロールへ移りつつある。
   created: '2026-08-27'
-  confidence: 0.269
-  status: review_required
+  confidence: 0.273
+  status: active
   decision_link: 養殖案件で、飼料の置き換えと生残率の改善のどちらを提案の軸に置くか
   falsifiers:
   - text: 種苗・育種や斃死率よりも、餌のコストが収益差の主因だと示すデータが出る
@@ -68,14 +68,16 @@ hypotheses:
     last_on_air: '2026-08-27'
     on_air_count: 1
     last_redteam: '2026-08-27'
+    unfrozen: true
   review_note: FAOによるアジア6か国・計340養殖場調査（調査期間2005年10月15日～2006年2月14日、2007年公表）では、総生産費に占める餌料費が平均58.0%で稚魚・種苗費15.5%を大きく上回った。（餌料費が種苗費を大きく上回るとFAO調査が示す）
     / FAOの世界調査（2019年2月公表、回答期間2015年6月～2017年6月）では、92か国の回答のうち45%が遺伝的改良は養殖生産に「影響しなかった」または「影響は小さかった」と回答した。（45%が遺伝的改良は生産に影響小さいと回答）
+  _sustain: 0
 - id: L-2
   theme: world_fisheries
   axis: 流通
   statement: 水産物の流通は、鮮度を遠くへ運ぶ方向と、需要地の近くで作って加工する方向へ分岐している。
   created: '2026-08-27'
-  confidence: 0.695
+  confidence: 0.724
   status: active
   decision_link: 輸出を伸ばすのか、現地生産・現地加工に投資するのか
   falsifiers:
@@ -120,15 +122,56 @@ hypotheses:
     source_url: https://www.travelwires.com/china-southern-launches-oslo-shanghai-cargo-route-carrying-up-to-200-tonnes-of-norwegian-salmon-weekly/
     tier: 2
     origin: normal
+  - date: '2026-08-28'
+    relation: support
+    claim: スペイン・アリカンテのAlicante Aquacultureは陸上循環式養殖(RAS)でカンパチ(Seriola dumerili)の年間600トン生産を開始し、将来900トンへの拡大を計画している。
+    source_url: https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/
+    tier: 2
+    origin: normal
+    aired: true
+  - date: '2026-08-28'
+    relation: support
+    claim: 中国南方航空物流は2026年8月20日、上海~オスロを結ぶ貨物便(週2便)でノルウェー産生鮮サーモン約100トンを輸送し、中国向け輸送量を週約200トン見込むと発表した。
+    source_url: https://www.newsgd.com/node_d36b0ef83f/20e322740b.shtml
+    tier: 2
+    origin: normal
+    aired: true
+  - date: '2026-08-28'
+    relation: support
+    claim: ドイツのOceanloopは陸上養殖拡大のため最大3850万ユーロの資金を確保したと2026年8月19日に発表した。
+    source_url: https://perishablenews.com/seafood/oceanloop-secures-funding-to-scale-land-based-aquaculture-technology-and-europes-first-farmed-giant-grouper/
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-08-28'
+    relation: contradict
+    claim: 福島県葛尾村でバナメイエビの陸上養殖を行っていたHANERU葛尾は、冬季の電気代・燃料代高騰による赤字を理由に2026年7月に事業を停止した。
+    source_url: https://topics.smt.docomo.ne.jp/article/fminyu/region/fminyu-2026073108210652985
+    tier: 2
+    origin: normal
+    aired: true
+  - date: '2026-08-28'
+    relation: support
+    claim: ヤマト運輸は2025年10月から、長崎県対馬市などの産地から東京都内へ貨物専用機を使い活魚を輸送するサービスを開始した。
+    source_url: https://business.kuronekoyamato.co.jp/news/20251031/index.html
+    tier: 1
+    origin: normal
+    aired: true
   ops:
-    last_support: '2026-08-27'
+    last_support: '2026-08-28'
+    last_contradiction: '2026-08-28'
+    last_watch_hit: '2026-08-28'
+    last_on_air: '2026-08-28'
+    on_air_count: 1
+    last_redteam: '2026-08-28'
   _sustain: 0
+  review_note: 福島県葛尾村でバナメイエビの陸上養殖を行っていたHANERU葛尾は、冬季の電気代・燃料代高騰による赤字を理由に2026年7月に事業を停止した。（バナメイエビ陸上養殖が電気代・燃料代高騰で赤字撤退した事実）
 - id: L-3
   theme: jp_fisheries
   axis: 販売
   statement: ぶり類は国内需要の停滞と輸出の伸びが同時に進み、価格の決まり方が輸出側の事情に寄りつつある。
   created: '2026-08-27'
-  confidence: 0.608
+  confidence: 0.698
   status: active
   decision_link: 国内市場向けの商品設計を続けるか、輸出仕様に寄せるか
   falsifiers:
@@ -160,15 +203,21 @@ hypotheses:
     source_url: https://www.suikei.co.jp/archives/94342
     tier: 2
     origin: normal
+  - date: '2026-08-28'
+    relation: support
+    claim: 2026年1~6月の農林水産物・食品輸出額は8977億円(前年同期比10.9%増)で上半期として過去最高となり、うち水産物は2384億円(19.5%増)、ブリは434億円(69.0%増)だった。
+    source_url: https://www.jetro.go.jp/biznews/2026/08/e47598ab3d93df2e.html
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-08-27'
+    last_support: '2026-08-28'
   _sustain: 0
 - id: L-4
   theme: world_fisheries
   axis: 横断
   statement: 水産事業の収益の振れは、資源量や相場よりも、制度・貿易ルール（関税・規制・認証）の変化に左右される比重が増している。
   created: '2026-08-27'
-  confidence: 0.64
+  confidence: 0.723
   status: active
   decision_link: 事業リスクの見積もりで、資源変動と制度変更のどちらに重みを置くか
   falsifiers:
@@ -207,15 +256,27 @@ hypotheses:
     source_url: https://www.expanamarkets.com/insights/article/section-301-seafood-tariffs-what-changed-and-whos-exposed/
     tier: 2
     origin: normal
+  - date: '2026-08-28'
+    relation: support
+    claim: WCPFCとIATTCの合同作業部会は、太平洋クロマグロの30kg以上大型魚の漁獲枠を2027~2028年に1万1869トンから1万4836トンへ25%増やすことで合意した(2026年8月時点)。
+    source_url: https://www.jiji.com/jc/article?k=2026081800758&g=flash
+    tier: 2
+    origin: normal
+  - date: '2026-08-28'
+    relation: support
+    claim: カナダ政府は2026年8月26日、米国産品への報復関税リストから魚・水産物を除外すると発表し、関税は2026年9月8日に発効予定である。
+    source_url: https://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KBN3UI0QS?channel=BEQ259
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-08-27'
+    last_support: '2026-08-28'
   _sustain: 0
 - id: L-5
   theme: genai
   axis: 横断
   statement: 生成AIの競争軸は、モデルの性能比べから、業務への埋め込みと責任の分け方へ移っている。
   created: '2026-08-27'
-  confidence: 0.655
+  confidence: 0.838
   status: active
   decision_link: AI導入の検討で、モデル選定と業務プロセス設計のどちらに時間を割くか
   falsifiers:
@@ -247,16 +308,40 @@ hypotheses:
     source_url: https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august
     tier: 1
     origin: normal
+  - date: '2026-08-28'
+    relation: support
+    claim: Google Cloudは2026年8月26日、Gemini Enterprise向けにAIエージェントの月次・プロジェクト単位の支出上限設定や予算消化率通知などの費用管理機能を発表した。
+    source_url: https://cloud.google.com/blog/products/ai-machine-learning/flexible-billing-and-cost-controls-for-agents
+    tier: 1
+    origin: normal
+  - date: '2026-08-28'
+    relation: support
+    claim: MicrosoftとサウジアラビアのHUMAINは2026年8月26日、アラビア語大規模言語モデル「ALLAM」の提供を含む長期戦略提携を発表した。
+    source_url: https://news.microsoft.com/source/emea/2026/08/microsoft-and-humain-announce-long-term-strategic-collaboration-to-enable-ai-transformation-in-saudi-arabia-and-beyond/
+    tier: 1
+    origin: normal
+  - date: '2026-08-28'
+    relation: support
+    claim: Anthropicは2026年8月27日、AIエージェントが物理機器を安全に操作するための標準仕様「Model Hardware Standard」の研究プレビューを開始した。
+    source_url: https://www.anthropic.com/news/model-hardware-standard-research-preview
+    tier: 1
+    origin: normal
+  - date: '2026-08-28'
+    relation: support
+    claim: 総務省の令和8年版情報通信白書によると、日本企業で何らかの業務に生成AIを利用している割合は86.4%である。
+    source_url: https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd121130.html
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-08-27'
+    last_support: '2026-08-28'
   _sustain: 0
 - id: L-6
   theme: education
   axis: 横断
   statement: 幼児から小学校段階のAI対応は、使わせ方の工夫より、使わせない時間をどう設計するかに寄りつつある。
   created: '2026-08-27'
-  confidence: 0.269
-  status: review_required
+  confidence: 0.5
+  status: active
   decision_link: 家庭で、AIに触れさせる方針と触れさせない時間の設計のどちらを先に決めるか
   falsifiers:
   - text: 低学年からのAI活用を推進する制度やカリキュラムが広がる
@@ -293,7 +378,21 @@ hypotheses:
     source_url: https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html
     tier: 1
     origin: normal
+  - date: '2026-08-28'
+    relation: support
+    claim: ノルウェー政府は2026年8月下旬の新学期から、小学校1~7年生の児童による学校学習での生成AI利用を原則として認めない方針を示した。
+    source_url: https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/
+    tier: 1
+    origin: normal
+  - date: '2026-08-28'
+    relation: support
+    claim: 英国では2026年7月に幼児教育施設向けスクリーン利用指針が更新され、2歳未満は原則利用回避、2~5歳は1日1時間以内を目安とすることが示された。
+    source_url: https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/screen-use
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-08-27'
+    last_support: '2026-08-28'
     last_contradiction: '2026-08-27'
+    unfrozen: true
   review_note: 香港教育局は2026年7月21日付通知で初等学校向けカリキュラムに「AIの予備学習」領域の試行版を公表し、2026/27学年からAI教育を導入する方針を示した。（香港が初等学校向けAI教育カリキュラムの導入方針を公表）
+  _sustain: 0

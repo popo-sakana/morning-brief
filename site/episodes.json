@@ -1,5 +1,48 @@
 [
   {
+    "id": "260828_morningbrief_v1_AI",
+    "title": "8月28日のブリーフ",
+    "published_at": "2026-08-28T11:19:45+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260828_morningbrief_v1_AI/260828_morningbrief_v1_AI.mp3",
+    "duration_sec": 1607,
+    "bytes": 6678105,
+    "summary": "・くら寿司子会社がブリ養殖にAI給餌システムを導入<br>・農水産物輸出額、上半期で過去最高の8977億円<br>・生成AIと教育、国内外で相次ぐ新たな動き",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 37.5
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 169.7
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 526.0
+      },
+      {
+        "section": "genai",
+        "start_sec": 904.3
+      },
+      {
+        "section": "education",
+        "start_sec": 1194.2
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1519.6
+      },
+      {
+        "section": "closing",
+        "start_sec": 1593.3
+      }
+    ]
+  },
+  {
     "id": "260827_morningbrief_v1_AI",
     "title": "8月27日のブリーフ",
     "published_at": "2026-08-27T10:46:11+09:00",
