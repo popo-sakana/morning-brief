@@ -7,11 +7,21 @@
     <link>https://popo-sakana.github.io/morning-brief/</link>
     <description>水産・生成AI・教育の4テーマを毎朝30分で</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Aug 2026 22:24:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:25:01 +0000</lastBuildDate>
     <itunes:author>popo</itunes:author>
     <itunes:summary>水産・生成AI・教育の4テーマを毎朝30分で</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+    <item>
+      <title>8月30日のブリーフ</title>
+      <description><![CDATA[・水産、生産・輸送・輸出それぞれで動きあり<br>・Anthropicと米国防総省のAI裁判が進展<br>・UAE、幼稚園から12年生までAI教育導入へ]]></description>
+      <pubDate>Sun, 30 Aug 2026 05:06:54 +0900</pubDate>
+      <guid isPermaLink="false">260830_morningbrief_v1_AI</guid>
+      <enclosure url="https://github.com/popo-sakana/morning-brief/releases/download/260830_morningbrief_v1_AI/260830_morningbrief_v1_AI.mp3" length="5217549" type="audio/mpeg"/>
+      <itunes:duration>1253</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://popo-sakana.github.io/morning-brief/episodes/260830_morningbrief_v1_AI.html</link>
+    </item>
     <item>
       <title>8月29日のブリーフ</title>
       <description><![CDATA[・釧路港のマイワシ漁、解禁後約2カ月水揚げゼロが続いた<br>・ノルウェーの陸上養殖サケ、総重量1969トンに到達<br>・Googleが動画生成AI新版Gemini Omni 1.1 Flashを発表]]></description>

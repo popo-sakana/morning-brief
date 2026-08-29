@@ -1,5 +1,44 @@
 [
   {
+    "id": "260830_morningbrief_v1_AI",
+    "title": "8月30日のブリーフ",
+    "published_at": "2026-08-30T05:06:54+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260830_morningbrief_v1_AI/260830_morningbrief_v1_AI.mp3",
+    "duration_sec": 1253,
+    "bytes": 5217549,
+    "summary": "・水産、生産・輸送・輸出それぞれで動きあり<br>・Anthropicと米国防総省のAI裁判が進展<br>・UAE、幼稚園から12年生までAI教育導入へ",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 31.8
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 186.8
+      },
+      {
+        "section": "genai",
+        "start_sec": 517.5
+      },
+      {
+        "section": "education",
+        "start_sec": 793.8
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1158.4
+      },
+      {
+        "section": "closing",
+        "start_sec": 1240.5
+      }
+    ]
+  },
+  {
     "id": "260829_morningbrief_v1_AI",
     "title": "8月29日のブリーフ",
     "published_at": "2026-08-29T07:00:17+09:00",

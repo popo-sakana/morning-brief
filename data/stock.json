@@ -487,7 +487,9 @@
    "published": "2026-08-21",
    "importance": 2,
    "first_seen": "2026-08-26",
-   "aired": []
+   "aired": [
+    "2026-08-30"
+   ]
   },
   {
    "id": "22ec52a56b76",
@@ -829,7 +831,9 @@
    "published": "2026-07-29",
    "importance": 2,
    "first_seen": "2026-08-27",
-   "aired": []
+   "aired": [
+    "2026-08-30"
+   ]
   },
   {
    "id": "bfc02d336f0d",
@@ -1387,6 +1391,115 @@
    "first_seen": "2026-08-29",
    "aired": [
     "2026-08-29"
+   ]
+  },
+  {
+   "id": "93ee5758cbb3",
+   "theme": "world_fisheries",
+   "headline": "ノルウェー産サーモン中国輸出、1〜7月で46%増の75800トン",
+   "detail": "ノルウェー水産物審議会によると、2026年1〜7月のノルウェーから中国へのサーモン輸出量は75,800トンで前年同期比46％増、輸出額は56億ノルウェークローネで41％増となった。中国市場でのノルウェー産シェアは2025年の55％から2026年上半期に63％へ上昇した。中国の第1級都市の消費者の約25％が週1回以上サーモン刺身を食べるとの調査結果も示された。",
+   "numbers": [
+    "1〜7月輸出量75800トン",
+    "前年同期比46%増",
+    "輸出額56億NOK",
+    "市場シェア63%"
+   ],
+   "source_url": "https://www.chinadaily.com.cn/a/202608/28/WS6a912513e4b06d4aa055b00f.html",
+   "source_title": "China Daily",
+   "published": "2026-08-28",
+   "importance": 3,
+   "first_seen": "2026-08-30",
+   "aired": [
+    "2026-08-30"
+   ]
+  },
+  {
+   "id": "de42b027f97b",
+   "theme": "world_fisheries",
+   "headline": "中国Nordic Aqua、陸上養殖サーモンで初の四半期1000トン超収穫",
+   "detail": "中国で陸上養殖を行うNordic Aqua Partnersは、2026年第2四半期に1,000トン超のサーモンを収穫し、同社として初めてこの規模に達した。平均収穫重量は4キログラム超。操業開始から2026年8月までの累計生産量は生体重量ベースで14,300トン超、累計収穫量は5,800トン超、上位品質品比率は95％、150グラム以降の平均死亡率は約6％とされる。同社は中国市場での価格プレミアムを得ていると説明している。",
+   "numbers": [
+    "Q2収穫量1000トン超",
+    "平均収穫重量4kg超",
+    "累計生産量14300トン超",
+    "上位品質品比率95%",
+    "死亡率約6%"
+   ],
+   "source_url": "https://www.efeedlink.com/articles/nordic-aqua-posts-record-q2-harvest-as-china-salmon-imports-surge-and-stage-2-nears-completion",
+   "source_title": "eFeedLink",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-08-30",
+   "aired": [
+    "2026-08-30"
+   ]
+  },
+  {
+   "id": "99ce333f3f2b",
+   "theme": "world_fisheries",
+   "headline": "中国南方航空、ノルウェー産サーモン輸送の新貨物ルートを開始",
+   "detail": "中国南方航空は2026年8月20日、ノルウェーから中国・上海へ向かうサーモン輸送用の貨物ルート（ノルウェー→アムステルダム→上海）を開始した。週2回、ボーイング777F貨物機で運航し、初回貨物は約100トンの冷蔵・生鮮サーモンだった。同社は輸出業者から空港取扱い、最終配送までを一体化したコールドチェーンを整備したと説明している。",
+   "numbers": [
+    "開始2026年8月20日",
+    "週2回運航",
+    "初回貨物約100トン"
+   ],
+   "source_url": "https://www.travelandtourworld.com/news/article/8qcw9sif347h/",
+   "source_title": "Travel And Tour World",
+   "published": "2026-08-20",
+   "importance": 3,
+   "first_seen": "2026-08-30",
+   "aired": [
+    "2026-08-30"
+   ]
+  },
+  {
+   "id": "22289529100b",
+   "theme": "genai",
+   "headline": "米地裁、AnthropicへのDoD「供給網リスク」指定を違法と判断",
+   "detail": "米カリフォルニア北部地区連邦地方裁判所は2026年8月27日付命令で、米国防総省によるAnthropicの「供給網リスク」指定について、憲法修正第1条に反する違法な報復であり、修正第5条が求める事前手続きを欠き、法令上も恣意的・不合理で違法と判断した。政府側の7日間の執行停止要請は認められなかった。救済内容の詳細は別命令で示される見込みで、政府の対応や控訴の有無は確認できていない。",
+   "numbers": [],
+   "source_url": "https://www.courthousenews.com/wp-content/uploads/2026/08/j-rita-lin-order.pdf",
+   "source_title": "Courthouse News（裁判所命令文書）",
+   "published": "2026-08-27",
+   "importance": 2,
+   "first_seen": "2026-08-30",
+   "aired": [
+    "2026-08-30"
+   ]
+  },
+  {
+   "id": "e2cffea8f071",
+   "theme": "genai",
+   "headline": "OpenAIなど100以上の組織、AIサイバー防御の協調行動を提唱",
+   "detail": "OpenAIは2026年8月27日、Anthropic、Google、Microsoftなど100以上の組織が署名した「サイバー防御に関する集団行動の呼びかけ」を公開した。防御側にもサイバー能力を持つAIを広く提供し、政府・企業・AI企業間で脅威情報や対策を共有すること、重要インフラへの資金・訓練・実装支援、AIエージェントの身元追跡可能化などを提案している。具体的な資金拠出額や法的拘束力は明示されていない。",
+   "numbers": [
+    "署名組織100以上"
+   ],
+   "source_url": "https://openai.com/collective-cyberdefense/",
+   "source_title": "OpenAI",
+   "published": "2026-08-27",
+   "importance": 2,
+   "first_seen": "2026-08-30",
+   "aired": [
+    "2026-08-30"
+   ]
+  },
+  {
+   "id": "b0d853d50938",
+   "theme": "education",
+   "headline": "UAE、13歳未満の生成AI利用禁止など学校向け新指針との報道",
+   "detail": "報道によると、UAEは2025〜2026学年度から幼稚園〜12年生を対象にAI教育を導入し、13歳未満またはYear7未満の児童生徒による生成AI利用を禁止する25項目の新指針を発表したとされる。ただし教育省の公式原文は確認できておらず、内容は新聞報道に基づく情報にとどまる。",
+   "numbers": [
+    "新指針25項目"
+   ],
+   "source_url": "https://timesofindia.indiatimes.com/world/middle-east/uae-issues-25-new-ai-guidelines-for-schools-prohibits-use-for-under-13-students/articleshow/128371457.cms",
+   "source_title": "Times of India",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-08-30",
+   "aired": [
+    "2026-08-30"
    ]
   }
  ]

@@ -13,7 +13,7 @@ hypotheses:
   axis: 生産
   statement: 養殖の競争力の源泉が、規模と餌のコスト勝負から、種苗・育種と斃死率のコントロールへ移りつつある。
   created: '2026-08-27'
-  confidence: 0.455
+  confidence: 0.65
   status: active
   decision_link: 養殖案件で、飼料の置き換えと生残率の改善のどちらを提案の軸に置くか
   falsifiers:
@@ -68,8 +68,14 @@ hypotheses:
     source_url: https://www.fra.go.jp/home/cooperation/platform/seriola_workshop/files/oda.pdf
     tier: 1
     origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: Smolt社が開発した高温耐性サクラマス種苗は、2025年12月~2026年4月の陸上養殖実証で生残率98%、飼料効率(FCR)1.3、最大魚体重1,480gを記録した。
+    source_url: https://prtimes.jp/main/html/rd/p/000000034.000052431.html
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-08-29'
+    last_support: '2026-08-30'
     last_contradiction: '2026-08-27'
     last_on_air: '2026-08-27'
     on_air_count: 1
@@ -83,7 +89,7 @@ hypotheses:
   axis: 流通
   statement: 水産物の流通は、鮮度を遠くへ運ぶ方向と、需要地の近くで作って加工する方向へ分岐している。
   created: '2026-08-27'
-  confidence: 0.877
+  confidence: 0.948
   status: active
   decision_link: 輸出を伸ばすのか、現地生産・現地加工に投資するのか
   falsifiers:
@@ -187,21 +193,57 @@ hypotheses:
     source_url: https://www.salmonbusiness.com/china-one-in-four-big-city-residents-now-eats-salmon-sashimi-every-week/
     tier: 2
     origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: 中国で陸上養殖を行うNordic Aquaは2026年第2四半期に1,000トン超のサーモンを収穫し、平均重量4kg超という同社初の規模を達成した。
+    source_url: https://www.efeedlink.com/articles/nordic-aqua-posts-record-q2-harvest-as-china-salmon-imports-surge-and-stage-2-nears-completion
+    tier: 2
+    origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: ドイツのOceanloopは2026年4月からキール近郊の施設でジャイアント・グルーパーの商業販売を開始し、2026年の生産量は約20トンと見込まれている。
+    source_url: https://www.startbase.com/news/oceanloop-zieht-bis-zu-385-millionen-euro-an-land/
+    tier: 2
+    origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: 中国南方航空は2026年8月20日、ノルウェーから上海へのサーモン輸送用貨物ルート(週2回運航、ボーイング777F使用)を開始し、初回は約100トンを輸送した。
+    source_url: https://www.travelandtourworld.com/news/article/8qcw9sif347h/
+    tier: 2
+    origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: ノルウェーから中国へのサーモン輸出量は2026年1月~7月で75,800トンとなり、前年同期比46%増加した。
+    source_url: https://www.chinadaily.com.cn/a/202608/28/WS6a912513e4b06d4aa055b00f.html
+    tier: 2
+    origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: ノルウェー産サーモンの中国市場シェアは2025年の55%から2026年上半期に63%へ上昇した。
+    source_url: https://www.salmonbusiness.com/china-one-in-four-big-city-residents-now-eats-salmon-sashimi-every-week/
+    tier: 2
+    origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: 中国の第1級都市の水産物消費者の約25%が週1回以上サーモン刺身を食べており、世界平均の13%を上回っている。
+    source_url: https://www.salmonbusiness.com/china-one-in-four-big-city-residents-now-eats-salmon-sashimi-every-week/
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-08-29'
+    last_support: '2026-08-30'
     last_contradiction: '2026-08-28'
     last_watch_hit: '2026-08-28'
     last_on_air: '2026-08-28'
     on_air_count: 1
     last_redteam: '2026-08-28'
-  _sustain: 0
+  _sustain: 1
   review_note: 福島県葛尾村でバナメイエビの陸上養殖を行っていたHANERU葛尾は、冬季の電気代・燃料代高騰による赤字を理由に2026年7月に事業を停止した。（バナメイエビ陸上養殖が電気代・燃料代高騰で赤字撤退した事実）
 - id: L-3
   theme: jp_fisheries
   axis: 販売
   statement: ぶり類は国内需要の停滞と輸出の伸びが同時に進み、価格の決まり方が輸出側の事情に寄りつつある。
   created: '2026-08-27'
-  confidence: 0.694
+  confidence: 0.772
   status: active
   decision_link: 国内市場向けの商品設計を続けるか、輸出仕様に寄せるか
   falsifiers:
@@ -239,16 +281,25 @@ hypotheses:
     source_url: https://www.jetro.go.jp/biznews/2026/08/e47598ab3d93df2e.html
     tier: 1
     origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: 2026年1月~6月の日本産ぶり輸出額は434億円で、前年同期比69.0%増となり、上半期として過去最高となった。
+    source_url: https://www.maff.go.jp/j/shokusan/export/e_info/zisseki.html
+    tier: 1
+    origin: normal
+    aired: true
   ops:
-    last_support: '2026-08-28'
+    last_support: '2026-08-30'
     last_redteam: '2026-08-29'
+    last_on_air: '2026-08-30'
+    on_air_count: 1
   _sustain: 0
 - id: L-4
   theme: world_fisheries
   axis: 横断
   statement: 水産事業の収益の振れは、資源量や相場よりも、制度・貿易ルール（関税・規制・認証）の変化に左右される比重が増している。
   created: '2026-08-27'
-  confidence: 0.782
+  confidence: 0.832
   status: active
   decision_link: 事業リスクの見積もりで、資源変動と制度変更のどちらに重みを置くか
   falsifiers:
@@ -305,15 +356,22 @@ hypotheses:
     source_url: https://www.reuters.com/business/canada-excludes-us-seafood-retaliatory-tariffs-2026-08-27/
     tier: 1
     origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: カナダ政府は米国産水産物への25%対抗関税(2026年9月8日発効予定)について、産業界の反発を受け水産物・魚類を対象リストから削除した。
+    source_url: https://www.canada.ca/en/department-finance/news/2026/08/list-of-products-from-the-united-states-subject-to-counter-tariffs-effective-september-8-2026.html
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-08-29'
+    last_support: '2026-08-30'
+    last_redteam: '2026-08-30'
   _sustain: 0
 - id: L-5
   theme: genai
   axis: 横断
   statement: 生成AIの競争軸は、モデルの性能比べから、業務への埋め込みと責任の分け方へ移っている。
   created: '2026-08-27'
-  confidence: 0.904
+  confidence: 0.948
   status: active
   decision_link: AI導入の検討で、モデル選定と業務プロセス設計のどちらに時間を割くか
   falsifiers:
@@ -381,15 +439,51 @@ hypotheses:
     source_url: https://www.anthropic.com/news/expanding-support-for-scientists
     tier: 1
     origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: Anthropicは2026年8月27日、AIエージェントが物理機器を操作するための共通仕様「Model Hardware Standard(MHS)」の研究プレビューを開始した。
+    source_url: https://www.anthropic.com/news
+    tier: 1
+    origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: 米国GSAは2026年6月17日、連邦政府データを処理するLLM契約向けの安全管理条項案(GSAR 552.239-7001)を公表し、セキュリティインシデントの72時間以内報告などを求めた。
+    source_url: https://www.govinfo.gov/content/pkg/FR-2026-06-17/pdf/2026-12205.pdf
+    tier: 1
+    origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: PwCの2026年春調査によると、日本企業の87%が生成AIを活用・推進しており、そのうち64%が効果は期待通りまたはそれ以上と回答した。
+    source_url: https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2026.html
+    tier: 1
+    origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: 米カリフォルニア北部地区連邦地裁は2026年8月27日付命令で、米国防総省によるAnthropicの「供給網リスク」指定を違法と判断した。
+    source_url: https://www.courthousenews.com/wp-content/uploads/2026/08/j-rita-lin-order.pdf
+    tier: 1
+    origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: OpenAIは2026年8月27日、Anthropic・Google・Microsoftなど100以上の組織と共同で、AIを用いたサイバー防御の集団行動を呼びかける書簡を公開した。
+    source_url: https://openai.com/collective-cyberdefense/
+    tier: 1
+    origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: Anthropicは2026年8月27日、世界の科学者向けに最大10,000席のClaude利用支援プログラム(標準席無料、プレミアム席月額15米ドル)を発表した。
+    source_url: https://www.anthropic.com/news/expanding-support-for-scientists
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-08-29'
-  _sustain: 1
+    last_support: '2026-08-30'
+  _sustain: 2
 - id: L-6
   theme: education
   axis: 横断
   statement: 幼児から小学校段階のAI対応は、使わせ方の工夫より、使わせない時間をどう設計するかに寄りつつある。
   created: '2026-08-27'
-  confidence: 0.731
+  confidence: 0.881
   status: active
   decision_link: 家庭で、AIに触れさせる方針と触れさせない時間の設計のどちらを先に決めるか
   falsifiers:
@@ -460,8 +554,26 @@ hypotheses:
     tier: 1
     origin: normal
     aired: true
+  - date: '2026-08-30'
+    relation: support
+    claim: ノルウェー政府は2026年秋の新学期から、小学1~7年生には原則として生徒自身に生成AIへのアクセスを与えない方針を示した。
+    source_url: https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/
+    tier: 1
+    origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: 米国教育省は2026年8月20日、教育技術の利用について明確な教育目的と証拠を重視し、不要なスクリーンタイムを最小化するよう求めるガイダンスを発表した。
+    source_url: https://www.ed.gov/about/news/press-release/us-department-of-education-releases-guidance-responsible-use-of-education-technology-classroom
+    tier: 1
+    origin: normal
+  - date: '2026-08-30'
+    relation: support
+    claim: 英国教育省は幼児教育・保育事業者向け方針で、2歳未満は原則スクリーン利用を避け、2~5歳は1日1時間以内を目安とし、幼児のAI利用は十分な証拠が得られるまで避けるよう示している。
+    source_url: https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/screen-use
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-08-29'
+    last_support: '2026-08-30'
     last_contradiction: '2026-08-29'
     unfrozen: true
     last_on_air: '2026-08-29'
