@@ -13,7 +13,7 @@ hypotheses:
   axis: 生産
   statement: 養殖の競争力の源泉が、規模と餌のコスト勝負から、種苗・育種と斃死率のコントロールへ移りつつある。
   created: '2026-08-27'
-  confidence: 0.65
+  confidence: 0.732
   status: active
   decision_link: 養殖案件で、飼料の置き換えと生残率の改善のどちらを提案の軸に置くか
   falsifiers:
@@ -74,8 +74,14 @@ hypotheses:
     source_url: https://prtimes.jp/main/html/rd/p/000000034.000052431.html
     tier: 1
     origin: normal
+  - date: '2026-08-31'
+    relation: support
+    claim: 北海道浦河町のトラウトサーモン養殖試験で、2026年7月13日の2期目水揚げの生残率は16.2%（795尾、1.56トン）で、1期目の約90%から大きく低下した。
+    source_url: https://www.suikei.co.jp/archives/120829
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-08-30'
+    last_support: '2026-08-31'
     last_contradiction: '2026-08-27'
     last_on_air: '2026-08-27'
     on_air_count: 1
@@ -229,21 +235,45 @@ hypotheses:
     source_url: https://www.salmonbusiness.com/china-one-in-four-big-city-residents-now-eats-salmon-sashimi-every-week/
     tier: 2
     origin: normal
+  - date: '2026-08-31'
+    relation: support
+    claim: スペイン・アリカンテでは陸上型RASによるグレーターアンバージャック（カンパチ）の商業規模生産が開始され、非在来種のひらまさについては陸上養殖の許可を申請中である。
+    source_url: https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/
+    tier: 2
+    origin: normal
+  - date: '2026-08-31'
+    relation: support
+    claim: ドイツのOceanloopは、RAS事業拡大とジャイアントグルーパーの欧州商業生産に向けて最大3,850万ユーロの資金を確保した。
+    source_url: https://perishablenews.com/seafood/oceanloop-secures-funding-to-scale-land-based-aquaculture-technology-and-europes-first-farmed-giant-grouper/
+    tier: 2
+    origin: normal
+  - date: '2026-08-31'
+    relation: support
+    claim: 中国のサーモン輸入量は2026年上半期に前年同期比43%増となり、一級都市の水産物消費者の約25%が週1回以上サーモン刺身を食べると回答した（世界平均は13%）。
+    source_url: https://www.salmonbusiness.com/china-one-in-four-big-city-residents-now-eats-salmon-sashimi-every-week/
+    tier: 2
+    origin: normal
+  - date: '2026-08-31'
+    relation: support
+    claim: 中国南方航空は2026年8月19日からオスロ・上海間の貨物便（週2便、アムステルダム経由）の運航を開始し、週当たり約200トンの輸送能力を持ち、初便で約100トンのノルウェー産生鮮サーモンを輸送した。
+    source_url: https://www.newsgd.com/node_d36b0ef83f/20e322740b.shtml
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-08-30'
+    last_support: '2026-08-31'
     last_contradiction: '2026-08-28'
     last_watch_hit: '2026-08-28'
     last_on_air: '2026-08-28'
     on_air_count: 1
     last_redteam: '2026-08-28'
-  _sustain: 1
+  _sustain: 2
   review_note: 福島県葛尾村でバナメイエビの陸上養殖を行っていたHANERU葛尾は、冬季の電気代・燃料代高騰による赤字を理由に2026年7月に事業を停止した。（バナメイエビ陸上養殖が電気代・燃料代高騰で赤字撤退した事実）
 - id: L-3
   theme: jp_fisheries
   axis: 販売
   statement: ぶり類は国内需要の停滞と輸出の伸びが同時に進み、価格の決まり方が輸出側の事情に寄りつつある。
   created: '2026-08-27'
-  confidence: 0.772
+  confidence: 0.835
   status: active
   decision_link: 国内市場向けの商品設計を続けるか、輸出仕様に寄せるか
   falsifiers:
@@ -288,8 +318,14 @@ hypotheses:
     tier: 1
     origin: normal
     aired: true
+  - date: '2026-08-31'
+    relation: support
+    claim: 日本の2026年1~6月のぶり輸出額は434億6,100万円で、前年同期比69.0%増となった。
+    source_url: https://www.jetro.go.jp/biznews/2026/08/e47598ab3d93df2e.html
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-08-30'
+    last_support: '2026-08-31'
     last_redteam: '2026-08-29'
     last_on_air: '2026-08-30'
     on_air_count: 1
@@ -299,7 +335,7 @@ hypotheses:
   axis: 横断
   statement: 水産事業の収益の振れは、資源量や相場よりも、制度・貿易ルール（関税・規制・認証）の変化に左右される比重が増している。
   created: '2026-08-27'
-  confidence: 0.832
+  confidence: 0.769
   status: active
   decision_link: 事業リスクの見積もりで、資源変動と制度変更のどちらに重みを置くか
   falsifiers:
@@ -362,16 +398,63 @@ hypotheses:
     source_url: https://www.canada.ca/en/department-finance/news/2026/08/list-of-products-from-the-united-states-subject-to-counter-tariffs-effective-september-8-2026.html
     tier: 1
     origin: normal
+  - date: '2026-08-31'
+    relation: support
+    claim: 太平洋クロマグロの大型魚漁獲枠を25%増やす案に、太平洋東西の国際会議が2026年8月18日に合意した。
+    source_url: https://www.suikei.co.jp/tag/shigenkanri
+    tier: 2
+    origin: normal
+    aired: true
+  - date: '2026-08-31'
+    relation: support
+    claim: 自民党水産部会・水産総合調査会は2026年8月25日、2027年度水産関係予算の概算要求案として4,200億円以上を示した。
+    source_url: https://www.suikei.co.jp/cat/news/policy
+    tier: 2
+    origin: normal
+    aired: true
+  - date: '2026-08-31'
+    relation: contradict
+    claim: サンマ棒受け網漁の2026年8月25日までの累計水揚げは836.4トンで、前年同期の2,048.6トンから59.1%減少した。
+    source_url: https://www.suikei.co.jp/archives/126711
+    tier: 2
+    origin: normal
+    aired: true
+  - date: '2026-08-31'
+    relation: contradict
+    claim: 釧路港の2026年7月のイワシ水揚げはゼロとなり、7月全体の水揚げ量は64トン（前年同月比99.7%減）、水揚げ金額は4,077万円（前年同月比96.4%減）だった。
+    source_url: https://www.suikei.co.jp/cat/news/fishery
+    tier: 2
+    origin: normal
+    aired: true
+  - date: '2026-08-31'
+    relation: support
+    claim: 米USTRは強制労働対策を理由に、対象60経済圏についてSection 301追加関税を原則10%または12.5%に設定した。
+    source_url: https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ustr-takes-action-forced-labor-section-301-investigations
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-08-31'
+    relation: support
+    claim: インドネシア産加工マグロ・カツオ製品の対象4品目について、日・インドネシア経済連携協定改正により2026年8月1日から日本向け特恵関税が0%（従来9.6%）になった。
+    source_url: https://en.antaranews.com/news/424368/indonesias-processed-tuna-export-receives-0-pct-tariff-from-japan
+    tier: 2
+    origin: normal
+    aired: true
   ops:
-    last_support: '2026-08-30'
+    last_support: '2026-08-31'
     last_redteam: '2026-08-30'
+    last_contradiction: '2026-08-31'
+    last_watch_hit: '2026-08-31'
+    last_on_air: '2026-08-31'
+    on_air_count: 1
   _sustain: 0
+  review_note: 釧路港の2026年7月のイワシ水揚げはゼロとなり、7月全体の水揚げ量は64トン（前年同月比99.7%減）、水揚げ金額は4,077万円（前年同月比96.4%減）だった。（イワシ水揚げ・金額の96.4%減は資源量が収益変動を説明する事例）
 - id: L-5
   theme: genai
   axis: 横断
   statement: 生成AIの競争軸は、モデルの性能比べから、業務への埋め込みと責任の分け方へ移っている。
   created: '2026-08-27'
-  confidence: 0.948
+  confidence: 0.928
   status: active
   decision_link: AI導入の検討で、モデル選定と業務プロセス設計のどちらに時間を割くか
   falsifiers:
@@ -475,15 +558,49 @@ hypotheses:
     source_url: https://www.anthropic.com/news/expanding-support-for-scientists
     tier: 1
     origin: normal
+  - date: '2026-08-31'
+    relation: support
+    claim: 米連邦裁判所は2026年8月27日、米国防総省によるAnthropicの「サプライチェーン・リスク」指定について、憲法修正第1条・第5条違反および権限逸脱があったとして違法と判断した。
+    source_url: https://www.reuters.com/world/us/judge-rules-pentagon-blacklisting-anthropic-unlawful-2026-08-28/
+    tier: 2
+    origin: normal
+  - date: '2026-08-31'
+    relation: support
+    claim: OpenAIは2026年8月28日、SpaceXによるCursor買収を受け、CursorへのOpenAIモデル提供契約を2026年11月12日付で終了する方針を公表した。
+    source_url: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/
+    tier: 1
+    origin: normal
+  - date: '2026-08-31'
+    relation: support
+    claim: マクロミルの2026年4月16~18日調査（回答者3,090人）では、生成AI導入現場の業務時間削減効果は1日平均75分だった。
+    source_url: https://www.macromill.com/service/report/research-report-166/
+    tier: 2
+    origin: normal
+  - date: '2026-08-31'
+    relation: support
+    claim: McKinseyの2026年5月4日~6月8日調査（回答者1,719人）では、80%がAIによって個人の生産性が向上したと回答し、37%がAIが企業のEBITに一定のプラス影響を与えたと回答した。
+    source_url: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
+    tier: 2
+    origin: normal
+  - date: '2026-08-31'
+    relation: contradict
+    claim: MIT NANDAの2025年7月公表report（2025年1~6月調査、52組織へのインタビュー等）によれば、業務特化型生成AIで本番到達・成功導入に至った組織は5%にとどまり、95%の組織で測定可能な投資効果が得られていないと報告された。
+    source_url: https://cloudelligent.com/wp-content/uploads/2026/02/v0.1_State_of_AI_in_Business_2025_Report.pdf
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-08-30'
-  _sustain: 2
+    last_support: '2026-08-31'
+    last_contradiction: '2026-08-31'
+    last_watch_hit: '2026-08-31'
+    last_redteam: '2026-08-31'
+  _sustain: 3
+  review_note: MIT NANDAの2025年7月公表report（2025年1~6月調査、52組織へのインタビュー等）によれば、業務特化型生成AIで本番到達・成功導入に至った組織は5%にとどまり、95%の組織で測定可能な投資効果が得られていないと報告された。（95%の組織で本番導入未達・投資効果測定不能と報告された）
 - id: L-6
   theme: education
   axis: 横断
   statement: 幼児から小学校段階のAI対応は、使わせ方の工夫より、使わせない時間をどう設計するかに寄りつつある。
   created: '2026-08-27'
-  confidence: 0.881
+  confidence: 0.786
   status: active
   decision_link: 家庭で、AIに触れさせる方針と触れさせない時間の設計のどちらを先に決めるか
   falsifiers:
@@ -572,11 +689,31 @@ hypotheses:
     source_url: https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/screen-use
     tier: 1
     origin: normal
+  - date: '2026-08-31'
+    relation: support
+    claim: ノルウェー政府は2026年8月の新学期から、1~7年生（概ね6~13歳）の児童に学校学習でAIへのアクセスを原則与えない方針を示した。
+    source_url: https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/
+    tier: 1
+    origin: normal
+  - date: '2026-08-31'
+    relation: contradict
+    claim: ベトナムでは2026~2027年度から一般教育機関の全教育段階でAI教育（1学年あたり12授業）を全国導入する方針が示された。
+    source_url: https://www.vietnam.vn/en/giao-duc-ai-dai-tra-tu-nam-hoc-2026-2027
+    tier: 2
+    origin: normal
+  - date: '2026-08-31'
+    relation: contradict
+    claim: 香港教育局は2026~2027年度に向け、小学校の情報・イノベーション技術カリキュラムに「人工知能入門」分野の試行版を導入した。
+    source_url: https://www.edb.gov.hk/en/DEBP/
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-08-30'
-    last_contradiction: '2026-08-29'
+    last_support: '2026-08-31'
+    last_contradiction: '2026-08-31'
     unfrozen: true
     last_on_air: '2026-08-29'
     on_air_count: 1
-  review_note: 香港教育局は2026年7月21日付通知で初等学校向けカリキュラムに「AIの予備学習」領域の試行版を公表し、2026/27学年からAI教育を導入する方針を示した。（香港が初等学校向けAI教育カリキュラムの導入方針を公表）
+    last_watch_hit: '2026-08-31'
+  review_note: ベトナムでは2026~2027年度から一般教育機関の全教育段階でAI教育（1学年あたり12授業）を全国導入する方針が示された。（ベトナムが全教育段階でAI教育を全国導入する方針を示した）
+    / 香港教育局は2026~2027年度に向け、小学校の情報・イノベーション技術カリキュラムに「人工知能入門」分野の試行版を導入した。（香港教育局が小学校カリキュラムにAI入門分野の試行版を導入した）
   _sustain: 0

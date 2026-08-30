@@ -1501,6 +1501,229 @@
    "aired": [
     "2026-08-30"
    ]
+  },
+  {
+   "id": "bbc58bc25b6e",
+   "theme": "world_fisheries",
+   "headline": "アンドフィヨルド社、Q2売上5130万クローネ発表",
+   "detail": "ノルウェーの陸上サーモン養殖会社Andfjord Salmonは2026年8月27日、第2四半期の運営状況を公表した。8月26日時点の立ち上がりバイオマスは1,969トン。第2四半期には562トンのポストスモルトを商業販売し、四半期売上高は5,130万ノルウェークローネだった。四半期後の8月26日までの期間には713トンの純生産量を記録。現在の稼働生産能力は年間5,000トンで、2026年第3四半期までに年間11,000トンへ拡大する計画が示されている。",
+   "numbers": [
+    "バイオマス1969トン",
+    "Q2販売562トン",
+    "売上5130万NOK",
+    "純生産713トン",
+    "稼働能力年間5000トン",
+    "拡張目標年間11000トン"
+   ],
+   "source_url": "https://uk.investing.com/news/stock-market-news/andfjord-salmon-q2-2026-slides-revenue-returns-biomass-nears-2000-tonnes-93CH-4849024",
+   "source_title": "Andfjord Salmon Q2 2026 slides: revenue returns, biomass nears 2,000 tonnes",
+   "published": "2026-08-27",
+   "importance": 2,
+   "first_seen": "2026-08-31",
+   "aired": [
+    "2026-08-31"
+   ]
+  },
+  {
+   "id": "f7ce2bb12d0e",
+   "theme": "world_fisheries",
+   "headline": "中国魚粉在庫5年ぶり低水準、アジアで供給不足懸念",
+   "detail": "中国の主要港における魚粉在庫が、2026年第32週時点で約5年ぶりの低水準となったと報じられた。ペルーでのアンチョベータ漁業の制限と、中国の養殖需要期が重なったことが背景とされる。2026年のアジア市場では、養殖・食用向けの不足量が魚粉で年間120万トン、魚油で年間8万トンに達する可能性があるとの見方が示されている。Rabobankの分析では、2026年後半の養殖市場は供給制約や飼料費上昇に直面するとの見方が示されている。",
+   "numbers": [
+    "中国魚粉在庫5年ぶり低水準",
+    "魚粉不足見込み120万トン",
+    "魚油不足見込み8万トン"
+   ],
+   "source_url": "https://seafood.media/fis/marketmonitor/news.asp?l=e&id=139037&specie=512&ndb=1",
+   "source_title": "FIS - News - Fish Meal",
+   "published": "",
+   "importance": 4,
+   "first_seen": "2026-08-31",
+   "aired": [
+    "2026-08-31"
+   ]
+  },
+  {
+   "id": "84f9935e87a5",
+   "theme": "genai",
+   "headline": "Tencent、7700億パラメータのオープンAIモデル公開",
+   "detail": "中国Tencentは2026年8月28日、大規模言語モデル「Hy4 preview」を公開した。総パラメータ数は7700億、1トークン当たりの有効化パラメータ数は約490億のMixture-of-Experts構造で、コンテキスト長は100万トークン級。重みはHugging Faceなどで公開され、量子化版「Hy4 preview-FP8」も提供されている。CodeBuddyやWorkBuddyなど自社サービスへの統合を予定するが、API価格は確認できない。",
+   "numbers": [
+    "総パラメータ7700億",
+    "有効化パラメータ約490億",
+    "コンテキスト長100万トークン級"
+   ],
+   "source_url": "https://huggingface.co/tencent/Hy4-preview",
+   "source_title": "Tencent Hy4-preview - Hugging Face",
+   "published": "2026-08-28",
+   "importance": 2,
+   "first_seen": "2026-08-31",
+   "aired": [
+    "2026-08-31"
+   ]
+  },
+  {
+   "id": "65993fe4c11f",
+   "theme": "genai",
+   "headline": "OpenAI、SpaceX買収後のCursorへのモデル提供終了へ",
+   "detail": "OpenAIは2026年8月28日、SpaceXによるCursorの買収を受け、CursorにOpenAIモデルを提供している契約を段階的に終了する方針を公表した。提供停止予定日は2026年11月12日で、開発者が移行できるよう契約上可能な最大限の通知期間を設けたと説明している。Cursor全体のサービス停止を意味するものではなく、OpenAIモデルの提供契約の終了に限定されるとみられる。",
+   "numbers": [
+    "提供終了予定日2026年11月12日"
+   ],
+   "source_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+   "source_title": "OpenAI: Our decision on Cursor following its acquisition by SpaceX",
+   "published": "2026-08-28",
+   "importance": 2,
+   "first_seen": "2026-08-31",
+   "aired": [
+    "2026-08-31"
+   ]
+  },
+  {
+   "id": "58f556ccd9cc",
+   "theme": "genai",
+   "headline": "OpenAI、タイ政府とスタートアップ支援プログラム開始",
+   "detail": "OpenAIは2026年8月28日、タイ高等教育・科学・研究・イノベーション省と連携し、タイのスタートアップを対象とする8週間のアクセラレータープログラムを開始すると発表した。目的はAI関連の試作品を実用製品に発展させることで、参加企業数や投資総額、提供APIクレジットの金額は今回の発表からは確認できない。",
+   "numbers": [
+    "プログラム期間8週間"
+   ],
+   "source_url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand/",
+   "source_title": "OpenAI: Supporting next-generation AI startups in Thailand",
+   "published": "2026-08-28",
+   "importance": 1,
+   "first_seen": "2026-08-31",
+   "aired": [
+    "2026-08-31"
+   ]
+  },
+  {
+   "id": "834720dfee41",
+   "theme": "education",
+   "headline": "ベトナム、2026〜27年度から全学校でAI教育導入",
+   "detail": "ベトナム教育訓練省は、2026〜2027年度から一般教育機関の全教育段階でAI教育を全国的に実施する方針を示した。中核内容は1学年あたり12授業で、AIの基礎知識、基本的な活用、安全、倫理、データ保護を扱う。2025〜2026年度の試行を踏まえた全国展開だが、幼児が生成AIを直接操作するのか、教員による紹介・体験活動が中心かは確認できていない。",
+   "numbers": [
+    "1学年あたり12授業"
+   ],
+   "source_url": "https://www.vietnam.vn/en/giao-duc-ai-dai-tra-tu-nam-hoc-2026-2027",
+   "source_title": "Vietnam.vn - AI教育全国導入報道",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-08-31",
+   "aired": [
+    "2026-08-31"
+   ]
+  },
+  {
+   "id": "349981ee948b",
+   "theme": "education",
+   "headline": "カザフスタン、小学校科目にAIを追加する改訂案",
+   "detail": "カザフスタンでは、1〜4年生の「デジタル・リテラシー」を「デジタル・リテラシーと人工知能」に、5〜11年生の「コンピュータ科学」を「コンピュータ科学と人工知能」に変更するカリキュラム改訂案が示された。小学校ではAIの簡単な例、デジタル安全、個人データ保護、責任あるオンライン行動を扱うとされる。改訂案は調査時点で最終承認前であり、確定施行とは確認できない。",
+   "numbers": [],
+   "source_url": "https://www.kt.kz/eng/society/kazakhstan_adds_artificial_intelligence_to_school_curriculum_1377996549.html",
+   "source_title": "Kazakhstan adds artificial intelligence to school curriculum",
+   "published": "",
+   "importance": 1,
+   "first_seen": "2026-08-31",
+   "aired": []
+  },
+  {
+   "id": "e1e88b8ad4be",
+   "theme": "education",
+   "headline": "米ヘンライコ郡、Pre-K〜2年生のAI利用を原則制限",
+   "detail": "米バージニア州ヘンライコ郡公立学校は2026年8月、2026〜2027年度のデジタル・ウェルネス指針を導入した。Pre-K〜2年生はテクノロジー利用を限定的・教師主導・発達段階適合とし、原則デジタル宿題を出さず児童端末を学校に置く。小中学校の端末からYouTubeへの直接アクセスを遮断し、AI利用の初期設定は「レベル0」として教員の許可を必要とする。障害等の理由がある児童には例外を認める。",
+   "numbers": [],
+   "source_url": "https://citizenportal.ai/articles/9250887/virginia/school-districts/henrico-co-pblc-schs/henrico-schools-adopt-division-wide-digital-wellness-guidance-for-202627",
+   "source_title": "Henrico schools adopt division-wide Digital Wellness guidance for 2026-27",
+   "published": "2026-08",
+   "importance": 2,
+   "first_seen": "2026-08-31",
+   "aired": [
+    "2026-08-31"
+   ]
+  },
+  {
+   "id": "2e6c99d8774e",
+   "theme": "education",
+   "headline": "米アラバマ州、幼児教育機関のスクリーン基準を法制化",
+   "detail": "米アラバマ州は、保育、Pre-K、幼稚園向けに適切なスクリーン利用基準の策定と職員研修を義務付ける法律に知事が署名した。施行日は2027年1月1日で、具体的な1日当たりの利用時間の上限は今回の資料からは確認できない。",
+   "numbers": [
+    "施行日2027年1月1日"
+   ],
+   "source_url": "https://governor.alabama.gov/newsroom/2026/03/governor-ivey-signs-screen-time-limits-for-early-childhood-education-programs-into-law/",
+   "source_title": "Governor Ivey Signs Screen Time Limits for Early Childhood Education Programs Into Law",
+   "published": "2026-03",
+   "importance": 2,
+   "first_seen": "2026-08-31",
+   "aired": [
+    "2026-08-31"
+   ]
+  },
+  {
+   "id": "785127756289",
+   "theme": "education",
+   "headline": "米フロリダ州、Pre-K〜大学のAI利用規則案を検討",
+   "detail": "フロリダ州デサンティス政権は、Pre-KからPh.D.までの教育機関を対象にAI利用を規制する規則案の検討を進めていると報じられた。Pre-K〜5年生では年齢適合性の追加審査を提案しているとされるが、最終確定は確認できていない。",
+   "numbers": [],
+   "source_url": "https://www.wlrn.org/light/education/2026-08-28/desantis-administration-moving-to-regulate-ai-from-pre-k-to-ph-d",
+   "source_title": "DeSantis administration moving to regulate AI from pre-K to Ph.D.",
+   "published": "2026-08-28",
+   "importance": 2,
+   "first_seen": "2026-08-31",
+   "aired": [
+    "2026-08-31"
+   ]
+  },
+  {
+   "id": "6ad70079756c",
+   "theme": "education",
+   "headline": "K-12向けAIリテラシー、国際デルファイ研究で合意事項",
+   "detail": "2026年4月公表の国際デルファイ研究では、K-12教育向けAIリテラシーについて、33人・27人・25人の専門家パネルによる3段階調査が行われた。23項目中8項目について専門家の合意が得られ、AIに関する基礎知識とAIを批判的に捉える視点が中心と整理されている。幼児や小学校低学年だけを対象とした大規模実証研究の確立した結論とは確認できないとの見方が示されている。",
+   "numbers": [
+    "合意項目8/23項目"
+   ],
+   "source_url": "https://www.tandfonline.com/doi/full/10.1080/10494820.2026.2649553",
+   "source_title": "International Delphi study on AI literacy (2026)",
+   "published": "2026-04",
+   "importance": 1,
+   "first_seen": "2026-08-31",
+   "aired": []
+  },
+  {
+   "id": "5c0eebd9a4d7",
+   "theme": "education",
+   "headline": "英識字調査、AI時代も基礎読み書き投資が必要と指摘",
+   "detail": "英National Literacy Trustは2026年、13〜18歳の若者40,500人超、5〜18歳の子どもの保護者約3,000人、教員2,500人超を対象とした調査結果を公表した。報告は、AI時代においても基礎的な読み書き能力と、AIを批判的に使うデジタル・リテラシーの双方への投資が必要だとの見方を示している。幼児・小学校低学年を直接対象にした調査ではない。",
+   "numbers": [
+    "回答者40500人超",
+    "保護者約3000人",
+    "教員2500人超"
+   ],
+   "source_url": "https://literacytrust.org.uk/blog/using-generative-ai-to-support-literacy-what-we-know-so-far/",
+   "source_title": "National Literacy Trust: Using generative AI to support literacy",
+   "published": "2026",
+   "importance": 1,
+   "first_seen": "2026-08-31",
+   "aired": []
+  },
+  {
+   "id": "fda893344d6c",
+   "theme": "education",
+   "headline": "文科省、生成AIパイロット事業149自治体478校で実証",
+   "detail": "2026年度、文部科学省の生成AIパイロット校等で、教育利用10自治体、校務利用100自治体、教材実証51自治体の実証が予定され、重複を除く自治体・認定校は149、対象校は478校となった。数値は2026年3月31日時点で公表可能な自治体等を集計したもので、幼児教育・小学校低学年での実証規模は資料からは明確でない。",
+   "numbers": [
+    "教育利用10自治体",
+    "校務利用100自治体",
+    "教材実証51自治体",
+    "対象校478校"
+   ],
+   "source_url": "https://edu.watch.impress.co.jp/docs/news/2106509.html",
+   "source_title": "Impress Watch: 文科省生成AIパイロット事業",
+   "published": "2026-03-31",
+   "importance": 2,
+   "first_seen": "2026-08-31",
+   "aired": [
+    "2026-08-31"
+   ]
   }
  ]
 }

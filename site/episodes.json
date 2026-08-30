@@ -1,5 +1,44 @@
 [
   {
+    "id": "260831_morningbrief_v1_AI",
+    "title": "8月31日のブリーフ",
+    "published_at": "2026-08-31T05:06:55+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260831_morningbrief_v1_AI/260831_morningbrief_v1_AI.mp3",
+    "duration_sec": 1311,
+    "bytes": 5462730,
+    "summary": "・中国主要港の魚粉在庫、第32週時点で約5年ぶり低水準<br>・テンセントが新しい大規模言語モデルを公開<br>・教育現場、AI導入進める国と制限強める地域が併存",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 33.5
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 238.1
+      },
+      {
+        "section": "genai",
+        "start_sec": 539.6
+      },
+      {
+        "section": "education",
+        "start_sec": 870.4
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1217.1
+      },
+      {
+        "section": "closing",
+        "start_sec": 1299.7
+      }
+    ]
+  },
+  {
     "id": "260830_morningbrief_v1_AI",
     "title": "8月30日のブリーフ",
     "published_at": "2026-08-30T05:06:54+09:00",
