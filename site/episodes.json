@@ -1,5 +1,48 @@
 [
   {
+    "id": "260901_morningbrief_v1_AI",
+    "title": "9月1日のブリーフ",
+    "published_at": "2026-09-01T05:07:05+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260901_morningbrief_v1_AI/260901_morningbrief_v1_AI.mp3",
+    "duration_sec": 1580,
+    "bytes": 6565893,
+    "summary": "・ぶり類の輸出金額に大きな節目<br>・ブラジルでティラピア養殖が拡大<br>・音楽業界とAI企業が対立する動き",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 34.3
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 190.3
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 571.8
+      },
+      {
+        "section": "genai",
+        "start_sec": 845.6
+      },
+      {
+        "section": "education",
+        "start_sec": 1164.1
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1482.9
+      },
+      {
+        "section": "closing",
+        "start_sec": 1569.6
+      }
+    ]
+  },
+  {
     "id": "260831_morningbrief_v1_AI",
     "title": "8月31日のブリーフ",
     "published_at": "2026-08-31T05:06:55+09:00",

@@ -1624,7 +1624,9 @@
    "published": "",
    "importance": 1,
    "first_seen": "2026-08-31",
-   "aired": []
+   "aired": [
+    "2026-09-01"
+   ]
   },
   {
    "id": "e1e88b8ad4be",
@@ -1686,7 +1688,9 @@
    "published": "2026-04",
    "importance": 1,
    "first_seen": "2026-08-31",
-   "aired": []
+   "aired": [
+    "2026-09-01"
+   ]
   },
   {
    "id": "5c0eebd9a4d7",
@@ -1703,7 +1707,9 @@
    "published": "2026",
    "importance": 1,
    "first_seen": "2026-08-31",
-   "aired": []
+   "aired": [
+    "2026-09-01"
+   ]
   },
   {
    "id": "fda893344d6c",
@@ -1723,6 +1729,188 @@
    "first_seen": "2026-08-31",
    "aired": [
     "2026-08-31"
+   ]
+  },
+  {
+   "id": "faa9c8124d2b",
+   "theme": "jp_fisheries",
+   "headline": "水産白書、陸上養殖・輸出をトピックスに提示",
+   "detail": "水産政策審議会企画部会が2026年8月27日に農林水産省で開催され、2026年度水産白書のトピックスとして陸上養殖、輸出、水福連携などを扱う方向が示された。特集テーマは漁船や生産・流通資材などとされる。陸上養殖の生産目標や予算額など具体的な数値は公開部分から確認できていない。海面養殖のリスクを抑える手段として陸上養殖の政策的位置づけが強まる可能性がある。",
+   "numbers": [
+    "開催日2026年8月27日"
+   ],
+   "source_url": "https://www.suikei.co.jp/?p=127029",
+   "source_title": "日刊水産経済新聞",
+   "published": "2026-08-27",
+   "importance": 3,
+   "first_seen": "2026-09-01",
+   "aired": [
+    "2026-09-01"
+   ]
+  },
+  {
+   "id": "d43db070232c",
+   "theme": "jp_fisheries",
+   "headline": "サンマ日本近海分布量42.9万トン、調査開始以降で最低",
+   "detail": "水産研究・教育機構などの調査で、2026年に日本近海へ来遊すると見込まれるサンマの分布量が調査開始（2003年）以降で最低水準となった。前年の109.9万トンから約6割減の42.9万トン。漁獲対象となりやすい1歳魚の割合も17.2％と前年の59.6％から大きく低下しており、将来の資源形成にも懸念が残る。8月25日までの水揚げも前年を大幅に下回っている。",
+   "numbers": [
+    "分布量42.9万トン",
+    "前年109.9万トン",
+    "1歳魚割合17.2%"
+   ],
+   "source_url": "https://www.htb.co.jp/news/archives_38968.html",
+   "source_title": "HTB北海道テレビ",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-09-01",
+   "aired": [
+    "2026-09-01"
+   ]
+  },
+  {
+   "id": "227b075fe224",
+   "theme": "jp_fisheries",
+   "headline": "JST、サバの高成長系統開発など次世代養殖技術を紹介",
+   "detail": "JSTの「日本型持続可能な次世代養殖システム開発」プロジェクトで、サバを対象にゲノム情報を利用した約1,000個体の選抜が行われ、成熟までの期間をオス5か月・メス8か月に短縮する系統が報告された。飼料の魚油代替はほぼ全量、魚粉代替は約4割を達成。成長目標は半年で300グラム。商業規模での生産量・収益性は確認できていない。",
+   "numbers": [
+    "対象個体約1000個体",
+    "魚粉代替約4割",
+    "成長目標半年300g"
+   ],
+   "source_url": "https://www.jst.go.jp/pr/jst-news/backnumber/2025/202602/pdf/2026_02_p8-11.pdf",
+   "source_title": "JST",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-09-01",
+   "aired": [
+    "2026-09-01"
+   ]
+  },
+  {
+   "id": "a197ce402a61",
+   "theme": "jp_fisheries",
+   "headline": "カンパチ種苗・浦河サーモンの生残率データを確認",
+   "detail": "全国横断の最新斃死率・生残率は確認できないが、個別事例としてカンパチ種苗生産では従来0〜5％だった生残率が改良により通常期の卵で約16％、早期の卵で約12％に向上したことが報告されている。北海道浦河町のトラウトサーモン試験養殖では、水揚げ795尾・生残率16.2％・総重量1.56トンの実績が確認された。いずれも個別事例で全国平均ではない。",
+   "numbers": [
+    "カンパチ生残率約16%",
+    "浦河サーモン生残率16.2%"
+   ],
+   "source_url": "https://www.fra.go.jp/home/kenkyushokai/book/franews/files/fnews24.pdf",
+   "source_title": "水産研究・教育機構",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-09-01",
+   "aired": [
+    "2026-09-01"
+   ]
+  },
+  {
+   "id": "5ffd194c08d2",
+   "theme": "jp_fisheries",
+   "headline": "2025年ぶり類輸出額、初の500億円超えの527億円",
+   "detail": "農林水産省の2025年輸出実績によると、ぶり類の輸出量は3万3,752トンで前年比9.3％減となった一方、輸出額は約527億円で前年比27.4％増となり、初めて500億円を突破した。脂の乗った大型サイズなどの需要により単価が上昇し、米国向けが主要輸出先。12月単月では輸出量5,965トン、輸出額89億1,657万円だった。",
+   "numbers": [
+    "輸出量3万3752トン",
+    "輸出額527億円",
+    "前年比27.4%増"
+   ],
+   "source_url": "https://www.suikei.co.jp/archives/94342",
+   "source_title": "日刊水産経済新聞",
+   "published": "",
+   "importance": 5,
+   "first_seen": "2026-09-01",
+   "aired": [
+    "2026-09-01"
+   ]
+  },
+  {
+   "id": "bcd45965ae4c",
+   "theme": "world_fisheries",
+   "headline": "ブラジルのティラピア価格、需要低迷で7月2%下落",
+   "detail": "ブラジルの応用経済研究センター（Cepea）の報告が8月28日に更新され、2026年7月のティラピア市場について国内需要の弱さと供給回復を背景に価格が下落したことが示された。大湖地域の平均価格は1kg当たり9.78レアルで6月比2％下落、パラナ州西部は8.69レアルで1.02％下落。2026年上半期の輸出量は前年同期比34％減とされる。",
+   "numbers": [
+    "1kg9.78レアル",
+    "前月比2%下落",
+    "上半期輸出34%減"
+   ],
+   "source_url": "https://agrimidia.com.br/aquicultura-industrial/2026/08/12/tilapia-demanda-enfraquecida-pressiona-precos-e-desacelera-embarques/",
+   "source_title": "Agrimídia",
+   "published": "2026-08-28",
+   "importance": 2,
+   "first_seen": "2026-09-01",
+   "aired": [
+    "2026-09-01"
+   ]
+  },
+  {
+   "id": "eacaf088d643",
+   "theme": "world_fisheries",
+   "headline": "米FDA、マレーシア産養殖エビに輸入警告を発出",
+   "detail": "米食品医薬品局（FDA）は2026年8月26〜28日に水産物関連の輸入警告を公表した。8月28日付でサルモネラ菌を理由とする水産物への警告、同日付でマレーシア半島部産の養殖エビ・クルマエビ等について未承認動物用医薬品または安全でない食品添加物を理由とする警告が掲載された。8月26日付でも未承認薬物を理由とする養殖水産物の輸入警告があった。対象企業名や数量は確認できていない。",
+   "numbers": [
+    "公表日2026年8月26〜28日"
+   ],
+   "source_url": "https://www.accessdata.fda.gov/cms_ia/iapublishdate.html",
+   "source_title": "米FDA",
+   "published": "2026-08-28",
+   "importance": 2,
+   "first_seen": "2026-09-01",
+   "aired": [
+    "2026-09-01"
+   ]
+  },
+  {
+   "id": "0b9b26fd30d3",
+   "theme": "genai",
+   "headline": "Sony・Warner Chappell、Anthropicを著作権侵害で提訴",
+   "detail": "Sony Music PublishingとWarner Chappell Musicなどの音楽出版社は2026年8月28日、AnthropicとCEOのDario Amodei氏らを米カリフォルニア北部地区連邦地裁に提訴した。訴状は48ページで、著作権のある音楽作品をトレントやスクレイピングで大量取得しClaudeの開発に利用したと主張し、数万件規模の作品侵害と1作品あたり最大15万米ドルの法定損害賠償を求めている。Anthropicは主張に同意せず争う方針。",
+   "numbers": [
+    "提訴日2026年8月28日",
+    "法定損害賠償最大15万米ドル"
+   ],
+   "source_url": "https://www.musicbusinessworldwide.com/files/2026/08/COMPLAINT-in-Sony_Music_Publishing_US_LLC_e.pdf",
+   "source_title": "Music Business Worldwide",
+   "published": "2026-08-28",
+   "importance": 3,
+   "first_seen": "2026-09-01",
+   "aired": [
+    "2026-09-01"
+   ]
+  },
+  {
+   "id": "1c71d1fcbd9d",
+   "theme": "genai",
+   "headline": "デジタル庁、被災地向け生成AI「源内」を9月30日まで延長",
+   "detail": "デジタル庁は令和8年熊本地震の被災自治体などに緊急提供している政府向け生成AI環境「源内」の提供期間を2026年9月30日まで延長した。災害対応向けAIアプリ16件、ユースケース・プロンプト集80件、チャット機能やエージェントチャットを提供し、Claude Opus 4.8等のモデルが利用可能。デジタル庁は2026年度中に約18万人の政府職員が生成AIを利用可能にする方針も示している。",
+   "numbers": [
+    "延長期限2026年9月30日",
+    "災害対応AIアプリ16件",
+    "職員約18万人"
+   ],
+   "source_url": "https://www.digital.go.jp/news/7266f120-48b5-4a2a-a2d6-e1467df7824e",
+   "source_title": "デジタル庁",
+   "published": "2026-08-31",
+   "importance": 2,
+   "first_seen": "2026-09-01",
+   "aired": [
+    "2026-09-01"
+   ]
+  },
+  {
+   "id": "a4ffa73f0b86",
+   "theme": "genai",
+   "headline": "NTT東日本と横須賀市、災害対策本部の生成AI活用を実証",
+   "detail": "NTT東日本と横須賀市は2026年8月31日、災害対策本部での意思決定を生成AIが支援できるか検証する実証を開始した。同日の共同ワークショップで、市危機管理課職員が同一の災害シナリオについてAI支援あり・なしの2条件で対応を検討し、処理速度、判断精度、対応の網羅性を比較する。地域防災計画などをAIに参照させる。結果は現時点では確認できない。",
+   "numbers": [
+    "実証開始2026年8月31日"
+   ],
+   "source_url": "https://www.ntt-east.co.jp/release/detail/20260831_01.html",
+   "source_title": "NTT東日本",
+   "published": "2026-08-31",
+   "importance": 2,
+   "first_seen": "2026-09-01",
+   "aired": [
+    "2026-09-01"
    ]
   }
  ]
