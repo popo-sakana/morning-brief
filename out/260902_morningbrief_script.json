@@ -1,0 +1,841 @@
+{
+  "segments": [
+    {
+      "id": "jp_fisheries",
+      "title": "日本の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "続いてのコーナーは日本の水産です。今日は水産物の加工原料に関する話題を取り上げます。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "今日お伝えするのは、北海道産の陸上スリ身の在庫が大きく減っているというニュースです。全国すり身協会が2026年8月21日に発表した数字です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "スリ身というと、かまぼこや練り物の原料というイメージですが、具体的にはどういうものですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "魚の身をすりつぶして加工しやすい形にしたものです。陸上のスリ身は、船の上ではなく陸の工場で作られるものを指します。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "その北海道産の陸上スリ身に、何が起きているんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "7月の生産が低調だったと報告されています。原因として、主力原料であるスケソウダラの漁獲が回復していないことが挙げられています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "スケソウダラというのは、どういう魚なんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "北海道近海などで漁獲されるタラの仲間で、スリ身の主要な原料魚として使われている魚です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "そのスケソウダラの漁獲が、なかなか戻らないということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。材料には漁獲が回復していないという説明があるだけで、詳しい理由までは書かれていません。この点はそれ以上は分かりません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "スケソウダラ以外にも、原料として使われる魚はあるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ホッケも原料の一つですが、こちらは凍魚需要に押されているという状況です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "凍魚需要というのは、どういう意味でしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "冷凍したままの状態で流通させる需要のことです。スリ身に加工されるより、冷凍のまま出回る方向に回っているということだと考えられます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "つまり、スケソウダラもホッケも、スリ身の原料として十分に集まっていない、ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。両方の要因が重なって、北海道産陸上スリ身の生産が低調になったと報じられています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "その結果、在庫の数字はどうなったんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "7月末の在庫は、前年同月と比べて86%減となっています。かなり大きな減少幅です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "86%減というと、去年の在庫が100あったとしたら、今は14しか残っていない、ということですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その計算で合っています。数量の規模までは材料に書かれていませんが、割合としてはかなり大きな落ち込みです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "これは、たまたま今年だけの現象なんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうではありません。過去5年間で最低水準になっているとされています。単年の一時的な変動というより、水準そのものが下がっている状況です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "過去5年で最低というのは、なかなか重い数字ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。単に前の年より少ないというだけでなく、ここ数年のどの年と比べても一番少ないという点が、今回の特徴です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "この在庫の減少は、私たちの生活にどんな形で関わってくるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "材料には、原料魚の漁獲減少が加工業や食品流通にも波及していると書かれています。スリ身を使う加工の現場に影響が及んでいるということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "加工業に波及しているというのは、具体的にどういうことまで分かっているんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "材料ではそこまで詳しくは説明されていません。加工業や食品流通に波及しているという範囲までの記述です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "この情報は、どこから発表されたものでしたか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "全国すり身協会が発表した7月実績によるものです。日刊水産経済新聞が2026年8月21日に報じています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "原料の漁獲が回復しない限り、この状況はしばらく続く可能性がある、ということでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこは材料からは分かりません。今回分かっているのは、7月時点でこういう状況になっているという事実までです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "北海道産陸上スリ身の在庫が、前年比86%減で過去5年で最低水準になっている。原因はスケソウダラの漁獲不振と、ホッケの凍魚需要への流れ、ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。原料魚の状況が、スリ身という加工品の在庫にまで影響を及ぼしている一例だと言えます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "日本の水産、今日はここまでです。ありがとうございました。"
+        }
+      ]
+    },
+    {
+      "id": "world_fisheries",
+      "title": "世界の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "「世界の水産」のコーナーです。今日は陸上養殖の会社の話がいくつも入っています。まずはオランダの会社からですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。オランダのザ・キングフィッシュ・カンパニーという会社が、yellowtail kingfishという魚を陸上の設備で養殖しています。この会社の2026年上期、1月から6月の業績が発表されました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "陸上で魚を育てる会社ですよね。業績はどうだったんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "売上高が1980万ユーロ、販売量が1470トンでした。前年の同じ時期と比べると、売上高は16%増、販売量は13%増です。伸びていると言えます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "それは好調ということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "さらに注目なのは、営業EBITDAという、設備投資などを除いた実質的なもうけの指標が20万ユーロのプラスになったことです。前年同期は250万ユーロの赤字でしたから、黒字に転じたことになります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "赤字から黒字化というのは大きな変化ですね。何か理由はあるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "外食向けの大型魚や生鮮品の売上高が32%伸びたことが背景にあるようです。ただ、大型魚の品質に関する問題は2026年第4四半期まで影響が続く可能性があるとしています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "まだ課題は残っている、ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。陸上養殖は初期投資が重く、黒字化するまで時間がかかると言われてきました。今回の数字は、その一つの節目と見ることができそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いてはノルウェー系の会社の話ですね。日本での陸上サーモン養殖だそうですが。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。プロキシマー・シーフードというノルウェー企業が、日本国内で陸上のサーモン養殖を進めています。2026年第2四半期の収穫量は726トン、上期全体では1850トンになりました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "累計ではどれくらいになるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "操業を始めてからの累計生産量は3200トンを超えたということです。少しずつ規模が積み上がっている段階と言えます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "魚の育ち方や生存率のようなものも分かるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "平均の収穫魚体重は2.56キログラム、生存率は98.9%となっています。生存率が高いということは、魚がきちんと育っていることを示す数字の一つです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "資金の面ではどうなんでしょう。陸上養殖はお金がかかるという話をよく聞きますが。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "この会社は2026年8月に、転換社債という、将来株式に転換できる仕組みの社債を1億ノルウェークローネ発行しています。事業を続けるための資金を調達したかたちです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "生産と資金調達の両方が動いている、ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そういう段階だと思います。日本での陸上サーモン養殖はまだ新しい分野なので、こうした一つ一つの数字が今後の目安になりそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "一方で、アメリカでは計画が止まってしまったという話もあるようですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。アメリカのメイン州で、3億米ドル規模の陸上サーモン養殖場を計画していたグレート・ノーザン・サーモンという会社が、計画を一時停止しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "3億ドルというと、かなり大きな計画ですよね。なぜ止まってしまったんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "アメリカの関税政策によって、輸入する設備や資材のコストの見通しが立てにくくなったことが理由とされています。建設コストが読めなくなった、ということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "陸上養殖って、そんなに輸入品に頼っているものなんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "設備や資材、物流費、資金調達のコストに大きく左右される事業だという事例だと言えます。ただ、計画が正式に中止されたかどうかは確認できていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "一時停止と中止は違いますもんね。今後の動きも気になるところです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。関税のような政策の変化が、水産業の設備投資にも直接影響することを示す一例だと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ここで少し大きな視点の話も入っていますね。国連の機関からの発表だとか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。国連食糧農業機関、FAOが出した世界漁業・養殖業白書2026によると、世界の漁業と養殖業を合わせた生産量は2024年時点で2億3500万トンでした。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "そのうち養殖はどれくらいなんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "養殖生産量は約1億330万トンです。この白書では、食用の水産物の供給で養殖が天然の漁業を上回った、とされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "それは大きな変化に聞こえますね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "天然の魚を獲る量には限りがありますから、養殖が食卓を支える割合が増えてきているということだと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "私たちが食べる魚の量にも関わってくる話ですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "1人当たりの水産動物性食品の利用可能量は、2024年時点で年間21.3キログラムでした。2034年には21.9キログラムに達するという見通しが出ています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "見通しということは、まだ確定した話ではないんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。あくまでFAOの予測ですが、今日紹介したような陸上養殖の会社の動きも、この大きな流れの一部と考えられます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "最後はドイツの会社ですね。聞き慣れない魚の名前が出てきますが。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ドイツのオーシャンループという会社が、2026年8月18日に最大3850万ユーロの資金調達を発表しました。育てているのはジャイアント・グルーパーという魚です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "この魚の販売はもう始まっているんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "既存の施設で2026年4月から商業販売を始めています。2026年の供給見込みは約20トン、2027年は約40トンと、まだ小さな規模です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今回の資金は何に使われる予定なんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "キールという場所に年間約250トンの施設を2026年末までに建設開始する予定で、さらにグラン・カナリアには年間約2000トンの商業施設を2029年に着工する計画です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "段階を追って規模を大きくしていく計画ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。今の数十トン規模から、将来的に2000トン規模を目指すという、成長の道筋を描いた資金調達だと言えます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今日は陸上養殖を中心に、黒字化や資金調達、計画の停止まで、いろいろな段階の話が並びました。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "業界全体としてはまだ発展途上ですが、FAOの数字が示すように、養殖が水産物供給の中心になりつつある流れの中の出来事だと思います。"
+        }
+      ]
+    },
+    {
+      "id": "genai",
+      "title": "生成AIの重大ニュース",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "2026年9月2日、生成AIの重大ニュースコーナーです。今日は5件のニュースを見ていきます。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "まずはグーグルです。8月31日に、時系列予測のための基盤モデル、TimesFM-3を公開しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "時系列予測というと、売上とか需要みたいな、時間で変わる数字を当てる技術ですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。しかも複数の系列をまとめて、一度の計算で予測できるのが特徴です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "パラメータ数は3億3000万とありますが、これは大きいんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "最近の大規模言語モデルに比べると小ぶりです。ただ学習データは1兆時点を超えていて、この分野では相当な量です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "実データと合成データを合わせて、というのも気になります。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、両方使うことで学習量を増やしています。GitHubとハギングフェイスで公開されていて、誰でも試せます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "企業のデータ分析に使われそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "需要予測や売上予測への活用が想定されています。ビッグクエリという分析基盤への統合も数週間以内に予定されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いてアンソロピックです。新しいモデルを発表したとのことですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "9月1日、Claude Fable5.1とClaude Mythos5.1という2つのモデルが発表されました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "この2つは何が違うんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "Fable5.1は誰でも使える一般提供です。一方のMythos5.1は、サイバーセキュリティや生命科学分野で、審査を通った利用者に限定した提供になります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "料金はどれくらいなんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "入力が100万トークンあたり10米ドル、出力が同じく50米ドルです。トークンというのは文章を細かく区切った単位のことです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "キャッシュ料金が75パーセント引き下げというのは、大きな変化ですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "前のモデルからの引き下げ幅としてはかなり大きいです。キャッシュは一度処理した内容を再利用する仕組みで、これが安くなるとコストが下がりやすくなります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "全体としてどれくらい安くなる見込みなんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "エージェント型処理、つまりAIが自動でいくつもの作業をこなす使い方で、最大約45パーセントのコスト削減を見込むとアンソロピックは説明しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いて国内のニュースです。日本でAI法が全面施行されたんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "9月1日、人工知能関連技術の研究開発及び活用の推進に関する法律、いわゆるAI法が全面施行されました。同じ日に内閣に人工知能戦略本部も設置されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "戦略本部というのは、何をするところなんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "本部長は内閣総理大臣です。AI基本計画の案を作ったり、実施を推進したり、政策の企画立案や総合調整を担います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "国としてAI政策を一元的に扱う体制ができた、ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そう理解できます。同じ日に、デジタル庁の政府向け生成AI調達・利活用ガイドライン第2.0版も施行されていて、行政の側でも利用ルールが更新されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "次はエヌビディアとメディアテックの提携です。金額が大きいですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "8月31日の発表で、エヌビディアがメディアテックの転換社債に35億米ドルを投資すると発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "35億ドルというと、かなりの規模ですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "半導体分野の企業間投資としては大きな金額です。あわせてメディアテックは、エヌビディアのNVLink Fusionという接続技術を採用します。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "対象になる分野は幅広いんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "AIデータセンターの基盤や、専用のAIアクセラレーター、パソコン向けのローカルAI、それから自動車まで含まれています。半導体を軸にした連携が広がっている形です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "最後はオープンAIです。医療機関向けのChatGPTに新しい機能が加わったんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "9月1日、ChatGPT for Healthcareに、電子カルテのエピックとの連携機能が追加されました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "具体的にはどんなことができるんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "認可された患者情報を取り込んで、予約情報や診療ノート、検査結果、薬剤情報を要約できます。公式の医療情報源につながるプラグインも提供されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "医療現場で使うとなると、安全性が気になります。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その点についてオープンAIは、27の臨床ユースケース、4363件の評価を行い、99.1パーセントが安全と評価されたと説明しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "99.1パーセントというのは、かなり高い数字に見えますね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "高い数字ではありますが、あくまでオープンAI自身の評価という点は踏まえておく必要があります。今後の実際の運用でどう検証されるかも注目されます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "以上、5件のニュースを見てきました。予測モデルから政策、企業提携、医療分野まで、動きが幅広い一日でしたね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。技術の進化とルール作りが同時に進んでいる印象です。引き続き注目していきたいと思います。"
+        }
+      ]
+    }
+  ],
+  "verification": {
+    "title": "大きな流れ",
+    "turns": [
+      {
+        "speaker": "analyst",
+        "text": "はい。今日の切り口で言うと、幼児から小学生の段階では、AIをどう使わせるかより、AIから離れる時間をどう作るかに関心が移ってきています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。今日はまず英国政府の動きがあります。2026年3月26日、5歳未満の子ども向けにスクリーンタイムの指針を出しました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "その通りです。2歳未満は大人と一緒の活動を除いて画面を避け、2歳から5歳は1日1時間以内が目安とされました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "もう一つ、インドのガウタム・ブッダ・ナガル地区でも動きがありました。2026年8月、ノイダなどの学校にスマートボードの利用制限を指示しています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい、画面つきの授業機器です。初等学級では1日30分以内、上級の初等学級でも60分以内に抑える指示が出ました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "ありました。香港教育局が、2026年度から27年度に向けたデジタル教育の計画を公表しています。設計図という意味でブループリントと呼ばれるものです。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "初等・中等学校向けに、AIリテラシー、つまりAIを正しく理解して使う力を育てる学習の枠組みが含まれています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "逆風の材料ではあります。ただ全体で見ると、英国とインドの追い風のほうが多く、見方としては少し強まった形です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "良い指摘です。ただ香港の枠組みは、AIを積極的に使わせる計画というより、AIとどう付き合うかを教える教育の枠組みという性格が強いとも読めます。使わせる方向とは言い切れません。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。ここが見極めどころです。もし今後、低学年からAIを積極的に触らせる授業やカリキュラムが各地で広がれば、この見方は変わります。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "家庭で子どもにAIをどう触れさせるか決める前に、まず触れさせない時間をどう作るかを先に決める、という順番が今後の目安になりそうです。"
+      }
+    ]
+  },
+  "discussion": {
+    "title": "きょうの論点",
+    "turns": [
+      {
+        "speaker": "navigator",
+        "text": "最後は今日の論点です。日本の水産、世界の水産、生成AIの話を振り返って、つながりを考えていきます。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "北海道のスリ身は天然のスケソウダラに頼っていて、漁獲が回復しないと在庫が減る。オランダの会社は陸上養殖で自分で育てている。この対比は面白いですね。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "とはいえ、オランダの会社も大型魚の品質問題が2026年第4四半期まで続く可能性があると言っていましたよね。陸上養殖も万能ではないと。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "この話、popoさんの仕事にはどう関わってきますか。鹿児島のぶり類養殖に知見があるという前提で聞きたいです。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "そこに生成AIの話がつながってくるわけですね。TimesFM-3という時系列予測モデルが出てきました。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "水産の需要予測や漁獲予測にも使えそうな気がしますが、どうでしょう。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "補助金申請の支援にも活きそうですね。将来の需要見通しを数字で示せると説得力が増すのではないでしょうか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "業務の仕組み化という観点でもどうですか。一人で活動されているpopoさんにとって。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "今日は教育に関する話題はなかったですね。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "代わりに何か一つ深掘りするとしたら、どのテーマがいいでしょうか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "精度がどこまで上がるかはまだ分からない部分もありますね。"
+      }
+    ]
+  },
+  "opening": [
+    {
+      "speaker": "navigator",
+      "text": "2026年9月2日の水産と生成AIのニュースをお届けします。今日は3つの話題です。まず北海道産の陸上すり身の在庫が大きく減っているという話です。次にオランダの陸上養殖会社、ザ・キングフィッシュ・カンパニーの2026年上期の業績です。そして生成AIでは、グーグルが時系列予測のための新しい基盤モデルを公開したニュースをお伝えします。"
+    }
+  ],
+  "closing": [
+    {
+      "speaker": "navigator",
+      "text": "今日は以上です。詳しい台本と出典は番組ページに掲載していますので、そちらもご確認ください。またお会いしましょう。"
+    }
+  ],
+  "highlights": [
+    "北海道産陸上すり身の在庫、8月21日発表で大きく減少",
+    "キングフィッシュ社の2026年上期業績が発表される",
+    "グーグルが時系列予測の基盤モデルTimesFM-3を公開"
+  ],
+  "requests": "",
+  "hypothesis_checks": [
+    {
+      "id": "L-6",
+      "theme": "education",
+      "statement": "幼児から小学校段階のAI対応は、使わせ方の工夫より、使わせない時間をどう設計するかに寄りつつある。",
+      "before": 0.799,
+      "after": 0.889,
+      "evidence_today": [
+        {
+          "relation": "support",
+          "claim": "ノルウェー政府は、2026年秋の新学期から小学校1〜7年生(概ね6〜13歳)について学校学習で生成AIへのアクセスを原則認めない方針を示した。",
+          "source_url": "https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "香港教育局は、2026/27年度に向けて初等・中等学校向けにAIリテラシー学習枠組みなどを含むデジタル教育発展ブループリントを公表した。",
+          "source_url": "https://www.edb.gov.hk/en/DEBP/",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "英国政府は2026年3月26日、5歳未満の子ども向けスクリーンタイム指針を発表し、2歳未満は共同活動を除きスクリーンを避け、2〜5歳は1日1時間以内を目安とすることなどを示した。",
+          "source_url": "https://www.gov.uk/government/news/new-screen-time-guidance-for-parents-of-under-5s",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "インドのガウタム・ブッダ・ナガル地区行政は2026年8月、ノイダ等の学校に対しスマートボード等の利用を初等学級で1日30分以内、上級初等学級で1日60分以内に制限する指示を出した。",
+          "source_url": "https://education.economictimes.indiatimes.com/amp/news/school-education/noida-schools-told-to-cap-smart-board-use-at-30-mins-for-primary-60-mins-for-upper-primary/133229598",
+          "origin": "normal"
+        }
+      ],
+      "support": 3,
+      "contradict": 1,
+      "falsifier_hits": [
+        "香港教育局は、2026/27年度に向けて初等・中等学校向けにAIリテラシー学習枠組みなどを含むデジタル教育発展ブループリントを公表した。（香港教育局が初等学校向けAIリテラシー推進枠組みを公表）"
+      ],
+      "status": "active",
+      "moved": null,
+      "already_said": [
+        "ノルウェー政府は2026年6月19日、2026年秋の新学期から小学1~7年生の児童が学校でAIを自ら使うことを原則として認めない方針を発表した。",
+        "英国教育省は2026年7月13日公表の幼児教育者向け指針で、2歳未満は原則スクリーン利用を避け、2~5歳は1日1時間以内を目安とするよう示した。",
+        "2026年8月23日公表の中国の研究で、就学前児童10,341人を対象にAIリテラシー尺度（CPALS）を検証し、分析対象8,512人のうち「能力が高い」群が50.59%だった。"
+      ],
+      "axis": "横断",
+      "falsifier_texts": [
+        "低学年からのAI活用を推進する制度やカリキュラムが広がる",
+        "利用制限を導入した地域が、効果なしとして方針を撤回する"
+      ],
+      "decision_link": "家庭で、AIに触れさせる方針と触れさせない時間の設計のどちらを先に決めるか",
+      "stance": "支持する材料がかなり積み上がっている",
+      "shift": "今日の材料で、この見方は少し強まりました",
+      "on_air_count": 2
+    }
+  ],
+  "aired_items": [
+    {
+      "id": "c14e3d11512e",
+      "theme": "jp_fisheries",
+      "headline": "北海道産陸上スリ身、7月末在庫が前年比86%減で最低水準",
+      "source_url": "https://www.suikei.co.jp/archives/126098",
+      "source_title": "日刊水産経済新聞",
+      "from_stock": false
+    },
+    {
+      "id": "dcd98598156e",
+      "theme": "world_fisheries",
+      "headline": "蘭Kingfish社、yellowtail養殖で2026年上期に営業黒字化",
+      "source_url": "https://insights.tridge.com/speaker-product-news-reports/KJLyFXpzJzgKuB1Gqsm5QUKHGgR43AVdqLJmbTsCS21cFz5g2va9wtv8",
+      "source_title": "Tridge Insights",
+      "from_stock": false
+    },
+    {
+      "id": "1be8d49b4cd8",
+      "theme": "world_fisheries",
+      "headline": "ノルウェー系Proximar、日本の陸上サーモンで上期収穫1850トン",
+      "source_url": "https://ng.investing.com/news/stock-market-news/proximar-q2-2026-slides-harvest-strategy-shifts-profitability-path-emerges-93CH-2678409",
+      "source_title": "Investing.com",
+      "from_stock": false
+    },
+    {
+      "id": "4349e8b29fb6",
+      "theme": "world_fisheries",
+      "headline": "米メイン州、関税影響で3億ドル陸上サーモン計画を一時停止",
+      "source_url": "https://www.salmonbusiness.com/us-300-million-land-based-salmon-farm-pitched-as-tariff-insurance-halted-because-of-tariffs/",
+      "source_title": "SalmonBusiness",
+      "from_stock": false
+    },
+    {
+      "id": "10bf2586c434",
+      "theme": "world_fisheries",
+      "headline": "FAO白書、世界の養殖生産が食用水産物で天然漁業を上回る",
+      "source_url": "https://www.fao.org/in-action/globefish/news-events/news/news-detail/global-aquatic-food-trade---the-latest-findings-from-sofia-2026/en",
+      "source_title": "FAO GLOBEFISH",
+      "from_stock": false
+    },
+    {
+      "id": "f2704ffc495c",
+      "theme": "world_fisheries",
+      "headline": "独Oceanloop、3850万ユーロ調達しグルーパー生産拠点拡大へ",
+      "source_url": "https://oceanloop.com/press/oceanloop-funding-scale-up-2026.pdf?ref=ctvc.co",
+      "source_title": "Oceanloop press release",
+      "from_stock": false
+    },
+    {
+      "id": "1b0965b6d02d",
+      "theme": "genai",
+      "headline": "Google、時系列予測基盤モデル「TimesFM-3」を公開",
+      "source_url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-time-series-forecasting/",
+      "source_title": "Google Research",
+      "from_stock": false
+    },
+    {
+      "id": "0cac2888bc55",
+      "theme": "genai",
+      "headline": "Anthropic、新モデル「Claude Fable/Mythos 5.1」を発表",
+      "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "source_title": "Anthropic",
+      "from_stock": false
+    },
+    {
+      "id": "13f254cfcbb2",
+      "theme": "genai",
+      "headline": "日本でAI法が全面施行、内閣にAI戦略本部が発足",
+      "source_url": "https://www8.cao.go.jp/cstp/ai/ai_act/ai_act.html",
+      "source_title": "内閣府",
+      "from_stock": false
+    },
+    {
+      "id": "7aa0cc4c0112",
+      "theme": "genai",
+      "headline": "NVIDIA、MediaTekに35億ドル投資しAIチップ連携を強化",
+      "source_url": "https://nvidianews.nvidia.com/news/nvidia-partners-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital-6927601",
+      "source_title": "NVIDIA Newsroom",
+      "from_stock": false
+    },
+    {
+      "id": "c66587c7ee55",
+      "theme": "genai",
+      "headline": "OpenAI、医療機関向けChatGPTに電子カルテEpic連携を追加",
+      "source_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/",
+      "source_title": "OpenAI",
+      "from_stock": false
+    }
+  ],
+  "sources": [
+    {
+      "segment": "日本の水産",
+      "title": "日刊水産経済新聞",
+      "url": "https://www.suikei.co.jp/archives/126098"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "Tridge Insights",
+      "url": "https://insights.tridge.com/speaker-product-news-reports/KJLyFXpzJzgKuB1Gqsm5QUKHGgR43AVdqLJmbTsCS21cFz5g2va9wtv8"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "Investing.com",
+      "url": "https://ng.investing.com/news/stock-market-news/proximar-q2-2026-slides-harvest-strategy-shifts-profitability-path-emerges-93CH-2678409"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "SalmonBusiness",
+      "url": "https://www.salmonbusiness.com/us-300-million-land-based-salmon-farm-pitched-as-tariff-insurance-halted-because-of-tariffs/"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "FAO GLOBEFISH",
+      "url": "https://www.fao.org/in-action/globefish/news-events/news/news-detail/global-aquatic-food-trade---the-latest-findings-from-sofia-2026/en"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "Oceanloop press release",
+      "url": "https://oceanloop.com/press/oceanloop-funding-scale-up-2026.pdf?ref=ctvc.co"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "Google Research",
+      "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-time-series-forecasting/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "Anthropic",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "内閣府",
+      "url": "https://www8.cao.go.jp/cstp/ai/ai_act/ai_act.html"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-partners-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital-6927601"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/"
+    }
+  ]
+}

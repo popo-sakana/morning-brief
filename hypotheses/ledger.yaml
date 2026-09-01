@@ -13,7 +13,7 @@ hypotheses:
   axis: 生産
   statement: 養殖の競争力の源泉が、規模と餌のコスト勝負から、種苗・育種と斃死率のコントロールへ移りつつある。
   created: '2026-08-27'
-  confidence: 0.881
+  confidence: 0.769
   status: active
   decision_link: 養殖案件で、飼料の置き換えと生残率の改善のどちらを提案の軸に置くか
   falsifiers:
@@ -92,12 +92,36 @@ hypotheses:
     source_url: https://www.fra.go.jp/home/kenkyushokai/book/franews/files/fnews24.pdf
     tier: 1
     origin: normal
+  - date: '2026-09-02'
+    relation: support
+    claim: 水研機構は2026年8月19日開催のシーフードショーで高成長ブリ種苗の量産化をテーマにしたセミナーを開催し、高成長系統の実用化と人工種苗の周年供給システム構築の目標を2029年としている。
+    source_url: https://www.suikei.co.jp/archives/126117
+    tier: 1
+    origin: normal
+  - date: '2026-09-02'
+    relation: contradict
+    claim: 水産庁の資料によると、ブリ類・マダイなどの魚類養殖業の漁労支出に占める餌代の割合は2009〜2017年に58〜81%で、2017年は71%だった。
+    source_url: https://www.jfa.maff.go.jp/j/saibai/yousyoku/attach/pdf/seityou_19-25.pdf
+    tier: 1
+    origin: normal
+  - date: '2026-09-02'
+    relation: contradict
+    claim: John A. H. Benzieによるエビ育種のレビューでは、養殖対象種の分子遺伝学研究への投資水準は農業種を対象とする研究の1桁少ない水準だと報告されている。
+    source_url: https://www.asianfisheriessociety.org/publication/downloadfile.php?id=1251&file=Y0dSbUx6QTVPVEk0TnpBd01ERTFORGc0TVRRMU9EQXVjR1Jt
+    tier: 1
+    origin: normal
+  - date: '2026-09-02'
+    relation: contradict
+    claim: 水産養殖の選抜育種普及に関するレビューによると、2010年時点で世界の養殖生産の約8.2%しか選抜育種で改良された系統に基づいていなかった。
+    source_url: https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2018.00693/full
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-01'
-    last_contradiction: '2026-08-27'
+    last_support: '2026-09-02'
+    last_contradiction: '2026-09-02'
     last_on_air: '2026-08-27'
     on_air_count: 1
-    last_redteam: '2026-08-27'
+    last_redteam: '2026-09-02'
     unfrozen: true
   review_note: FAOによるアジア6か国・計340養殖場調査（調査期間2005年10月15日～2006年2月14日、2007年公表）では、総生産費に占める餌料費が平均58.0%で稚魚・種苗費15.5%を大きく上回った。（餌料費が種苗費を大きく上回るとFAO調査が示す）
     / FAOの世界調査（2019年2月公表、回答期間2015年6月～2017年6月）では、92か国の回答のうち45%が遺伝的改良は養殖生産に「影響しなかった」または「影響は小さかった」と回答した。（45%が遺伝的改良は生産に影響小さいと回答）
@@ -295,21 +319,45 @@ hypotheses:
     source_url: https://www.salmonbusiness.com/china-new-oslo-shanghai-cargo-route-adds-capacity-for-200-tonnes-of-salmon-a-week/
     tier: 2
     origin: normal
+  - date: '2026-09-02'
+    relation: support
+    claim: 中国・寧波で陸上養殖を行うNordic Aqua Partnersは、2026年4〜6月にサーモンを1,362トン(HOG重量)収穫した。
+    source_url: https://ca.investing.com/news/stock-market-news/nordic-aqua-q2-2026-slides-record-harvest-china-growth-accelerate-93CH-4816790
+    tier: 2
+    origin: normal
+  - date: '2026-09-02'
+    relation: support
+    claim: 日本で陸上サーモン養殖を行うProximar Seafoodの2026年1〜6月累計収穫量は1,850トンだった。
+    source_url: https://ng.investing.com/news/stock-market-news/proximar-q2-2026-slides-harvest-strategy-shifts-profitability-path-emerges-93CH-2678409
+    tier: 2
+    origin: normal
+  - date: '2026-09-02'
+    relation: support
+    claim: オランダの陸上養殖企業The Kingfish Companyは、2026年1〜6月の売上高が1,980万ユーロ(前年同期比16%増)、販売量が1,470トン(同13%増)となり、営業EBITDAは20万ユーロで前年同期の250万ユーロ赤字から黒字化した。
+    source_url: https://insights.tridge.com/speaker-product-news-reports/KJLyFXpzJzgKuB1Gqsm5QUKHGgR43AVdqLJmbTsCS21cFz5g2va9wtv8
+    tier: 2
+    origin: normal
+  - date: '2026-09-02'
+    relation: support
+    claim: 中国南方航空は2026年8月20日にノルウェー・オスロと上海を結ぶ鮮魚輸送用貨物便を初運航し、週2便で週約200トンのノルウェー産サーモン輸送能力を見込むとした。
+    source_url: https://www.seafoodnews.com/Story/1352456/China-Southern-Launches-Direct-Oslo-Shanghai-Cargo-Route-for-Norwegian-Salmon
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-01'
+    last_support: '2026-09-02'
     last_contradiction: '2026-08-28'
     last_watch_hit: '2026-08-28'
     last_on_air: '2026-08-28'
     on_air_count: 1
     last_redteam: '2026-08-28'
-  _sustain: 3
+  _sustain: 4
   review_note: 福島県葛尾村でバナメイエビの陸上養殖を行っていたHANERU葛尾は、冬季の電気代・燃料代高騰による赤字を理由に2026年7月に事業を停止した。（バナメイエビ陸上養殖が電気代・燃料代高騰で赤字撤退した事実）
 - id: L-3
   theme: jp_fisheries
   axis: 販売
   statement: ぶり類は国内需要の停滞と輸出の伸びが同時に進み、価格の決まり方が輸出側の事情に寄りつつある。
   created: '2026-08-27'
-  confidence: 0.883
+  confidence: 0.906
   status: active
   decision_link: 国内市場向けの商品設計を続けるか、輸出仕様に寄せるか
   falsifiers:
@@ -366,18 +414,24 @@ hypotheses:
     source_url: https://www.maff.go.jp/j/shokusan/export/e_info/attach/pdf/zisseki-277.pdf
     tier: 1
     origin: normal
+  - date: '2026-09-02'
+    relation: support
+    claim: 2026年1〜6月のブリ輸出額は434億6,100万円で、前年同期比69.0%増となり、上半期として過去最高だった。
+    source_url: https://www.nippon.com/ja/news/yjj2026080400501/
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-01'
+    last_support: '2026-09-02'
     last_redteam: '2026-08-29'
     last_on_air: '2026-08-30'
     on_air_count: 1
-  _sustain: 0
+  _sustain: 1
 - id: L-4
   theme: world_fisheries
   axis: 横断
   statement: 水産事業の収益の振れは、資源量や相場よりも、制度・貿易ルール（関税・規制・認証）の変化に左右される比重が増している。
   created: '2026-08-27'
-  confidence: 0.623
+  confidence: 0.728
   status: active
   decision_link: 事業リスクの見積もりで、資源変動と制度変更のどちらに重みを置くか
   falsifiers:
@@ -512,8 +566,14 @@ hypotheses:
     source_url: https://www.accessdata.fda.gov/cms_ia/iapublishdate.html
     tier: 1
     origin: normal
+  - date: '2026-09-02'
+    relation: support
+    claim: カナダ政府は2026年8月25日に発表した米国産水産物への25%報復関税案を、2026年8月27日に対象リストから除外した。
+    source_url: https://finance.yahoo.com/economy/policy/articles/canada-pulls-seafood-us-tariff-114607675.html
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-01'
+    last_support: '2026-09-02'
     last_redteam: '2026-08-30'
     last_contradiction: '2026-09-01'
     last_watch_hit: '2026-09-01'
@@ -689,21 +749,45 @@ hypotheses:
     tier: 1
     origin: normal
     aired: true
+  - date: '2026-09-02'
+    relation: support
+    claim: OpenAIは2026年9月1日、ChatGPT for Healthcareに電子カルテシステムEpicとの連携機能などを追加したと発表した。
+    source_url: https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/
+    tier: 1
+    origin: normal
+  - date: '2026-09-02'
+    relation: support
+    claim: 日本では2026年9月1日にAI法が全面施行され、同日内閣に人工知能戦略本部が設置された。
+    source_url: https://www8.cao.go.jp/cstp/ai/ai_act/ai_act.html
+    tier: 1
+    origin: normal
+  - date: '2026-09-02'
+    relation: support
+    claim: Sony Music PublishingやWarner Chappell Musicなどの音楽出版社は、2026年8月28日付でAnthropicを著作権侵害で米国連邦地裁に提訴した。
+    source_url: https://www.musicbusinessworldwide.com/files/2026/08/COMPLAINT-in-Sony_Music_Publishing_US_LLC_e.pdf
+    tier: 2
+    origin: normal
+  - date: '2026-09-02'
+    relation: support
+    claim: 帝国データバンクの2026年3月調査(有効回答10,312社)で、業務で生成AIを活用している企業は34.5%、活用企業のうち86.7%が業務への効果を実感していると回答した。
+    source_url: https://www.tdb.co.jp/report/biz-knowledge/at9goybq_28/
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-01'
+    last_support: '2026-09-02'
     last_contradiction: '2026-08-31'
     last_watch_hit: '2026-08-31'
     last_redteam: '2026-08-31'
     last_on_air: '2026-09-01'
     on_air_count: 1
-  _sustain: 4
+  _sustain: 5
   review_note: MIT NANDAの2025年7月公表report（2025年1~6月調査、52組織へのインタビュー等）によれば、業務特化型生成AIで本番到達・成功導入に至った組織は5%にとどまり、95%の組織で測定可能な投資効果が得られていないと報告された。（95%の組織で本番導入未達・投資効果測定不能と報告された）
 - id: L-6
   theme: education
   axis: 横断
   statement: 幼児から小学校段階のAI対応は、使わせ方の工夫より、使わせない時間をどう設計するかに寄りつつある。
   created: '2026-08-27'
-  confidence: 0.799
+  confidence: 0.889
   status: active
   decision_link: 家庭で、AIに触れさせる方針と触れさせない時間の設計のどちらを先に決めるか
   falsifiers:
@@ -822,14 +906,41 @@ hypotheses:
     source_url: https://www.ed.gov/about/news/press-release/us-department-of-education-releases-guidance-responsible-use-of-education-technology-classroom
     tier: 1
     origin: normal
+  - date: '2026-09-02'
+    relation: support
+    claim: ノルウェー政府は、2026年秋の新学期から小学校1〜7年生(概ね6〜13歳)について学校学習で生成AIへのアクセスを原則認めない方針を示した。
+    source_url: https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-02'
+    relation: contradict
+    claim: 香港教育局は、2026/27年度に向けて初等・中等学校向けにAIリテラシー学習枠組みなどを含むデジタル教育発展ブループリントを公表した。
+    source_url: https://www.edb.gov.hk/en/DEBP/
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-02'
+    relation: support
+    claim: 英国政府は2026年3月26日、5歳未満の子ども向けスクリーンタイム指針を発表し、2歳未満は共同活動を除きスクリーンを避け、2〜5歳は1日1時間以内を目安とすることなどを示した。
+    source_url: https://www.gov.uk/government/news/new-screen-time-guidance-for-parents-of-under-5s
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-02'
+    relation: support
+    claim: インドのガウタム・ブッダ・ナガル地区行政は2026年8月、ノイダ等の学校に対しスマートボード等の利用を初等学級で1日30分以内、上級初等学級で1日60分以内に制限する指示を出した。
+    source_url: https://education.economictimes.indiatimes.com/amp/news/school-education/noida-schools-told-to-cap-smart-board-use-at-30-mins-for-primary-60-mins-for-upper-primary/133229598
+    tier: 2
+    origin: normal
+    aired: true
   ops:
-    last_support: '2026-09-01'
-    last_contradiction: '2026-09-01'
+    last_support: '2026-09-02'
+    last_contradiction: '2026-09-02'
     unfrozen: true
-    last_on_air: '2026-08-29'
-    on_air_count: 1
-    last_watch_hit: '2026-08-31'
+    last_on_air: '2026-09-02'
+    on_air_count: 2
+    last_watch_hit: '2026-09-02'
     last_redteam: '2026-09-01'
-  review_note: ベトナムでは2026~2027年度から一般教育機関の全教育段階でAI教育（1学年あたり12授業）を全国導入する方針が示された。（ベトナムが全教育段階でAI教育を全国導入する方針を示した）
-    / 香港教育局は2026~2027年度に向け、小学校の情報・イノベーション技術カリキュラムに「人工知能入門」分野の試行版を導入した。（香港教育局が小学校カリキュラムにAI入門分野の試行版を導入した）
+  review_note: 香港教育局は、2026/27年度に向けて初等・中等学校向けにAIリテラシー学習枠組みなどを含むデジタル教育発展ブループリントを公表した。（香港教育局が初等学校向けAIリテラシー推進枠組みを公表）
   _sustain: 0

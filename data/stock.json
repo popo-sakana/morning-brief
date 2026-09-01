@@ -1912,6 +1912,225 @@
    "aired": [
     "2026-09-01"
    ]
+  },
+  {
+   "id": "c14e3d11512e",
+   "theme": "jp_fisheries",
+   "headline": "北海道産陸上スリ身、7月末在庫が前年比86%減で最低水準",
+   "detail": "全国すり身協会が2026年8月21日に発表した7月実績によると、北海道産陸上スリ身の生産が低調だった。主力原料であるスケソウダラの漁獲が回復せず、ホッケも凍魚需要に押されている。7月末在庫は前年同月比86%減となり、過去5年間で最低水準となった。原料魚の漁獲減少が加工業や食品流通にも波及している。",
+   "numbers": [
+    "7月末在庫86%減",
+    "対象月2026年7月"
+   ],
+   "source_url": "https://www.suikei.co.jp/archives/126098",
+   "source_title": "日刊水産経済新聞",
+   "published": "2026-08-21",
+   "importance": 2,
+   "first_seen": "2026-09-02",
+   "aired": [
+    "2026-09-02"
+   ]
+  },
+  {
+   "id": "dcd98598156e",
+   "theme": "world_fisheries",
+   "headline": "蘭Kingfish社、yellowtail養殖で2026年上期に営業黒字化",
+   "detail": "オランダの陸上養殖企業The Kingfish Companyは、yellowtail kingfishの2026年上期（1〜6月）売上高が1,980万ユーロ、販売量が1,470トンとなったと発表した。売上高は前年同期比16%増、販売量は13%増。営業EBITDAは20万ユーロで、前年同期の250万ユーロの赤字から黒字化した。大型魚・生鮮品の外食向け売上高は32%増だったが、大型魚の品質問題の影響は2026年第4四半期まで続く可能性があるとしている。",
+   "numbers": [
+    "売上高1980万ユーロ",
+    "販売量1470トン",
+    "前年同期比16%増",
+    "営業EBITDA20万ユーロ"
+   ],
+   "source_url": "https://insights.tridge.com/speaker-product-news-reports/KJLyFXpzJzgKuB1Gqsm5QUKHGgR43AVdqLJmbTsCS21cFz5g2va9wtv8",
+   "source_title": "Tridge Insights",
+   "published": "",
+   "importance": 4,
+   "first_seen": "2026-09-02",
+   "aired": [
+    "2026-09-02"
+   ]
+  },
+  {
+   "id": "1be8d49b4cd8",
+   "theme": "world_fisheries",
+   "headline": "ノルウェー系Proximar、日本の陸上サーモンで上期収穫1850トン",
+   "detail": "日本で陸上サーモン養殖を進めるノルウェー企業Proximar Seafoodは、2026年第2四半期に726トンを収穫し、2026年上期（1〜6月）の累計収穫量は1,850トンとなった。操業開始からの累計生産量は3,200トン超。平均収穫魚体重は2.56キログラム、生存率は98.9%。同社は2026年8月に転換社債1億ノルウェークローネを発行した。",
+   "numbers": [
+    "上期収穫1850トン",
+    "Q2収穫726トン",
+    "累計3200トン超",
+    "生存率98.9%"
+   ],
+   "source_url": "https://ng.investing.com/news/stock-market-news/proximar-q2-2026-slides-harvest-strategy-shifts-profitability-path-emerges-93CH-2678409",
+   "source_title": "Investing.com",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-09-02",
+   "aired": [
+    "2026-09-02"
+   ]
+  },
+  {
+   "id": "f2704ffc495c",
+   "theme": "world_fisheries",
+   "headline": "独Oceanloop、3850万ユーロ調達しグルーパー生産拠点拡大へ",
+   "detail": "ドイツのOceanloopは2026年8月18日、最大3,850万ユーロの資金調達を発表した。既存施設でのジャイアント・グルーパー商業販売は2026年4月に開始済みで、2026年の供給見込みは約20トン、2027年は約40トン。資金はキールでの年間約250トンの施設（2026年末までに建設開始予定）、グラン・カナリアでの年間約2,000トンの商業施設（2029年着工予定）などに充てる計画。",
+   "numbers": [
+    "資金調達3850万ユーロ",
+    "2026年供給約20トン",
+    "2027年供給約40トン",
+    "キール施設年間250トン",
+    "グランカナリア施設年間2000トン"
+   ],
+   "source_url": "https://oceanloop.com/press/oceanloop-funding-scale-up-2026.pdf?ref=ctvc.co",
+   "source_title": "Oceanloop press release",
+   "published": "2026-08-18",
+   "importance": 2,
+   "first_seen": "2026-09-02",
+   "aired": [
+    "2026-09-02"
+   ]
+  },
+  {
+   "id": "4349e8b29fb6",
+   "theme": "world_fisheries",
+   "headline": "米メイン州、関税影響で3億ドル陸上サーモン計画を一時停止",
+   "detail": "米国メイン州で3億米ドル規模の陸上サーモン養殖場を計画していたGreat Northern Salmonは、輸入設備・資材に対する米国の関税政策により建設コストの見通しが立ちにくくなったとして、計画を一時停止した。陸上養殖が輸入設備、資材、物流費、資金調達コストに大きく左右されることを示す事例だが、計画が正式に中止されたかは確認できていない。",
+   "numbers": [
+    "計画規模3億米ドル"
+   ],
+   "source_url": "https://www.salmonbusiness.com/us-300-million-land-based-salmon-farm-pitched-as-tariff-insurance-halted-because-of-tariffs/",
+   "source_title": "SalmonBusiness",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-09-02",
+   "aired": [
+    "2026-09-02"
+   ]
+  },
+  {
+   "id": "9047b65d2450",
+   "theme": "world_fisheries",
+   "headline": "米USDA、食品支援事業者向けコールドチェーン整備に750万ドル",
+   "detail": "米国農務省は2026年8月26日、食品支援事業者が生鮮・冷凍品を保管・配送するための設備購入を支援する助成金として750万米ドルを発表した。水産物専用の制度ではないが、冷蔵・冷凍設備を含む食品物流インフラへの公的支援であり、冷凍水産物の保管能力を補強する可能性がある。",
+   "numbers": [
+    "助成金750万米ドル"
+   ],
+   "source_url": "https://www.savingseafood.org/news/economic-impact/usda-announces-grants-to-extend-cold-chain-to-food-assistance-programs/",
+   "source_title": "Saving Seafood",
+   "published": "2026-08-26",
+   "importance": 1,
+   "first_seen": "2026-09-02",
+   "aired": []
+  },
+  {
+   "id": "10bf2586c434",
+   "theme": "world_fisheries",
+   "headline": "FAO白書、世界の養殖生産が食用水産物で天然漁業を上回る",
+   "detail": "国連食糧農業機関（FAO）の「世界漁業・養殖業白書2026」によれば、世界の漁業・養殖生産量は2億3,500万トン（2024年）、養殖生産量は約1億330万トン（2024年）で、養殖が食用水産物の供給で天然漁業を上回った。1人当たりの水産動物性食品の利用可能量は21.3キログラム／年（2024年）で、2034年には21.9キログラム／年に達する見通しとされている。",
+   "numbers": [
+    "世界漁業養殖生産量2億3500万トン",
+    "養殖生産量1億330万トン",
+    "1人当たり利用可能量21.3kg/年"
+   ],
+   "source_url": "https://www.fao.org/in-action/globefish/news-events/news/news-detail/global-aquatic-food-trade---the-latest-findings-from-sofia-2026/en",
+   "source_title": "FAO GLOBEFISH",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-09-02",
+   "aired": [
+    "2026-09-02"
+   ]
+  },
+  {
+   "id": "0cac2888bc55",
+   "theme": "genai",
+   "headline": "Anthropic、新モデル「Claude Fable/Mythos 5.1」を発表",
+   "detail": "Anthropicは2026年9月1日、コーディングや知識労働向けの新モデルとしてClaude Fable 5.1とClaude Mythos 5.1を発表した。Fable 5.1は一般提供、Mythos 5.1はサイバーセキュリティやライフサイエンス分野の審査済み利用者向け限定提供。入力料金は100万トークンあたり10米ドル、出力は50米ドル。キャッシュ読み取り料金は前モデルから75%引き下げられ、Anthropicはエージェント型処理で最大約45%のコスト削減を見込むとしている。",
+   "numbers": [
+    "入力10ドル/100万トークン",
+    "出力50ドル/100万トークン",
+    "キャッシュ料金75%引き下げ",
+    "コスト削減最大45%"
+   ],
+   "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+   "source_title": "Anthropic",
+   "published": "2026-09-01",
+   "importance": 2,
+   "first_seen": "2026-09-02",
+   "aired": [
+    "2026-09-02"
+   ]
+  },
+  {
+   "id": "c66587c7ee55",
+   "theme": "genai",
+   "headline": "OpenAI、医療機関向けChatGPTに電子カルテEpic連携を追加",
+   "detail": "OpenAIは2026年9月1日、ChatGPT for HealthcareにEpicとの電子カルテ連携機能を追加したと発表した。認可された患者情報を取り込み、予約情報や診療ノート、検査結果、薬剤情報を要約できる。公式医療情報源に接続するHealthcare Public Data pluginも提供する。OpenAIは27の臨床ユースケース、4,363件の評価で99.1%が安全と評価されたと説明している。",
+   "numbers": [
+    "評価27ユースケース",
+    "評価4363件",
+    "安全評価99.1%"
+   ],
+   "source_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/",
+   "source_title": "OpenAI",
+   "published": "2026-09-01",
+   "importance": 1,
+   "first_seen": "2026-09-02",
+   "aired": [
+    "2026-09-02"
+   ]
+  },
+  {
+   "id": "1b0965b6d02d",
+   "theme": "genai",
+   "headline": "Google、時系列予測基盤モデル「TimesFM-3」を公開",
+   "detail": "Google Researchは2026年8月31日、複数の時系列を同時に予測する基盤モデルTimesFM-3を発表した。パラメータ数は3億3,000万で、実データと合成データ合わせて1兆時点超で学習した。複数系列の予測を1回の順伝播で実行できる。GitHubとHugging Faceで公開され、BigQueryへの統合は数週間以内を予定。需要予測や売上予測など企業データ分析への活用が想定される。",
+   "numbers": [
+    "パラメータ数3.3億",
+    "学習データ1兆時点超"
+   ],
+   "source_url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-time-series-forecasting/",
+   "source_title": "Google Research",
+   "published": "2026-08-31",
+   "importance": 3,
+   "first_seen": "2026-09-02",
+   "aired": [
+    "2026-09-02"
+   ]
+  },
+  {
+   "id": "7aa0cc4c0112",
+   "theme": "genai",
+   "headline": "NVIDIA、MediaTekに35億ドル投資しAIチップ連携を強化",
+   "detail": "NVIDIAとMediaTekは2026年8月31日、AIコンピューティング分野での提携拡大を発表した。NVIDIAはMediaTekの転換社債に35億米ドルを投資し、MediaTekはNVIDIAのNVLink Fusionを採用する。対象分野はAIデータセンター基盤、カスタムAIアクセラレーター、PC向けローカルAI、自動車・ソフトウェア定義車両など。",
+   "numbers": [
+    "投資額35億米ドル"
+   ],
+   "source_url": "https://nvidianews.nvidia.com/news/nvidia-partners-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital-6927601",
+   "source_title": "NVIDIA Newsroom",
+   "published": "2026-08-31",
+   "importance": 1,
+   "first_seen": "2026-09-02",
+   "aired": [
+    "2026-09-02"
+   ]
+  },
+  {
+   "id": "13f254cfcbb2",
+   "theme": "genai",
+   "headline": "日本でAI法が全面施行、内閣にAI戦略本部が発足",
+   "detail": "日本では2026年9月1日、人工知能関連技術の研究開発及び活用の推進に関する法律（AI法）が全面施行され、同日内閣に人工知能戦略本部が設置された。本部長は内閣総理大臣で、AI基本計画の案の作成・実施推進や政策の企画立案・総合調整を担う。同日、デジタル庁の政府向け生成AI調達・利活用ガイドライン第2.0版も施行された。",
+   "numbers": [],
+   "source_url": "https://www8.cao.go.jp/cstp/ai/ai_act/ai_act.html",
+   "source_title": "内閣府",
+   "published": "2026-09-01",
+   "importance": 2,
+   "first_seen": "2026-09-02",
+   "aired": [
+    "2026-09-02"
+   ]
   }
  ]
 }

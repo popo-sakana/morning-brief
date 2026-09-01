@@ -1,5 +1,44 @@
 [
   {
+    "id": "260902_morningbrief_v1_AI",
+    "title": "9月2日のブリーフ",
+    "published_at": "2026-09-02T05:13:24+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260902_morningbrief_v1_AI/260902_morningbrief_v1_AI.mp3",
+    "duration_sec": 1346,
+    "bytes": 5603562,
+    "summary": "・北海道産陸上すり身の在庫、8月21日発表で大きく減少<br>・キングフィッシュ社の2026年上期業績が発表される<br>・グーグルが時系列予測の基盤モデルTimesFM-3を公開",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 31.8
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 166.5
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 448.8
+      },
+      {
+        "section": "genai",
+        "start_sec": 906.8
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1250.2
+      },
+      {
+        "section": "closing",
+        "start_sec": 1337.8
+      }
+    ]
+  },
+  {
     "id": "260901_morningbrief_v1_AI",
     "title": "9月1日のブリーフ",
     "published_at": "2026-09-01T05:07:05+09:00",
