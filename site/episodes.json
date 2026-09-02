@@ -1,5 +1,44 @@
 [
   {
+    "id": "260903_morningbrief_v1_AI",
+    "title": "9月3日のブリーフ",
+    "published_at": "2026-09-03T05:13:31+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260903_morningbrief_v1_AI/260903_morningbrief_v1_AI.mp3",
+    "duration_sec": 1275,
+    "bytes": 5306082,
+    "summary": "・キングフィッシュ社が陸上養殖の第2四半期生産量を発表<br>・政府や大手企業の生成AI安全対策発表が目立つ一日<br>・LAUSDが新年度からスクリーン利用制限を導入",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 36.7
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 176.1
+      },
+      {
+        "section": "genai",
+        "start_sec": 502.8
+      },
+      {
+        "section": "education",
+        "start_sec": 864.0
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1186.8
+      },
+      {
+        "section": "closing",
+        "start_sec": 1263.6
+      }
+    ]
+  },
+  {
     "id": "260902_morningbrief_v1_AI",
     "title": "9月2日のブリーフ",
     "published_at": "2026-09-02T05:13:24+09:00",

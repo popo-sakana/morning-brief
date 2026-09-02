@@ -1,0 +1,816 @@
+{
+  "segments": [
+    {
+      "id": "world_fisheries",
+      "title": "世界の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "世界の水産、今日のコーナーです。まずはオランダの養殖会社の話題からいきましょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。オランダなどでカンパチの仲間、イエローテールキングフィッシュを陸上養殖しているキングフィッシュ社が、第2四半期の生産量を発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "陸上養殖というのは、海ではなく陸のタンクで魚を育てる方法ですよね。数字はどうだったんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "2026年第2四半期の生産量は691トンでした。前年同期は707トンだったので、2%の減少です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "2%減というのは、大きい落ち込みなんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "数字だけ見ればわずかな減少です。ただ気になるのは中身で、優良グレードの比率が下がっている点です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "優良グレードというのは、品質のランクのことですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。会社によると、2026年5月中旬以降、優良グレードの比率が90%超から約75%へ一時的に下がったとしています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "9割を超えていたものが75%まで下がったというのは、けっこうな変化に見えますね。何が原因なんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "材料には具体的な原因までは記されていませんが、養殖方法を見直したことが背景にあるようです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "見直しによって、今は品質にばらつきが出ているということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。ただ会社側は、その改善効果が今後6か月から12か月かけて現れるという見方を示しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "つまり今は一時的な調整期間で、来年にかけて品質が戻ってくるかもしれない、ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。あわせて四半期末の生体バイオマス、つまり育成中の魚の総重量ですが、950トンとなっています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "950トンという数字は、今後の生産量を見る目安になりそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。陸上養殖は天候や海況に左右されにくい一方、こうした品質管理の課題も出てくるという例だと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いて、ベトナムのえび輸出の話題です。こちらはかなり伸びているようですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。ベトナム水産物加工輸出協会関連の報道によると、2026年1月から7月のえび輸出額は約28億米ドルでした。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "前の年と比べるとどうなんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "前年同期比で13.5%増です。7か月間でこれだけ伸びているのは、小さくない伸びだと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "どの国向けが伸びを引っ張っているんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "中国向けです。中国向け輸出額は約9億3900万米ドルで、前年同期比42%増でした。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "42%増というのはかなり大きい伸びですね。全体に占める割合はどれくらいですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "輸出額全体の約33%を中国向けが占めています。3分の1が中国向けという計算になります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "なぜ中国向けがこれほど伸びているんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "材料では、米国市場の通商政策の不確実性の中で、アジア域内、特に中国向けへの依存が高まっている構図が示されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "アメリカ向けが読みにくいので、中国など近い市場に力を入れているということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そういう見方が出ています。ベトナムのえび産業にとって、中国市場の重みが増している状況です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "輸出先が特定の国に偏ると、それはそれでリスクにもなりそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その点は材料には触れられていませんが、依存度が高まっていること自体は数字から読み取れます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "少し前の話になりますが、アメリカの話題も一つ触れておきたいと思います。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。米国農務省が2026年8月26日に発表したもので、食品支援事業者向けの助成金の話です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "食品支援事業者というと、どういう団体なんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "生鮮品や冷凍品を保管して配送する団体のことです。設備購入を支援する助成金として750万米ドルが発表されました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "750万ドルというと、日本円でかなりの額になりますね。水産物とはどう関係するんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "水産物専用の制度ではありませんが、冷蔵冷凍設備を含む食品物流の支援なので、冷凍水産物の保管能力を補強する可能性があります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "直接水産業のための予算ではないけれど、間接的に関わってくるということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。コールドチェーン、つまり生産から消費まで低温を保ったまま運ぶ仕組み全体への支援という位置づけです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "陸上養殖の品質管理、ベトナムのえび輸出の中国依存、そしてアメリカの物流支援と、今日も幅広い話題でした。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。それぞれ数字の背景にある構造まで見ていくと、水産業の今が見えてくると思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "世界の水産、今日はここまでです。"
+        }
+      ]
+    },
+    {
+      "id": "genai",
+      "title": "生成AIの重大ニュース",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "生成AIの重大ニュース、今日は5つのニュースを見ていきます。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "今日は政府や大手企業の動きが目立ちますね。安全対策に関する発表が多いのが特徴です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "まず、デジタル庁が生成AIを全府省庁に広げるという話です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。政府職員向けの生成AI環境『源内』を各府省庁へ展開する計画をデジタル庁が示しました。2026年度中に、全府省庁の約18万人の職員が使えるようになる予定です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "18万人というのは、かなり多い人数ですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。共通の安全な環境を用意して、行政の効率化や知識検索に使う狙いです。ただ、業務時間がどれくらい減るかといった具体的な効果は、公式ページでは確認できていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "安全な環境というのは、どういう意味なんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "各省庁がばらばらに生成AIを使うと、情報漏えいなどのリスク管理が難しくなります。共通の環境を用意することで、そうした管理をしやすくする狙いがあると考えられます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "次はOpenAIの新しいモデル、Astraです。サイバー能力で注目されているとか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。OpenAIは9月1日、開発中のモデル『Astra』が、同社の安全性評価の枠組みでサイバーセキュリティ能力の最も高い基準、クリティカルを満たしたと発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "クリティカルというのは、危険度が高いということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。攻撃に使われる可能性がある能力が高いレベルに達したという意味です。攻撃手法の評価であるエクスプロイトベンチで100%を記録しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "100%というのは、かなり高い数字ですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、評価対象をすべてクリアした形です。一方で悪用を防ぐ拒否率も91.5%と高く、比較対象のGPT5.6ソルの59%を大きく上回っています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "能力は高いけれど、悪用は断りやすい、ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そういう位置づけです。内部評価では、まだ知られていない脆弱性、いわゆるゼロデイを2件見つけて実際に利用したともされています。公開日や価格はまだ未定です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "かなり強力な分、扱いにも慎重になりそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "高度なサイバー機能は、まず一部のテスターに限定して提供し、その後は防御目的での利用に広げる方針だそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いてAnthropicです。企業向けの安全基盤を発表したそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。9月1日に企業向けデータ管理の仕組み、EFSを発表しました。企業が自分で管理するクラウド環境にデータを保存できる仕組みです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "クラウド環境というと、具体的にはどんなものですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "アマゾンS3や、マイクロソフトのブロブストレージ、グーグルクラウドなどに対応しています。暗号鍵やアクセス権限、利用記録を顧客企業自身が管理できる点が特徴です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "自分の会社で管理できると、安心感が違いそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。データを保持しない仕組みと、悪用を検知する仕組みを組み合わせています。この秋の後半に、Claude CodeやClaude Enterpriseなどで展開が予定されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "悪用の検知には、データを見る必要があるんじゃないですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その点は工夫があって、Fable5というサービスでは、悪用検知のために30日間だけデータを保持する仕組みが導入されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "次はGoogleです。新しいモデルを2つ発表したとか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。9月2日に『ジェミニ3.8フラッシュ』と、サイバー防御に特化した『ジェミニ3.8フラッシュサイバー』を発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "価格はどうなっているんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "フラッシュの価格は、入力が100万トークンあたり0.75ドル、出力が3.75ドルです。これは旧モデルと同じ金額に据え置かれています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "値段は変わらず、性能だけ上がった、ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そのようです。サイバー版は脆弱性を見つける成功率が社内評価で70%を超えたとされています。攻撃評価のCWEベンチでは47.2%で、比較対象の47.8%とほぼ同水準です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "パッチを当てる性能はどうなんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "グーグル社内のクロームセキュリティチームでは、正しい修正プログラムを2.6倍多く作れたということです。ただし政府機関や重要インフラの運営者などに限定して提供されます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "最後はソフトバンクですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。9月1日に、日本語のコピーライティングに特化した生成AIの開発に向けた、共同研究の成果を公表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "具体的にはどんな内容なんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこが少し分かりにくいところで、参加企業や学習データの件数、評価方法などは公式ページでは確認できません。人間のコピーライターとの比較や、提供時期、価格も不明です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "研究を始めた、という段階の発表なんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そう捉えるのが自然だと思います。今後、詳しい情報が出てくるか、注目したいところです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今日は政府や大手各社の動きが目立ちましたが、共通するのは安全対策への意識の高さですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。能力が上がるほど、管理や検知の仕組みも同時に強化される流れが見えてきています。"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "title": "AI時代の教育トレンド",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "「AI時代の教育トレンド」のコーナーです。今日は学校での画面利用と、日本の学習指導要領の話題を取り上げます。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。まずアメリカのロサンゼルス統一学区、LAUSDという学区の話からいきましょう。2026年8月から新年度が始まって、スクリーン利用の制限が導入されました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "スクリーン利用というと、学校が配っているタブレットとかパソコンの話ですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。学校支給の端末の利用時間を、学年ごとに制限する内容です。幼児教育から1年生までは、原則として利用時間0分となっています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "0分ですか。かなり厳しいですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。さらに2026年11月からは、2年生と3年生が1日20分または週100分まで、4年生と5年生は1日30分または週150分までという制限が始まります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "この時間には宿題も含まれるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "含まれます。ただし州や学区が実施する試験、一部の教科、それから障害のある児童への合理的配慮にあたる利用は例外とされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "全部を一律に締め出すわけではないんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。中学や高校向けには、教科ごとの制限を2027年1月から導入する予定になっています。まず小学校から段階的に進めている形です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "なぜここまで厳しく制限するようになったんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこは材料に具体的な理由の説明までは書かれていないんですが、低学年ほど利用時間を短くしているのは、発達段階に応じた配慮という見方ができそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "聞いている側としては、日本の学校でも似たような話が出てくるのか気になります。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "アメリカと日本では制度が違うので、そのまま同じ流れになるとは言えません。ただ、学校の端末をどう使わせるかという議論は、各国で進んでいる論点だと言えそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ここまでアメリカの話でした。続いて日本の話題に移りましょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。文部科学省が2026年8月31日に、次の学習指導要領の審議まとめ案を示しました。ポイントは、小学校に情報の領域を新しく作る方向だということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "情報の領域というのは、今までなかったものが新設されるということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。具体的な授業時間数の目安も出ていて、小学3年生と4年生は年間最大30コマ程度、5年生と6年生は年間最大35コマ程度が想定されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "30コマとか35コマというのは、多いんでしょうか、少ないんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "他の教科と比べる材料は今回ありませんが、年間を通じて継続的に授業を行う規模の時間数と言えそうです。あくまで最大の目安という位置づけです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "新しい教科ができると、授業全体の時間は増えるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこが今回のポイントで、情報教育を加えても年間の総授業時数は現行の水準を維持する方向だとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ということは、どこかを削って情報の時間に回すということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。国語や算数、数学、理科、社会といった既存の教科から時間を調整する方向とされていますが、具体的にどの教科をどれだけ減らすかは、まだ未確定の段階です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "そこはまだこれから決まっていくということなんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。今回はあくまで審議まとめ案の段階なので、具体的な数字は今後の議論を見ていく必要があります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "実際に始まるのはいつ頃になるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "小学校では2028年度から段階的な先行実施が始まり、全面実施は2030年度が予定されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "2028年というと、今から2年後くらいですね。意外と近いです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。段階的にということなので、いきなり全部の学校で一斉にというよりは、準備を整えながら広げていく流れになりそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "保護者や子どもたちにとっては、どんな意味がある変化なんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "既存の教科の時間が調整される可能性があるという点は、今後注目しておく価値がありそうです。ただ現段階では、その中身はまだ固まっていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "アメリカでは画面の利用時間を制限する動きがあって、日本では逆に情報の授業を新設する動きがある。並べてみると対照的ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。学校での端末の使い方と、情報を学ぶ授業のあり方、それぞれの国でどう向き合っていくのか、今後も見ていきたいテーマです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "「AI時代の教育トレンド」、今日はここまでです。ありがとうございました。"
+        }
+      ]
+    }
+  ],
+  "verification": {
+    "title": "大きな流れ",
+    "turns": [
+      {
+        "speaker": "analyst",
+        "text": "そうです。今日の切り口で言うと、遠くから新鮮なまま運ぶ力と、消費地の近くで育てて加工する力、この両方が同時に強くなっている、という話です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そこが今日のポイントです。今日出た材料を見ると、需要地生産の側にも、長距離輸送の側にも、それぞれ追い風の数字が出ています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "まず需要地生産の側です。中国の寧波にある陸上養殖の施設が、年間8000トンの生産能力でフル生産のペースに到達しました。2026年第2四半期の生産量は2294トンでした。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。陸上循環式養殖、英語ではRASと呼ばれる方式ですが、これが安定運転に入ったという意味で、需要地近くでの生産を支持する材料です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "中国のサーモン輸入市場が拡大しています。2025年は前年比で50%増、2026年上半期も前年同期比で43%増でした。輸入も伸びているんです。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。加えて北九州空港の貨物取扱量が2025年度に4万1092トンとなり、2年連続で過去最高を更新しました。生鮮輸送を支える基盤も広がっています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "傾きは変わりません。もともと支持する材料が積み上がっている状態で、今日はその両側にさらに材料が積み上がった、という形です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "その解釈もあり得ます。需要全体が拡大している局面では、生産方式が違っても両方伸びるのは当然だ、という見方です。分岐というより並走かもしれません。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "一つ挙げるなら、陸上養殖の側で採算割れによる撤退や縮小が続くかどうかです。エネルギーコストの重さが表面化すれば、需要地生産の側にブレーキがかかります。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。今日の材料だけでは、その壁はまだ観測されていません。輸出を伸ばすか現地生産に投資するかという判断は、まだ両方に開いています。"
+      }
+    ]
+  },
+  "discussion": {
+    "title": "きょうの論点",
+    "turns": [
+      {
+        "speaker": "navigator",
+        "text": "きょうの論点です。世界の水産、生成AIの重大ニュース、AI時代の教育トレンドを見てきました。今日はこの三つ、つながりがあるんでしょうか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "陸上養殖で優良グレードの比率が下がったという話でしたね。もう少し詳しく教えてください。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "これは鹿児島のぶり類養殖にも関係する話なんでしょうか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "輸出戦略という点ではどうですか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "popoが支援する養殖事業者にとって、何か教訓になりそうですね。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "そういえば生成AIのコーナーで、デジタル庁が『源内』を全府省庁に展開するという話がありました。記録管理にもつながりますか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "popo自身が取り組んでいるAIによる業務の仕組み化にも、何か参考になるところはありますか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "教育のコーナーでは、ロサンゼルスの学区がスクリーン利用を制限するという話がありました。これは今日の他のテーマと関係しますか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "子どもが生まれたばかりだと、こういうニュースはやはり気になってしまいます。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "今日の四つの中では、水産のグレード低下の話が一番仕事に直結しそうですね。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "今日はここまでです。明日もそれぞれのコーナーをお届けします。ありがとうございました。"
+      }
+    ]
+  },
+  "opening": [
+    {
+      "speaker": "navigator",
+      "text": "2026年9月3日の音声ニュース、始まります。今日は3つのコーナーをお届けします。まず世界の水産では、陸上養殖でカンパチの仲間を育てるキングフィッシュ社の生産量発表を取り上げます。続いて生成AIの重大ニュースでは、政府や大手企業による安全対策の動きをまとめます。最後にAI時代の教育トレンドとして、アメリカのロサンゼルス統一学区で始まったスクリーン利用制限についてお話しします。それでは早速まいりましょう。"
+    }
+  ],
+  "closing": [
+    {
+      "speaker": "navigator",
+      "text": "今日は水産、生成AI、教育の3本をお届けしました。台本と出典は番組ページに掲載しています。また次回お会いしましょう。"
+    }
+  ],
+  "highlights": [
+    "キングフィッシュ社が陸上養殖の第2四半期生産量を発表",
+    "政府や大手企業の生成AI安全対策発表が目立つ一日",
+    "LAUSDが新年度からスクリーン利用制限を導入"
+  ],
+  "requests": "",
+  "hypothesis_checks": [
+    {
+      "id": "L-2",
+      "theme": "world_fisheries",
+      "statement": "水産物の流通は、鮮度を遠くへ運ぶ方向と、需要地の近くで作って加工する方向へ分岐している。",
+      "before": 0.948,
+      "after": 0.948,
+      "evidence_today": [
+        {
+          "relation": "support",
+          "claim": "スペインのAlicante Aquacultureは、greater amberjack（かんぱち）の陸上RASによる商業規模生産を開始し、初期能力は年間600トン、拡張後は年間900トンを計画している。",
+          "source_url": "https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "Nordic Aqua Partnersの中国・寧波の大西洋サーモンRAS施設（Stage1・2）は年間生産能力8000トンでフル生産ランレートに到達し、2026年第2四半期の生産量は2294トンだった。",
+          "source_url": "https://weareaquaculture.com/regions/asia/nordic-aqua-fully-up-and-running-in-china-as-q2-performance-improves",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "中国の輸入サーモン市場は2025年に前年比50%増、2026年上半期のサーモン輸入は前年同期比43%増となった。",
+          "source_url": "https://www.mynewsdesk.com/seafood/news/sashimi-popularity-in-china-shows-growth-opportunities-for-imported-salmon-512135",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "中国南方航空貨物は2026年8月20日、上海―アムステルダム経由―オスロ間の週2便の航空貨物路線を開始し、初便で約100トンのノルウェー産生鮮サーモンを輸送した。",
+          "source_url": "https://aviationexpress.news/news/china-southern-launches-cargo-route-to-norway",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "2025年10月、長崎県対馬市から東京都内への活魚の航空輸送が北九州空港経由で開始された。",
+          "source_url": "https://www.pref.fukuoka.lg.jp/press-release/20251031yamato.html",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "北九州空港の貨物取扱量は2025年度に4万1,092トンとなり、2年連続で過去最高を更新した。",
+          "source_url": "https://news.tnc.co.jp/news/articles/NID2026042330085",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "東北地方のバナメイエビ陸上養殖事業者「HANERU葛尾」は2026年7月、電気代・燃料代の増加による約4000万円の赤字を理由に事業を停止した。",
+          "source_url": "https://omoiyarot.com/wordpress/?p=1624",
+          "origin": "normal"
+        }
+      ],
+      "support": 6,
+      "contradict": 1,
+      "falsifier_hits": [
+        "東北地方のバナメイエビ陸上養殖事業者「HANERU葛尾」は2026年7月、電気代・燃料代の増加による約4000万円の赤字を理由に事業を停止した。（陸上養殖事業が赤字により事業停止したと明記されている）"
+      ],
+      "status": "active",
+      "moved": null,
+      "already_said": [
+        "スペイン・アリカンテのAlicante Aquacultureは陸上循環式養殖(RAS)でカンパチ(Seriola dumerili)の年間600トン生産を開始し、将来900トンへの拡大を計画している。",
+        "中国南方航空物流は2026年8月20日、上海~オスロを結ぶ貨物便(週2便)でノルウェー産生鮮サーモン約100トンを輸送し、中国向け輸送量を週約200トン見込むと発表した。",
+        "ドイツのOceanloopは陸上養殖拡大のため最大3850万ユーロの資金を確保したと2026年8月19日に発表した。",
+        "福島県葛尾村でバナメイエビの陸上養殖を行っていたHANERU葛尾は、冬季の電気代・燃料代高騰による赤字を理由に2026年7月に事業を停止した。",
+        "ヤマト運輸は2025年10月から、長崎県対馬市などの産地から東京都内へ貨物専用機を使い活魚を輸送するサービスを開始した。"
+      ],
+      "axis": "流通",
+      "falsifier_texts": [
+        "長距離の生鮮輸送（航空・活魚）が拡大し、需要地生産は伸びていない",
+        "陸上養殖や現地加工の事業が採算割れで撤退・縮小している"
+      ],
+      "decision_link": "輸出を伸ばすのか、現地生産・現地加工に投資するのか",
+      "stance": "支持する材料がかなり積み上がっている",
+      "shift": "今日の材料では、見方は動いていません",
+      "on_air_count": 2
+    }
+  ],
+  "aired_items": [
+    {
+      "id": "cc9d513cf24e",
+      "theme": "world_fisheries",
+      "headline": "蘭Kingfish社、Q2生産691トンで前年比2%減",
+      "source_url": "https://weareaquaculture.com/news/finance/fresh-large-fish-demand-supports-the-kingfish-companys-growth-in-q2",
+      "source_title": "We Are Aquaculture",
+      "from_stock": false
+    },
+    {
+      "id": "5e1af06f83e4",
+      "theme": "world_fisheries",
+      "headline": "ベトナムえび輸出、1〜7月13.5%増　中国向けが牽引",
+      "source_url": "https://www.asian-agribiz.com/2026/08/26/china-leads-strong-growth-in-vietnams-shrimp-exports/",
+      "source_title": "Asian Agribiz",
+      "from_stock": false
+    },
+    {
+      "id": "9047b65d2450",
+      "theme": "world_fisheries",
+      "headline": "米USDA、食品支援事業者向けコールドチェーン整備に750万ドル",
+      "source_url": "https://www.savingseafood.org/news/economic-impact/usda-announces-grants-to-extend-cold-chain-to-food-assistance-programs/",
+      "source_title": "Saving Seafood",
+      "from_stock": true
+    },
+    {
+      "id": "d6b7ceab5b85",
+      "theme": "genai",
+      "headline": "デジタル庁、生成AI「源内」を全府省庁18万人に展開へ",
+      "source_url": "https://www.digital.go.jp/policies/genai",
+      "source_title": "デジタル庁公式",
+      "from_stock": false
+    },
+    {
+      "id": "fad189609686",
+      "theme": "genai",
+      "headline": "OpenAI、新モデルAstraがサイバー能力で初のCritical判定",
+      "source_url": "https://openai.com/index/path-to-astra/",
+      "source_title": "OpenAI公式",
+      "from_stock": false
+    },
+    {
+      "id": "fe4468805c6d",
+      "theme": "genai",
+      "headline": "Anthropic、企業データ管理の新安全基盤EFSを発表",
+      "source_url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "source_title": "Anthropic公式",
+      "from_stock": false
+    },
+    {
+      "id": "a2f40ddcf41e",
+      "theme": "genai",
+      "headline": "Google、Gemini3.8 Flashとサイバー防御版Cyberを発表",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "source_title": "Google公式ブログ",
+      "from_stock": false
+    },
+    {
+      "id": "fd3f34427e3c",
+      "theme": "genai",
+      "headline": "ソフトバンク、日本語コピー特化生成AIの研究成果公表",
+      "source_url": "https://www.softbank.jp/biz/about/ai/",
+      "source_title": "ソフトバンク公式",
+      "from_stock": false
+    },
+    {
+      "id": "b590bdab69fd",
+      "theme": "education",
+      "headline": "米LA学区、2〜5年生のスクリーン制限を11月に開始へ",
+      "source_url": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
+      "source_title": "NPR",
+      "from_stock": false
+    },
+    {
+      "id": "b797aae9e695",
+      "theme": "education",
+      "headline": "次期学習指導要領、小学校情報領域は2028年度先行実施",
+      "source_url": "https://www.fnn.jp/articles/-/1104659",
+      "source_title": "FNNプライムオンライン",
+      "from_stock": false
+    }
+  ],
+  "sources": [
+    {
+      "segment": "世界の水産",
+      "title": "We Are Aquaculture",
+      "url": "https://weareaquaculture.com/news/finance/fresh-large-fish-demand-supports-the-kingfish-companys-growth-in-q2"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "Asian Agribiz",
+      "url": "https://www.asian-agribiz.com/2026/08/26/china-leads-strong-growth-in-vietnams-shrimp-exports/"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "Saving Seafood",
+      "url": "https://www.savingseafood.org/news/economic-impact/usda-announces-grants-to-extend-cold-chain-to-food-assistance-programs/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "デジタル庁公式",
+      "url": "https://www.digital.go.jp/policies/genai"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "OpenAI公式",
+      "url": "https://openai.com/index/path-to-astra/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "Anthropic公式",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "Google公式ブログ",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "ソフトバンク公式",
+      "url": "https://www.softbank.jp/biz/about/ai/"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "NPR",
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "FNNプライムオンライン",
+      "url": "https://www.fnn.jp/articles/-/1104659"
+    }
+  ]
+}

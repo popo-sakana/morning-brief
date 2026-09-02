@@ -7,11 +7,21 @@
     <link>https://popo-sakana.github.io/morning-brief/</link>
     <description>水産・生成AI・教育の4テーマを毎朝30分で</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 20:38:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:32:52 +0000</lastBuildDate>
     <itunes:author>popo</itunes:author>
     <itunes:summary>水産・生成AI・教育の4テーマを毎朝30分で</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+    <item>
+      <title>9月3日のブリーフ</title>
+      <description><![CDATA[・キングフィッシュ社が陸上養殖の第2四半期生産量を発表<br>・政府や大手企業の生成AI安全対策発表が目立つ一日<br>・LAUSDが新年度からスクリーン利用制限を導入]]></description>
+      <pubDate>Thu, 03 Sep 2026 05:13:31 +0900</pubDate>
+      <guid isPermaLink="false">260903_morningbrief_v1_AI</guid>
+      <enclosure url="https://github.com/popo-sakana/morning-brief/releases/download/260903_morningbrief_v1_AI/260903_morningbrief_v1_AI.mp3" length="5306082" type="audio/mpeg"/>
+      <itunes:duration>1275</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://popo-sakana.github.io/morning-brief/episodes/260903_morningbrief_v1_AI.html</link>
+    </item>
     <item>
       <title>9月2日のブリーフ</title>
       <description><![CDATA[・北海道産陸上すり身の在庫、8月21日発表で大きく減少<br>・キングフィッシュ社の2026年上期業績が発表される<br>・グーグルが時系列予測の基盤モデルTimesFM-3を公開]]></description>

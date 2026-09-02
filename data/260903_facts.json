@@ -1,0 +1,177 @@
+[
+  {
+    "claim": "北海道の海面養殖サーモン水揚量は2026年4～7月に約520トンとなり、前年同期比22%増加した。",
+    "source_url": "https://www.suikei.co.jp/cat/news/aquaculture",
+    "tier": 2,
+    "date": "2026-07",
+    "origin": "normal"
+  },
+  {
+    "claim": "鹿児島県は2026年4月、ブリ養殖の管理方式をいけす台数制限から養殖尾数制限へ変更した。",
+    "source_url": "https://www.suikei.co.jp/cat/news/aquaculture",
+    "tier": 2,
+    "date": "2026-04",
+    "origin": "normal"
+  },
+  {
+    "claim": "国内のブリ人工種苗比率は約20%である。",
+    "source_url": "https://www.fra.go.jp/jamarc/buri.html",
+    "tier": 1,
+    "date": "",
+    "origin": "normal"
+  },
+  {
+    "claim": "北海道の棒受網サンマ漁は2026年8月25日時点の累計水揚量が836.4トンで、前年同期の2048.6トンから59.1%減少した。",
+    "source_url": "https://www.suikei.co.jp/archives/126711",
+    "tier": 2,
+    "date": "2026-08-25",
+    "origin": "normal"
+  },
+  {
+    "claim": "水産庁は2026年8月31日、2027年度水産関係予算の概算要求（ベース額3264億円、事項要求含め報道上4000億円超）を発表した。",
+    "source_url": "https://www.suikei.co.jp/cat/news/policy",
+    "tier": 1,
+    "date": "2026-08-31",
+    "origin": "normal"
+  },
+  {
+    "claim": "日本の「ぶり」輸出は2025年1～11月に輸出額439億円・輸出量27,787トンで、前年同期比で輸出額23.7%増、輸出量9.6%減となった。",
+    "source_url": "https://www.cas.go.jp/jp/seisakukaigi/nousui/yunyuukoku_kisei_kaigi/dai23/shiryo.pdf",
+    "tier": 1,
+    "date": "2025-11",
+    "origin": "normal"
+  },
+  {
+    "claim": "長崎県産「活ぶり」の2025年輸出は輸出量2,955トン・輸出額55億600万円で、いずれも県の過去最高となった。",
+    "source_url": "https://www.customs.go.jp/nagasaki/toukei/R08.03_tokusyu.pdf",
+    "tier": 1,
+    "date": "2025",
+    "origin": "normal"
+  },
+  {
+    "claim": "スペインのAlicante Aquacultureは、greater amberjack（かんぱち）の陸上RASによる商業規模生産を開始し、初期能力は年間600トン、拡張後は年間900トンを計画している。",
+    "source_url": "https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/",
+    "tier": 2,
+    "date": "2026",
+    "origin": "normal"
+  },
+  {
+    "claim": "The Kingfish Companyの2026年第2四半期のyellowtail kingfish生産量は691トンで、前年同期の707トンから2%減少した。",
+    "source_url": "https://weareaquaculture.com/news/finance/fresh-large-fish-demand-supports-the-kingfish-companys-growth-in-q2",
+    "tier": 1,
+    "date": "2026-Q2",
+    "origin": "normal"
+  },
+  {
+    "claim": "Nordic Aqua Partnersの中国・寧波の大西洋サーモンRAS施設（Stage1・2）は年間生産能力8000トンでフル生産ランレートに到達し、2026年第2四半期の生産量は2294トンだった。",
+    "source_url": "https://weareaquaculture.com/regions/asia/nordic-aqua-fully-up-and-running-in-china-as-q2-performance-improves",
+    "tier": 1,
+    "date": "2026-Q2",
+    "origin": "normal"
+  },
+  {
+    "claim": "中国の輸入サーモン市場は2025年に前年比50%増、2026年上半期のサーモン輸入は前年同期比43%増となった。",
+    "source_url": "https://www.mynewsdesk.com/seafood/news/sashimi-popularity-in-china-shows-growth-opportunities-for-imported-salmon-512135",
+    "tier": 2,
+    "date": "2026",
+    "origin": "normal"
+  },
+  {
+    "claim": "ベトナムのえび輸出は2026年1～7月に約28億米ドルで前年同期比13.5%増となり、うち中国向けは約9億3900万米ドルで前年同期比42%増、全体の約33%を占めた。",
+    "source_url": "https://www.asian-agribiz.com/2026/08/26/china-leads-strong-growth-in-vietnams-shrimp-exports/",
+    "tier": 2,
+    "date": "2026-07",
+    "origin": "normal"
+  },
+  {
+    "claim": "中国南方航空貨物は2026年8月20日、上海―アムステルダム経由―オスロ間の週2便の航空貨物路線を開始し、初便で約100トンのノルウェー産生鮮サーモンを輸送した。",
+    "source_url": "https://aviationexpress.news/news/china-southern-launches-cargo-route-to-norway",
+    "tier": 2,
+    "date": "2026-08-20",
+    "origin": "normal"
+  },
+  {
+    "claim": "カナダ政府は米国産品への対抗関税リストを修正し、魚介類254品目を2026年9月8日施行予定だった25%追加関税の対象から除外した。",
+    "source_url": "https://gowlingwlg.com/en/insights-resources/articles/2026/canada-revises-retaliatory-tariff-list/",
+    "tier": 1,
+    "date": "2026-08-27",
+    "origin": "normal"
+  },
+  {
+    "claim": "OpenAIは2026年9月1日、開発中モデル「Astra」がサイバーセキュリティ能力でPreparedness FrameworkのCritical閾値を満たしたと発表した。",
+    "source_url": "https://openai.com/index/path-to-astra/",
+    "tier": 1,
+    "date": "2026-09-01",
+    "origin": "normal"
+  },
+  {
+    "claim": "Googleは2026年9月2日、推論・コーディング向け「Gemini 3.8 Flash」とサイバー防御向け「Gemini 3.8 Flash Cyber」を発表した。",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "tier": 1,
+    "date": "2026-09-02",
+    "origin": "normal"
+  },
+  {
+    "claim": "Anthropicは2026年9月1日、新モデル「Claude Fable 5.1」「Claude Mythos 5.1」と、企業データを顧客管理クラウドに保存する「Enterprise Frontier Safeguards」を発表した。",
+    "source_url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+    "tier": 1,
+    "date": "2026-09-01",
+    "origin": "normal"
+  },
+  {
+    "claim": "日本のデジタル庁は、政府職員向け生成AI環境「源内」を2026年度中に全府省庁の約18万人が利用可能とする計画を示している。",
+    "source_url": "https://www.digital.go.jp/policies/genai",
+    "tier": 1,
+    "date": "",
+    "origin": "normal"
+  },
+  {
+    "claim": "ノルウェー政府は2026年秋学期から、小学校1～7年生では児童が生成AIにアクセスすることを原則として認めない方針を示した。",
+    "source_url": "https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/",
+    "tier": 1,
+    "date": "2026-06",
+    "origin": "normal"
+  },
+  {
+    "claim": "ロサンゼルス統一学区は2026年8月から、幼児教育～1年生の学校支給端末のスクリーン利用を原則0分とする制限を開始した。",
+    "source_url": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
+    "tier": 2,
+    "date": "2026-08",
+    "origin": "normal"
+  },
+  {
+    "claim": "日本の文部科学省は2026年8月31日、次期学習指導要領に向けた審議まとめ案で、小学校に「情報の領域」を新設し生成AI等を各教科で扱う方向を示したが、総授業時数は現行水準を維持するとした。",
+    "source_url": "https://www.fnn.jp/articles/-/1104659",
+    "tier": 2,
+    "date": "2026-08-31",
+    "origin": "normal"
+  },
+  {
+    "claim": "2025年10月、長崎県対馬市から東京都内への活魚の航空輸送が北九州空港経由で開始された。",
+    "source_url": "https://www.pref.fukuoka.lg.jp/press-release/20251031yamato.html",
+    "tier": 1,
+    "date": "2025-10",
+    "origin": "normal"
+  },
+  {
+    "claim": "北九州空港の貨物取扱量は2025年度に4万1,092トンとなり、2年連続で過去最高を更新した。",
+    "source_url": "https://news.tnc.co.jp/news/articles/NID2026042330085",
+    "tier": 2,
+    "date": "2025",
+    "origin": "normal"
+  },
+  {
+    "claim": "日本の漁業・養殖業生産量は2022年に392万トンで前年から24万トン減少し、海面養殖生産量は91万トンで前年から1万トン減少した。",
+    "source_url": "https://www.maff.go.jp/e/data/publish/White_Paper_on_Fisheries/White_Paper_on_Fisheries_Summary_FY2023_Trends_in_Fisheries_FY_2024_Fisheries_Policy.pdf",
+    "tier": 1,
+    "date": "2022",
+    "origin": "normal"
+  },
+  {
+    "claim": "東北地方のバナメイエビ陸上養殖事業者「HANERU葛尾」は2026年7月、電気代・燃料代の増加による約4000万円の赤字を理由に事業を停止した。",
+    "source_url": "https://omoiyarot.com/wordpress/?p=1624",
+    "tier": 3,
+    "date": "2026-07",
+    "origin": "normal"
+  }
+]
