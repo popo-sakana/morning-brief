@@ -2306,6 +2306,129 @@
    "aired": [
     "2026-09-03"
    ]
+  },
+  {
+   "id": "c16acfd7ad2e",
+   "theme": "jp_fisheries",
+   "headline": "千葉県のサバ類漁が最大不漁、マサバ水揚げ0トンに",
+   "detail": "千葉県水産総合研究センターによると、同県のサバ類のたも抄い漁が過去最大級の不漁となり、2026年9月3日時点でマサバの水揚げ量は0トンとなった。過去との比較に使える漁獲量や減少率のデータは公開された記事概要では確認できない。サバは国内の生鮮・加工・飼料原料に関わる重要魚種であり、地域漁業者や加工業者への供給への影響が懸念される。",
+   "numbers": [
+    "マサバ水揚げ0トン"
+   ],
+   "source_url": "https://www.suikei.co.jp/cat/news",
+   "source_title": "日刊水産経済新聞",
+   "published": "2026-09-03",
+   "importance": 2,
+   "first_seen": "2026-09-04",
+   "aired": [
+    "2026-09-04"
+   ]
+  },
+  {
+   "id": "5d35d52d8b9a",
+   "theme": "world_fisheries",
+   "headline": "日本産ぶり、7月輸出は数量45%増・金額68%増と好調",
+   "detail": "財務省貿易統計をもとにした報道によると、2026年7月の日本の水産物輸出は数量が前年同月比35%減の38,597トン、金額が15%増の305.32億円だった。このうちぶり(yellowtail)の輸出は数量が前年同月比45%増の2,727トン、金額が同68%増となり、ホタテの輸出減少とは対照的に好調だった。輸出額の絶対値と平均単価は記事本文では確認できない。",
+   "numbers": [
+    "ぶり輸出数量2,727トン",
+    "数量前年比45%増",
+    "金額前年比68%増"
+   ],
+   "source_url": "https://www.seafoodnews.com/Story/1353089/Japans-July-Seafood-Export-Volume-Fell-35-percent-Value-Rose-15-percent-as-Yellowtail-Jumped-and-Scallops-Slid",
+   "source_title": "SeafoodNews",
+   "published": "2026-09-01",
+   "importance": 4,
+   "first_seen": "2026-09-04",
+   "aired": [
+    "2026-09-04"
+   ]
+  },
+  {
+   "id": "3658b2e92e8e",
+   "theme": "world_fisheries",
+   "headline": "チリ政府、水産物消費を1人年2kg増やす政策を開始",
+   "detail": "チリ政府は国内の水産物消費を促進する国家政策を開始し、国民1人当たりの水産物消費を今後少なくとも年間2キログラム増加させる目標を掲げた。同国の現在の消費量は1人当たり年間15キログラムで、漁業・養殖業の主要国でありながら国内消費はペルーやスペイン、日本などと比べて低いとされる。政策では教育、流通改善、地域イベントなどを進めるが、達成時期や予算の詳細は確認できないとの見方が示されている。",
+   "numbers": [
+    "1人当たり消費目標プラス年間2kg",
+    "現在の消費量15kg/年"
+   ],
+   "source_url": "https://insights.tridge.com/speaker-product-news-reports/KJLyFXpzJzgKuB1Gqsm5QUKHGgR43AVdqLFoXHYx6hzm88UpPySixRtt",
+   "source_title": "Tridge Insights",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-09-04",
+   "aired": [
+    "2026-09-04"
+   ]
+  },
+  {
+   "id": "dfebea9f23b1",
+   "theme": "world_fisheries",
+   "headline": "米国、インド産冷凍えびの反ダンピング税率を引き上げ確定",
+   "detail": "米国商務省はインド産冷凍温水えびを対象とする第20次行政見直しの最終結果を発表し、企業別の最終ダンピング率をSandhya Aqua Exportsが7.01%、Devi Fisheries関連企業が4.04%、その他106社が5.53%とした。予備結果（4.30%、2.36%、3.33%）から引き上げられた。対象期間は2024年2月1日〜2025年1月31日。米国市場でのインド産えびの価格競争力や、エクアドル・インドネシア・ベトナムなど他産地との競争への影響が懸念される。",
+   "numbers": [
+    "Sandhya7.01%",
+    "Devi4.04%",
+    "その他106社5.53%"
+   ],
+   "source_url": "https://shrimpalliance.com/antidumping-duties-on-indian-shrimp-increased-over-100-million-in-additional-duties-likely-owed-on-past-shrimp-imports/",
+   "source_title": "Southern Shrimp Alliance",
+   "published": "",
+   "importance": 1,
+   "first_seen": "2026-09-04",
+   "aired": [
+    "2026-09-04"
+   ]
+  },
+  {
+   "id": "cf95d7730bfd",
+   "theme": "genai",
+   "headline": "企業向けAI企業Wonderfulが5.5億ドル調達、評価額50億ドル",
+   "detail": "企業向けAIオペレーティングシステムを提供するWonderfulは2026年9月2日、5億5,000万米ドルを調達したと発表した。Insight Partnersが主導し、Salesforceなどが参加。調達後の評価額は50億米ドルと報じられている。資金は製品開発、グローバル展開、導入支援チームの拡大に使う方針。企業自身の公式リリースは確認できず、報道ベースの情報。",
+   "numbers": [
+    "調達額5.5億ドル",
+    "評価額50億ドル"
+   ],
+   "source_url": "https://www.reuters.com/technology/ai-startup-wonderful-valued-5-billion-latest-funding-round-2026-09-02/",
+   "source_title": "Reuters",
+   "published": "2026-09-02",
+   "importance": 1,
+   "first_seen": "2026-09-04",
+   "aired": [
+    "2026-09-04"
+   ]
+  },
+  {
+   "id": "0863b158be12",
+   "theme": "genai",
+   "headline": "インフラ自動化AIのempirik.aiが2100万ドル調達",
+   "detail": "インフラ変更を自動化するAIエージェント企業empirik.aiは2026年9月2日、ステルス状態からの正式始動と2,100万米ドルの調達を発表した。同社はエンジニアの意図を理解し、インフラ変更の影響を計算し、複雑な変更を実行する「Autonomous Infrastructure Engineer」を開発するとしている。",
+   "numbers": [
+    "調達額2100万ドル"
+   ],
+   "source_url": "https://www.prnewswire.com/news-releases/empirikai-emerges-from-stealth-with-21-million-to-build-the-ai-agent-for-infrastructure-change-302867970.html",
+   "source_title": "PR Newswire",
+   "published": "2026-09-02",
+   "importance": 1,
+   "first_seen": "2026-09-04",
+   "aired": [
+    "2026-09-04"
+   ]
+  },
+  {
+   "id": "e5b730ae051d",
+   "theme": "education",
+   "headline": "英国、幼児教育の基礎段階法定枠組みが9月1日施行",
+   "detail": "英国の「幼児期基礎段階法定枠組み（EYFS）」が2026年9月1日から適用される。同枠組みは幼児教育の主要領域として、コミュニケーションと言語、身体的発達、個人的・社会的・情緒的発達に加え、読み書き、数学、世界の理解、表現芸術とデザインを位置づけている。AI中心に幼児期の学習を再編するのではなく、人との関係、身体性、言語、社会情動、初期の読み書き・数学を統合的に維持する内容となっている。",
+   "numbers": [],
+   "source_url": "https://assets.publishing.service.gov.uk/media/6a5f8e4fb00f3323bf1a23a1/EYFS_group_and_school_based_from_September_2026.pdf",
+   "source_title": "UK Department for Education",
+   "published": "2026-09-01",
+   "importance": 2,
+   "first_seen": "2026-09-04",
+   "aired": [
+    "2026-09-04"
+   ]
   }
  ]
 }

@@ -1,5 +1,48 @@
 [
   {
+    "id": "260904_morningbrief_v1_AI",
+    "title": "9月4日のブリーフ",
+    "published_at": "2026-09-04T05:12:57+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260904_morningbrief_v1_AI/260904_morningbrief_v1_AI.mp3",
+    "duration_sec": 1456,
+    "bytes": 6056211,
+    "summary": "・千葉県マサバ水揚げ量が9月3日時点で0トンに<br>・日本産ぶりの輸出が好調だったと発表<br>・9月2日発表の生成AI調達2件、金額に大きな差",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 33.9
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 229.8
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 472.2
+      },
+      {
+        "section": "genai",
+        "start_sec": 861.5
+      },
+      {
+        "section": "education",
+        "start_sec": 1126.6
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1354.7
+      },
+      {
+        "section": "closing",
+        "start_sec": 1445.8
+      }
+    ]
+  },
+  {
     "id": "260903_morningbrief_v1_AI",
     "title": "9月3日のブリーフ",
     "published_at": "2026-09-03T05:13:31+09:00",
