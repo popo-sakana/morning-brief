@@ -1,0 +1,999 @@
+{
+  "segments": [
+    {
+      "id": "jp_fisheries",
+      "title": "日本の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "日本の水産のコーナーです。今日は豊洲市場の様子と、スケソウダラの漁獲枠の話をお届けします。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "よろしくお願いします。まずは豊洲市場の話からいきましょう。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "9月4日の豊洲市場はどんな様子だったんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "日刊水産経済新聞によりますと、2026年9月4日はブリが堅調でした。鳥取産などが「しっかり」とした評価だったそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "「しっかり」というのは、値段が良かったということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そう受け取れる表現です。ただ具体的な卸売価格そのものは、今回確認できていません。産地やサイズによって評価が分かれる時期だと考えられます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "なるほど。産地によって評価が違うんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。同じブリでも鳥取産のように名前が挙がる産地とそうでない産地では、扱われ方が変わってくることがあります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "一方でサンマは値下がりしたそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうなんです。北海道産などのサンマが1割から3割下落したと伝えられています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "1割から3割というのは、けっこう大きな下げ幅に感じます。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "幅があるのは、産地や入荷の量によって差が出ているためとみられます。一度にまとまって入荷すると値崩れしやすい面があります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "入荷が集中すると、値段が下がりやすいということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。市場ではよくある動きです。今回のサンマの下落幅の背景まではっきりした理由は、材料からは確認できません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ブリは堅調、サンマは下落と、同じ市場でも明暗が分かれたんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ひとつの魚種の値動きだけで全体を語ることはできませんが、産地やサイズ、入荷のタイミングが価格を左右する事例と言えそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "聞いている側としては、こういう動きが店頭にも影響してきそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "可能性はありますが、市場の評価がそのまま店頭価格に反映されるかどうかは別の要素も絡みますので、ここでは触れる程度にとどめておきます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いてはスケソウダラの話です。TACという言葉が出てくるんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "TACというのは、漁獲可能量のことで、一年間にとってよい魚の量の上限を決める仕組みです。英語ではトータル・アラワブル・キャッチと言います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "その仕組みで、今回どんな動きがあったんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "水産庁が日本海北部系群のスケソウダラについて、沖合底びき網漁業と沿岸漁業の間でTACの配分を変更しました。関係漁業者の合意に基づくものです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "配分を変更したということは、量が動いたということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。2026年8月24日付で、沿岸側から沖合底びき網漁業へ4900トンが融通されました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "4900トンというのは、多いのか少ないのか、感覚がつかみにくいです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこは正直なところで、TACの総量や変更前後の内訳までは今回の材料では確認できていません。ですので大小の判断は控えたいと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "なぜ融通することになったのかは分かりますか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "資源の状態が良くなったからなのか、単なる年ごとの調整なのか、その理由までは確認できていません。関係漁業者間の合意があったことだけは分かっています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "管理される期間はいつまでなんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "この管理年度は2026年4月から2027年3月までとなっています。この一年間の枠の中でのやり取りということになります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "漁業者同士の話し合いで、枠を融通し合うということもあるんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。TACという上限がある中で、漁業の種類の間で量を動かすことは行われています。今回はその一例だと言えそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今日は豊洲市場のブリとサンマ、そしてスケソウダラのTAC配分についてうかがいました。ありがとうございました。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ありがとうございました。"
+        }
+      ]
+    },
+    {
+      "id": "world_fisheries",
+      "title": "世界の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "続いてのコーナーは世界の水産です。今日は米国からのニュースです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。アメリカのメイン州で進んでいる陸上養殖の計画についてです。地元紙バンガー・デイリー・ニュースが伝えています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "陸上養殖というのは、海ではなく陸の施設で魚を育てる方法のことですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。海の環境に左右されにくく、消費地の近くでも育てられるのが特徴とされています。今回の計画はキングフィッシュ・メインという会社が進めています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "場所はどのあたりなんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "メイン州のジョーンズポートという町です。ここに施設を作り、イエローテイル・キングフィッシュという魚を育てる計画です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "イエローテイル・キングフィッシュって、どんな魚なんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "材料にはそこまで詳しい説明はありませんが、名前からすると尾びれが黄色い、キングフィッシュという種類の魚だと考えられます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "なるほど。どれくらいの規模で作る計画なんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "年間8500トンを生産する施設を計画しているとのことです。想定される投資額は1億米ドルとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "1億米ドルというと、かなり大きな投資ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。金額の大きさからも、この施設が地域にとって大きな事業として受け止められていることがうかがえます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "年間8500トンという生産量は、多いんでしょうか少ないんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "材料には他の施設との比較はありませんので、数字だけお伝えしますが、投資額の大きさと合わせて考えると、小規模な試験施設ではなさそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "この計画、今どのあたりまで進んでいるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "2026年8月5日に住民投票が行われました。この会社向けに工事の着手期限などを定めた条例の変更が承認されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "住民投票で承認されたということは、地元でも議論があったということでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこまで詳しい経緯は材料にありませんが、条例の変更について住民の投票にかけられたという点から、地域として一定の手続きを踏んで進められていることがわかります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "条例が変わったということは、これで工事が始められる状態になったんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこがまだのようです。メイン州の環境保護当局による審査が残っているとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "環境保護当局の審査というのは、どんなことを見るものなんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その中身までは材料に書かれていませんが、陸上養殖の施設は水の使用や排水など、環境への影響が審査の対象になることが多いようです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "では、実際に工事が始まるのはいつ頃になりそうなんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "工事の開始は2026年末より前には始まらない可能性があるとされています。あくまでそういう見方が出ているという段階です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "住民投票で条例が変わっても、すぐには着工できないんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。地域の手続きが一つ進んだ段階で、次は州レベルの審査という、別の関門が待っているという状況です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "こうした計画が実現すると、どんな意味があるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "材料からは今後の見通しまでは分かりませんが、8500トン規模の生産と1億米ドルの投資が、地域でどう進んでいくか注目される段階だと言えそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "住民投票、州の審査、そして着工と、いくつも段階がある計画なんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。一つ一つの節目を追っていくことで、陸上養殖という新しい取り組みがどう地域に根付いていくか、見えてくるかもしれません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今後の審査の行方も気になるところですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。工事着手の時期を含めて、続報が出てくれば改めてお伝えしたいと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "世界の水産、今日はアメリカ・メイン州の陸上養殖計画についてお伝えしました。"
+        }
+      ]
+    },
+    {
+      "id": "genai",
+      "title": "生成AIの重大ニュース",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "続いてのコーナーです。生成AIの重大ニュース、今日は4件お伝えします。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。まずAIの安全性を専門にする企業の資金調達からいきましょう。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "AIの安全性を専門にする会社なんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "アメリカのヒドゥンレイヤーという会社が、2026年9月2日にシリーズBという段階の資金調達で1億米ドルを集めたと発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "1億ドルというと、かなり大きいんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "他の調達額と直接比べる材料はありませんが、モルガン・スタンレーやマイクロソフトのベンチャー基金が参加していて、有力な顔ぶれです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "資金の使い道は決まっているんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "企業向けのAIセキュリティ基盤の拡充と、AIエージェントの実行時監視機能の強化、それに欧州展開に充てるとしています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "実行時監視というのは、どういう意味でしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "AIが自分で判断して動くエージェントを、動いている最中に見張って、不審な挙動をすぐ見つける仕組みのことです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "AIが自律的に動く場面が増えているから、監視も必要になるということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そういうことです。エージェントが企業の業務に入り込むほど、安全に動いているか確認する需要も高まるという見方が出ています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "次は中国の規制のニュースですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。中国の国家インターネット情報弁公室が2026年9月2日に、AIの悪用を取り締まる特別行動の第2段階を発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "特別行動、というのは具体的にどういう対策なんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "AIによる虚偽情報の作成や拡散、暴力的で低俗な内容、なりすまし、未成年者の権利侵害、これらを対象にしています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "数字も出ているんですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "違法情報561万件超、アカウント4万9000件超、違反サイトやアプリが2400件超、これまでに処置したとしています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "これはかなり大きい数字に思えますが、今回の第2段階だけの数字ですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこは注意が必要です。この数字は累計値で、今回の段階だけの成果ではないと材料には明記されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "なるほど、これまで全体でこれだけ、という話なんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。取り締まりの規模が続いているということは分かりますが、今回新たに増えた件数とは分けて見る必要があります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いてはOpenAIの新しいモデルですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。OpenAIが2026年9月3日に、新モデルGPTシックス・アストラを発表しました。価格と性能の詳細が公表されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "価格はどれくらいなんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "入力が100万トークンあたり10米ドル、出力が同じく50米ドルです。トークンというのは文章を細かく区切った処理の単位です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ファストモードというのもあるとか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、標準モードの2倍の速さで動く代わりに、価格も2倍になるモードです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "性能面の数字も気になります。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "OpenAI自身の評価では、数学の難問を測るフロンティアマス・ティア4というテストで98%、ARC-AGI-3という別の評価では99.9%としています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "パソコン操作のようなテストもあるんですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "OSワールド2.0というテストで成功率72.6%です。前のモデル、GPT5.6ソルが65.7%でしたので、上がったということになります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "サイバー能力についても話題になっていましたよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "以前からクリティカルという高い水準に達したと報じられていましたが、価格や性能の細かい数値は今回改めて確認された形です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "最後はGoogleの音楽生成モデルですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。Googleが2026年9月3日に、音楽を作るモデル、Lyria3.5を試験公開しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "どんなことができるモデルなんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "文章や画像を入力にして、曲を丸ごと一曲作れます。自然な歌声や、曲の構成の細かい指定にも対応しているとのことです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "音質はどうなんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "44.1キロヘルツのステレオ音声で出力されます。これは音楽CDと同じくらいの音質の目安です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "料金や商用利用はどうなるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこは今回の発表資料では確認できていません。料金体系や権利処理、使える地域の詳細は今後の情報を待つ必要があります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今日は資金調達から規制、新モデル、音楽生成まで幅広い話でした。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。数字が出ていても、累計なのか今回分なのか、料金が未確定かどうか、区別して見ることが大事だと感じます。"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "title": "AI時代の教育トレンド",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "「AI時代の教育トレンド」、今日はニューヨークとベトナム、カザフスタンの学校現場から届いたニュースをまとめて見ていきます。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。3つとも学校でのAI利用を、どう線引きするかという話です。国によって進み方が随分違うのが面白いところです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "まずはニューヨーク市の公立学校ですね。生成AIを禁止する、と聞くと少し驚きます。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ニューヨーク市公立学校が2026年9月2日に公表した方針です。2026年から2027年度、2-Kから8年生までの生徒による生成AI利用を原則禁止する内容です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "2-Kというのは何歳くらいの学年なんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "就学前の年齢層を指す区分です。そこから中学2年生にあたる8年生まで、幅広い年齢が対象になっています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "画面を使う時間についても細かく決まっているようですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうなんです。2-Kから2年生は1対1でのスクリーン利用自体を行いません。3年生から5年生は1日30分以内、6年生から8年生は1日45分以内が推奨されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "30分や45分という時間は、結構短いという印象を受けますが。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "1日のうちの上限としてはかなり抑えた設定です。生成AIとの接触を最小限にとどめる狙いがうかがえます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ただ、完全に使わないわけではないんですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "支援技術や評価・診断、電子書籍、コーディングなどは例外とされています。教師側は授業計画や業務でAIを使えますが、成績評価や進級判断には使えません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "評価には使わない、というのは大事な線引きですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "生徒の将来を左右する判断は人間が行う、という考え方が背景にあるとみられます。子どもの発達段階への配慮も感じられる方針です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いてベトナムです。こちらは逆に、AI教育を積極的に取り入れる方向でしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "2026年8月1日の報道によると、ベトナム教育訓練省は初等教育を含む基礎教育でAI教育を、年間12時限、各学級に配分する枠組みを示しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "年間12時限というと、月に1回くらいのイメージでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そのくらいの頻度になりそうです。特別な教科として、継続的にAIについて学ぶ時間を確保する形ですね。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "初等段階では、具体的にどんな内容を学ぶんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "日常生活でのAIの簡単な理解、個人情報保護、著作権を扱います。小さいうちから身の回りのAIを意識させる内容です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "4つの領域で整理されているとのことですが、それは何ですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "人間中心の思考、AI倫理、AI技術と応用、AIシステム設計の4領域です。技術だけでなく倫理面も含めて体系立てています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "学年が上がるにつれて、学び方も変わっていくんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "初等では観察や体験から始め、中等以降で説明、検証、批判的評価へ進む段階構成になっています。年齢に合わせて深めていく設計です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ニューヨークが利用を抑える方向だったのに対して、ベトナムは学ぶ内容として組み込む方向なんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。AIを使わせるかどうかより、AIについて理解させることに重心を置いた形と言えそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "最後にカザフスタンです。こちらも独自の動きがあるようですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "2026年8月の報道では、1年生から4年生の科目名を、デジタル・リテラシーからデジタル・リテラシーと人工知能へ変更する案が示されました。5年生から11年生も同様です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "科目名を変えるというのは、かなり本格的な取り組みに感じます。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "既存の科目にAIを組み込む形なので、新しい枠を作るというより、今ある授業の中身を広げるイメージに近いと考えられます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "低学年向けには、どんな学習目標が設定されているんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "AI、オンライン上の安全、個人データ保護、デジタル上の責任を扱う17の学習目標が設定されています。全体では43項目に整理されました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "17と43、両方とも結構細かく分かれている印象ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。低学年から高学年まで、学習内容を段階的に積み上げられるよう、細かく項目を分けたとみられます。教員向けのガイドラインも準備されているそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "3つの国を見比べると、それぞれ違うアプローチをとっているのがよく分かりますね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "利用を制限する、学ぶ内容として位置づける、既存科目に組み込む。どれが望ましいというより、各国が試行錯誤している段階という見方が出ています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "日本の学校でも、今後こうした動きが参考にされていくかもしれませんね。今日はここまでです。ありがとうございました。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ありがとうございました。"
+        }
+      ]
+    }
+  ],
+  "verification": {
+    "title": "大きな流れ",
+    "turns": [
+      {
+        "speaker": "analyst",
+        "text": "水産事業の儲けの振れ幅は、魚がどれだけ獲れたかより、関税や規制といったルールの変化で説明できる部分が増えている、という見方です。これまで支持する材料がかなり積み上がってきました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "まず制度側の動きから言うと、水産庁は8月24日、スケソウダラのTAC、つまり漁獲可能量の配分を変更しました。沖合底びき網漁業に4900トンを融通しています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。もう一つ、カナダが9月8日に米国産のサケなど水産物へ25%の報復関税をかけます。これも資源量ではなく貿易ルールの変化です。この二つは論点を支持する材料です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。今日はむしろこちらのほうが目立ちます。北海道東部太平洋沖のマイワシ漁は6月の解禁以降、9月時点でまき網も棒受網も水揚げがゼロのままです。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そう読めます。さらに水産庁が9月2日に公表した資源評価で、マイワシ太平洋系群のABC、つまり生物学的に許容できる漁獲量が75%減少したとされました。これも資源量そのものの話です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "北海道のサンマ棒受網漁は8月25日までの累計水揚量が836.4トンで、前年同期の2048.6トンから59.1%減少しています。北海道の秋サケも来遊予測が365万尾で、前年実績686万尾から47%減少しました。定置網漁は9月1日に始まっています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "9月4日の豊洲市場では、ブリは鳥取産などが堅調だった一方、サンマは北海道産などが1割から3割下落しています。こちらも量の少なさが値動きに直結した形です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "数としてはそうです。マイワシもサンマもサケも、ABCの減少や来遊予測の減少という形で、資源量で収益の落ち込みを説明できる事例がまとまって出ました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "良い指摘です。今日はスケソウダラの配分変更やカナダの報復関税という制度側の動きも同時に出ています。逆風が資源要因だからといって、制度の影響が消えたわけではありません。両方が並行して起きている、という見方もできます。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "今日一日の材料での動きはごくわずかです。逆風がまとまって出たとはいえ、それだけで論点をひっくり返すほどではありません。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "資源量や相場だけで収益変動がほぼ説明できる事例が続き、そのあいだ主要市場で関税や規制の変更がしばらく起きない状態が続くことです。今日はまだそこまでは至っていません。"
+      }
+    ]
+  },
+  "discussion": {
+    "title": "きょうの論点",
+    "turns": [
+      {
+        "speaker": "navigator",
+        "text": "最後のコーナーです。きょうの論点、今日出てきた4つの話をつないで振り返ります。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。日本の水産、世界の水産、生成AIのニュース、それに教育トレンドでした。今日は意外とつながる部分があります。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "どのあたりがつながるんでしょうか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "まず水産の2本です。豊洲のブリと、メイン州のイエローテイルキングフィッシュ。どちらも魚として注目されている点が共通しています。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "キングフィッシュって、ブリと近い魚なんですか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "材料からは詳しい分類までは分かりません。ただ養殖の対象として世界で関心が集まっている魚という点は共通していると言えそうです。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "それってpopoさんの鹿児島の仕事にも関係しますか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。鹿児島のぶり類養殖に知見があるので、海の外で行う陸上養殖という技術動向は参考材料になり得る、という見方はできると思います。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "無理につなげなくても、業界情報として自然な範囲ですね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そう思います。海外で別の魚をどう育てようとしているかは、そのまま自社の技術選びに直結する話ではないですが、目配りする価値はありそうです。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "では次にAIの2つのニュースはどうでしょう。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "ヒドゥンレイヤーというAI安全性の会社の資金調達と、ニューヨーク市の学校でのAI利用制限です。両方とも、AIをどう扱うかの線引きの話です。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "線引きというと、具体的には。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "企業側はAIエージェントの実行時監視という技術で線を引こうとしています。学校側は年齢と時間で使ってよい範囲を区切っています。アプローチは違いますが課題は近いです。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "popoさんの業務のAI仕組み化にも関係しそうですね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。業務をAIに任せる際にどこまで自動化してどこから人が確認するか、という線引きは、今日の2つのニュースと同じ構造の課題だと言えそうです。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "教育の話は、生まれたばかりのお子さんの将来にも関わってきますね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうですね。今は年齢によって画面利用の時間まで細かく決められていますが、10年後20年後にこのルールがどう変わっているかは今の時点では分かりません。ただ、AIとどう付き合うかの線引きが社会全体で試行錯誤されている段階だという見方はできます。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "今日全体をまとめるとどうなりますか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "水産は魚種と養殖技術という切り口、AIは安全性と利用制限という線引きの切り口で、それぞれ緩やかにつながっていた日だったと思います。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "豊洲市場の話は具体的な価格が分からず、少し独立した情報でしたね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうですね。ブリが堅調という評価だけで、卸売価格そのものは今回確認できませんでした。そこは続報を待ちたいところです。今日は以上です。"
+      }
+    ]
+  },
+  "opening": [
+    {
+      "speaker": "navigator",
+      "text": "みなさんこんにちは。2026年9月5日の音声ニュースをお届けします。今日は日本と世界の水産、そして生成AIとAI時代の教育トレンドを取り上げます。"
+    }
+  ],
+  "closing": [
+    {
+      "speaker": "navigator",
+      "text": "今日は水産とAIの話題をお届けしました。台本と出典は番組ページに掲載しています。ぜひあわせてご覧ください。"
+    }
+  ],
+  "highlights": [
+    "豊洲市場の動向を取り上げました",
+    "メイン州の陸上養殖計画を地元紙が報道しています",
+    "学校でのAI利用の線引き、国により進み方が違います"
+  ],
+  "requests": "",
+  "hypothesis_checks": [
+    {
+      "id": "L-4",
+      "theme": "world_fisheries",
+      "statement": "水産事業の収益の振れは、資源量や相場よりも、制度・貿易ルール（関税・規制・認証）の変化に左右される比重が増している。",
+      "before": 0.942,
+      "after": 0.89,
+      "evidence_today": [
+        {
+          "relation": "support",
+          "claim": "水産庁は2026年8月24日、日本海北部系群スケソウダラのTAC配分を変更し、沖合底びき網漁業へ4,900トンを融通した。",
+          "source_url": "https://www.suikei.co.jp/tag/shigenkanri",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "カナダは2026年9月8日、米国産の生鮮・冷凍サーモンなど水産物に25%の報復関税を発動する。",
+          "source_url": "https://www.salmonbusiness.com/tarrifs-canada-to-impose-25-tariff-on-us-salmon-from-8-september/",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "北海道東部太平洋沖のマイワシ漁は2026年6月の解禁以降、2026年9月時点でまき網・棒受網ともに水揚げがゼロの状態が続いている。",
+          "source_url": "https://www.suikei.co.jp/cat/news/fishery",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "水産庁は2026年9月2日公表の2026年度資源評価で、マイワシ太平洋系群のABCが75%減少したとされた。",
+          "source_url": "https://www.suikei.co.jp/cat/news/fishery",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "北海道のサンマ棒受網漁は2026年8月25日までの累計水揚量が836.4トンとなり、前年同期の2,048.6トンから59.1%減少した。",
+          "source_url": "https://www.suikei.co.jp/archives/126711",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "北海道の2026年秋サケ来遊予測は365万尾で前年実績686万尾から47%減少し、定置網漁は2026年9月1日に開始された。",
+          "source_url": "https://www.suikei.co.jp/cat/news/fishery",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "2026年9月4日の豊洲市場では、ブリは鳥取産などが堅調だった一方、サンマは北海道産などが1～3割下落した。",
+          "source_url": "https://www.suikei.co.jp/cat/news/distribution",
+          "origin": "normal"
+        }
+      ],
+      "support": 2,
+      "contradict": 5,
+      "falsifier_hits": [
+        "北海道東部太平洋沖のマイワシ漁は2026年6月の解禁以降、2026年9月時点でまき網・棒受網ともに水揚げがゼロの状態が続いている。（マイワシ漁獲ゼロは資源量で収益変動が説明できる事例）",
+        "水産庁は2026年9月2日公表の2026年度資源評価で、マイワシ太平洋系群のABCが75%減少したとされた。（ABC75%減少は資源量による変動を示す事例）",
+        "北海道のサンマ棒受網漁は2026年8月25日までの累計水揚量が836.4トンとなり、前年同期の2,048.6トンから59.1%減少した。（サンマ水揚げ59%減少は資源量で説明できる事例）",
+        "北海道の2026年秋サケ来遊予測は365万尾で前年実績686万尾から47%減少し、定置網漁は2026年9月1日に開始された。（サケ来遊47%減少予測は資源量による変動事例）",
+        "2026年9月4日の豊洲市場では、ブリは鳥取産などが堅調だった一方、サンマは北海道産などが1～3割下落した。（サンマ価格下落は相場・資源要因による変動事例）"
+      ],
+      "status": "active",
+      "moved": null,
+      "already_said": [
+        "太平洋クロマグロの大型魚漁獲枠を25%増やす案に、太平洋東西の国際会議が2026年8月18日に合意した。",
+        "自民党水産部会・水産総合調査会は2026年8月25日、2027年度水産関係予算の概算要求案として4,200億円以上を示した。",
+        "サンマ棒受け網漁の2026年8月25日までの累計水揚げは836.4トンで、前年同期の2,048.6トンから59.1%減少した。",
+        "釧路港の2026年7月のイワシ水揚げはゼロとなり、7月全体の水揚げ量は64トン（前年同月比99.7%減）、水揚げ金額は4,077万円（前年同月比96.4%減）だった。",
+        "米USTRは強制労働対策を理由に、対象60経済圏についてSection 301追加関税を原則10%または12.5%に設定した。",
+        "インドネシア産加工マグロ・カツオ製品の対象4品目について、日・インドネシア経済連携協定改正により2026年8月1日から日本向け特恵関税が0%（従来9.6%）になった。"
+      ],
+      "axis": "横断",
+      "falsifier_texts": [
+        "収益の変動が、制度変更ではなく資源量や相場でほぼ説明できる事例が示される",
+        "主要市場で関税・規制・認証要件の変更がしばらく起きていない"
+      ],
+      "decision_link": "事業リスクの見積もりで、資源変動と制度変更のどちらに重みを置くか",
+      "stance": "支持する材料がかなり積み上がっている",
+      "shift": "今日の材料での動きはごくわずかです",
+      "on_air_count": 2
+    }
+  ],
+  "aired_items": [
+    {
+      "id": "e4914a884ae5",
+      "theme": "jp_fisheries",
+      "headline": "豊洲市場、9月4日はブリ堅調・サンマ下落",
+      "source_url": "https://www.suikei.co.jp/cat/news/distribution",
+      "source_title": "日刊水産経済新聞",
+      "from_stock": false
+    },
+    {
+      "id": "2bad8b05933d",
+      "theme": "jp_fisheries",
+      "headline": "日本海北部スケソウ、沖底へ4900トン融通",
+      "source_url": "https://www.suikei.co.jp/tag/shigenkanri",
+      "source_title": "日刊水産経済新聞",
+      "from_stock": false
+    },
+    {
+      "id": "5ac035d35344",
+      "theme": "world_fisheries",
+      "headline": "米メイン州のキングフィッシュ陸上養殖計画が前進",
+      "source_url": "https://www.bangordailynews.com/2026/08/14/down-east/downeast-government/jonesport-maine-kingfish-maine-fish-farm-construction-ordinance/",
+      "source_title": "Bangor Daily News",
+      "from_stock": false
+    },
+    {
+      "id": "daa3db15e331",
+      "theme": "genai",
+      "headline": "AIセキュリティのHiddenLayer、1億ドル調達",
+      "source_url": "https://www.prnewswire.com/news-releases/hiddenlayer-raises-100m-series-b-to-advance-trustworthy-ai-302867783.html",
+      "source_title": "PR Newswire",
+      "from_stock": false
+    },
+    {
+      "id": "5f7f783ed65a",
+      "theme": "genai",
+      "headline": "中国当局、AI悪用取り締まりの第2段階を発表",
+      "source_url": "https://www.cac.gov.cn/2026-09/02/c_1790099041364574.htm",
+      "source_title": "国家インターネット情報弁公室",
+      "from_stock": false
+    },
+    {
+      "id": "78d871c23144",
+      "theme": "genai",
+      "headline": "OpenAI「GPT-6 Astra」正式発表、価格・性能公表",
+      "source_url": "https://openai.com/index/gpt-6-astra/",
+      "source_title": "OpenAI",
+      "from_stock": false
+    },
+    {
+      "id": "9f03b57c644d",
+      "theme": "genai",
+      "headline": "Google、音楽生成モデル「Lyria 3.5」を公開プレビュー",
+      "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "source_title": "Google Gemini API changelog",
+      "from_stock": false
+    },
+    {
+      "id": "0c4705cf7f35",
+      "theme": "education",
+      "headline": "NYC公立校、2-K〜8年生の生成AIを1年禁止",
+      "source_url": "https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence",
+      "source_title": "NYC Public Schools",
+      "from_stock": false
+    },
+    {
+      "id": "c07bbf22a5d8",
+      "theme": "education",
+      "headline": "ベトナム、初等教育に年間12時限のAI教育導入",
+      "source_url": "https://e.vnexpress.net/news/news/education/vietnam-to-include-artificial-intelligence-in-school-curriculum-5111536.html",
+      "source_title": "VnExpress International",
+      "from_stock": false
+    },
+    {
+      "id": "e7cdb1545584",
+      "theme": "education",
+      "headline": "カザフスタン、AI学習目標を43項目に整理",
+      "source_url": "https://www.azernews.az/region/262074.html",
+      "source_title": "Azernews",
+      "from_stock": false
+    }
+  ],
+  "sources": [
+    {
+      "segment": "日本の水産",
+      "title": "日刊水産経済新聞",
+      "url": "https://www.suikei.co.jp/cat/news/distribution"
+    },
+    {
+      "segment": "日本の水産",
+      "title": "日刊水産経済新聞",
+      "url": "https://www.suikei.co.jp/tag/shigenkanri"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "Bangor Daily News",
+      "url": "https://www.bangordailynews.com/2026/08/14/down-east/downeast-government/jonesport-maine-kingfish-maine-fish-farm-construction-ordinance/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/hiddenlayer-raises-100m-series-b-to-advance-trustworthy-ai-302867783.html"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "国家インターネット情報弁公室",
+      "url": "https://www.cac.gov.cn/2026-09/02/c_1790099041364574.htm"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "OpenAI",
+      "url": "https://openai.com/index/gpt-6-astra/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "Google Gemini API changelog",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "NYC Public Schools",
+      "url": "https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "VnExpress International",
+      "url": "https://e.vnexpress.net/news/news/education/vietnam-to-include-artificial-intelligence-in-school-curriculum-5111536.html"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "Azernews",
+      "url": "https://www.azernews.az/region/262074.html"
+    }
+  ]
+}

@@ -7,11 +7,21 @@
     <link>https://popo-sakana.github.io/morning-brief/</link>
     <description>水産・生成AI・教育の4テーマを毎朝30分で</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 20:32:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:34:19 +0000</lastBuildDate>
     <itunes:author>popo</itunes:author>
     <itunes:summary>水産・生成AI・教育の4テーマを毎朝30分で</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+    <item>
+      <title>9月5日のブリーフ</title>
+      <description><![CDATA[・豊洲市場の動向を取り上げました<br>・メイン州の陸上養殖計画を地元紙が報道しています<br>・学校でのAI利用の線引き、国により進み方が違います]]></description>
+      <pubDate>Sat, 05 Sep 2026 05:12:37 +0900</pubDate>
+      <guid isPermaLink="false">260905_morningbrief_v1_AI</guid>
+      <enclosure url="https://github.com/popo-sakana/morning-brief/releases/download/260905_morningbrief_v1_AI/260905_morningbrief_v1_AI.mp3" length="6526890" type="audio/mpeg"/>
+      <itunes:duration>1565</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://popo-sakana.github.io/morning-brief/episodes/260905_morningbrief_v1_AI.html</link>
+    </item>
     <item>
       <title>9月4日のブリーフ</title>
       <description><![CDATA[・千葉県マサバ水揚げ量が9月3日時点で0トンに<br>・日本産ぶりの輸出が好調だったと発表<br>・9月2日発表の生成AI調達2件、金額に大きな差]]></description>

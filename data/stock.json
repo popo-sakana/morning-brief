@@ -2429,6 +2429,187 @@
    "aired": [
     "2026-09-04"
    ]
+  },
+  {
+   "id": "2bad8b05933d",
+   "theme": "jp_fisheries",
+   "headline": "日本海北部スケソウ、沖底へ4900トン融通",
+   "detail": "水産庁は、スケソウダラ日本海北部系群について、関係漁業者間の合意に基づき沖合底びき網漁業と沿岸漁業のTAC配分を変更した。管理年度は2026年4月〜2027年3月で、2026年8月24日付で沖合底びき網漁業へ4,900トンが融通された。TAC総量や変更前後の両漁業への配分、資源状態の改善によるものか単なる調整かは確認できない。",
+   "numbers": [
+    "融通4900トン",
+    "管理年度2026年4月〜2027年3月"
+   ],
+   "source_url": "https://www.suikei.co.jp/tag/shigenkanri",
+   "source_title": "日刊水産経済新聞",
+   "published": "2026-08-24",
+   "importance": 2,
+   "first_seen": "2026-09-05",
+   "aired": [
+    "2026-09-05"
+   ]
+  },
+  {
+   "id": "e4914a884ae5",
+   "theme": "jp_fisheries",
+   "headline": "豊洲市場、9月4日はブリ堅調・サンマ下落",
+   "detail": "2026年9月4日の豊洲市場概況によると、ブリは鳥取産などが「しっかり」とされ堅調な評価だった。一方、サンマは北海道産などが1〜3割下落した。ブリの具体的な卸売価格は確認できないが、産地・サイズ・入荷集中度によって価格が変動していることを示す事例といえる。",
+   "numbers": [
+    "サンマ1〜3割下落"
+   ],
+   "source_url": "https://www.suikei.co.jp/cat/news/distribution",
+   "source_title": "日刊水産経済新聞",
+   "published": "2026-09-04",
+   "importance": 3,
+   "first_seen": "2026-09-05",
+   "aired": [
+    "2026-09-05"
+   ]
+  },
+  {
+   "id": "5ac035d35344",
+   "theme": "world_fisheries",
+   "headline": "米メイン州のキングフィッシュ陸上養殖計画が前進",
+   "detail": "米国メイン州ジョーンズポートのKingfish Maineは、年間8,500トンのyellowtail kingfishを生産する陸上養殖施設を計画している。想定投資額は1億米ドル。2026年8月5日、住民投票で同社向けの工事着手期限などの条例変更が承認されたが、メイン州環境保護当局の審査が残っており、工事開始は2026年末より前には始まらない可能性があるとされている。",
+   "numbers": [
+    "年間8500トン",
+    "投資額1億米ドル",
+    "住民投票2026年8月5日"
+   ],
+   "source_url": "https://www.bangordailynews.com/2026/08/14/down-east/downeast-government/jonesport-maine-kingfish-maine-fish-farm-construction-ordinance/",
+   "source_title": "Bangor Daily News",
+   "published": "2026-08-14",
+   "importance": 3,
+   "first_seen": "2026-09-05",
+   "aired": [
+    "2026-09-05"
+   ]
+  },
+  {
+   "id": "78d871c23144",
+   "theme": "genai",
+   "headline": "OpenAI「GPT-6 Astra」正式発表、価格・性能公表",
+   "detail": "OpenAIは2026年9月3日、新モデル「GPT-6 Astra」を発表した。API価格は入力100万トークン当たり10米ドル、出力同50米ドルで、Fastモードは標準の2倍速・2倍価格。OpenAI自身の評価ではFrontierMath Tier4で98%、ARC-AGI-3で99.9%、OSWorld2.0成功率72.6%（GPT-5.6 Solは65.7%）としている。既にサイバー能力でCritical水準に達したと報じられているが、価格や性能値の詳細は今回新たに確認された。",
+   "numbers": [
+    "入力10ドル/100万トークン",
+    "OSWorld成功率72.6%",
+    "FrontierMath98%"
+   ],
+   "source_url": "https://openai.com/index/gpt-6-astra/",
+   "source_title": "OpenAI",
+   "published": "2026-09-03",
+   "importance": 1,
+   "first_seen": "2026-09-05",
+   "aired": [
+    "2026-09-05"
+   ]
+  },
+  {
+   "id": "9f03b57c644d",
+   "theme": "genai",
+   "headline": "Google、音楽生成モデル「Lyria 3.5」を公開プレビュー",
+   "detail": "Googleは2026年9月3日、音楽生成モデル「Lyria 3.5」をGemini APIのパブリックプレビューとして公開した。テキストと画像入力に対応し、フルレングス楽曲生成、自然なボーカル、曲構成の細かい指定が可能で、出力は44.1kHzステレオ音声。料金体系や商用利用条件、権利処理、利用可能地域の詳細は今回の公式変更履歴では確認できていない。",
+   "numbers": [
+    "44.1kHzステレオ出力"
+   ],
+   "source_url": "https://ai.google.dev/gemini-api/docs/changelog",
+   "source_title": "Google Gemini API changelog",
+   "published": "2026-09-03",
+   "importance": 1,
+   "first_seen": "2026-09-05",
+   "aired": [
+    "2026-09-05"
+   ]
+  },
+  {
+   "id": "daa3db15e331",
+   "theme": "genai",
+   "headline": "AIセキュリティのHiddenLayer、1億ドル調達",
+   "detail": "AIセキュリティ企業HiddenLayerは2026年9月2日、Series Bで1億米ドルを調達したと発表した。主幹投資家はDelta-v Capitalで、Morgan StanleyやMicrosoft's Venture Fundなどが参加した。資金はエンタープライズ向けAIセキュリティ基盤の拡充、AIエージェントの実行時監視機能、欧州展開に充てられる。",
+   "numbers": [
+    "調達額1億米ドル"
+   ],
+   "source_url": "https://www.prnewswire.com/news-releases/hiddenlayer-raises-100m-series-b-to-advance-trustworthy-ai-302867783.html",
+   "source_title": "PR Newswire",
+   "published": "2026-09-02",
+   "importance": 1,
+   "first_seen": "2026-09-05",
+   "aired": [
+    "2026-09-05"
+   ]
+  },
+  {
+   "id": "5f7f783ed65a",
+   "theme": "genai",
+   "headline": "中国当局、AI悪用取り締まりの第2段階を発表",
+   "detail": "中国の国家インターネット情報弁公室は2026年9月2日、AIアプリケーションの悪用を取り締まる「清朗」特別行動の第2段階を発表した。対象はAIによる虚偽情報作成・拡散、暴力的・低俗コンテンツ、なりすまし、未成年者の権利侵害。累計で違法情報561万件超、アカウント4.9万件超、違反サイト・アプリ2,400件超を処置したとしているが、これは累計値で今回段階のみの数値ではない。",
+   "numbers": [
+    "違法情報561万件超",
+    "アカウント4.9万件超",
+    "違反サイト2400件超"
+   ],
+   "source_url": "https://www.cac.gov.cn/2026-09/02/c_1790099041364574.htm",
+   "source_title": "国家インターネット情報弁公室",
+   "published": "2026-09-02",
+   "importance": 1,
+   "first_seen": "2026-09-05",
+   "aired": [
+    "2026-09-05"
+   ]
+  },
+  {
+   "id": "0c4705cf7f35",
+   "theme": "education",
+   "headline": "NYC公立校、2-K〜8年生の生成AIを1年禁止",
+   "detail": "ニューヨーク市公立学校は2026〜2027年度、2-Kから8年生までの生徒向け生成AI利用を原則禁止する方針を公表した。2-K〜2年生は1対1のスクリーン利用も行わず、3〜5年生は1日30分以内、6〜8年生は1日45分以内を推奨。支援技術、評価・診断、電子書籍、コーディングなどは例外とされ、教師は授業計画や業務にAIを使えるが成績評価や進級判断には使えない。",
+   "numbers": [
+    "対象2-K〜8年生",
+    "3〜5年生30分以内",
+    "6〜8年生45分以内"
+   ],
+   "source_url": "https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence",
+   "source_title": "NYC Public Schools",
+   "published": "2026-09-02",
+   "importance": 2,
+   "first_seen": "2026-09-05",
+   "aired": [
+    "2026-09-05"
+   ]
+  },
+  {
+   "id": "c07bbf22a5d8",
+   "theme": "education",
+   "headline": "ベトナム、初等教育に年間12時限のAI教育導入",
+   "detail": "ベトナム教育訓練省は、初等教育を含む基礎教育でAI教育を年間12時限、各学級に配分する枠組みを示した。初等段階では日常生活におけるAIの簡単な理解、個人情報保護、著作権を扱い、人間中心の思考・AI倫理・AI技術と応用・AIシステム設計の4領域で整理。初等では観察・体験から始め、中等以降で説明・検証・批判的評価へ進める段階構成としている。",
+   "numbers": [
+    "年間12時限",
+    "4領域"
+   ],
+   "source_url": "https://e.vnexpress.net/news/news/education/vietnam-to-include-artificial-intelligence-in-school-curriculum-5111536.html",
+   "source_title": "VnExpress International",
+   "published": "2026-08-01",
+   "importance": 1,
+   "first_seen": "2026-09-05",
+   "aired": [
+    "2026-09-05"
+   ]
+  },
+  {
+   "id": "e7cdb1545584",
+   "theme": "education",
+   "headline": "カザフスタン、AI学習目標を43項目に整理",
+   "detail": "カザフスタンでは2026年8月の報道で、1〜4年生の科目名を「デジタル・リテラシー」から「デジタル・リテラシーと人工知能」へ変更し、5〜11年生も同様に変更するカリキュラム案が示された。低学年向けにAI・オンライン安全・個人データ保護・デジタル上の責任を扱う17の学習目標を設定し、全体でAI関連の学習目標を43項目に整理した。教員向けガイドラインも準備されている。",
+   "numbers": [
+    "低学年17目標",
+    "全体43項目"
+   ],
+   "source_url": "https://www.azernews.az/region/262074.html",
+   "source_title": "Azernews",
+   "published": "2026-08-01",
+   "importance": 1,
+   "first_seen": "2026-09-05",
+   "aired": [
+    "2026-09-05"
+   ]
   }
  ]
 }

@@ -1,5 +1,48 @@
 [
   {
+    "id": "260905_morningbrief_v1_AI",
+    "title": "9月5日のブリーフ",
+    "published_at": "2026-09-05T05:12:37+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260905_morningbrief_v1_AI/260905_morningbrief_v1_AI.mp3",
+    "duration_sec": 1565,
+    "bytes": 6526890,
+    "summary": "・豊洲市場の動向を取り上げました<br>・メイン州の陸上養殖計画を地元紙が報道しています<br>・学校でのAI利用の線引き、国により進み方が違います",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 14.2
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 202.4
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 460.3
+      },
+      {
+        "section": "genai",
+        "start_sec": 712.7
+      },
+      {
+        "section": "education",
+        "start_sec": 1027.0
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1359.9
+      },
+      {
+        "section": "closing",
+        "start_sec": 1554.9
+      }
+    ]
+  },
+  {
     "id": "260904_morningbrief_v1_AI",
     "title": "9月4日のブリーフ",
     "published_at": "2026-09-04T05:12:57+09:00",
