@@ -1,0 +1,745 @@
+{
+  "segments": [
+    {
+      "id": "world_fisheries",
+      "title": "世界の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "世界の水産、今日はノルウェーと中国の話題をお届けします。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。まずノルウェーです。2026年8月の水産物輸出額が160億ノルウェークローネとなりました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "160億クローネ、これは大きい数字なんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "前年同月比で14%増えていて、8月としては過去最高だそうです。伸び率としても小さくありません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "何が輸出額を押し上げたんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "サーモンです。輸出量は15万3602トンで前年同月比7%増、輸出額は123億クローネで19%増でした。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "量より額のほうが伸びてますね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうなんです。量の伸びが7%に対して額は19%増ですから、単価が上がった影響が大きいと見られます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "養殖のサーモンが中心ということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "養殖水産物全体の輸出額は130億クローネで、水産物輸出額全体に占める割合は81.4%でした。ノルウェーの水産輸出の柱が養殖であることがよく分かります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "8割以上ということですね。かなり高い比率に聞こえます。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。天然の漁獲だけでなく、養殖業の規模の大きさが数字にも表れています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ただ、価格の面で気になる数字もあるとか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "8月24日から30日の週の生鮮サーモン輸出価格は1kg当たり71.87クローネで、前週比2.2%低下しました。同じ週の輸出量は3万487トンです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "週単位では下がったんですね。月全体では伸びていたのに。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、そこは矛盾ではなくて、月の集計と週の変動は別の見方です。週ごとの価格には上下があるということですね。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "米国向けに追加の関税がかかっているという話も聞きましたが。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "米国向けには12.5%の追加関税が課されています。それでも輸出額全体は増加していて、他の市場が支えている可能性がうかがえます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "関税があっても伸びているのは意外な感じもします。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。関税の影響がまったくないわけではないと思いますが、少なくとも輸出額全体を押し下げるほどではなかったということかと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いては中国向けの話題ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。2026年第36週、中国向けのエビとティラピアの動きです。エクアドル産のバナメイエビ、30から40尾/kgの規格の中国向け提示価格が前週比0.10米ドル上昇しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "小さい規格のエビの値段が上がったということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。ただ20から30尾/kgの大型規格は横ばいでした。同じエビでもサイズによって値動きが違っています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "サイズによって差が出るのはなぜなんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこまで詳しい理由は分かっていませんが、規格ごとに需要の強さが違うことは示されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ティラピアのほうはどうですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "中国産ティラピアの500から800gの規格は、加工場渡しの価格が前週から横ばいでした。こちらは値動きがなかったということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "米国向けの関税の話も出ていましたね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。米国向けの中国産ティラピアフィレの関税負担は前年より低下しています。ただそれが注文の増加には直結していないと報じられています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "関税が下がっても注文が増えるとは限らないんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。コストが下がったからといって、すぐに需要が増えるわけではないという見方が出ています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "全体として中国の水産物需要はどう見ればいいんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "品目や規格によって回復の度合いが違う、というのが今回示された内容です。一律に良い悪いとは言えない状況のようです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ノルウェーは全体として好調、中国は品目ごとにばらつきがある、という感じですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。同じ水産物でも市場や規格によって違う動きが出ているのが、今回の材料からうかがえるところです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "世界の水産、今日はここまでです。ありがとうございました。"
+        }
+      ]
+    },
+    {
+      "id": "genai",
+      "title": "生成AIの重大ニュース",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "生成AIの重大ニュース、9月6日分です。今日は3つ取り上げます。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。気象予測、音声操作、それから法人向けの自動化エージェント。分野はばらばらですが、どれも9月3日発表です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "まず気象予測から聞かせてください。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "GoogleのDeepMindとGoogle Researchが、気象予測AIの新しいモデル、ウェザーネクスト3を発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "気象予測もAIでやる時代なんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうなんです。人工衛星のリアルタイムデータを使って、1時間ごとに予測を更新できるのが特徴です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "1時間ごとというのは、これまでと比べて早いんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "具体的な比較の数字は発表に出ていないので断定はできません。ただ頻繁に更新される点が強調されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "解像度も上がったとのことですが。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "高解像度化と、降水量の予測精度の改善も特徴だとされています。雨の量を細かく読めるようになったということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "私たちが普段使うアプリにも関係あるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。Google検索やGemini、Googleマップ、それに地図データを扱うアースエンジンに統合される予定です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "つまり検索や地図の天気表示が変わるかもしれない。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そういうことです。Googleは独立した評価機関ブライトバンドの評価をもとに、最も正確な全球気象モデルだと説明しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "最も正確、というのはすごい表現ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ただし具体的な比較数値は公式発表の中では確認できません。Google側の説明という位置づけで受け止めた方がよさそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いて、Gmailなどの音声機能の話ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。Googleは9月3日、GmailとGoogleドキュメント、Google Keepに音声操作機能を正式に導入しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "音声で何ができるようになるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "受信トレイの検索、文書の下書き作成、メモの記録などが声だけでできるようになります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "キーボードを使わなくていいわけですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "Gemini Audioという、音声のやり取りに対応した生成AIモデルを使っています。声を理解して文章に変換する仕組みです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "誰でもすぐ使えるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "GmailとKeepは、Google AIのプラス、プロ、ウルトラという有料プラン加入者向けです。ドキュメントはプロとウルトラのみです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "会社で使うワークスペース版はどうなんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "法人向けワークスペースへの提供は近日予定とされていますが、具体的な日付は発表から確認できません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "個人ユーザーが先行する形なんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そのようです。音声での操作が日常的な作業に広がっていく一つの流れとして見ておくとよさそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "最後に、xAIのGrok Botについてです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "イーロン・マスク氏のxAIが9月3日、法人向けの新サービス、Grok Bot for Enterpriseの提供を始めたと発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "普通の対話型AIと何が違うんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "1回のやり取りで終わらず、常時稼働し続けるエージェントという点が違います。固有の役割や記憶、作業環境を持ち続けます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "エージェントというのは、自分で判断して作業を進めるAIということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。セッションをまたいで記憶や作業を継続できるので、会話が終わっても文脈を覚えたまま次の作業に戻れます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "料金はどうなっているんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "GrokやCursor Enterpriseの既存顧客には2週間の無料利用が提供されます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "無料期間が終わったあとはどうなるんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "無料期間終了後の価格や、対応する地域については発表文からは確認できません。今後の続報を待つ形になります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今日は気象予測、音声操作、常時稼働エージェントと、3つの発表がありました。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "どれも9月3日に相次いで出てきたものです。生成AIが日常の道具に組み込まれていく動きとして見ておくとよさそうです。"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "title": "AI時代の教育トレンド",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "AI時代の教育トレンド、今日はスクリーンやAIと子どもの関わり方について、海外の動きを見ていきます。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。今日は保育や小学校の現場で、端末やAIの使い方をどう線引きするか、という話題が3つ集まりました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "まずはカナダからですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "カナダのニューブランズウィック州が2026年8月、保育施設向けの新しい方針を出しました。画面の利用を1日30分以下に制限しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "30分以下というのは、結構厳しい印象がありますね。2歳未満はどうなんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "2歳未満は画面利用そのものを認めていません。利用できる場合も教育目的で、年齢に合った内容を教育者の指導下で見る、という条件つきです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "食事のときにタブレットを見せる、みたいなことも禁止なんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです、食事中の画面利用も禁止されました。さらに幼稚園から8年生では、学校にいる時間中の個人スマートフォンなどの利用も禁止されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "保育施設だけでなく、学校の年齢層まで広くカバーしているんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。乳幼児期の画面利用を制限しようという流れが、政策として具体的な数字で示された形です。この州特有の方針なので、他地域にそのまま当てはまるとは限りません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "保護者や保育の現場にとっては、これまでの運用を見直す必要が出てきそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "教育目的以外の利用時間をどう管理するか、施設側の負担は増えるかもしれません。ただ、指針が明確になったことで判断はしやすくなる、という見方もできます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いてオーストラリアです。こちらも端末に関する話ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "オーストラリアのビクトリア州教育省が、2027年からの方針として、小学校で家庭に端末の購入や持参を求めることを禁止すると発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "これはいわゆるBYODという仕組みをやめる、ということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。BYODは英語で、自分の端末を持ってくる、という意味の言葉です。家庭が端末を用意する前提だった運用を、小学校では見直す方針です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "低学年と高学年で扱いは違うんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "違います。就学前学年から2年生まではデジタル機器の利用を最小限にします。3年生から6年生は、1日最大90分という利用設計が示されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "90分というのは、1日の中でどれくらいの大きさなんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこは材料の中では比較する数字がないので、大きい小さいと断定はできません。ただ上限が明確に数字で示されたこと自体が、これまでとは違う点です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "宿題にもデジタル機器を使わないようにする、という話も聞きましたが。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。初等教育ではデジタル機器を使う宿題を設定しないことを強く推奨しています。読みの指導でも、紙の文章を標準とする方針が示されました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "画面よりも紙を優先する、という考え方が背景にありそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そう受け取れます。ただ、なぜこの方針に至ったかという理由の詳細までは、今回の材料には書かれていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "最後は香港ですね。こちらは逆に、AIを教えていく方向のようです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。香港教育局が2026年8月、デジタル教育の全体計画とあわせて、小中学校向けのAIリテラシー学習の枠組みと、授業でAIを使うためのガイドを学校に示しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "リテラシーというのは、ここではAIを正しく理解して使う力、ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。各学年でどんなAI学習に重点を置くか、どんな場面で使うか、そしてAIリテラシーをどう評価するか、という提案が含まれています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "低年齢の子どもたちは、AIの利用が制限されるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "今回の方向性は、低年齢層を一律にAI利用停止にするのではなく、全校の全児童生徒にAIを教えていく、というものです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "低年齢児童が生成AIをどこまで自由に使えるかは、まだはっきりしないんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこは資料の全体を確認する必要がある、とされていて、今回の材料だけでは具体的な範囲までは分かりません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "3つ並べると、画面利用を制限する国と、AIを教える方向に進む国とで、対応が分かれている印象です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。低年齢の画面利用そのものを絞る動きと、学齢期全体にAIリテラシーを広げる動きが、同じ時期に別々の地域から出てきています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "どちらが良い悪いというより、それぞれの地域の判断が違う、ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。今回の材料だけでは優劣は判断できません。ただ、端末やAIとの距離の取り方が、教育現場で具体的な数字やルールとして示され始めている、という点は共通しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "AI時代の教育トレンド、今日はここまでとさせていただきます。"
+        }
+      ]
+    }
+  ],
+  "verification": {
+    "title": "大きな流れ",
+    "turns": [
+      {
+        "speaker": "analyst",
+        "text": "論点はこうです。養殖の勝ち負けを分けるのが、餌のコストの安さなのか、それとも種苗や育種で魚を死なせない技術なのか。その力点がどちらに寄っているかという話です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。今日はその流れを大きく動かすような材料ではありませんが、小さな追い風が2つ出ています。どちらも規模の大きな数字を伴うものではありません。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "鹿児島県が2026年4月、ブリ養殖の指導指針を改正しました。管理の基準を、いけすの台数から、育てている魚の頭数へと変えています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。器の数で管理していたところから、実際にいる魚の数を基準にする方向へ移りました。これは斃死率、つまり途中で死んでしまう割合を意識した管理に近づいたとも読めます。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "8月19日、シーフードショーの特別セミナーで、水産研究・教育機構が高成長ブリ種苗を使った次世代養殖システムを紹介しています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。行政の管理基準と、研究機関の技術発表と、別々の場所で種苗や頭数管理への関心が高まっています。近い時期にこの2つが並んだのは、追い風として見ていいと思います。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "それはあり得ます。頭数管理のほうが県として密度管理や環境負荷の把握がしやすい、という行政側の実務上の理由かもしれません。種苗や育種への注目とは別の話である可能性は残ります。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "その通りです。1回の特別セミナーでの紹介だけでは、業界の投資判断が実際に動いたとまでは言えません。あくまで小さな材料が2つ、同じ方向に並んだという程度です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "餌のコストのほうが収益差の主因だと示すデータが出てきたときです。あるいは種苗や育種への投資が縮小している、効果が出ていないという報告が出てきたときです。今日はそうした材料は出ていません。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "養殖案件を提案するとき、飼料の置き換えを軸にするか、生残率の改善を軸にするか、という選び方に直結します。今日の材料は、後者を少しだけ後押しする側に積まれた形です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。まだ大きく舵を切るほどの材料ではありませんが、これまで積み上がってきた見方を崩す材料も、今日は出ていません。そこは確認しておきたい点です。"
+      }
+    ]
+  },
+  "discussion": {
+    "title": "きょうの論点",
+    "turns": [
+      {
+        "speaker": "navigator",
+        "text": "それでは最後のコーナー、きょうの論点です。今日は世界の水産、生成AIの重大ニュース、AI時代の教育トレンドを振り返ります。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "この3つ、何かつながりはあるんでしょうか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "なるほど。では代わりに、どれか1つを深掘りしましょうか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "8月の輸出額が過去最高だった、という話でしたね。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "これはpopoさんの仕事にとって、どういう意味を持ちますか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "単価が上がった背景は、材料にはあるんでしょうか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "生成AIのニュースとの関係はどうでしょう。法人向けの自動化エージェント、というのがありましたが。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "気象予測AIのウェザーネクスト3は、水産や養殖に関係しそうな気もしますが。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "では教育トレンドのほうはどうでしょう。カナダの保育施設の話です。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "popoさんには生まれたばかりのお子さんがいますよね。今すぐ関係する話でしょうか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "今日は無理につなげず、それぞれの意味を丁寧に見た形ですね。"
+      }
+    ]
+  },
+  "opening": [
+    {
+      "speaker": "navigator",
+      "text": "2026年9月6日、音声ニュースをお届けします。今日はまず世界の水産から、ノルウェーの8月の水産物輸出額です。続いて生成AIの重大ニュース、気象予測や音声操作、法人向け自動化エージェントの発表をまとめます。最後にAI時代の教育トレンド、保育や小学校での端末やAIの使い方についてです。それでは始めましょう。"
+    }
+  ],
+  "closing": [
+    {
+      "speaker": "navigator",
+      "text": "今日は水産、生成AI、教育の3つをお伝えしました。詳しい台本と出典は番組ページに掲載しています。またお会いしましょう。"
+    }
+  ],
+  "highlights": [
+    "ノルウェー8月水産物輸出額は160億ノルウェークローネ",
+    "9月3日、気象予測や音声操作などAI発表が相次ぐ",
+    "保育・小学校で端末やAI利用の線引きが話題に"
+  ],
+  "requests": "",
+  "hypothesis_checks": [
+    {
+      "id": "L-1",
+      "theme": "jp_fisheries",
+      "statement": "養殖の競争力の源泉が、規模と餌のコスト勝負から、種苗・育種と斃死率のコントロールへ移りつつある。",
+      "before": 0.919,
+      "after": 0.948,
+      "evidence_today": [
+        {
+          "relation": "support",
+          "claim": "鹿児島県は2026年4月、魚類養殖の指導指針を改正し、ブリ養殖の管理を「いけす台数」基準から「飼育尾数」基準へ変更した。",
+          "source_url": "https://www.suikei.co.jp/cat/news/aquaculture",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "水産研究・教育機構は2026年8月19日開催のシーフードショー特別セミナーで、高成長ブリ種苗を活用した次世代養殖システムを紹介した。",
+          "source_url": "https://www.suikei.co.jp/archives/126117",
+          "origin": "normal"
+        }
+      ],
+      "support": 2,
+      "contradict": 0,
+      "falsifier_hits": [],
+      "status": "active",
+      "moved": null,
+      "already_said": [
+        "近畿大学は2026年2月、人工種苗から育てた親魚から仔魚を得るノドグロの完全養殖に世界で初めて成功したと発表した。",
+        "水産研究・教育機構の研究成果では、クロマグロ人工種苗の冬季生残率が従来の30～40%程度から早期種苗で80%以上に向上した。",
+        "FAOによるアジア6か国・計340養殖場調査（調査期間2005年10月15日～2006年2月14日、2007年公表）では、総生産費に占める餌料費が平均58.0%で稚魚・種苗費15.5%を大きく上回った。",
+        "FAOの世界調査（2019年2月公表、回答期間2015年6月～2017年6月）では、92か国の回答のうち45%が遺伝的改良は養殖生産に「影響しなかった」または「影響は小さかった」と回答した。"
+      ],
+      "axis": "生産",
+      "falsifier_texts": [
+        "種苗・育種や斃死率よりも、餌のコストが収益差の主因だと示すデータが出る",
+        "育種・種苗への投資が縮小する、または効果が出ていないという報告が出る"
+      ],
+      "decision_link": "養殖案件で、飼料の置き換えと生残率の改善のどちらを提案の軸に置くか",
+      "stance": "支持する材料がかなり積み上がっている",
+      "shift": "今日の材料での動きはごくわずかです",
+      "on_air_count": 2
+    }
+  ],
+  "aired_items": [
+    {
+      "id": "69d730f71154",
+      "theme": "world_fisheries",
+      "headline": "ノルウェー8月の水産物輸出額、過去最高の160億クローネ",
+      "source_url": "https://www.salmonbusiness.com/norwegian-salmon-exports-hit-record-e1-14-billion-in-august/",
+      "source_title": "SalmonBusiness",
+      "from_stock": false
+    },
+    {
+      "id": "1df04ff01887",
+      "theme": "world_fisheries",
+      "headline": "中国向けエビ・ティラピア、規格により価格動向が分岐",
+      "source_url": "http://www.sanfengseafood.com/newss",
+      "source_title": "Sanfeng Seafood",
+      "from_stock": false
+    },
+    {
+      "id": "53a6e257914c",
+      "theme": "genai",
+      "headline": "Google、気象予測AI「WeatherNext 3」を発表",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      "source_title": "Google Blog",
+      "from_stock": false
+    },
+    {
+      "id": "38e9853686da",
+      "theme": "genai",
+      "headline": "Google、Gmail・ドキュメント等に音声操作機能を正式導入",
+      "source_url": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/",
+      "source_title": "Google Blog",
+      "from_stock": false
+    },
+    {
+      "id": "322cdc04d670",
+      "theme": "genai",
+      "headline": "xAI、常時稼働型エージェント「Grok Bot」を法人向け提供開始",
+      "source_url": "https://x.ai/news/grok-bot-for-enterprise",
+      "source_title": "xAI",
+      "from_stock": false
+    },
+    {
+      "id": "1b7e891f2138",
+      "theme": "education",
+      "headline": "ニューブランズウィック州、保育施設の画面利用を1日30分以下に制限",
+      "source_url": "https://www.gnb.ca/en/news/n-b.2026.08.government-introduces-measures-reduce-classroom-distractions.html",
+      "source_title": "New Brunswick州政府",
+      "from_stock": false
+    },
+    {
+      "id": "a50622545bbf",
+      "theme": "education",
+      "headline": "豪ビクトリア州、小学校のBYOD廃止と端末利用時間を制限",
+      "source_url": "https://www2.education.vic.gov.au/pal/digital-learning/guidance/student-use-of-digital-devices-and-tools",
+      "source_title": "ビクトリア州教育省",
+      "from_stock": false
+    },
+    {
+      "id": "dbd028de3017",
+      "theme": "education",
+      "headline": "香港、全校・全児童生徒対象のAIリテラシー教育資料を公表",
+      "source_url": "https://applications.edb.gov.hk/circular/upload/EDBC/EDBC26011E.pdf",
+      "source_title": "香港教育局",
+      "from_stock": false
+    }
+  ],
+  "sources": [
+    {
+      "segment": "世界の水産",
+      "title": "SalmonBusiness",
+      "url": "https://www.salmonbusiness.com/norwegian-salmon-exports-hit-record-e1-14-billion-in-august/"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "Sanfeng Seafood",
+      "url": "http://www.sanfengseafood.com/newss"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "Google Blog",
+      "url": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "xAI",
+      "url": "https://x.ai/news/grok-bot-for-enterprise"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "New Brunswick州政府",
+      "url": "https://www.gnb.ca/en/news/n-b.2026.08.government-introduces-measures-reduce-classroom-distractions.html"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "ビクトリア州教育省",
+      "url": "https://www2.education.vic.gov.au/pal/digital-learning/guidance/student-use-of-digital-devices-and-tools"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "香港教育局",
+      "url": "https://applications.edb.gov.hk/circular/upload/EDBC/EDBC26011E.pdf"
+    }
+  ]
+}

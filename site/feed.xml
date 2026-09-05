@@ -7,11 +7,21 @@
     <link>https://popo-sakana.github.io/morning-brief/</link>
     <description>水産・生成AI・教育の4テーマを毎朝30分で</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 Sep 2026 20:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:29:22 +0000</lastBuildDate>
     <itunes:author>popo</itunes:author>
     <itunes:summary>水産・生成AI・教育の4テーマを毎朝30分で</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+    <item>
+      <title>9月6日のブリーフ</title>
+      <description><![CDATA[・ノルウェー8月水産物輸出額は160億ノルウェークローネ<br>・9月3日、気象予測や音声操作などAI発表が相次ぐ<br>・保育・小学校で端末やAI利用の線引きが話題に]]></description>
+      <pubDate>Sun, 06 Sep 2026 05:12:42 +0900</pubDate>
+      <guid isPermaLink="false">260906_morningbrief_v1_AI</guid>
+      <enclosure url="https://github.com/popo-sakana/morning-brief/releases/download/260906_morningbrief_v1_AI/260906_morningbrief_v1_AI.mp3" length="4840323" type="audio/mpeg"/>
+      <itunes:duration>1159</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://popo-sakana.github.io/morning-brief/episodes/260906_morningbrief_v1_AI.html</link>
+    </item>
     <item>
       <title>9月5日のブリーフ</title>
       <description><![CDATA[・豊洲市場の動向を取り上げました<br>・メイン州の陸上養殖計画を地元紙が報道しています<br>・学校でのAI利用の線引き、国により進み方が違います]]></description>

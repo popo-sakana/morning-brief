@@ -2610,6 +2610,142 @@
    "aired": [
     "2026-09-05"
    ]
+  },
+  {
+   "id": "69d730f71154",
+   "theme": "world_fisheries",
+   "headline": "ノルウェー8月の水産物輸出額、過去最高の160億クローネ",
+   "detail": "ノルウェーの2026年8月の水産物輸出額は160億ノルウェークローネとなり、前年同月比14%増で8月として過去最高を記録した。うちサーモンは輸出量15万3602トン(前年同月比7%増)、輸出額123億クローネ(同19%増)。養殖水産物全体の輸出額は130億クローネで、水産物輸出額に占める養殖品の比率は81.4%だった。同期間(8月24〜30日)の生鮮サーモン輸出価格は1kg当たり71.87クローネで前週比2.2%低下、輸出量は3万487トンだった。米国向け追加関税12.5%が課される中でも輸出額は増加した。",
+   "numbers": [
+    "輸出額160億NOK(前年比14%増)",
+    "サーモン輸出額123億NOK(同19%増)",
+    "養殖品比率81.4%"
+   ],
+   "source_url": "https://www.salmonbusiness.com/norwegian-salmon-exports-hit-record-e1-14-billion-in-august/",
+   "source_title": "SalmonBusiness",
+   "published": "2026-09-01",
+   "importance": 3,
+   "first_seen": "2026-09-06",
+   "aired": [
+    "2026-09-06"
+   ]
+  },
+  {
+   "id": "1df04ff01887",
+   "theme": "world_fisheries",
+   "headline": "中国向けエビ・ティラピア、規格により価格動向が分岐",
+   "detail": "2026年第36週、中国向けエクアドル産バナメイエビは30〜40尾/kg規格のCFR提示価格が前週比0.10米ドル/kg上昇した一方、20〜30尾/kgの大型規格は横ばいだった。中国産ティラピアの500〜800g規格は加工場渡し価格が前週から横ばい。米国向け中国産ティラピア・フィレの関税負担は前年より低下したが、注文増には直結していないと報じられている。中国の水産物需要は品目・規格によって回復度合いが異なることが示された。",
+   "numbers": [
+    "エビ小型規格+0.10米ドル/kg",
+    "ティラピア500〜800g規格価格横ばい"
+   ],
+   "source_url": "http://www.sanfengseafood.com/newss",
+   "source_title": "Sanfeng Seafood",
+   "published": "2026-09-01",
+   "importance": 2,
+   "first_seen": "2026-09-06",
+   "aired": [
+    "2026-09-06"
+   ]
+  },
+  {
+   "id": "38e9853686da",
+   "theme": "genai",
+   "headline": "Google、Gmail・ドキュメント等に音声操作機能を正式導入",
+   "detail": "Googleは2026年9月3日、Gmail、Googleドキュメント、Google KeepにGemini Audioモデルを使った音声機能を正式導入したと発表した。音声で受信トレイの検索、文書の下書き作成、メモ記録などが可能になる。提供対象はGmail・KeepがGoogle AI Plus/Pro/Ultra加入者、ドキュメントはPro/Ultra加入者。法人向けWorkspaceへの提供は「近日予定」とされ具体的日付は未定。",
+   "numbers": [],
+   "source_url": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/",
+   "source_title": "Google Blog",
+   "published": "2026-09-03",
+   "importance": 2,
+   "first_seen": "2026-09-06",
+   "aired": [
+    "2026-09-06"
+   ]
+  },
+  {
+   "id": "322cdc04d670",
+   "theme": "genai",
+   "headline": "xAI、常時稼働型エージェント「Grok Bot」を法人向け提供開始",
+   "detail": "xAIは2026年9月3日、Grok Bot for Enterpriseの提供開始を発表した。単一セッションだけでなく継続的に稼働する法人向けエージェントで、固有のアイデンティティ、メモリ、実行環境、ツール、セッションをまたいだ継続性を持つとされる。GrokおよびCursor Enterpriseの既存顧客には2週間の無料利用が提供される。無料期間終了後の価格や対応地域は発表文からは確認できない。",
+   "numbers": [
+    "無料利用期間2週間"
+   ],
+   "source_url": "https://x.ai/news/grok-bot-for-enterprise",
+   "source_title": "xAI",
+   "published": "2026-09-03",
+   "importance": 2,
+   "first_seen": "2026-09-06",
+   "aired": [
+    "2026-09-06"
+   ]
+  },
+  {
+   "id": "53a6e257914c",
+   "theme": "genai",
+   "headline": "Google、気象予測AI「WeatherNext 3」を発表",
+   "detail": "Google DeepMindとGoogle Researchは2026年9月3日、気象予測AIモデルWeatherNext 3を発表した。リアルタイム衛星データの利用、1時間ごとの予測更新、高解像度化、降水量予測の改善などが特徴で、Google検索、Gemini、Googleマップ、Earth Engineなどへ統合される。独立評価機関Brightbandのリアルタイム評価に基づき最も正確な全球気象モデルだとGoogleは説明しているが、具体的な比較数値は公式発表内では確認できない。",
+   "numbers": [
+    "予測更新頻度1時間ごと"
+   ],
+   "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+   "source_title": "Google Blog",
+   "published": "2026-09-03",
+   "importance": 3,
+   "first_seen": "2026-09-06",
+   "aired": [
+    "2026-09-06"
+   ]
+  },
+  {
+   "id": "1b7e891f2138",
+   "theme": "education",
+   "headline": "ニューブランズウィック州、保育施設の画面利用を1日30分以下に制限",
+   "detail": "カナダ・ニューブランズウィック州は2026年8月、幼児教育・保育施設向けの新方針を発表した。認可保育施設での画面利用は1日30分以下とし、2歳未満は画面利用を認めない。利用は教育目的・年齢相応・教育者の指導下に限定され、食事中の画面利用は禁止。幼稚園から8年生では学校時間中の個人スマートフォン等の利用も禁止された。",
+   "numbers": [
+    "保育施設画面利用1日30分以下",
+    "2歳未満は画面利用なし"
+   ],
+   "source_url": "https://www.gnb.ca/en/news/n-b.2026.08.government-introduces-measures-reduce-classroom-distractions.html",
+   "source_title": "New Brunswick州政府",
+   "published": "2026-08-01",
+   "importance": 4,
+   "first_seen": "2026-09-06",
+   "aired": [
+    "2026-09-06"
+   ]
+  },
+  {
+   "id": "a50622545bbf",
+   "theme": "education",
+   "headline": "豪ビクトリア州、小学校のBYOD廃止と端末利用時間を制限",
+   "detail": "オーストラリア・ビクトリア州教育省は2027年からの新方針として、小学校(Foundation〜6年生)で家庭に端末購入・持参を求めることを禁止すると発表した。Foundation〜2年生はデジタル機器利用を最小限にし、3〜6年生は1日最大90分の利用設計を示している。初等教育ではデジタル機器を使う宿題を設定しないことを強く推奨し、読みの指導では紙の文章を標準とする方針も示された。",
+   "numbers": [
+    "3〜6年生デジタル機器利用上限1日90分"
+   ],
+   "source_url": "https://www2.education.vic.gov.au/pal/digital-learning/guidance/student-use-of-digital-devices-and-tools",
+   "source_title": "ビクトリア州教育省",
+   "published": "2026-07-01",
+   "importance": 2,
+   "first_seen": "2026-09-06",
+   "aired": [
+    "2026-09-06"
+   ]
+  },
+  {
+   "id": "dbd028de3017",
+   "theme": "education",
+   "headline": "香港、全校・全児童生徒対象のAIリテラシー教育資料を公表",
+   "detail": "香港教育局は2026年8月、デジタル教育のブループリントと併せて「小中学校AIリテラシー学習枠組み」と「小中学校の授業におけるAI利用ガイド」を学校に示した。各段階のAI学習重点、利用場面、AIリテラシーの評価に関する提案が含まれ、低年齢層の一律停止ではなく全校・全児童生徒にAIを教える方向を打ち出している。低年齢児童の生成AI自由利用の具体的範囲は資料の全内容確認が必要とされる。",
+   "numbers": [],
+   "source_url": "https://applications.edb.gov.hk/circular/upload/EDBC/EDBC26011E.pdf",
+   "source_title": "香港教育局",
+   "published": "2026-08-01",
+   "importance": 2,
+   "first_seen": "2026-09-06",
+   "aired": [
+    "2026-09-06"
+   ]
   }
  ]
 }

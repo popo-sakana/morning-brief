@@ -1,5 +1,44 @@
 [
   {
+    "id": "260906_morningbrief_v1_AI",
+    "title": "9月6日のブリーフ",
+    "published_at": "2026-09-06T05:12:42+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260906_morningbrief_v1_AI/260906_morningbrief_v1_AI.mp3",
+    "duration_sec": 1159,
+    "bytes": 4840323,
+    "summary": "・ノルウェー8月水産物輸出額は160億ノルウェークローネ<br>・9月3日、気象予測や音声操作などAI発表が相次ぐ<br>・保育・小学校で端末やAI利用の線引きが話題に",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 32.1
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 190.3
+      },
+      {
+        "section": "genai",
+        "start_sec": 476.2
+      },
+      {
+        "section": "education",
+        "start_sec": 743.5
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1082.4
+      },
+      {
+        "section": "closing",
+        "start_sec": 1147.9
+      }
+    ]
+  },
+  {
     "id": "260905_morningbrief_v1_AI",
     "title": "9月5日のブリーフ",
     "published_at": "2026-09-05T05:12:37+09:00",

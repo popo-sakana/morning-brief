@@ -1,0 +1,1631 @@
+{
+  "date": "2026-09-06T05:12:42+09:00",
+  "requests": "",
+  "segments": [
+    {
+      "id": "jp_fisheries",
+      "title": "日本の水産",
+      "body": "# 日本の水産業：直近1週間の重要ニュース  \n**対象期間：2026年8月29日～9月5日**  \n※海藻類、藻場、ブルーカーボンは除外しました。確認できた範囲では、今週は養殖よりも、マイワシなど天然魚の資源評価・漁場変化に関するニュースが目立ちました。\n\n## 1. 養殖魚\n\n### 1-1. 鹿児島県、ブリ養殖の管理を「いけす台数」から「飼育尾数」へ変更\n\n#### 何が起きたか\n鹿児島県が、魚類養殖の指導指針を改正し、ブリ養殖について従来の「いけすの台数」に基づく管理から、「養殖する魚の尾数」に基づく管理へ変更しました。改正は**2026年4月**に実施されたと報じられています。\n\n背景には、海水温の上昇、養殖技術の進歩、いけすの大型化などがあります。魚の密度を抑える「薄飼い」を前提に、同じいけす数でも飼育尾数を適切に管理し、増産余地を確保する考えです。\n\n#### 数字\n- 鹿児島県は国内最大の魚類養殖県。\n- 同県の養殖ブリ生産量は、**2022年時点で全国シェア約25％**。\n- 長島海域では、年間約**230万尾**、約**1万トン**を生産しているとする水産庁資料があります。\n- 今回の報道では、制度変更後の県全体の増産量について、具体的な数値は確認できませんでした。\n\n#### なぜ重要か\nブリ養殖では、海水温上昇や赤潮などによる斃死リスクを抑えながら、飼料効率と生産量を両立できるかが重要です。台数規制から尾数規制への変更は、いけすの大型化や低密度養殖に対応しやすくする制度面の転換です。\n\n**確認できた事実**：管理方式が変更されたこと、鹿児島県が最大の魚類養殖県であること。  \n**記事が示す見通し**：薄飼いによって、生産の安定化と増産の両立が可能になるとの見方。実際の増産効果は、今後の生産実績を確認する必要があります。\n\n根拠URL：  \n- https://www.suikei.co.jp/cat/news/aquaculture  \n- https://www.jfa.maff.go.jp/j/seibi/attach/pdf/240712-20.pdf  \n\n---\n\n### 1-2. 水産研究・教育機構、高成長ブリ種苗の量産化・社会実装を紹介\n\n#### 何が起きたか\n水産研究・教育機構が、**2026年8月19日**に開催された「ジャパン・インターナショナル・シーフードショー」の特別セミナーで、高成長ブリ種苗を活用した次世代養殖システムを紹介しました。\n\nゲノム情報などを利用して成長の良い個体を選抜し、高成長系統の種苗を養殖現場へ供給する取り組みです。\n\n#### 数字\n- セミナー開催日：**2026年8月19日**\n- 国が掲げる養殖ブリ類の生産目標に関連した取り組み。\n- 報道ページでは、今回のセミナーで示された高成長種苗の成長倍率や量産尾数などの詳細は会員限定部分に含まれており、具体的な数値は確認できませんでした。\n- 別の水産研究・教育機構資料では、ブリ優良人工種苗について、第2世代までの成長評価を実施しています。\n\n#### なぜ重要か\nブリ養殖では、飼料費、養殖期間、魚病・高水温リスクが経営を左右します。高成長種苗により出荷までの期間を短縮できれば、飼料費や設備利用期間を減らせる可能性があります。\n\nただし、今回確認できた資料だけでは、実際の成長改善率、量産規模、民間養殖業者への供給開始時期は確認できません。\n\n**確認できた事実**：高成長ブリ種苗の量産化・社会実装に向けた研究成果が、2026年8月のセミナーで紹介されたこと。  \n**記事が示す見通し**：高成長種苗を養殖現場へ広げることで、ブリ養殖の生産性向上を目指すこと。\n\n根拠URL：  \n- https://www.suikei.co.jp/archives/126117  \n- https://www.fra.go.jp/jamarc/work/gaiyo/files/05_r06_buri.pdf  \n- https://www.suikei.co.jp/archives/121952  \n\n---\n\n## 2. 天然魚\n\n### 2-1. マイワシの資源評価、太平洋系群のABCが大幅減少\n\n#### 何が起きたか\n水産庁が**2026年9月2日**、水産研究・教育機構などがまとめた**2026年度の資源評価結果**を公表しました。\n\nマイワシでは、これまで資源量・漁獲量で優位だった太平洋系群と、対馬暖流系群の位置関係が変化し、「資源の西高東低」へ転換したと報じられています。\n\n#### 数字\n- 太平洋系群のABCは、前年から**75％減**と報じられています。\n- 北海道東部太平洋沖のマイワシ漁は、**2026年6月の解禁後、9月初めまで水揚げゼロ**が続いています。\n- ABCの絶対量、資源量の推定値、前年のABC数量については、今回確認できた公開記事の範囲では確認できませんでした。\n\n#### なぜ重要か\nマイワシは、食用だけでなく、魚粉・魚油、養殖飼料の原料としても重要です。太平洋側での資源減少と漁場縮小が続けば、漁業者の水揚げ減少だけでなく、加工業者や養殖飼料の原料調達にも影響する可能性があります。\n\n北海道東部で水揚げがゼロとなっていることから、単なる一時的な魚価変動ではなく、漁場の形成位置や回遊経路が変わっている可能性が示されています。\n\n**確認できた事実**：太平洋系群のABCが75％減となったこと、北海道東部で水揚げゼロが続いていること。  \n**記事・専門家の見方**：資源量減少に伴い分布・回遊範囲が縮小し、「北から獲れなくなってきている」との見方。今後の漁場形成は、海況や資源状態に左右されるため、見通しは不確実です。\n\n根拠URL：  \n- https://www.suikei.co.jp/cat/news/fishery  \n- https://www.suikei.co.jp/cat/news/fishery  \n- https://www.suikei.co.jp/tag/iwashi  \n\n---\n\n### 2-2. サンマ漁、低調なスタートで前年同期比59.1％減\n\n#### 何が起きたか\nサンマ棒受網漁の**2026年8月25日まで**の累計水揚量が公表され、前年同期を大きく下回りました。漁場形成が十分でなく、価格も高い状況です。\n\nこの情報は8月28日付の記事ですが、直近1週間の市場・漁業動向を把握するうえで重要な継続ニュースとして記載します。\n\n#### 数字\n- 累計水揚量：**836.4トン（2026年8月25日まで）**\n- 前年同期：**2,048.6トン**\n- 前年同期比：**59.1％減**\n- 魚体：前年並みの大きさ\n- 札幌市場の卸売価格：前年の**約2倍**\n\n#### なぜ重要か\nサンマは秋の重要な大衆魚ですが、水揚げが少ないと、産地市場だけでなく、加工・小売価格にも影響します。魚体は前年並みでも、数量不足によって価格が高止まりしている点が重要です。\n\n**確認できた事実**：8月25日までの水揚げが前年同期を59.1％下回り、価格が前年の約2倍となったこと。  \n**記事が示す見通し**：今後の漁場形成次第で水揚げが変化する可能性はありますが、資源低迷のため、安定的な豊漁を見込める状況とは確認できません。\n\n根拠URL：  \n- https://www.suikei.co.jp/archives/126711  \n\n---\n\n### 2-3. 北海道で秋サケ定置網漁が解禁\n\n#### 何が起きたか\n北海道の日高地区で、秋サケ定置網漁が**2026年9月1日**に始まりました。\n\n#### 数字\n今回確認できた記事では、解禁初日の水揚げ数量や前年同期比は確認できませんでした。  \n北海道全体の2026年秋サケ来遊予測については、別資料で**365万尾**とされ、前年の**686万尾**の**53.1％**にとどまる予測が示されています。ただし、この予測は直近1週間より前に公表されたものです。\n\n#### なぜ重要か\n秋サケは北海道の漁業者、加工業者、地域経済にとって重要な魚種です。来遊予測が低いなかで漁期が始まったため、実際の回帰状況、水揚げ、魚価が漁業経営を左右します。\n\n**確認できた事実**：9月1日に日高地区で漁が始まったこと。  \n**見通し**：来遊予測は前年を大きく下回っており、漁獲量の低迷が懸念されています。ただし、今週の実績数量は確認できませんでした。\n\n根拠URL：  \n- https://www.suikei.co.jp/archives/126117  \n- https://uomedia.jp/articles/weekly-seafood-news-20260809  \n\n---\n\n## 3. その他：水産政策・予算\n\n### 3-1. 水産庁、2027年度水産関係予算で4,200億円超を要求する見込み\n\n#### 何が起きたか\n水産庁が、**2027年度水産関係予算**の概算要求で、4,200億円を超える規模を求める見込みと報じられました。\n\n重点分野として、陸上養殖、資源評価、経営基盤強化、漁業収入安定対策などが挙げられています。\n\n#### 数字\n- 金額が固まった項目：**3,200億円超**\n- 金額未定の「事項要求」：**1,000億円超の見込み**\n- 概算要求総額：**4,200億円超の見込み**\n- 2026年度当初予算：**1,876億円**\n- 2025年度補正予算：**1,398億円**\n- 2026年度当初予算と2025年度補正の合計：**3,274億円**\n\n#### なぜ重要か\n水産業では、資源変動、高水温、燃油・飼料価格、漁港・養殖施設の老朽化が同時に進んでいます。陸上養殖や資源評価への予算拡大は、養殖の生産安定化と天然魚の資源管理を政策面から支えるものです。\n\nただし、概算要求は予算案の前段階であり、最終的な政府予算額や事業別配分は決まっていません。\n\n**確認できた事実**：4,200億円超の概算要求となる見込み、陸上養殖・資源評価・経営安定対策などが重点分野であること。  \n**見通し**：養殖・資源管理への支援が厚くなる可能性がありますが、最終額は確認できていません。\n\n根拠URL：  \n- https://marinemanager.njc.co.jp/magazine/minato-20260825/  \n- https://www.suikei.co.jp/cat/news/fishery  \n- https://www.jfa.maff.go.jp/j/budget/index.html  \n\n---\n\n# 指標の最新値\n\n## 1. 養殖・種苗・育種の成果\n\n### 最新の確認結果\n**高成長ブリ種苗の量産化・社会実装に向けた研究成果が、2026年8月19日の水産研究・教育機構セミナーで紹介された**ことを確認しました。\n\n一方、公開部分では、以下の具体的な最新値は確認できませんでした。\n\n- 高成長ブリの通常種苗に対する成長倍率：**確認できず**\n- 量産した種苗の尾数：**確認できず**\n- 高成長種苗の出荷開始時期：**確認できず**\n- 実際の養殖経営体での飼料費削減率：**確認できず**\n\n参考として、2026年1月公表の資料では、ブリの人工種苗比率は**約2割**とされ、人工種苗の周年供給や高成長系統の作出が進められています。\n\nまた、2026年2月に公表されたサバの研究成果では、日長・水温調整により、雄は**5か月**、雌は**8か月**で成熟させる技術が示されています。これはブリではなくサバの成果です。\n\n根拠URL：  \n- https://www.suikei.co.jp/archives/126117  \n- https://jaffic.go.jp/whats_kikin/kouhou/kikin_now_2026_01.files/kikin_now_2026_01_09.pdf  \n- https://www.jst.go.jp/pr/jst-news/backnumber/2025/202602/pdf/2026_02_p8-11.pdf  \n\n---\n\n## 2. 養殖の斃死率・生残率データ\n\n### 最新の確認結果\n全国の養殖現場について、魚種別・年次別に比較できる**最新の斃死率または生残率の統計値は確認できませんでした**。\n\n確認できた具体的な研究データは、カンパチ種苗生産に関するものです。\n\n- 従来の種苗生産中の生残率：**0～5％**\n- 通常期の卵から生産した種苗の生残率：約**16％**\n- 早期採卵の卵から生産した種苗の生残率：約**12％**\n- 事業期間：**2006～2009年度**\n- 早期種苗の養殖期間：**1～1.5年**\n- 輸入種苗の養殖期間：**1.5～2年**\n\nこれらは古い研究成果であり、**2026年時点の全国的な養殖斃死率を示すデータではありません**。\n\n魚種別の恒常的な生残率、例えばブリ・マダイ・クロマグロ・サーモンの年間斃死率については、公開された統一統計としては確認できませんでした。\n\n根拠URL：  \n- https://www.fra.go.jp/home/kenkyushokai/book/franews/files/fnews24.pdf  \n\n---\n\n## 3. ぶり・かんぱちの輸出実績\n\n### ぶり\n\n農林水産省が公表した**2026年1～6月**の農林水産物・食品輸出実績では、ぶりの輸出額が前年同期を大きく上回りました。\n\n- ぶり輸出額の前年同期比：**69.0％増**\n- 前年同期からの増加額：約**178億円**\n- 期間：**2026年1～6月**\n- ぶりは上半期として過去最高の輸出額を更新した品目の一つ\n\nただし、今回確認できた情報では、ぶり単独の2026年上半期輸出額そのものは確認できませんでした。\n\n#### 重要性\n米国、韓国などでぶり需要が伸び、農林水産物全体の輸出増加を押し上げました。養殖ブリにとっては、国内需要だけでなく輸出市場が生産拡大・高付加価値化の受け皿になっていることを示します。\n\n根拠URL：  \n- https://www.maff.go.jp/j/shokusan/export/e_info/zisseki.html  \n- https://www.jetro.go.jp/biznews/2026/08/e47598ab3d93df2e.html  \n- https://f-weeklyweb.com/topics20260804-5/  \n\n### かんぱち\n\n- 2026年1～6月の輸出額・輸出量：**確認できず**\n- かんぱち単独の最新の年間輸出実績：**確認できず**\n\n農林水産物全体やぶりの輸出実績は確認できましたが、公開された2026年上半期の概要資料では、かんぱちをぶりと分けた最新値を確認できませんでした。\n\n根拠URL：  \n- https://www.maff.go.jp/j/shokusan/export/e_info/zisseki.html",
+      "sources": [
+        {
+          "url": "https://www.suikei.co.jp/cat/news/aquaculture",
+          "title": "養殖"
+        },
+        {
+          "url": "https://suisan-navi.jp/uncategorized/news-2026-week32/",
+          "title": "今週の水産業界ニュースまとめ【8/3〜8/9】 | 水産ナビ"
+        },
+        {
+          "url": "https://prtimes.jp/topics/keywords/%E9%A4%8A%E6%AE%96",
+          "title": "「養殖」に関するプレスリリース一覧"
+        },
+        {
+          "url": "https://www.suikei.co.jp/archives/126117",
+          "title": "次世代養殖を社会へ実装、高成長ブリ種苗で量産化 水研機構 ..."
+        },
+        {
+          "url": "https://www.suikei.co.jp/archives/127029",
+          "title": "陸上養殖、水福連携を提案 水政審企画部会 26年度白書 ..."
+        },
+        {
+          "url": "https://suisan.jp/c/main02",
+          "title": "北海道 - 水産新聞"
+        },
+        {
+          "url": "https://uomedia.jp/articles/weekly-seafood-news-20260809",
+          "title": "【週刊水産ニュース】熊本地震で陸上養殖サーモン20万匹死ぬ ..."
+        },
+        {
+          "url": "https://www.fra.go.jp/shigen/newslist.html",
+          "title": "新着一覧 | 国立研究開発法人 水産研究・教育機構"
+        },
+        {
+          "url": "https://news.livedoor.com/topics/detail/32195712/",
+          "title": "陸上養殖の小規模設備を開発 平塚のベンチャー企業 (2026年8月30日掲載) - ライブドアニュース"
+        },
+        {
+          "url": "https://news.livedoor.com/topics/detail/32129139/",
+          "title": "｢魚がとれない…｣ 立ち上がった漁師の妻 たった1人でクルマエビ養殖を 大手ゼネコンが協力し全国初の大アサリ養殖も 愛知･篠島 (2026年8月22日掲載)"
+        },
+        {
+          "url": "https://www.fra.go.jp/newslist_all.html",
+          "title": "新着一覧（すべて） | 国立研究開発法人 水産研究・教育機構"
+        },
+        {
+          "url": "https://www.suikei.co.jp/archives/126515",
+          "title": "シーフードショーセミナー ピュアサーモンが次世代の養殖 ..."
+        },
+        {
+          "url": "https://www.jfa.maff.go.jp/j/suisin/attach/pdf/index-799.pdf",
+          "title": "漁獲可能量（ＴＡＣ）と採捕実績の推移（単位：トン）"
+        },
+        {
+          "url": "https://kokushi.fra.go.jp/R07/R07_a002.pdf",
+          "title": "国際漁業資源の現況（総括表）－1－"
+        },
+        {
+          "url": "https://www.jafic.or.jp/business/eez/tac/",
+          "title": "TAC採捕実績"
+        },
+        {
+          "url": "https://www.suikei.co.jp/tag/shigenkanri",
+          "title": "資源管理 - 日刊水産経済新聞"
+        },
+        {
+          "url": "https://www.jimin.jp/policy/jfile/detail_369.html",
+          "title": "資源管理による水産物の安定供給の確保 | Jファイル2026"
+        },
+        {
+          "url": "https://www.wwf.or.jp/activities/activity/6304.html",
+          "title": "北太平洋漁業委員会2026結果報告 事前合意済みのサンマ ..."
+        },
+        {
+          "url": "https://www.komei.or.jp/komeinews/p505708/",
+          "title": "スルメイカ漁獲枠、26年度は6万8400トンに | ニュース - 公明党"
+        },
+        {
+          "url": "https://www.jafic.or.jp/business/eez/tac/.assets/%E9%9B%86%E8%A8%88R05%E5%B9%B4%E7%A2%BA%E5%AE%9A9%E6%9C%88.pdf",
+          "title": "特定水産資源の漁獲量 （令和5年9月 ..."
+        },
+        {
+          "url": "https://www.suikei.co.jp/cat/seafood/aozakana",
+          "title": "青魚 - 日刊水産経済新聞"
+        },
+        {
+          "url": "https://nagatomo-international.jp/saury-catch-quota/",
+          "title": "サンマの漁獲枠はどう決まる？日本漁業への影響"
+        },
+        {
+          "url": "https://www.jafic.or.jp/business/eez/tac/72025/",
+          "title": "令和7年の状況（2025年） | 一般社団法人漁業情報サービスセンター"
+        },
+        {
+          "url": "https://news.yahoo.co.jp/articles/af7ec0c2766b4b6cb5470dec17d5acddd1a52ea5",
+          "title": "スルメイカ漁 2026年度大幅増枠へ TAC（漁獲可能量）6万8400t承認／青森県（ABA青森朝日放送）"
+        },
+        {
+          "url": "https://www.jst.go.jp/pr/jst-news/backnumber/2025/202602/pdf/2026_02_p8-11.pdf",
+          "title": "JSTnews 2026年2月号"
+        },
+        {
+          "url": "https://www.kindai.ac.jp/news-pr/news-release/2026/02/049322.html",
+          "title": "世界初！近畿大学がノドグロの完全養殖に成功 養殖用種苗生産技術 ..."
+        },
+        {
+          "url": "https://www.projectdesign.jp/articles/news/f74ed1ba-18e8-421b-8a08-40436ee34295",
+          "title": "農林水産物・食品の輸出額、上半期2年連続の過去最高 8,977億円で ..."
+        },
+        {
+          "url": "https://tc.keguanjp.com/kgjp_keji/kgjp_kj_nlmy/pt20260305000014.html",
+          "title": "首次整合「飼料」「魚苗」「場地」三方成果，以日本獨創的養殖 ..."
+        },
+        {
+          "url": "https://f-weeklyweb.com/topics20260804-5/",
+          "title": "農林水産物・食品輸出、上半期最高更新 8977億円で前年比 ..."
+        },
+        {
+          "url": "https://jaffic.go.jp/whats_kikin/kouhou/kikin_now_2026_01.files/kikin_now_2026_01_09.pdf",
+          "title": "養殖業成長産業化に向けて"
+        },
+        {
+          "url": "https://www.kenko-media.com/food_devlp/12186/",
+          "title": "2026年1-6月（上半期）の農林水産物・食品の輸出実績、過去最高を ..."
+        },
+        {
+          "url": "https://www.naro.go.jp/publicity_report/publication/laboratory/ncss/news/2026/index.html",
+          "title": "種苗管理センターニュース: 2026年 - 農研機構"
+        },
+        {
+          "url": "https://www.fra.go.jp/home/kenkyushokai/book/franews/files/fnews24.pdf",
+          "title": "養殖研究最前線"
+        },
+        {
+          "url": "https://www.customs.go.jp/nagasaki/toukei/R08.03_tokusyu_2.pdf",
+          "title": "[PDF] 鹿児島県での「魚介類及び同調製品」の輸出状況 - 税関"
+        },
+        {
+          "url": "https://note.com/fir_institute/n/n315a527576bb",
+          "title": "2026年1-6月（上半期）の農林水産物・食品の輸出実績"
+        },
+        {
+          "url": "https://note.com/deft_murre8086/n/n886d69414633",
+          "title": "上半期8,977億円・2年連続過去最高——緑茶83%増・ブリ69%増が牽引する農林水産物輸出の「伸びているもの・止まっているもの」と、農業関係者が今すぐ確認すべき輸出活用の3ポイント｜現役JA職員｜農業情報まとめ"
+        },
+        {
+          "url": "https://www.suikei.co.jp/cat/news/fishery",
+          "title": "漁業"
+        },
+        {
+          "url": "https://www.suikei.co.jp/tag/iwashi",
+          "title": "イワシ類"
+        },
+        {
+          "url": "https://www.suikei.co.jp/cat/news/distribution",
+          "title": "流通 - 日刊水産経済新聞"
+        },
+        {
+          "url": "https://www.suikei.co.jp/tag/hokkaido",
+          "title": "北海道"
+        },
+        {
+          "url": "https://www.suikei.co.jp/cat/news/policy",
+          "title": "政策"
+        },
+        {
+          "url": "https://www.suikei.co.jp/suikei-selection-news?suikei-selection_id=17",
+          "title": "上半期重大ニュース2026"
+        },
+        {
+          "url": "https://www.suikei.co.jp/cat/statistics/markets",
+          "title": "市場"
+        },
+        {
+          "url": "https://www.suikei.co.jp/cat/news/abroad",
+          "title": "海外"
+        },
+        {
+          "url": "https://www.suikei.co.jp/",
+          "title": "日刊水産経済新聞 : 漁業・水産業のニュースサイト"
+        },
+        {
+          "url": "https://www.suikei.co.jp/archives/123416",
+          "title": "太平洋マイワシ、大幅減 サバに続き見通し暗く 8～12月予報 ..."
+        },
+        {
+          "url": "https://www.suikei.co.jp/single?news_code=OK0000026081701101_05&feature_id=437",
+          "title": "尾鷲物産 養殖ブリの豊富な製品展開 子会社と連携した供給体制"
+        },
+        {
+          "url": "https://www.suikei.co.jp/tag/kyushu",
+          "title": "九州"
+        },
+        {
+          "url": "https://www.suikei.co.jp/single?news_code=OK0000024090400201_01&serialization_id=497",
+          "title": "＜日本の養殖を拓く＞5 ブリ人工種苗、育種に取組み 愛媛 ..."
+        },
+        {
+          "url": "https://www.naro.go.jp/laboratory/brain/h27kakushin/chiiki/research/files/subject7_2nd_02.pdf",
+          "title": "ICTを活用した効率的な養殖管理システム導入によるブリ養殖の品質向上と経営改善の実証研究"
+        },
+        {
+          "url": "http://www.fpo.jf-net.ne.jp/gyoumu/hojyojigyo/01kozo/kensho_file/49(72)_azumacho_buriyoshoku_mid_3_new.pdf",
+          "title": "鹿児島県魚類養殖業地域プロジェクト（ブリ養殖業）"
+        },
+        {
+          "url": "https://www.pref.kagoshima.jp/af05/suisan/saibaiyousyoku/gyoruiyoshoku_kyogikai.html",
+          "title": "鹿児島県魚類養殖協議会"
+        },
+        {
+          "url": "http://www.fpo.jf-net.ne.jp/gyoumu/hojyojigyo/01kozo/kensho_file/49(72)azumatyouburiyousyoku_finish_5_rev1.pdf",
+          "title": "49(72)_q:Öê\nŒ_˝<Pœ1Jø_5˜ﬁ.xlsx"
+        },
+        {
+          "url": "https://smart-suisan.jp/information/1052/",
+          "title": "鹿児島県長島のマダイ養殖とAI自動給餌機 - スマート水産業ナビ"
+        },
+        {
+          "url": "https://www.jfa.maff.go.jp/j/seibi/attach/pdf/240712-20.pdf",
+          "title": "令和６年11月"
+        },
+        {
+          "url": "https://www.suikei.co.jp/tag/saury",
+          "title": "サンマ"
+        },
+        {
+          "url": "https://www.suikei.co.jp/archives/126711",
+          "title": "棒受サンマ漁低調、59％減 25日現在、魚体は前年同様大きめ"
+        },
+        {
+          "url": "https://www.sankei.com/article/20231108-QGGFQ3EOERKN5CFGMZN6G2CIFU/",
+          "title": "サンマ水揚げが昨年比４０％増 ８～１０月、沿岸に漁場形成"
+        },
+        {
+          "url": "https://news.web.nhk/newsweb/na/na-k10015026461000",
+          "title": "サンマ 去年の水揚げ 前年の1.6倍 業界団体“依然低い水準”"
+        },
+        {
+          "url": "https://news.yahoo.co.jp/articles/47f999e4b4e3f7f047ac058cc1cdd73b3258c10c",
+          "title": "サンマ・スルメイカ豊漁の謎…「黒潮大蛇行」終息が影響か、カツオやホタテは水揚げ減少（読売新聞オンライン） - Yahoo!ニュース"
+        },
+        {
+          "url": "https://www.suikei.co.jp/single?news_code=OK0000026072100301_01&feature_id=423",
+          "title": "昨年は大型サンマ人気 今年度も意気込み強く 全国から約120 ..."
+        },
+        {
+          "url": "https://www.suikei.co.jp/archives/70284",
+          "title": "9月サンマ漁、漁獲量は前年比2．4倍 魚体の小型化進む"
+        },
+        {
+          "url": "https://tohkaishimpo.com/2026/07/31/525003/",
+          "title": "来遊量など昨年下回る予測 8～12月のサンマ長期漁海況予報 ..."
+        },
+        {
+          "url": "https://newsdig.tbs.co.jp/articles/-/2893258",
+          "title": "秋の味覚「サンマ」に異変？　不漁に'小型化'も…価格は去年の約2倍に【Nスタ解説】"
+        },
+        {
+          "url": "https://news.yahoo.co.jp/articles/ae118c808678f58fcd775b8999fd25638e3f63a8",
+          "title": "サンマ豊漁、水揚げ昨年比2倍超　大ぶり価格3割安、取れ過ぎ休止（共同通信） - Yahoo!ニュース"
+        },
+        {
+          "url": "https://qbei.isotop.jp/archives/8698",
+          "title": "サンマが1匹4000円で高騰、価格相場は9月以降に注目"
+        },
+        {
+          "url": "https://www.jetro.go.jp/biznews/2026/08/e47598ab3d93df2e.html",
+          "title": "上半期の農林水産物・食品輸出額は過去最高 ..."
+        },
+        {
+          "url": "https://news.yahoo.co.jp/articles/0c02fa0a3202a3cf85060f2276bc36c495561d67",
+          "title": "農産物26年上半期の輸出額最高 2年連続で更新、8977億円（共同通信）"
+        },
+        {
+          "url": "https://www.maff.go.jp/j/shokusan/export/e_info/zisseki.html",
+          "title": "農林水産物・食品の輸出に関する統計情報"
+        },
+        {
+          "url": "https://www.nippon.com/ja/news/yjj2026080400501/",
+          "title": "食品輸出、１０．９％増＝過去最高、緑茶やブリがけん引―２６年上期"
+        },
+        {
+          "url": "https://www.fnn.jp/articles/-/1088170?display=full",
+          "title": "農林水産物の輸出額が上半期で過去最高8977億円 「緑茶」 ..."
+        },
+        {
+          "url": "https://news.tv-asahi.co.jp/news_economy/articles/000523934.html",
+          "title": "農林水産物・食品輸出額 2期連続過去最高 2026年上半期"
+        },
+        {
+          "url": "https://news.livedoor.com/article/detail/32162016/",
+          "title": "【 農林水産省 】農産物輸出額は8977億円 上半期最高も政府目標と乖離"
+        },
+        {
+          "url": "https://www.maff.go.jp/j/tokei/kouhyou/kokusai/",
+          "title": "農林水産物輸出入情報・概況"
+        },
+        {
+          "url": "https://agora-web.jp/archives/260823124805.html",
+          "title": "日本の農業を本当に輸出で稼ぐ農業にするには"
+        },
+        {
+          "url": "https://marinemanager.njc.co.jp/magazine/minato-20260825/",
+          "title": "【みなと新聞】水産予算4200億円超要求へ 27年度 陸上 ..."
+        },
+        {
+          "url": "https://www.jfa.maff.go.jp/j/budget/index.html",
+          "title": "水産予算・決算の概要 - 水産庁"
+        },
+        {
+          "url": "https://www.jfa.maff.go.jp/j/gyoko_gyozyo/g_yosan/index.html",
+          "title": "予算"
+        },
+        {
+          "url": "https://news.infoseek.co.jp/article/jiji_2026082701046/",
+          "title": "農水省、３．１兆円要求へ＝消費減税対応は金額示さず―２７年度予算｜Infoseekニュース"
+        },
+        {
+          "url": "https://news.infoseek.co.jp/article/kyodo_1465197946054901809/",
+          "title": "農水省、概算要求3兆円 消費税対策費は金額示さず｜Infoseekニュース"
+        },
+        {
+          "url": "https://www.maff.go.jp/j/press/kanbo/yosan/260831.html",
+          "title": "令和9年度農林水産予算概算要求について"
+        },
+        {
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776426&pWise=sub&pWiseSub=C5",
+          "title": "'바다에서 여는 대한민국의 새로운 성장' 2027년 해수부 정부 예산안 ..."
+        },
+        {
+          "url": "https://www.agrinews.co.jp/opinion/index/403985",
+          "title": "［論説］農林予算の概算要求 支援策の具体化を急げ"
+        },
+        {
+          "url": "https://webun.jp/articles/-/1080727",
+          "title": "農水省、概算要求３兆円"
+        },
+        {
+          "url": "https://note.com/theruleofoceans/n/n97688499fbe5",
+          "title": "令和9年度農林水産予算概算要求について｜海のイドバタ会議"
+        },
+        {
+          "url": "https://www.jfa.maff.go.jp/j/saibai/yousyoku/attach/pdf/seityou_19-68.pdf",
+          "title": "水産分野における優良系統の保護等に関する検討会について"
+        },
+        {
+          "url": "https://www.jfa.maff.go.jp/j/saibai/yousyoku/attach/pdf/yuuryou-6.pdf",
+          "title": "水産動物における優良系統の作出の現状"
+        },
+        {
+          "url": "https://www.fra.go.jp/jamarc/work/gaiyo/files/05_r06_buri.pdf",
+          "title": "令和 6 年度海洋水産資源開発事業（速報） （ブリ優良人工種苗 ..."
+        },
+        {
+          "url": "https://www.fra.go.jp/home/kenkyushokai/press/pr2026/20260520_press_unagi.html",
+          "title": "2026(R08). 5.20 完全養殖ウナギ蒲焼の試験販売"
+        },
+        {
+          "url": "https://www.suikei.co.jp/archives/121952",
+          "title": "ゲノム解析で高成長ブリ系群予測システム構築 内閣府ＳＩＰ３ | 日刊水産経済新聞"
+        },
+        {
+          "url": "https://www.pref.ehime.jp/uploaded/attachment/144168.pdf",
+          "title": "[PDF] ブリ迅速育種技術開発試験"
+        },
+        {
+          "url": "https://news.livedoor.com/article/detail/31325566/",
+          "title": "9,720円の2尾ギフト、5月29日試験販売！ 山田水産「山田のうなぎ完全養鰻」 - ライブドアニュース"
+        },
+        {
+          "url": "https://www.naro.go.jp/laboratory/brain/h27kakushin/sendo/result/files/sendo_2020_result-s26.pdf",
+          "title": "水産物の国際競争に打ち勝つ横断的育種技術と新発想飼料の開発"
+        }
+      ],
+      "cost_usd": 0.06188,
+      "error": null
+    },
+    {
+      "id": "world_fisheries",
+      "title": "世界の水産",
+      "body": "# 世界の水産養殖・水産物消費：直近1週間の重要ニュース  \n**調査対象期間：2026年8月29日～9月5日**  \n**基準日：2026年9月5日**\n\n## 1. ぶり類（Seriola属）：日本の輸出が大幅増\n\n### 確認できた事実\n日本の財務省貿易統計をもとにした報道によると、**2026年7月の日本産ぶり輸出は2,727トン**で、前年同月比**45％増**となった。輸出金額は前年同月比**68％増**だったが、金額の絶対値は確認できなかった。\n\n日本の水産物全体では、2026年7月の輸出量が**38,597トン**、前年同月比**35％減**だった一方、輸出額は**305億3,200万円**、前年同月比**15％増**だった。品目によって数量減・単価上昇が進むなか、ぶりは数量・金額ともに増加した品目とされる。\n\n### 見通し・記事の示唆\nぶり輸出については、数量増に加えて金額の伸びが数量を上回っており、**海外市場での単価上昇、または高付加価値品・加工品へのシフトがあった可能性**を示す。ただし、仕向け国、平均輸出単価、養殖ぶりと天然ぶりの内訳は、今回確認できた資料では確認できず、要因を断定できない。\n\n**根拠URL：**  \n- https://www.seafoodnews.com/Story/1353089/Japans-July-Seafood-Export-Volume-Fell-35-percent-Value-Rose-15-percent-as-Yellowtail-Jumped-and-Scallops-Slid  \n- https://www.reuters.com/world/asia-pacific/japans-h1-food-exports-reach-record-high-fuelled-by-green-tea-yellowtail-2026-08-04/\n\n---\n\n## 2. ぶり類：スペインで陸上型のカンパチ商業生産が開始\n\n### 確認できた事実\nスペイン・アリカンテの**Alicante Aquaculture**は、陸上の循環式養殖システム（RAS）で、**カンパチ（greater amberjack、学名：*Seriola dumerili*）の商業規模生産を開始**したと報じられている。\n\n施設の概要は以下のとおり。\n\n- 場所：スペイン・アリカンテ港\n- 養殖方式：陸上RAS\n- 対象魚種：カンパチ（*Seriola dumerili*）\n- 施設面積：約**7,200平方メートル**\n- 投資額：約**1,500万ユーロ**\n- 初期生産能力：年間**600トン**\n- 飼育槽：4基\n- 飼育水量：約**6,500立方メートル**\n- 飼育能力：約**20万尾**\n- 海水の1日排出量：約**5％**\n- 太陽光発電による電力供給：約**55～60％**と企業が説明\n\n現在の実生産量、設備稼働率、販売量は確認できなかった。\n\n同社は、将来的に生産能力を年間**900トン**へ拡大する計画を示している。また、ぶり・ヒラマサ系に近い**イエローテール・アンバージャック（yellowtail amberjack、*Seriola lalandi*）**の陸上養殖許可も申請中だが、現時点の主力はカンパチである。\n\n### 見通し・記事の示唆\n同社は、レストランや専門仲介業者向けに、約**3キログラム**サイズの鮮魚を、約1年の養殖期間で出荷する構想を示している。販売先候補として、スペイン、イタリア、フランス、中東、日本、米国を挙げている。\n\nただし、年間600トンは**施設能力**であり、実際の商業生産量ではない。年間900トンへの拡張、自社ふ化場の建設、*Seriola lalandi*の生産はいずれも計画・申請段階で、完了は確認できず。\n\n今回の直近1週間に確認できたぶり類の材料としては、**「海面生け簀中心だった高付加価値魚種を、欧州で陸上RASに移す動き」**が最も重要である。\n\n**根拠URL：**  \n- https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/\n\n---\n\n## 3. 陸上養殖：ノルディック・アクアが中国でサーモン商業収穫を拡大\n\n### 確認できた事実\n中国で陸上RASを運営する**Nordic Aqua Partners**は、2026年第2四半期に、初めて**1,000トン超**のアトランティックサーモンを収穫したと報じられた。平均魚体重は**4キログラム超**で、ノルウェー産サーモンの基準価格を上回る価格で販売されたとされる。\n\n同社の発表資料では、2026年第2四半期の商業収穫は**1,362トン（HOG、頭・内臓除去重量）**、2026年上半期は**2,133トンHOG**だった。2026年第2四半期末の総バイオマスは**5,644トン**で、第1・第2フェーズを合わせた生産能力がフル稼働水準に達したと説明している。\n\n中国のアトランティックサーモン輸入量も、2026年第2四半期に**40,908トン**で前年同期比**25％増**、2026年上半期は**87,459トン**で前年同期比**39％増**となった。\n\n### 見通し・記事の示唆\n中国国内で生産したサーモンが輸入品を上回る価格で販売されたことは、**鮮度、輸送時間、国内供給の安定性を訴求できる可能性**を示す。ただし、プレミアム価格の具体額、継続性、利益率は確認できず、陸上養殖全体の採算性を示すものではない。\n\n**根拠URL：**  \n- https://www.efeedlink.com/articles/nordic-aqua-posts-record-q2-harvest-as-china-salmon-imports-surge-and-stage-2-nears-completion  \n- https://www.nordicaquapartners.com/en/news/nordic-aqua-partners-second-quarter-and-first-half-year-2026-results-demonstrating-operational-functionality-for-the-new-stage-2\n\n---\n\n## 4. サーモン：ノルウェーの8月輸出額が過去最高\n\n### 確認できた事実\nノルウェーの2026年8月の水産物輸出額は**160億ノルウェークローネ**で、前年同月比**14％増**となり、8月として過去最高を記録した。\n\nこのうちサーモンは、\n\n- 輸出量：**153,602トン**\n- 前年同月比：**7％増**\n- 輸出額：**123億ノルウェークローネ**\n- 前年同月比：**19％増**\n- 養殖水産物全体の輸出額：**130億ノルウェークローネ**\n- 水産物輸出額に占める養殖品の比率：**81.4％**\n\nとなった。\n\nまた、2026年8月24～30日の生鮮サーモン輸出価格は**71.87ノルウェークローネ／キログラム**で、前週比**2.2％低下**した。同期間の生鮮サーモン輸出量は**30,487トン**だった。\n\n### 見通し・記事の示唆\n輸出額の増加は数量増に加えて価格上昇の影響が大きく、ノルウェー水産物輸出では、**養殖サーモンの高価格が全体の金額成長をけん引している**。\n\n一方、週次価格は前週比で低下しており、月間の高値基調がそのまま毎週の上昇を意味するわけではない。米国向けでは、ノルウェー産水産物に対する追加関税が**12.5％**に引き上げられたと報じられているが、それでも8月の輸出額は増加した。\n\n**根拠URL：**  \n- https://www.salmonbusiness.com/norwegian-salmon-exports-hit-record-e1-14-billion-in-august/  \n- https://www.ssb.no/en/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks  \n- https://www.seafood.media/fis/worldnews/worldnews.asp?l=e&country=0&special=&monthyear=&day=&id=139220&ndb=1&df=0\n\n---\n\n## 5. 中国向け水産物輸送：ノルウェー産鮮魚の新たな航空貨物ルート\n\n### 確認できた事実\n中国南方航空物流（China Southern Air Logistics）は、ノルウェーと中国を結ぶボーイング**777F**貨物機の新路線を開始した。上海～アムステルダム～オスロを結び、週**2便**運航する。\n\n初便では、ノルウェー産冷蔵サーモン約**100トン**を上海へ輸送した。今後は、ノルウェー産サーモンを中国へ週**200トン**供給することを目標としている。\n\n輸送では、航空機内の温度管理に加え、空港倉庫、通関、地上配送までを連携させたコールドチェーンを構築すると説明している。\n\n### 見通し・記事の示唆\n中国の高品質・鮮魚需要に対し、航空輸送によってリードタイムを短縮し、冷蔵品の品質を維持する動きである。これは、ぶり類を含む高単価鮮魚にも応用可能な物流モデルと考えられる。\n\nただし、今回の路線がぶり類の輸送に使われること、輸送コスト、採算性、実際の利用者は確認できず。\n\n**根拠URL：**  \n- http://en.sasac.gov.cn/2026/09/01/c_21030.htm\n\n---\n\n## 6. 米国：インド産養殖えびの反ダンピング関税を引き上げ\n\n### 確認できた事実\n米国商務省は、インド産冷凍温水エビ（主にバナメイエビ）の第20次反ダンピング行政見直しについて、最終税率を公表した。対象期間は**2024年2月1日～2025年1月31日**。\n\n最終的なダンピング・マージンは以下のとおり。\n\n- Sandhya Aqua Exports：**7.01％**\n- Devi Fisheries、Satya Seafoods、Usha Seafoods、Devi Aquatech：**4.04％**\n- その他106社：**5.53％**\n\n予備結果の**4.30％、2.36％、3.33％**から、それぞれ引き上げられた。前回見直しの最終税率である**5.08％、2.71％、3.76％**も上回った。\n\n### 見通し・記事の示唆\n米国向けインド産えびでは、反ダンピング関税の上昇により、輸入業者のコストや販売価格に上昇圧力がかかる可能性がある。インド産から、エクアドル、インドネシア、ベトナムなど他産地への調達シフトを促す要因となり得る。\n\nただし、米国の一般関税、相殺関税、企業別の既存税率を含めた最終的な輸入負担率は企業・原産地・制度ごとに異なるため、上記の税率だけで総関税負担を判断することはできない。\n\n**根拠URL：**  \n- https://www.seafoodnews.com/Story/1353508/Commerce-Raises-Indian-Shrimp-Antidumping-Rates-in-20th-Review-Final-Results  \n- https://shrimpalliance.com/antidumping-duties-on-indian-shrimp-increased-over-100-million-in-additional-duties-likely-owed-on-past-shrimp-imports/  \n- https://thefederalregister.org/agencies/commerce-department\n\n---\n\n## 7. 中国・東南アジア：えび・ティラピアの市場動向\n\n### 確認できた事実\n中国向けエクアドル産バナメイエビでは、2026年第36週に一部規格のCFR提示価格が上昇した。30～40尾／キログラムの頭付き・殻付き半IQF小売パックは、前週比**0.10米ドル／キログラム上昇**した。一方、20～30尾／キログラムの大型規格は横ばいだった。\n\n中国産ティラピアは、500～800グラム規格の加工場渡し価格が前週から横ばいだった。米国向け中国産ティラピア・フィレの関税負担は前年より低下したものの、注文増には直ちにつながっていないと報じられている。\n\n### 見通し・記事の示唆\n中国の水産物需要は回復傾向を示す品目がある一方、**すべての魚種・規格で一律に需要が強いわけではない**。えびでは小売向け中型規格に回復の兆候があるが、大型規格は動きが鈍い。ティラピアでは関税低下が需要増に結びついておらず、価格だけでなく小売・外食需要の回復が必要とみられる。\n\n**根拠URL：**  \n- http://www.sanfengseafood.com/newss  \n- https://www.efeedlink.com/channels/aquaculture\n\n---\n\n# 指標別の最新確認\n\n## 1. 陸上養殖・商業生産の稼働状況\n\n### 確認できた最新値\n- **Alicante Aquaculture（スペイン）**  \n  - 魚種：カンパチ（*Seriola dumerili*）  \n  - 商業規模生産：開始済み  \n  - 施設能力：年間**600トン**  \n  - 計画上の拡張後：年間**900トン**  \n  - 実際の生産量・販売量・稼働率：**確認できず**\n\n- **Nordic Aqua Partners（中国）**  \n  - 魚種：アトランティックサーモン  \n  - 2026年第2四半期商業収穫：**1,362トンHOG**  \n  - 2026年上半期商業収穫：**2,133トンHOG**  \n  - 2026年第2四半期末バイオマス：**5,644トン**\n\n**根拠URL：**  \n- https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/  \n- https://www.nordicaquapartners.com/en/news/nordic-aqua-partners-second-quarter-and-first-half-year-2026-results-demonstrating-operational-functionality-for-the-new-stage-2\n\n---\n\n## 2. 水産物輸送・コールドチェーンの動向\n\n### 確認できた最新値\nノルウェー～中国間で新設された航空貨物路線について、以下が確認できた。\n\n- 輸送品：冷蔵ノルウェー産サーモン\n- 初便輸送量：約**100トン**\n- 運航頻度：週**2便**\n- 想定供給量：週**200トン**\n- 航空機：ボーイング**777F**\n- 経路：上海～アムステルダム～オスロ\n- 対応：機内温度管理、空港保管、通関、地上配送を一体化\n\n高単価の鮮魚では、単なる冷凍保管ではなく、**空港・通関・倉庫・最終配送まで連続した温度管理**が競争力になっている。\n\n**根拠URL：**  \n- http://en.sasac.gov.cn/2026/09/01/c_21030.htm\n\n---\n\n## 3. 水産物の関税・規制変更\n\n### 確認できた変更\n- 米国がインド産冷凍温水エビの反ダンピング行政見直しで、企業別に**4.04～7.01％**の最終ダンピング・マージンを設定。\n- ノルウェー産水産物の米国向け追加関税は、報道上**12.5％**とされている。\n- EUでは、2026年までの水産加工原料向け自律関税割当として、**31枠**が設定され、多くが関税ゼロとされている。ただし、これは今回の直近1週間に新設された制度ではなく、2024～2026年制度の現行概要である。\n\n### ぶり類への直接的影響\n今回確認できた範囲では、ぶり、カンパチ、ヒラマサに特化した新たな関税・輸入規制変更は**確認できず**。\n\n**根拠URL：**  \n- https://www.seafoodnews.com/Story/1353508/Commerce-Raises-Indian-Shrimp-Antidumping-Rates-in-20th-Review-Final-Results  \n- https://shrimpalliance.com/antidumping-duties-on-indian-shrimp-increased-over-100-million-in-additional-duties-likely-owed-on-past-shrimp-imports/  \n- https://www.salmonbusiness.com/norwegian-salmon-exports-hit-record-e1-14-billion-in-august/  \n- https://oceans-and-fisheries.ec.europa.eu/international/international-trade_en\n\n---\n\n## 総括\n\n直近1週間のぶり類に関する最大の材料は、**日本のぶり輸出の大幅増**と、**スペインでのカンパチ陸上RAS商業生産の開始**である。特に後者は、*Seriola*属の生産が日本・韓国の海面養殖に依存する構図から、欧州の陸上高付加価値養殖へ広がる動きとして注目される。\n\n一方、世界市場全体では、ノルウェー産サーモンの高価格・高輸出額、中国のサーモン輸入拡大、鮮魚航空輸送の強化が確認できた。関税面では、米国のインド産えびへの反ダンピング税率引き上げが、養殖水産物の産地間競争に影響する重要材料となっている。",
+      "sources": [
+        {
+          "url": "https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/",
+          "title": "Innovative design used to farm greater amberjack in RAS"
+        },
+        {
+          "url": "https://www.seafoodsource.com/news/aquaculture/asc-bestows-certification-on-japenese-seriola-aquaculture-operations",
+          "title": "ASC bestows certification on Japanese seriola aquaculture operations"
+        },
+        {
+          "url": "https://www.fishfarmingexpert.com/amerjack-brazil-forever-oceans/us-fish-farmer-wins-biggest-ever-concession-off-brazil/1318212",
+          "title": "US fish farmer wins biggest-ever concession off Brazil"
+        },
+        {
+          "url": "https://www.seafoodsource.com/news/premium/aquaculture/japan-s-yellowtail-hatchery-efforts-aiming-to-enable-off-season-harvest",
+          "title": "Japan's yellowtail hatchery efforts aiming to enable off- ..."
+        },
+        {
+          "url": "https://thefishsite.com/articles/plans-for-15-000-tonne-seriola-farm-revealed",
+          "title": "Plans for 15000 tonne seriola farm revealed"
+        },
+        {
+          "url": "https://thefishsite.com/species/marine-fish/kingfish-seriola",
+          "title": "kingfish/seriola"
+        },
+        {
+          "url": "https://www.seafoodsource.com/news/aquaculture/pacific-ocean-aquafarms-looks-to-convert-catalina-sea-ranch-site-into-yellowtail-farm",
+          "title": "Pacific Ocean Aquafarms launching offshore yellowtail farm project in California"
+        },
+        {
+          "url": "https://weareaquaculture.com/news/technology/alvestad-marin-to-supply-co-aerators-for-spains-new-yellowtail-farm",
+          "title": "Alvestad Marin to supply CO₂ aerators for Spain's new yellowtail farm"
+        },
+        {
+          "url": "https://umaine.edu/cooperative-aquaculture/yellowtail/",
+          "title": "Yellowtail - Center for Cooperative Aquaculture Research"
+        },
+        {
+          "url": "https://thefishsite.com/articles/permission-granted-for-large-coromandel-aquaculture-site",
+          "title": "Permission granted for large Coromandel aquaculture site"
+        },
+        {
+          "url": "https://www.globalseafood.org/advocate/aquaculture-of-pelagic-fish-part-1/",
+          "title": "Aquaculture of pelagic fish, part 1 - Responsible Seafood Advocate"
+        },
+        {
+          "url": "https://www.seafoodsource.com/news/aquaculture/kanpachi-farmer-omega-azul-targeting-250-percent-growth-in-two-years",
+          "title": "Kanpachi farmer Omega Azul targeting 250 percent growth in two years"
+        },
+        {
+          "url": "https://seafood.media/fis/worldnews/index.asp?l=e",
+          "title": "Seafood Media Group - Worldnews"
+        },
+        {
+          "url": "https://www.linkedin.com/pulse/daily-recap-eu-shrimp-buyers-may-quit-india-over-antibiotics-xsq4e",
+          "title": "Daily recap: EU shrimp buyers may quit India over antibiotics"
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1350843/NAVICO-Benchmark-Genetics-Embark-on-Long-term-Strategic-Partnership",
+          "title": "NAVICO, Benchmark Genetics Embark on Long-term Strategic Partnership"
+        },
+        {
+          "url": "https://www.seafoodnews.com/",
+          "title": "SeafoodNews.com, the most widely read seafood industry news in North America"
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1351640/Expanas-Weekly-Top-10",
+          "title": "Expanas Weekly Top 10"
+        },
+        {
+          "url": "https://www.efeedlink.com/channels/aquaculture",
+          "title": "Aquaculture News & Analysis"
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1319412/Seafoodnewscom-Summary-Tuesday-September-16",
+          "title": "Seafoodnews.com Summary Tuesday, September 16"
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1350902/Middle-East-Market-Intelligence-Brief-Week-Ending-August-7-2026",
+          "title": "Middle East Market Intelligence Brief: Week Ending August ..."
+        },
+        {
+          "url": "https://www.undercurrentnews.com/",
+          "title": "Undercurrent - Seafood prices, news, data"
+        },
+        {
+          "url": "https://www.seafoodnews.com/Login.aspx?ReturnUrl=/SearchStory/DmNX__0rCXHbVrlAKhFpWX8mMTm8MP0wt0cmHO6FFOfU=/1312080?cookieCheck=1",
+          "title": "Global Seafood News & Prices."
+        },
+        {
+          "url": "https://www.fao.org/in-action/globefish/home/the-state-of-world-fisheries-and-aquaculture-2026/en",
+          "title": "The State of World Fisheries and Aquaculture 2026"
+        },
+        {
+          "url": "https://weareaquaculture.com/",
+          "title": "Be inspired! Premium news, interviews, analyses and profiles from the aquaculture, seafood and fisheries industry"
+        },
+        {
+          "url": "https://weareaquaculture.com/news/finance/nordic-aqua-full-production-run-rate-for-phases-12-combined",
+          "title": "Nordic Aqua: full production run-rate for Phases 1+2 ..."
+        },
+        {
+          "url": "https://perishablenews.com/seafood/oceanloop-secures-funding-to-scale-land-based-aquaculture-technology-and-europes-first-farmed-giant-grouper/",
+          "title": "Oceanloop Secures Funding to Scale Land-Based Aquaculture ..."
+        },
+        {
+          "url": "https://assets.newsweek.com/wp-content/uploads/2026/08/Final-Detailed-List-for-Publication-English.pdf",
+          "title": "List of Goods Subject to Surtax – Effective September 8, 2026"
+        },
+        {
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2211212&reg=1&lang=1",
+          "title": "Smart Green Aquaculture pioneers the first ever successful farming ..."
+        },
+        {
+          "url": "https://koalagains.com/industry-tariff-report/chapters/3-fish-and-crustaceans",
+          "title": "HTS Chapter 03 Tariff Rates & 2026 Import Duties | KoalaGains"
+        },
+        {
+          "url": "http://www.fis-net.com/fis/marketmonitor/news.asp?l=e&id=138958&specie=8&ndb=1",
+          "title": "FIS - News - Shrimp"
+        },
+        {
+          "url": "https://www.cnbctv18.com/economy/eu-keeps-doors-open-for-indian-seafood-exports-ahead-of-india-eu-trade-deal-ws-l-19906294.htm",
+          "title": "EU keeps doors open for Indian seafood exports ahead of India ..."
+        },
+        {
+          "url": "https://kriofrost.academy/lenta/novosti/nepreryvnaya-holodilnaya-cep-stanet-vazhnoy-temoy-seafood-expo-russia-2026/",
+          "title": "Непрерывная холодильная цепь станет важной темой ..."
+        },
+        {
+          "url": "https://oceans-and-fisheries.ec.europa.eu/international/international-trade_en",
+          "title": "International trade - Oceans and fisheries - Europa.eu"
+        },
+        {
+          "url": "https://www.dpworld.com/en/insights/controlling-the-cold-chain-seafood",
+          "title": "Controlling the Cold Chain: Building Resilience in Seafood Flows"
+        },
+        {
+          "url": "https://www.seafoodexpo.com/global/session/from-port-to-plate-what-shifting-seafood-consumption-means-for-the-cold-chain/",
+          "title": "From Port to Plate: What Shifting Seafood Consumption Means ..."
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1353089/Japans-July-Seafood-Export-Volume-Fell-35-percent-Value-Rose-15-percent-as-Yellowtail-Jumped-and-Scallops-Slid",
+          "title": "Japan's July Seafood Export Volume Fell 35%, Value Rose 15% as ..."
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1331075/Maruha-Nichiro-Set-for-Umios-Rebrand-Rolls-Out-45-Product-Launches-for-Spring-2026",
+          "title": "Maruha Nichiro Set for Umios Rebrand, Rolls Out 45 Product ..."
+        },
+        {
+          "url": "https://www.customs.go.jp/toukei/shinbun/trade-st_e/2026/2026074e.pdf",
+          "title": "h t t p s : / / w w w . c u s t o m s . g o . j p"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/japans-h1-food-exports-reach-record-high-fuelled-by-green-tea-yellowtail-2026-08-04/",
+          "title": "Japan's H1 food exports reach record high, fuelled by ..."
+        },
+        {
+          "url": "https://www.linkedin.com/posts/minato-news_japans-farmed-yellowtail-exports-continue-activity-7479881538189426688-i4fz",
+          "title": "Japan Farmed Yellowtail Exports Reach Record Highs - LinkedIn"
+        },
+        {
+          "url": "https://www.tridge.com/ko/news/statistics-on-major-seafood-exports-from-jap-uhfkbx",
+          "title": "Statistics on major seafood exports from Japan in 2025 - Tridge"
+        },
+        {
+          "url": "https://www.e-stat.go.jp/en/stat-search?page=1&query=seafood+export&layout=dataset",
+          "title": "e-Stat Portal Site of Official Statistics of Japan"
+        },
+        {
+          "url": "https://www.suikei.co.jp/cat/statistics/trade",
+          "title": "貿易"
+        },
+        {
+          "url": "https://note.com/fir_institute/n/n315a527576bb?hl=en",
+          "title": "Export Performance of Agricultural, Forestry, and Fishery ..."
+        },
+        {
+          "url": "https://www.seafoodsource.com/news/supply-trade/japan-targets-yellowtail-exports-boost-as-competition-increases-abroad",
+          "title": "Japan targets yellowtail exports boost as competition increases ..."
+        },
+        {
+          "url": "https://insights.tridge.com/speaker-product-news-reports/KJLyFXpzJzgKuB1Gqsm5QUKHGgR43AVdqLRpDp37uuT3wbCHRi9F7jfL",
+          "title": "Japan's 2025 Seafood Exports Reach Historic High Amid Rising ..."
+        },
+        {
+          "url": "https://www.salmonbusiness.com/norwegian-salmon-exports-hit-record-e1-14-billion-in-august/",
+          "title": "Salmon exports hit record €1.14 billion in August"
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1353560/Norway-Posts-Record-August-Seafood-Export-Value-Driven-by-Salmon-Price-Growth-and-US-Rebound",
+          "title": "Norway Posts Record August Seafood Export Value ..."
+        },
+        {
+          "url": "https://seafood.media/fis/worldnews/worldnews.asp?l=e&country=0&special=&monthyear=&day=&id=139220&ndb=1&df=0",
+          "title": "Salmon value growth drives record month for Norwegian seafood ..."
+        },
+        {
+          "url": "https://www.ssb.no/en/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks/artikler/salmon-price",
+          "title": "Salmon price in the period of August 17th – August 23rd"
+        },
+        {
+          "url": "https://www.ssb.no/en/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks",
+          "title": "Export of salmon - SSB"
+        },
+        {
+          "url": "https://en.seafood.no/market-insight/norwegian-trade/week/",
+          "title": "Weekly exports from Norway"
+        },
+        {
+          "url": "https://www.investing.com/news/company-news/nordic-aqua-q2-2026-slides-record-harvest-china-premium-pricing-93CH-4876409",
+          "title": "Nordic Aqua Q2 2026 slides: record harvest, China premium pricing"
+        },
+        {
+          "url": "https://www.investing.com/news/company-news/nordic-aqua-q2-2026-slides-record-harvest-china-growth-accelerate-93CH-4876406",
+          "title": "Nordic Aqua Q2 2026 slides: record harvest, China growth ..."
+        },
+        {
+          "url": "https://en.seafood.no/market-insight/",
+          "title": "Market Insight - Norwegian Seafood Council - Norges sjømatråd"
+        },
+        {
+          "url": "https://ground.news/article/norwegian-salmon-breaks-new-record_296155",
+          "title": "Salmon Record Drives Norway Seafood Exports to Historic NOK ..."
+        },
+        {
+          "url": "https://www.nordicaquapartners.com/en/news/nordic-aqua-partners-second-quarter-and-first-half-year-2026-results-demonstrating-operational-functionality-for-the-new-stage-2",
+          "title": "Second Quarter and First Half Year 2026 Results"
+        },
+        {
+          "url": "https://www.efeedlink.com/articles/nordic-aqua-posts-record-q2-harvest-as-china-salmon-imports-surge-and-stage-2-nears-completion",
+          "title": "Nordic Aqua posts record Q2 harvest as China salmon ..."
+        },
+        {
+          "url": "http://en.sasac.gov.cn/2026/09/01/c_21030.htm",
+          "title": "All-Cargo Route Opens from Norway to China"
+        },
+        {
+          "url": "https://data.commerce.gov/antidumping-and-countervailing-duty-fact-sheets",
+          "title": "Antidumping and Countervailing Duty Fact Sheets"
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1348662/Nichirei-Hit-by-Cyberattack-Logistics-and-Frozen-Food-Shipments-Disrupted",
+          "title": "Nichirei Hit by Cyberattack, Logistics and Frozen Food Shipments Disrupted"
+        },
+        {
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/US-Ecuador%20Tariff%20Schedules.pdf",
+          "title": "US-Ecuador Tariff Schedules.pdf"
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1346238/Americold-Opens-New-Cold-Chain-Hub-at-Port-Saint-John-Expanding-Global-Trade-Connections",
+          "title": "Americold Opens New Cold Chain Hub at Port Saint John, ..."
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1299308/Yokohama-Reito-Launches-its-Newest-and-Largest-Cold-Storage-Facility-in-Vietnam",
+          "title": "Yokohama Reito Launches its Newest and Largest Cold ..."
+        },
+        {
+          "url": "https://www.msn.com/en-in/news/world/plans-to-boost-seafood-supply-in-odisha-amid-us-tariff/ar-AA1MMWVZ",
+          "title": "Plans to boost seafood supply in Odisha amid US tariff"
+        },
+        {
+          "url": "https://ustr.gov/callout/us-harmonized-tariff-schedule-hts",
+          "title": "U.S. Harmonized Tariff Schedule (HTS)"
+        },
+        {
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/AIT-TECRO%20ART%20Tariff%20Schedules%20sanitized.pdf",
+          "title": "[PDF] AIT-TECRO ART Tariff Schedules sanitized.pdf - USTR"
+        },
+        {
+          "url": "https://data.commerce.gov/fta-tariff-tool",
+          "title": "FTA Tariff Tool"
+        },
+        {
+          "url": "https://seanews.ru/newslist/",
+          "title": "Лента новостей - SeaNews"
+        },
+        {
+          "url": "https://ustr.gov/trade-topics/presidential-tariff-actions",
+          "title": "Presidential Tariff Actions"
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1351760/Commerce-Raises-Final-Antidumping-Rates-on-Vietnamese-Pangasius",
+          "title": "Commerce Raises Final Antidumping Rates on ..."
+        },
+        {
+          "url": "https://shrimpalliance.com/wp-content/uploads/2026/01/India-AR19-Final-Results-Pre-Publication-Federal-Register-Notice.pdf",
+          "title": "Microsoft Word - Shrimp India AD AR23-24 Final FR"
+        },
+        {
+          "url": "https://thefederalregister.org/agencies/commerce-department",
+          "title": "Commerce Department | Federal Register Archive"
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1333393/Trump-Order-USIndia-Statement-Lock-in-18-percent-Tariff-on-Indian-Shrimp-Imports",
+          "title": "Trump Order, US‑India Statement Lock in 18% Tariff on ..."
+        },
+        {
+          "url": "https://thefederalregister.org/agencies/international-trade-administration",
+          "title": "International Trade Administration"
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1353508/Commerce-Raises-Indian-Shrimp-Antidumping-Rates-in-20th-Review-Final-Results",
+          "title": "Commerce Raises Indian Shrimp Antidumping Rates in ..."
+        },
+        {
+          "url": "https://policyrisk.com/federal-register/2026-08633",
+          "title": "2026-08633 | Certain Frozen Warmwater Shrimp From In… - PRIA"
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1348214/St-James-Smokehouse-Extends-Seven-Year-Food-Safety-Streak-with-2026-BRCGS-Grade-AA-Recertification",
+          "title": "St. James Smokehouse Extends Seven-Year Food Safety ..."
+        },
+        {
+          "url": "https://shrimpalliance.com/antidumping-duties-on-indian-shrimp-increased-over-100-million-in-additional-duties-likely-owed-on-past-shrimp-imports/",
+          "title": "Antidumping Duties on Indian Shrimp Increased"
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1333337/Atlantic-Sapphire-Seeks-Up-to-25-Million-to-Sustain-Phase-1-Turnaround-Toward-EBITDA-Breakeven",
+          "title": "Atlantic Sapphire Seeks Up to $25 Million to Sustain Phase 1 Turnaround Toward EBITDA Breakeven"
+        },
+        {
+          "url": "https://www.indexbox.io/blog/us-finalizes-antidumping-duties-on-indian-shrimp-exporters/",
+          "title": "Final Antidumping Duty Rates Set for Indian Shrimp - IndexBox"
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1345852/Japan-Ministry-Launches-Large-Scale-Seaweed-Carbon-Absorption-Demos",
+          "title": "Japan Ministry Launches Large-Scale Seaweed Carbon Absorption Demos"
+        },
+        {
+          "url": "https://www.seafoodnews.com/Story/1351248/SSP-Adds-Three-New-Associate-Members",
+          "title": "SSP Adds Three New Associate Members"
+        },
+        {
+          "url": "https://finance.yahoo.com/economy/articles/xinhua-silk-road-aquaculture-hard-032100293.html",
+          "title": "Xinhua Silk Road: New aquaculture hard clam strain developed in Rizhao, addressing bottlenecks in shellfish seedling production"
+        },
+        {
+          "url": "http://www.sanfengseafood.com/newss",
+          "title": "Sanfeng Seafood - News"
+        },
+        {
+          "url": "https://www.efeedlink.com/tags/china",
+          "title": "China Industry News & Updates - eFeedLink"
+        },
+        {
+          "url": "https://www.salmonbusiness.com/policy",
+          "title": "Policy"
+        },
+        {
+          "url": "https://www.seafood.media/fis/worldnews/worldnews.asp?monthyear=9-2026&day=3&id=139208&l=e&country=&special=&ndb=1&df=0",
+          "title": "Seafood Media Group - Worldnews - Seafood Media"
+        },
+        {
+          "url": "https://en.seafood.no/news-and-media/news-archive/increased-prices-and-salmon-growth-to-china-resulted-in-solid-seafood-exports-in-september/",
+          "title": "Increased prices and salmon growth to China resulted in ..."
+        }
+      ],
+      "cost_usd": 0.04375,
+      "error": null
+    },
+    {
+      "id": "genai",
+      "title": "生成AIの重大ニュース",
+      "body": "# 生成AI・LLM分野：直近48時間の重大ニュース\n\n**調査基準：2026年9月3日〜9月5日（日本時間を基準に確認）**  \n企業公式発表、公式開発者文書、政府・研究機関資料を優先しました。噂・転載記事のみの情報は主要ニュースとして採用していません。\n\n## 1. OpenAIがGPT-6 Astraを公開\n\n### 確認できた事実\nOpenAI（OpenAI）は**2026年9月3日**、GPT-6 Astra（GPT-6 Astra）をAPIで公開しました。推論、コーディング、コンピューター操作、調査、文書作成を主用途とし、提供されたツールやコンテキストを使って、依頼から成果物作成までの複雑な作業を実行するモデルとされています。\n\n主な仕様は以下のとおりです。\n\n- コンテキスト長：**105万トークン**\n- 最大出力：**12万8,000トークン**\n- API入力価格：**100万トークン当たり10米ドル**\n- API出力価格：**100万トークン当たり50米ドル**\n- キャッシュ入力：**100万トークン当たり1米ドル**\n- 対応機能：Web検索、ファイル検索、画像生成、コードインタープリター、コンピューター操作、MCPなど\n- 推論努力レベル：`low`、`medium`、`high`、`xhigh`、`max`\n\nResponses APIには、長時間稼働するエージェント向けに、非同期ツール呼び出し、処理途中の追加指示、会話途中での推論努力レベル変更も追加されました。\n\n### 実務上の意味\n従来の「質問に回答するモデル」から、ツールを使いながら複数段階の業務を完了させるエージェント用途への比重が高まったとみられます。特に、ブラウザー操作、コード実行、ファイル処理を組み合わせる業務では、単発の生成よりもワークフロー自動化への利用が想定されます。\n\nこれはOpenAIの提供目的・機能説明に基づく整理であり、実際の業務生産性向上を示す独立検証結果ではありません。\n\n### 注意点\nGPT-6 Astraでは、以下の移行上の制約が示されています。\n\n- 推論努力レベル`none`は非対応\n- `temperature`、`top_p`、`logprobs`は非対応\n- ツール呼び出しにはResponses APIが必要\n- 対応するResponses APIリクエストでは、エージェント処理中のミスアラインメント監視が行われる場合がある\n\n**根拠URL：**\n\n- https://developers.openai.com/api/docs/changelog\n- https://developers.openai.com/api/docs/models/gpt-6-astra\n\n---\n\n## 2. GoogleがGemini 3.8 Flashとサイバーセキュリティ版を提供開始\n\n### 確認できた事実\nGoogle（Google）は**2026年9月3日付の日本語公式発表**で、Gemini 3.8 Flash（Gemini 3.8 Flash）とGemini 3.8 Flash Cyber（Gemini 3.8 Flash Cyber）を発表しました。\n\nGemini 3.8 Flashについて、Googleはソフトウェアエンジニアリング、エージェントタスク、多段階推論でGemini 3.7 Flashから改善したと説明しています。\n\n価格は以下のとおりです。\n\n- 入力：**100万トークン当たり0.75米ドル**\n- 出力：**100万トークン当たり3.75米ドル**\n\n利用先として、Google AI Studio、Android Studio、Gemini API、Google Antigravity、Gemini Enterprise、Geminiアプリ、Google検索のAIモード、GoogleスプレッドシートのGeminiが挙げられています。\n\nGemini 3.8 Flash Cyberは、脆弱性検出と自動パッチ適用を目的としたサイバーセキュリティモデルで、Fairwind Program（フェアウィンド・プログラム）を通じて、政府機関、重要インフラ事業者、ソフトウェアメンテナーなどの信頼できる利用者に優先提供されます。\n\n### 記事・企業が示す見通し\nGoogleは、同モデルをエージェント型ワークフローやサイバー防御に適したモデルと位置付けています。ただし、「フロンティア級性能」や「3.7からの大幅改善」はGoogle側の説明であり、今回確認した一次情報だけでは、第三者による性能比較の具体的な数値までは確認できませんでした。\n\n**根拠URL：**\n\n- https://blog.google/intl/ja-jp/company-news/technology/gemini-38-flash-38-flash-cyber/\n- https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\n\n---\n\n## 3. Google Workspaceに音声操作機能を追加\n\n### 確認できた事実\nGoogleは**2026年9月3日**、Gmail、Googleドキュメント、Google KeepにGemini Audio models（Gemini Audioモデル）を使った音声機能を正式導入したと発表しました。\n\n具体的には、音声で以下の操作が可能になるとされています。\n\n- Gmailで受信トレイ内の重要情報を探す\n- Googleドキュメントで文書を下書きする\n- Google Keepにアイデアやメモを記録する\n\n提供対象は以下のとおりです。\n\n- Gmail・Keep：Google AI Plus、Pro、Ultraの加入者\n- Googleドキュメント：Pro、Ultraの加入者\n- Google Workspaceの法人顧客：近日提供予定\n\n### 実務上の意味\nメール検索、文書作成、メモ入力など、日常的な事務作業を音声対話で処理する機能です。現時点では、法人向けWorkspaceへの提供時期は「近日」とされており、具体的な日付は確認できません。\n\n**根拠URL：**\n\n- https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/\n\n---\n\n## 4. xAIがGrok Bot for Enterpriseを提供開始\n\n### 確認できた事実\nxAI（xAI）は**2026年9月3日**、Grok Bot for Enterprise（Grok Bot for Enterprise）の提供開始を発表しました。\n\n発表によると、Grok Botは、単一セッション内だけでなく、継続的に動作するエンタープライズ向けエージェントで、以下の要素を持つと説明されています。\n\n- 固有のアイデンティティ\n- メモリ\n- 実行環境\n- ツール\n- セッションをまたいだ継続性\n\nGrokおよびCursor Enterprise（カーソル・エンタープライズ）の顧客には、**2週間**の無料利用が提供され、既存のシートを持たない組織内ユーザーも招待できるとされています。\n\n### 記事・企業が示す見通し\nxAIは、プロンプトを入力した時だけ動くチャットボットではなく、継続的にタスクを実行する「永続的エージェント」への発展を示しています。ただし、無料期間終了後の価格、対応地域、具体的な業務性能は発表文だけでは確認できません。\n\n**根拠URL：**\n\n- https://x.ai/news/grok-bot-for-enterprise\n- https://x.ai/news/designing-grok-bot\n\n---\n\n## 5. GoogleがWeatherNext 3を公開\n\n### 確認できた事実\nGoogle DeepMind（Google DeepMind）とGoogle Research（Google Research）は**2026年9月3日**、気象予測AIモデルWeatherNext 3（ウェザーネクスト3）を発表しました。\n\n主な変更点は以下のとおりです。\n\n- リアルタイム衛星データの利用\n- **1時間ごと**の予測更新\n- 高解像度化\n- 降水量予測の改善\n- 再生可能エネルギー関連の気象変数への対応\n- Google検索、Gemini、Googleマップ、Google Maps Platform、Google Earth Engineへの統合\n\n### 位置付け\nLLMや生成AIサービスそのものではありませんが、AIモデルを実サービスへ組み込む実務利用の事例です。Googleは、独立評価機関Brightband（ブライトバンド）のリアルタイム評価に基づき、最も高度で正確な全球気象モデルだと説明しています。ただし、その評価の詳細な比較数値は今回確認した公式発表本文では確認できませんでした。\n\n**根拠URL：**\n\n- https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/\n\n---\n\n# 規制・訴訟・資金調達・提携\n\n## 規制\n\n2026年9月3日〜5日に新たに公表された、生成AI・LLMに直接関係する主要規制当局文書は**確認できず**。\n\n直近の大きな規制上の動きとしては、EU AI Act（EU AI法）の主要規定と透明性規則が**2026年8月2日**から適用・執行開始となっていますが、今回の48時間の範囲外です。\n\n**根拠URL：**\n\n- https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_1714/IP_26_1714_EN.pdf\n- https://digital-strategy.ec.europa.eu/en/factpages/quick-facts-transparency-rules-ai-systems\n\n## 訴訟\n\n対象期間内に、主要生成AI企業をめぐる新たな訴訟について、一次情報で確認できる重大発表は**確認できず**。\n\n## 資金調達・大型提携\n\n対象期間内に、主要生成AI企業の大型資金調達または資本提携について、企業公式発表などの一次情報で確認できる重大ニュースは**確認できず**。\n\n---\n\n# 日本国内の動き\n\n対象期間内に、国内企業・政府機関による主要モデルの新規発表や大型提携について、一次情報で確認できる重大ニュースは**確認できず**。\n\nただし、国立情報学研究所（NII）の大規模言語モデル研究開発センターでは、**2026年9月2日**に韓国科学技術情報研究院（KISTI）研究員の訪問・ワークショップ開催と、9月9日開催予定のAI関連シンポジウムを告知しています。これは研究交流・講演会の告知であり、対象期間内の新モデル発表ではありません。\n\nなお、NIIは対象期間直前の**2026年9月1日**に、国産視覚言語モデルLLM-jp-4-VL 9B（LLM-jp-4-VL 9B）を公開していますが、厳密には直近48時間の開始時点より前です。\n\n**根拠URL：**\n\n- https://llmc.nii.ac.jp/topics/\n- https://www.digital.go.jp/policies/genai\n\n---\n\n# 指標の最新値\n\n## 1. 生成AI 業務導入 効果 実績\n\n### 日本の最新公的調査\n総務省の**2026年版情報通信白書**によると、調査対象の日本企業で、少なくとも1つの業務で生成AIを利用している割合は**86.4％**です。調査対象や設問上、「活用方針が分からない」と回答した対象は除外されています。\n\n業務別では、以下の利用状況が示されています。\n\n- 議事録・メール作成補助：約**7割**\n- 営業・販売：約**6割**\n- 社内ヘルプデスク：約**5割**\n\n「導入効果を実感」と回答した割合は、議事録・メール作成補助で約**7割**でした。全業務を合算した「効果実感率」の正確な数値は、本文からは確認できず、図表データの詳細確認が必要です。\n\n### 企業の財務効果\nMcKinsey（マッキンゼー）の2026年調査では、AI利用が組織のEBITに少なくとも何らかのプラス効果を与えたと回答した割合は**37％**でした。\n\n- 調査時点：**2026年5月4日〜6月8日**\n- 回答者：97カ国、**1,719人**\n- AI利用によるEBIT効果が5％以上で、効果を「重大」と評価するAI高業績企業：全回答者の約**6％**\n\n### 解釈\n確認できた調査では、業務時間短縮や文書作成などの個別業務では効果実感が高い一方、企業全体の利益・EBITへの波及は限定的です。したがって、「導入すれば直ちに売上・利益が増える」とまでは言えません。\n\n**根拠URL：**\n\n- https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd121130.html\n- https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai\n\n---\n\n## 2. AI責任・契約・規約変更\n\n### 指標としての最新値\n「AI責任に関する契約・規約変更」を横断的に測る公的な単一指標は**確認できず**。\n\n確認できた具体的な最新値としては、OpenAIのApp Developer Terms（アプリ開発者規約）に以下の条項があります。\n\n- 規約ページ記載の更新日：**2026年7月9日**\n- OpenAIの責任上限：総額**100米ドル**\n- 間接損害、付随的損害、特別損害、結果的損害、懲罰的損害を原則免責\n- 開発者は、自身のアプリ、App Responses、APIなどに関する第三者請求についてOpenAIを補償\n- 開発者は、アプリの法令遵守、セキュリティ、ユーザーサポート、提供文書・保証に責任を負う\n\n### 解釈\n条項上は、AIサービス提供者側の責任を限定し、アプリ開発者側に、アプリとAI出力を含む第三者請求への補償責任を広く負わせる構造です。ただし、これはOpenAIの特定規約の内容であり、生成AI業界全体の標準的な責任配分を示す数値ではありません。\n\n対象期間内に、新たなAI責任条項の大幅変更を一次情報で確認できるものは**確認できず**。\n\n**根拠URL：**\n\n- https://openai.com/policies/developer-apps-terms/",
+      "sources": [
+        {
+          "url": "https://community.openai.com/c/announcements/6",
+          "title": "Latest Announcements topics"
+        },
+        {
+          "url": "https://www.anthropic.com/news",
+          "title": "Newsroom - Anthropic"
+        },
+        {
+          "url": "https://community.openai.com/hot",
+          "title": "Hot topics - OpenAI Developer Community"
+        },
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+          "title": "Google I/O 2026: News and announcements - The Keyword"
+        },
+        {
+          "url": "https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/",
+          "title": "MrBeast partners with Gemini to turn impossibly big ideas into reality"
+        },
+        {
+          "url": "https://blog.google/",
+          "title": "News from Google"
+        },
+        {
+          "url": "https://blog.google/products-and-platforms/products/gemini/",
+          "title": "Official Gemini news and updates"
+        },
+        {
+          "url": "https://openai.com/news/product-releases/",
+          "title": "OpenAI Newsroom | Product"
+        },
+        {
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "title": "Introducing Claude Sonnet 5 - Anthropic"
+        },
+        {
+          "url": "https://community.openai.com/latest",
+          "title": "Latest topics - OpenAI Developer Community"
+        },
+        {
+          "url": "https://developers.openai.com/api/docs/changelog",
+          "title": "Developer changelog"
+        },
+        {
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+          "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber"
+        },
+        {
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence",
+          "title": "European approach to artificial intelligence"
+        },
+        {
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+          "title": "AI Act | Shaping Europe's digital future"
+        },
+        {
+          "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-113",
+          "title": "AI Act Service Desk - Article 113: Entry into force and application"
+        },
+        {
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-high-risk-systems",
+          "title": "Guidelines for providers and deployers of AI high-risk systems"
+        },
+        {
+          "url": "https://ec.europa.eu/commission/presscorner/api/files/attachment/882807/Entry%20into%20force%20or%20application%20of%20EU%20legislation%20key%20milestones%20%201%20August%20%E2%80%93%2015%20September%202026.pdf",
+          "title": "Entry into force or application of EU legislation: key milestones | 1 August – 15 September 2026"
+        },
+        {
+          "url": "https://ec.europa.eu/transparency/documents-register/api/files/COM(2026)502_0/090166e52e70bff3",
+          "title": "COM(2026) 502 final 2026/0138 (COD) Proposal for a ..."
+        },
+        {
+          "url": "https://ai-act-service-desk.ec.europa.eu/fr/ai-act/timeline/calendrier-de-mise-en-oeuvre-de-la-legislation-de-lue-sur-lia",
+          "title": "Calendrier de mise en œuvre de la législation de l'UE sur l'IA | AI Act ..."
+        },
+        {
+          "url": "https://digital-strategy.ec.europa.eu/en/library/digital-omnibus-ai-regulation-proposal",
+          "title": "Digital Omnibus on AI Regulation Proposal"
+        },
+        {
+          "url": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force",
+          "title": "AI Omnibus enters into force | Shaping Europe's digital future"
+        },
+        {
+          "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_1714/IP_26_1714_EN.pdf",
+          "title": "Commission starts enforcing AI Act rules and new transparency ..."
+        },
+        {
+          "url": "https://ai-act-service-desk.ec.europa.eu/en/faq",
+          "title": "Frequently Asked Questions | AI Act Service Desk - Europa.eu"
+        },
+        {
+          "url": "https://digital-strategy.ec.europa.eu/en/factpages/quick-facts-transparency-rules-ai-systems",
+          "title": "Quick Facts: Transparency rules for AI systems"
+        },
+        {
+          "url": "https://learningc.jp/ai_news/",
+          "title": "生成AI重要ニュース総まとめ | AIキャンプ"
+        },
+        {
+          "url": "https://www.watch.impress.co.jp/docs/news/2138177.html",
+          "title": "OpenAI、次世代モデル「GPT‑6 Astra」公開 \"世界最高の知能\""
+        },
+        {
+          "url": "https://forest.watch.impress.co.jp/category/genai/",
+          "title": "生成AI - 窓の杜"
+        },
+        {
+          "url": "https://forest.watch.impress.co.jp/category/genai/fm/",
+          "title": "生成AI 基盤モデル"
+        },
+        {
+          "url": "https://aisokuho.com/tag/%E7%94%9F%E6%88%90ai/",
+          "title": "生成AI"
+        },
+        {
+          "url": "https://forest.watch.impress.co.jp/category/genai/gemini/",
+          "title": "生成AI Gemini"
+        },
+        {
+          "url": "https://www.businessinsider.jp/article/2609-how-much-did-major-generative-ai-service-fees/",
+          "title": "【2026年9月版】生成AI主要8サービス料金早見表 ―― エージェント「Grok Bot」や「Gemini 3.7 Flash」がお披露目 | Business Insider Japan"
+        },
+        {
+          "url": "https://llmc.nii.ac.jp/topics/",
+          "title": "国立情報学研究所 大規模言語モデル研究開発センター - NII LLMC"
+        },
+        {
+          "url": "https://www.digital.go.jp/policies/genai",
+          "title": "ガバメントAI「源内」｜デジタル庁"
+        },
+        {
+          "url": "https://ai.watch.impress.co.jp/category/gen-ai/",
+          "title": "生成AI"
+        },
+        {
+          "url": "https://www.sbbit.jp/article/cont1/186823",
+          "title": "米OpenAIが次世代モデル「GPT-6 Astra」を正式発表 - ビジネス+IT"
+        },
+        {
+          "url": "https://news.mynavi.jp/techplus/tag/generativeai/",
+          "title": "「生成AI」のニュースまとめ"
+        },
+        {
+          "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2026.html",
+          "title": "生成AIに関する実態調査2026 春 6カ国比較"
+        },
+        {
+          "url": "https://zenn.dev/ai_nexus/articles/business-genai-adoption-2026",
+          "title": "2026年の企業向け生成AI活用戦略 営業・企画・開発の業務効率を劇 ..."
+        },
+        {
+          "url": "https://mscompass.ms-ins.com/business-news/generation-ai-2026/",
+          "title": "帝国データバンク公表「生成AIに関する企業の動向調査（2026年3月 ..."
+        },
+        {
+          "url": "https://www.smrj.go.jp/research_case/questionnaire/fbrion0000002pjw-att/202603_AI_point.pdf",
+          "title": "中小企業のAI等の利活用に係る実態調査 （2026年3月）"
+        },
+        {
+          "url": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/the%20state%20of%20ai/the-state-of-ai-in-2026-on-the-road-to-roi.pdf",
+          "title": "The state of AI in 2026 - McKinsey & Company"
+        },
+        {
+          "url": "https://www.commercepick.com/archives/88071",
+          "title": "2026年最新「企業の生成AI利用実態調査」管理職 ..."
+        },
+        {
+          "url": "https://www.macromill.com/service/report/research-report-166/",
+          "title": "【最新調査】生成 AIビジネス活用の現在地と次なる課題を解説"
+        },
+        {
+          "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+          "title": "The State of AI: Global Survey 2026 | McKinsey"
+        },
+        {
+          "url": "https://aismiley.co.jp/ai_news/teikoku-databank-ai-202603report/",
+          "title": "帝国データバンク、「生成AIに関する企業の動向調査」結果発表 ..."
+        },
+        {
+          "url": "https://mitecu.com/trends/ipa-dx-trend-2026-ai-business-impact/",
+          "title": "生成AI導入44%、AI活用が売上につながりにくい背景 - mitecu"
+        },
+        {
+          "url": "https://fortune.com/2026/04/01/ai-worker-productivity-adoption-goldman-sachs-saves-60-minutes-per-day/",
+          "title": "AI is saving workers up to an hour a day—but Goldman Sachs says 80% of companies aren’t using it yet | Fortune"
+        },
+        {
+          "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd121130.html",
+          "title": "令和8年版 情報通信白書｜生成AIの業務利用状況"
+        },
+        {
+          "url": "https://www.anthropic.com/legal/commercial-terms",
+          "title": "Commercial Terms of Service"
+        },
+        {
+          "url": "https://openai.com/policies/",
+          "title": "Terms & Policies"
+        },
+        {
+          "url": "https://www.anthropic.com/legal/k12-terms",
+          "title": "U.S. K-12 Terms of Service"
+        },
+        {
+          "url": "https://openai.com/policies/developer-apps-terms/",
+          "title": "App Developer Terms - OpenAI"
+        },
+        {
+          "url": "https://openai.com/policies/eu-terms-of-use/",
+          "title": "Europe Terms of Use - OpenAI"
+        },
+        {
+          "url": "https://www.anthropic.com/startup-program-official-terms",
+          "title": "Anthropic Startup Program Official Terms"
+        },
+        {
+          "url": "https://openai.com/policies/row-terms-of-use/",
+          "title": "Terms of Use - OpenAI"
+        },
+        {
+          "url": "https://www.crowell.com/en/insights/client-alerts/gsa-issues-proposed-ai-contract-clause-seeks-feedback",
+          "title": "GSA Issues Proposed AI Contract Clause, Seeks Feedback"
+        },
+        {
+          "url": "https://blog.promise.legal/ai-vendor-contract-requirements-due-diligence/",
+          "title": "AI Vendor Contract Requirements: A 2026 Checklist"
+        },
+        {
+          "url": "https://vendorbenchmark.com/guides/enterprise-ai-indemnity-clause-benchmark",
+          "title": "Enterprise AI Indemnity Clause Benchmark 2026"
+        },
+        {
+          "url": "https://openai.com/policies/advertising-terms/",
+          "title": "Advertising Terms"
+        },
+        {
+          "url": "https://theinnovationattorney.substack.com/p/rewriting-the-saas-agreement-for",
+          "title": "Rewriting the SaaS Agreement for the Age of Agentic AI"
+        },
+        {
+          "url": "https://developers.openai.com/api/docs/models/gpt-6-astra",
+          "title": "GPT-6 Astra Model | OpenAI API"
+        },
+        {
+          "url": "https://developers.openai.com/api/docs/pricing",
+          "title": "Pricing | OpenAI API"
+        },
+        {
+          "url": "https://developers.openai.com/api/docs/pricing.md",
+          "title": "developers.openai.com"
+        },
+        {
+          "url": "https://developers.openai.com/api/docs/models/compare",
+          "title": "Compare models | OpenAI API"
+        },
+        {
+          "url": "https://developers.openai.com/api/docs/models",
+          "title": "Models | OpenAI API"
+        },
+        {
+          "url": "https://developers.openai.com/codex/whats-new",
+          "title": "What's new - ChatGPT Learn"
+        },
+        {
+          "url": "https://developers.googleblog.com/search/",
+          "title": "- Google Developers Blog"
+        },
+        {
+          "url": "https://developers.googleblog.com/how-we-built-the-google-io-2026-save-the-date-experience/",
+          "title": "How we built the Google I/O 2026 Save the Date experience"
+        },
+        {
+          "url": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
+          "title": "All the news from the Google I/O 2026 Developer keynote"
+        },
+        {
+          "url": "https://developers.openai.com/",
+          "title": "OpenAI Developers"
+        },
+        {
+          "url": "https://developers.googleblog.com/en/search/?product_categories=Gemini",
+          "title": "Gemini - Search - Google Developers Blog"
+        },
+        {
+          "url": "https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/",
+          "title": "Start the year AI-ready with the Google AI Educator Series"
+        },
+        {
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+          "title": "WeatherNext 3: Our most advanced global weather AI model"
+        },
+        {
+          "url": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
+          "title": "See a map of the male fruit fly brain - Google Blog"
+        },
+        {
+          "url": "https://blog.google/intl/ko-kr/company-news/technology/introducing-weathernext-3-kr/",
+          "title": "더 정밀하고 강력해진 차세대 글로벌 기상 예측 AI 모델, '웨더넥스트 3 ..."
+        },
+        {
+          "url": "https://blog.google/intl/ja-jp/company-news/technology/gemini-38-flash-38-flash-cyber/",
+          "title": "Gemini 3.8 Flash と 3.8 Flash Cyber を発表 - Google Blog"
+        },
+        {
+          "url": "https://x.ai/news/grok-bot-for-enterprise",
+          "title": "Grok Bot for Enterprise - SpaceXAI"
+        },
+        {
+          "url": "https://blog.google/intl/pt-br/produtos/apresentando-o-gemini-38-flash-e-o-38-flash-cyber/",
+          "title": "Apresentando o Gemini 3.8 Flash e o 3.8 Flash Cyber - Google Blog"
+        },
+        {
+          "url": "https://blog.google/rss/",
+          "title": "News from Google"
+        },
+        {
+          "url": "https://x.ai/news/biosafety-at-the-frontier",
+          "title": "Biosecurity at the frontier - SpaceXAI"
+        },
+        {
+          "url": "https://x.ai/news/designing-grok-bot",
+          "title": "Designing Grok Bot for a world of persistent agents - SpaceXAI"
+        },
+        {
+          "url": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/",
+          "title": "Use your voice to get more done in Gmail, Docs, and Keep"
+        }
+      ],
+      "cost_usd": 0.04466,
+      "error": null
+    },
+    {
+      "id": "education",
+      "title": "AI時代の教育トレンド",
+      "body": "# 調査結果  \n**調査時点：2026年9月5日**  \n**直近1か月：2026年8月5日〜9月5日を中心に確認**  \n※制度の決定日が直近1か月より前でも、2026年8月以降に施行・更新されたものは対象に含めました。\n\n## 1. 全体像\n\n直近の世界動向は、幼児・小学校低学年では、生成AIや個人用端末を「早期から使わせる」よりも、次の方向に傾いています。\n\n- **読み書き・計算などの基礎技能を、AI時代にも不可欠な土台として維持する**\n- **教師との対話、友達との遊び、身体活動、紙の教材を重視する**\n- 生成AIは、低年齢層では**禁止または教師による提示に限定**\n- 端末利用は「全面的なデジタル化」から、**目的・年齢・発達段階に応じて制限する運用**へ\n- AI時代に重要性が増す能力として、**批判的思考、創造性、判断力、協働、倫理、情報・AIリテラシー、自己調整**が挙げられる\n- ただし、AIがこれらの能力を実際に伸ばすという因果的な実証は、特に幼児・小学校段階ではまだ限定的\n\n---\n\n# 2. AI時代に重要性が増す能力・相対的に見直される能力\n\n## 2-1. 重要性が増すと論じられている能力\n\n### 確認できた事実\n\nユネスコ（UNESCO）の児童・生徒向けAIコンピテンシー枠組みは、主に次の4領域を示しています。\n\n1. **人間中心の考え方**\n2. **AIの倫理**\n3. **AIの技術・応用に関する基礎知識**\n4. **AIシステムの設計、問題解決、創造性、デザイン思考**\n\nまた、批判的思考、倫理的判断、人間の主体性、安全で責任ある利用を重視しています。これは「AIを操作できること」だけでなく、AIの出力を疑い、目的に照らして判断する能力を重視する立場です。  \n**根拠：** UNESCOのAIコンピテンシー枠組みは、AIを人間の能力を補完するものと位置づけ、批判的思考、倫理、人間の主体性を重視している。  \nURL: https://www.unesco.org/en/articles/what-you-need-know-about-unescos-new-ai-competency-frameworks-students-and-teachers\n\nOECD（経済協力開発機構）は、AIが読解、数学、科学的推論の一部で人間を上回り得ることを踏まえ、教育では基礎技能を強化するとともに、AIと協働する力を育てる必要があるとしています。  \n**根拠：** OECDは、AIの能力向上を理由に、読み書き・計算などの基礎技能を不要とするのではなく、基礎技能とAIとの協働を重視している。  \nURL: https://www.oecd.org/en/topics/artificial-intelligence-and-education-and-skills.html  \nURL: https://www.oecd.org/en/publications/is-education-losing-the-race-with-technology_73105f99-en.html\n\n### 記事・政策が示す見通し\n\nユネスコの2026年更新ページは、AIを「思考の近道」ではなく「思考の相手」として使うべきだと説明し、創造性と批判的思考はAIに置き換えられない重要な能力だとしています。これは研究結果の報告というより、ユネスコが示す政策的・教育的な方向性です。  \n**根拠：** UNESCOは、創造性と批判的思考をAI時代にも重要な人間の能力と位置づけている。  \nURL: https://www.unesco.org/en/digital-education/artificial-intelligence\n\n## 2-2. 相対的に「AIに任せられる」と論じられる能力\n\nAIは、文章の下書き、情報検索、計算、反復練習、個別化された問題提示などを補助できると論じられています。しかし、これは「子どもが読み書き・計算を学ばなくてよい」という意味ではありません。\n\nスタンフォード大学の2026年レビューでは、AI利用中の数学練習、プログラミング、作文などで成績向上が確認された研究がある一方、K-12教育における高品質な因果研究は非常に少なく、識字能力や社会情動的発達への因果的な証拠は限定的とされています。  \n**根拠：** AI利用中の即時的な学習成果には改善が見られるが、長期的・因果的な効果、社会情動面、教育格差への影響は十分に確認されていない。  \nURL: https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf\n\nしたがって、現時点で「重要性が減る」と確定的に言える能力は確認できません。特に、**読解、手書き、数量概念、口頭説明、他者との協働、自己調整**は、AI時代にもむしろAIを適切に使う前提となる能力と考えられています。\n\n---\n\n# 3. 読み書き・計算・遊び・非認知能力の位置づけ\n\n## 3-1. 読み書き・計算\n\n### 確認できた事実\n\nノルウェー政府は2026年6月、AI利用を小学校1〜7年生で原則として認めない方針と併せて、紙の教科書を利用できるようにする政策を示しました。政府説明では、低学年で重視すべきものとして、遊び、友人との社会的技能、教師との信頼関係、読み書き、数学の基礎が挙げられています。  \n**根拠：** ノルウェー政府は、低学年ではAIやデジタル機器を抑え、遊び、社会性、読み書き、数学を重視する方向を示した。  \nURL: https://www.regjeringen.no/no/aktuelt/slik-vil-regjeringen-endre-skolehverdagen/id3167032/  \nURL: https://www.regjeringen.no/no/aktuelt/kunnskapsministerens-innlegg-pa-bett-2026/id3147282/\n\nオーストラリア・ビクトリア州も、2026年7月に更新した指針で、Foundation〜Level 2、すなわちおおむね就学初期では、読みの指導・学習・評価において紙の教材を標準とするよう推奨しています。Level 3以降も、画面上の文章は明確な教育目的がある場合に限定する方向です。  \n**根拠：** ビクトリア州は、初等教育の初期段階で紙の文章を標準とし、デジタル端末の利用を目的限定とする。  \nURL: https://www2.education.vic.gov.au/pal/digital-learning/guidance/student-use-of-digital-devices-and-tools\n\n### 評価\n\nこれは読み書き・計算の重要性が下がったことを示すものではなく、むしろAIに依存する前に、**自力で読んで理解し、書いて説明し、数量を把握する基礎を固める必要性が再確認されている**と見るのが妥当です。\n\n## 3-2. 遊び・社会性・非認知能力\n\nノルウェー政府は、1〜4年生では、友達と遊ぶこと、社会的技能、教師との信頼関係を重視すると説明しています。これは、学力技能だけでなく、協働、対人関係、自己調整、信頼形成といった非認知的・社会情動的な能力を、デジタル機器より優先する考え方です。  \n**根拠：** ノルウェー政府関係者は、低学年の中心的活動として遊び、社会技能、教師との信頼関係、読み書き、数学を挙げている。  \nURL: https://www.regjeringen.no/no/aktuelt/kunnskapsministerens-innlegg-pa-bett-2026/id3147282/\n\n幼児教育におけるAIの2026年系統的レビューでは、AIが音韻認識、初期計算、語彙、参加意欲、一部の社会情動的支援に役立つ可能性が報告されています。一方で、長期的な発達効果、文化間での再現性、データ保護、人間中心の関係性への影響については研究上の空白が大きいとされています。  \n**根拠：** 幼児教育AI研究は初期学習への潜在的効果を報告する一方、人間の直接的な関わりをAIが代替しないこと、長期研究が不足していることを指摘している。  \nURL: https://journal.igiinsight.com/index.php/ChildDev/article/view/168  \nURL: https://www.tandfonline.com/doi/full/10.1080/1350293X.2026.2651904\n\n---\n\n# 4. 各国・地域の幼児教育・小学校政策\n\n## 4-1. ノルウェー：小学校1〜7年生の生成AIを原則禁止\n\n### 確認できた事実\n\nノルウェー政府は2026年6月、秋の新学期から次の方針を示しました。\n\n- **1〜7年生：児童本人には原則としてAIへのアクセスを与えない**\n- **8〜10年生：教師の十分な研修後、段階的・慎重に利用**\n- **高等学校：高等教育・就労に向け、適切なAI利用を学ぶ**\n\nこの方針は2026年8月末の新学期から実施されました。  \n**根拠：** ノルウェー政府の公式発表。  \nURL: https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/\n\n### 評価・見通し\n\nノルウェーの政策は、AIを一律に教育から排除するというより、**基礎技能が形成される前の低年齢層には本人利用を認めず、年齢が上がるにつれて教師管理下で導入する段階的モデル**です。これは政策判断であり、AI禁止による学習成果の改善が実証されたという意味ではありません。  \n**根拠：** 公式方針は年齢段階別の制限を示しているが、禁止の教育効果を示す実証研究は同発表では確認できない。  \nURL: https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/\n\n## 4-2. 米国ニューヨーク市：2-K〜8年生の生徒向け生成AIを停止\n\n### 確認できた事実\n\nニューヨーク市公立学校は、2026〜2027年度について次の方針を公表しました。\n\n| 学年 | 生徒向け生成AI | 個人用画面利用 |\n|---|---|---|\n| 2-K〜2年生 | 禁止 | 1対1の画面利用なし |\n| 3〜5年生 | 禁止 | 1日30分以内を推奨 |\n| 6〜8年生 | 禁止 | 1日45分以内を推奨 |\n| 9〜12年生 | 承認済み・審査済みのプログラムに限定 | 学校・授業による |\n\n補助技術、個別教育計画（IEP）や504プランに基づく利用、評価・診断、電子書籍、ロボット、コーディング、シミュレーションなどには例外があります。教師は、授業準備や業務に承認済みAIを使えますが、成績評価、行動監視、進級・配置などの判断にAIを使うことは禁止されています。  \n**根拠：** ニューヨーク市公立学校の公式AI・スクリーンタイム指針。  \nURL: https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence  \nURL: https://www.schools.nyc.gov/about-us/news/newsletter---nyc-public-schools-plus-you\n\n### 評価\n\nニューヨーク市は、幼児教育から中学校までを「生成AIの利用を学ぶ段階」ではなく、**人間の教師、紙・対面活動、発達に適した学習を優先する段階**と位置づけています。ただし、これは市の教育行政による方針であり、米国全体の全国ルールではありません。\n\n## 4-3. オーストラリア・ビクトリア州：小学校でBYODを廃止、画面利用を制限\n\n### 確認できた事実\n\nビクトリア州教育省は、2027年から次の方針を示しています。\n\n- Foundation〜6年生では、家庭に端末を購入・持参させることを学校が求めてはならない\n- Foundation〜2年生は、デジタル機器の利用を最小限にする\n- 3〜6年生は、デジタル機器の利用を**1日最大90分**とする設計が示されている\n- 初等教育では、デジタル機器を使う宿題を設定しないことを強く推奨\n- Foundation〜2年生の読みの指導では、紙の文章を標準とする\n\n**根拠：** ビクトリア州教育省のデジタル学習政策。  \nURL: https://www2.education.vic.gov.au/pal/digital-learning/print-all  \nURL: https://www2.education.vic.gov.au/pal/digital-learning/guidance/student-use-of-digital-devices-and-tools\n\n### 評価\n\nビクトリア州は、デジタル技能そのものを否定するのではなく、**端末の常時利用、受動的な画面視聴、AIによる自動完成・自動生成に依存する学習**を抑え、教師の説明、モデル提示、紙の教材、能動的な学習を優先しています。  \n**根拠：** 公式指針は、AIを含むデジタルツールが学習上必要な努力や思考を置き換えないよう求めている。  \nURL: https://www2.education.vic.gov.au/pal/digital-learning/guidance/student-use-of-digital-devices-and-tools\n\n## 4-4. 香港：全校・全児童生徒を対象にAI教育をカリキュラムへ組み込む\n\n### 確認できた事実\n\n香港教育局は2026年8月、デジタル教育のブループリントと併せて、次の資料を学校に示しました。\n\n- **小中学校AIリテラシー学習枠組み**\n- **小中学校の授業におけるAI利用ガイド**\n- 各段階のAI学習重点、利用場面、AIリテラシーの評価に関する提案\n\n香港は、ノルウェーやニューヨーク市のような低年齢層の一律停止ではなく、**AIを全校・全児童生徒に教える方向**を打ち出しています。  \n**根拠：** 香港教育局の2026年8月の公式通達。  \nURL: https://applications.edb.gov.hk/circular/upload/EDBC/EDBC26011E.pdf\n\n### 評価\n\n香港の方針は、AIを早期に自由利用させることではなく、AIリテラシーをカリキュラムに位置づけ、教師向け利用ルールと併せて導入するものです。低年齢児童の自由な生成AI利用の具体的範囲については、同資料の全内容を確認しない限り、ここでは断定できません。\n\n## 4-5. カナダ・ニューブランズウィック州：幼児教育の画面利用を1日30分以下\n\n### 確認できた事実\n\nニューブランズウィック州は2026年8月、幼児教育・保育施設向けの新方針を発表しました。\n\n- 認可保育施設での画面利用は**1日30分以下**\n- **2歳未満は画面利用なし**\n- 教育目的・年齢相応・教育者の指導下に限定\n- 食事中の画面利用は禁止\n- 幼稚園から8年生は、学校時間中の個人スマートフォン等を禁止\n\n**根拠：** ニューブランズウィック州政府の公式発表。  \nURL: https://www.gnb.ca/en/news/n-b.2026.08.government-introduces-measures-reduce-classroom-distractions.html\n\n---\n\n# 5. 幼児教育のスクリーンタイム方針：最新値\n\n国・地域で定義が異なるため、単一の「世界標準値」は確認できません。直近で確認できる代表的な最新値は次のとおりです。\n\n| 国・地域 | 対象 | 最新方針・上限 |\n|---|---|---|\n| 英国 | 2歳未満 | 原則、画面利用を避ける。ただし、対話的な共同利用などは例外 |\n| 英国 | 2〜5歳 | **1日1時間以内**を目安。少ないほどよい |\n| 英国・保育施設 | 2歳未満 | 原則、画面利用を避ける |\n| 英国・保育施設 | 2〜5歳 | **1日1時間以内**、短時間・教育目的・対話的利用 |\n| ニューブランズウィック州 | 認可保育施設 | **1日30分以下** |\n| ニューブランズウィック州 | 2歳未満 | **画面利用なし** |\n| ニューヨーク市 | 2-K〜2年生 | 1対1の画面利用なし |\n| ニューヨーク市 | 3〜5年生 | **1日30分以内を推奨** |\n| アラバマ州 | 保育、幼稚園、プレキンダー等 | 2027年1月1日施行予定。具体的な州基準は今後策定 |\n\n英国の幼児教育施設向け指針は、画面を子どもを静かにさせるため、移行時間の穴埋め、行動管理、受動的視聴に使わないよう求めています。  \n**根拠：** 英国教育省の幼児教育施設向け公式指針。  \nURL: https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/screen-use  \nURL: https://www.gov.uk/government/news/new-screen-time-guidance-for-parents-of-under-5s\n\nニューブランズウィック州の数値は、幼児教育施設における**1日30分以下**、2歳未満は利用なしです。  \nURL: https://www.gnb.ca/en/news/n-b.2026.08.government-introduces-measures-reduce-classroom-distractions.html\n\nアラバマ州では、保育、デイケア、プレキンダー、幼稚園などを対象にスクリーンタイム基準を策定する法律が成立しましたが、州の具体的な利用上限は確認できません。法律の施行日は**2027年1月1日**です。  \nURL: https://governor.alabama.gov/newsroom/2026/03/governor-ivey-signs-screen-time-limits-for-early-childhood-education-programs-into-law/\n\n---\n\n# 6. 小学校の生成AI利用ルール：各国・地域の最新確認値\n\n## ノルウェー\n\n- 1〜7年生：児童本人のAI利用を原則認めない\n- 8〜10年生：教師の研修を前提に、段階的・慎重に利用\n- 高等学校：適切なAI利用を学ぶ\n- 2026年8月末の新学期から適用\n\nURL: https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/\n\n## ニューヨーク市\n\n- 2-K〜8年生：生徒向け生成AIを停止\n- 9〜12年生：承認済み・審査済みのプログラムに限定\n- 教師の授業準備・業務利用は承認済みツールに限り可能\n- 成績評価、行動監視、進級・配置などへのAI利用は禁止\n\nURL: https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence\n\n## 香港\n\n- 小中学校のカリキュラムにAIリテラシーを組み込む\n- AIリテラシー学習枠組みと、教師のAI利用ガイドを導入\n- 低学年児童の生成AI自由利用に関する具体的上限は、確認した資料だけでは確認できず\n\nURL: https://applications.edb.gov.hk/circular/upload/EDBC/EDBC26011E.pdf\n\n## オーストラリア・ビクトリア州\n\n- 小学校で家庭からのBYODを原則求めない\n- Foundation〜2年生はデジタル機器を最小限\n- 3〜6年生は1日最大90分の設計\n- AIを含むデジタルツールは、教師の説明・指導・練習を不必要に置き換えないことを推奨\n\nURL: https://www2.education.vic.gov.au/pal/digital-learning/print-all  \nURL: https://www2.education.vic.gov.au/pal/digital-learning/guidance/student-use-of-digital-devices-and-tools\n\n## 日本\n\n### 確認できた事実\n\n日本の文部科学省の現行資料は、2024年12月26日公表の「初等中等教育段階における生成AIの利活用に関するガイドライン Ver.2.0」です。2026年8月時点で、これを置き換える正式なVer.2.1は確認できません。\n\nガイドラインは、学校における生成AIの一律禁止・一律義務付けではなく、次を重視しています。\n\n- 学習指導要領の資質・能力の育成につながるかを確認\n- 発達段階に応じて利用\n- 小学校段階の児童の直接利用はより慎重に判断\n- 教師が生成AIとの対話を示すなど、段階的な利用\n- 年齢制限、利用規約、保護者の理解、個人情報保護を確認\n- AI利用そのものを目的にしない\n\nURL: https://www.mext.go.jp/zyoukatsu/ai/  \nURL: https://www.mext.go.jp/content/20241226-mxt_shuukyo02-000030823_001.pdf\n\n2026年8月に確認できる国立教育政策研究所の資料では、生成AIについて、AI自体を学ぶ場面、使い方を学ぶ場面、各教科の学びで使う場面を組み合わせる考え方が示されています。一方で、一律禁止・一律義務付けのような硬直的運用は望ましくないとされています。  \nURL: https://www.nier.go.jp/06_jigyou/symposium/_uploads/2026/08/906a92213c5ed13df2363bd2a9a20b4f91a74cdd.pdf\n\n### 直近の政府方針\n\n2026年8月の「デジタル社会重点計画」関連の説明では、政府は2026年度中に初等中等教育向け生成AIガイドラインを改訂する方針を示しています。これには、研修、学校での実証、教育分野向けAI、学習指導要領・教科書等のAI-Ready化が含まれます。\n\nただし、2026年9月5日時点で、改訂版ガイドラインそのものの正式公表は確認できません。  \n**根拠：** 2026年度中の改訂方針は報じられているが、正式な改訂版は未確認。  \nURL: https://reseed.resemom.jp/article/2026/08/12/13897.html\n\n### 日本の幼児教育スクリーンタイム\n\n日本の国としての幼稚園・保育所向けに、2026年8月時点で新たに設定された一律の1日上限値は確認できません。自治体、園、家庭向けの個別方針は存在し得ますが、今回の調査では全国一律の最新数値は確認できません。\n\n**結論：日本の幼児教育スクリーンタイム方針の全国一律の最新値：確認できず。**\n\n---\n\n# 7. 実証研究・国際機関の報告から分かること\n\n## 幼児教育におけるAI研究\n\n2026年の系統的レビューでは、幼児教育におけるAI研究の主なテーマとして、次が整理されています。\n\n- 個別化学習・適応的指導\n- AIコンパニオンや教育ロボット\n- 会話型AIによる言語・読み書き支援\n- 教師の専門性開発\n- プライバシー、データ保護、アルゴリズム・バイアス\n\n研究上は、音韻認識、初期計算、語彙、学習参加度などの改善が報告されています。しかし、多くの研究は質的研究で、長期的な発達効果を示す研究や、文化・国をまたいで再現される研究は不足しています。  \n**根拠：** 幼児教育AI研究の系統的レビュー。  \nURL: https://www.tandfonline.com/doi/full/10.1080/1350293X.2026.2651904\n\n## K-12全体の実証研究\n\nスタンフォード大学の2026年レビューは、AIが数学練習、作文、プログラミングなどの短期的な成果を改善する可能性を認めつつ、次の点を強調しています。\n\n- 米国K-12での高品質な因果研究は非常に少ない\n- AIが教育格差に与える影響は十分に検証されていない\n- 社会情動的発達への影響も十分に検証されていない\n- AI利用中の成果向上が、AIなしでも持続するかは確認できない\n\nURL: https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf\n\n## OECD\n\nOECDの2026年デジタル教育見通しは、生成AIが明確な教育原則の下で使われれば、教師の補助者、学習パートナー、チューターとして機能し得るとしています。また、批判的思考、創造性、協働を伸ばす可能性を示しています。\n\nただし、これは「自由に使わせれば能力が伸びる」という結論ではなく、教師の主体性、教育目的、適切な設計が条件です。  \n**根拠：** OECD Digital Education Outlook 2026の概要。  \nURL: https://www.cedefop.europa.eu/en/print/pdf/node/162066\n\n---\n\n# 8. 今後の方向性\n\n## 確認できた政策上の大きな分岐\n\n現在の政策は、おおむね次の2類型に分かれています。\n\n### A. 低年齢層のAI・画面利用を抑制するモデル\n\n- ノルウェー：1〜7年生の生成AIを原則禁止\n- ニューヨーク市：2-K〜8年生の生徒向け生成AIを停止\n- ビクトリア州：小学校の端末利用を制限、紙の読み教材を優先\n- ニューブランズウィック州：保育施設の画面利用を1日30分以下\n\n### B. AIリテラシーを早期からカリキュラムに組み込むモデル\n\n- 香港：小中学校全体にAIリテラシー教育を導入\n- 日本：一律禁止ではなく、発達段階と教育目的に応じた段階的利用\n- UNESCO：AIの仕組み、倫理、人間の主体性、創造性を教育に組み込む方向\n\n## 総合評価\n\n現時点で確認できる政策・研究からは、次のように整理できます。\n\n1. **読み書き・計算の重要性は低下していない**  \n   AIを使うためにも、AIの出力を理解・検証するためにも基礎技能が必要とされています。\n\n2. **遊び、対話、協働、自己調整などの非認知・社会情動的能力が重視されている**  \n   特に幼児・低学年では、AI利用よりも人との関わりや遊びを優先する政策が増えています。\n\n3. **AIリテラシーは重要性が増している**  \n   ただし、低年齢児童に自由に生成AIを使わせることと、AIについて学ばせることは別です。\n\n4. **画面時間は「多いか少ないか」だけでなく、使い方を問う方向に変化している**  \n   受動的視聴、行動管理、端末による自動完成は抑え、教師との対話、目的の明確な利用、支援技術は例外とする方式が広がっています。\n\n5. **実証研究は政策の後を追っている段階**  \n   短期的な学習成果の改善は報告されていますが、幼児期からのAI利用が長期的な認知・社会情動発達を改善するという確立した証拠は、現時点では確認できません。",
+      "sources": [
+        {
+          "url": "https://www.iphoneincanada.ca/2026/06/19/norway-imposes-ban-on-ai-chatbots-in-elementary-schools/",
+          "title": "Norway Imposes Ban on AI Chatbots in Elementary Schools | iPhone in Canada"
+        },
+        {
+          "url": "https://www.euronews.com/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools",
+          "title": "Before New York City, Norway had already banned AI in schools"
+        },
+        {
+          "url": "https://mihata.jp/column/generative-ai-school-guideline",
+          "title": "学校・教育現場の生成AIガイドライン｜文科省Ver.2.0の要点"
+        },
+        {
+          "url": "https://www.multistate.us/insider/2026/4/8/elementary-school-screen-time-limits-gain-momentum-in-2026",
+          "title": "States Limit Classroom Screen Time in Elementary Schools"
+        },
+        {
+          "url": "https://www.techtimes.com/articles/318865/20260622/norway-bans-ai-schools-children-under-13-blocked-reading-math-scores-sink.htm",
+          "title": "Norway Bans AI in Schools: Children Under 13 Blocked as Reading ..."
+        },
+        {
+          "url": "https://askcolin.uk/blog/kcsie-2026-ai-changes-primary-schools.html",
+          "title": "KCSIE 2026 AI Changes: What Every UK Primary School Needs to ..."
+        },
+        {
+          "url": "https://www.euronews.com/next/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools",
+          "title": "Before New York City, Norway had already banned AI in schools"
+        },
+        {
+          "url": "https://www.abc.net.au/news/2026-08-25/how-education-departments-across-country-are-cracking-down-on-ai/107026976",
+          "title": "How education departments are cracking down on ..."
+        },
+        {
+          "url": "https://www.aasa.org/news-media/news/2026/08/03/students-produce-national-framework-for-ai-in-america's-schools",
+          "title": "Students from All 50 States Produce National Framework for AI in America's Schools"
+        },
+        {
+          "url": "https://applications.edb.gov.hk/circular/upload/EDBC/EDBC26011E.pdf",
+          "title": "[PDF] Education Bureau Circular No. 11/2026 The Blueprint for Digital ..."
+        },
+        {
+          "url": "https://memeburn.com/norway-blocks-ai-for-elementary-students-starting-august-2026/",
+          "title": "Norway Blocks AI for Elementary Students Starting August 2026 - Memeburn"
+        },
+        {
+          "url": "https://www.oecd.org/en/publications/the-state-of-the-field-of-computational-thinking-in-early-childhood-education_3354387a-en.html",
+          "title": "The state of the field of computational thinking in early ..."
+        },
+        {
+          "url": "https://www.nier.go.jp/06_jigyou/symposium/_uploads/2026/08/906a92213c5ed13df2363bd2a9a20b4f91a74cdd.pdf",
+          "title": "[PDF] 学校教育における AI活用に関する取組"
+        },
+        {
+          "url": "https://genai-ai.co.jp/ai-kanri/blog/cc-mext-ai-guidelines/",
+          "title": "【2026年8月最新】文部科学省の生成AIガイドラインを徹底解説"
+        },
+        {
+          "url": "https://www.mext.go.jp/zyoukatsu/ai/",
+          "title": "学校現場における生成AIの利用について"
+        },
+        {
+          "url": "https://www.mext.go.jp/a_menu/other/mext_02412.html",
+          "title": "生成AIの利用について"
+        },
+        {
+          "url": "https://edu.watch.impress.co.jp/docs/news/2106509.html",
+          "title": "文部科学省、生成AI活用のこれまでの取り組みを公開"
+        },
+        {
+          "url": "https://www8.cao.go.jp/cstp/ai/ai_guideline/ai_guideline.html",
+          "title": "人工知能関連技術の研究開発及び活用の適性性確保に関する ..."
+        },
+        {
+          "url": "https://steam-japan.com/education/11808/",
+          "title": "【2026年】世界の学校教育と生成AIの分岐点 - STEAM JAPAN"
+        },
+        {
+          "url": "https://www.mext.go.jp/content/20241226-mxt_shuukyo02-000030823_001.pdf",
+          "title": "初等中等教育段階における 生成 AI の利活用に関する ..."
+        },
+        {
+          "url": "https://uravation.com/media/mext-generative-ai-guidelines-2026/",
+          "title": "文部科学省の生成AIガイドライン解説｜学校・教育委員会 ..."
+        },
+        {
+          "url": "https://www.elephancube.co.jp/2026/07/r8-johotsusintokei-kodomo/",
+          "title": "子どもはもうAIで学んでいる。令和8年版情報通信白書が示す ..."
+        },
+        {
+          "url": "https://reseed.resemom.jp/article/2026/08/12/13897.html",
+          "title": "【デジタル社会重点計画2026】校務での生成AI活用を促進"
+        },
+        {
+          "url": "https://journal.igiinsight.com/index.php/ChildDev/article/download/142/136/439",
+          "title": "[PDF] Artificial Intelligence in Early Childhood Education: A Systematic ..."
+        },
+        {
+          "url": "https://journal.igiinsight.com/index.php/ChildDev/article/download/168/155/562",
+          "title": "Artificial Intelligence in Early Childhood Education: A ..."
+        },
+        {
+          "url": "https://journal.igiinsight.com/index.php/ChildDev/article/view/168",
+          "title": "Artificial Intelligence in Early Childhood Education - IGI Insight"
+        },
+        {
+          "url": "https://jecan.com.ng/upload_file/S70XT14.pdf",
+          "title": "JECAN LATEST 2026.cdr"
+        },
+        {
+          "url": "https://eric.ed.gov/?id=EJ1479032",
+          "title": "Exploring the Impact of Generative Artificial Intelligence on Students ..."
+        },
+        {
+          "url": "https://www.tandfonline.com/doi/full/10.1080/1350293X.2026.2651904",
+          "title": "Artificial intelligence in early childhood education: a systematic review of trends, methods, and recommendations for quality education"
+        },
+        {
+          "url": "https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf",
+          "title": "The Evidence Base on AI in K-12: A 2026 Review"
+        },
+        {
+          "url": "https://www.tandfonline.com/doi/abs/10.1080/1350293X.2026.2651904",
+          "title": "Artificial intelligence in early childhood education"
+        },
+        {
+          "url": "https://www.unesco.org/en/articles/play-smart-ai-unesco-supports-media-and-information-literacy-youth-hackathon-china",
+          "title": "Play Smart with AI: UNESCO supports media and information literacy"
+        },
+        {
+          "url": "https://jurnal.uin-antasari.ac.id/index.php/jurnalaud/article/view/18916",
+          "title": "Integrasi Artificial Intelligence dalam Asesmen dan ..."
+        },
+        {
+          "url": "https://www.ijert.org/generative-artificial-intelligence-in-children-s-education-educational-cognitive-mental-well-being-creativity-and-digital-safety-outcomes-ijertv15is070276",
+          "title": "Generative Artificial Intelligence in Children’s Education ..."
+        },
+        {
+          "url": "https://www.cedefop.europa.eu/en/print/pdf/node/162066",
+          "title": "\\[PDF\\] OECD Digital Education Outlook 2026 - Cedefop"
+        },
+        {
+          "url": "https://www2.education.vic.gov.au/pal/digital-learning/print-all",
+          "title": "Digital Learning - Department of Education, Victoria"
+        },
+        {
+          "url": "https://www.schools.nyc.gov/about-us/news/newsletter---nyc-public-schools-plus-you",
+          "title": "Newsletter - NYC Public Schools Plus You"
+        },
+        {
+          "url": "https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/",
+          "title": "Kunstig intelligens skal i all hovedsak ikke brukes i barneskolen"
+        },
+        {
+          "url": "https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence",
+          "title": "Guidance on Artificial Intelligence (AI) and Screen Time"
+        },
+        {
+          "url": "https://www.schools.nyc.gov/about-us/vision-and-mission/artificial-intelligence/guidance-on-artificial-intelligence",
+          "title": "Guidance on Artificial Intelligence (AI) - Schools.nyc.gov"
+        },
+        {
+          "url": "https://www2.education.vic.gov.au/pal/recently-updated",
+          "title": "Recently updated PAL topics | VIC.GOV.AU"
+        },
+        {
+          "url": "https://www2.education.vic.gov.au/pal/digital-learning/guidance",
+          "title": "Digital Learning: Guidance | education.vic.gov.au"
+        },
+        {
+          "url": "https://www.regjeringen.no/no/aktuelt/slik-vil-regjeringen-endre-skolehverdagen/id3167032/",
+          "title": "Slik vil regjeringen endre skolehverdagen"
+        },
+        {
+          "url": "https://www.regjeringen.no/no/aktuelt/kunnskapsministerens-innlegg-pa-bett-2026/id3147282/",
+          "title": "Kunnskapsministerens innlegg på BETT 2026 - Regjeringen.no"
+        },
+        {
+          "url": "https://www2.education.vic.gov.au/pal/digital-learning/guidance/student-use-of-digital-devices-and-tools",
+          "title": "Student use of digital devices and tools | education.vic.gov.au"
+        },
+        {
+          "url": "https://www.schools.nyc.gov/home/2026/03/24/new-york-city-public-schools-announces-release-of-ai-guidance-for-educators-and-school-leaders",
+          "title": "New York City Public Schools Announces Release of AI Guidance ..."
+        },
+        {
+          "url": "https://www2.education.vic.gov.au/pal/digital-learning/guidance/student-digital-device-provision",
+          "title": "Digital Learning: Student digital device provision | VIC.GOV.AU"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/new-screen-time-guidance-for-parents-of-under-5s",
+          "title": "New screen time guidance for parents of under-5s - GOV.UK"
+        },
+        {
+          "url": "https://www.gov.uk/government/calls-for-evidence/early-years-screen-time-and-usage",
+          "title": "Early years screen time and usage - GOV.UK"
+        },
+        {
+          "url": "https://governor.alabama.gov/newsroom/2026/03/governor-ivey-signs-screen-time-limits-for-early-childhood-education-programs-into-law/",
+          "title": "Governor Ivey Signs Screen Time Limits for Early ..."
+        },
+        {
+          "url": "https://www.gnb.ca/en/news/n-b.2026.08.government-introduces-measures-reduce-classroom-distractions.html",
+          "title": "Government introduces measures to reduce classroom ..."
+        },
+        {
+          "url": "https://www.theguardian.com/society/2026/mar/27/what-new-screen-time-guidance-children-uk",
+          "title": "What does new guidance in the UK say about screen time for children?"
+        },
+        {
+          "url": "https://www.uel.ac.uk/about-uel/news/2026/march/uel-expert-guides-national-push-childrens-screen-time",
+          "title": "UEL expert guides national push on children's screen time"
+        },
+        {
+          "url": "https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/screen-use",
+          "title": "Screen use - Help for early years providers - Department for Education"
+        },
+        {
+          "url": "https://www.gov.uk/government/groups/early-years-screen-time-advisory-group",
+          "title": "Early Years Screen Time Advisory Group"
+        },
+        {
+          "url": "https://www.gov.uk/government/publications/screen-use-by-children-aged-under-5",
+          "title": "Screen use by children aged under 5"
+        },
+        {
+          "url": "https://campaignresources.dhsc.gov.uk/campaigns/best-start-in-life/best-start-in-life-screen-time/",
+          "title": "Best Start in Life - Screen Time - Campaign Resource Centre"
+        },
+        {
+          "url": "https://www.cdc.gov/early-care-education/php/obesity-prevention-standards/screen-time-limits.html",
+          "title": "HIOPS for Screen Time Limits | Early Care and Education"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/newguidance-on-screen-use-for-children-aged-5-16",
+          "title": "New guidance on screen use for children aged 5–16"
+        },
+        {
+          "url": "https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research",
+          "title": "Guidance for generative AI in education and research - UNESCO"
+        },
+        {
+          "url": "https://www.unesco.org/es/articles/guia-para-el-uso-de-ia-generativa-en-educacion-e-investigacion",
+          "title": "Guía para el uso de IA generativa en educación e ..."
+        },
+        {
+          "url": "https://www.oecd.org/en/topics/artificial-intelligence-and-education-and-skills.html",
+          "title": "Artificial intelligence and education and skills | OECD"
+        },
+        {
+          "url": "https://www.unesco.org/en/digital-education/ai-future-learning",
+          "title": "Artificial intelligence and the Futures of Learning"
+        },
+        {
+          "url": "https://www.oecd.org/en/publications/is-education-losing-the-race-with-technology_73105f99-en.html",
+          "title": "Is Education Losing the Race with Technology?"
+        },
+        {
+          "url": "https://www.unesco.org/pt/articles/guia-para-ia-generativa-na-educacao-e-na-pesquisa",
+          "title": "Guia para a IA generativa na educação e na pesquisa - UNESCO"
+        },
+        {
+          "url": "https://unevoc.unesco.org/i-hubs/i-hubs+-+Publications/lang=en/akt=detail/qs=6696",
+          "title": "Publications and Resources"
+        },
+        {
+          "url": "https://www.unesco.org/en/digital-education/artificial-intelligence",
+          "title": "Artificial intelligence in education - AI | UNESCO"
+        },
+        {
+          "url": "https://unesdoc.unesco.org/ark:/48223/pf0000386693",
+          "title": "Guidance for generative AI in education and research"
+        },
+        {
+          "url": "https://www.oecd.org/en/topics/sub-issues/artificial-intelligence-and-education-and-skills.html",
+          "title": "Artificial intelligence and education and skills | OECD"
+        },
+        {
+          "url": "https://www.unesco.org/en/articles/what-you-need-know-about-unescos-new-ai-competency-frameworks-students-and-teachers",
+          "title": "What you need to know about UNESCO's new AI ..."
+        },
+        {
+          "url": "https://www.oecd.org/en/publications/is-education-losing-the-race-with-technology_73105f99-en/full-report.html",
+          "title": "Full Report"
+        }
+      ],
+      "cost_usd": 0.03072,
+      "error": null
+    },
+    {
+      "id": "redteam",
+      "title": "反証さがし（L-5）",
+      "body": "## 調査結果\n\n### 1. 「モデル性能の差だけで採用が決まった事例が続く」\n\n**該当なし。**\n\n確認できた公開資料の範囲では、企業のAIモデル採用が「モデル性能の差だけ」を理由に決まり、そのような事例が複数続いていることを示す、十分に具体的な一次資料・調査結果は確認できませんでした。\n\n---\n\n### 2. 「業務導入が進まず、実証で止まっているという報告が相次ぐ」\n\n#### 事例・報告1：IDC調査\n\n- **2025年3月25日公表の記事**で、IDC（International Data Corporation）とLenovoの調査結果として、観測されたAIの実証実験（POC）の**88％が大規模展開に至っていない**と報告されています。\n- 企業が開始したAIのPOCは、**33件につき本番導入に進んだのは4件**でした。\n- IDCは、低い本番移行率の背景として、データ、業務プロセス、ITインフラの準備不足を挙げています。\n- また、AIを導入した企業の多くが、依然として小規模な実験や特定業務での試行段階にあると説明しています。\n\n**事実：** POCから本番導入への移行率が低いという調査結果が報告されている。  \n**IDCの見立て：** 不明確な投資対効果（ROI）、AI対応データの不足、社内人材不足などが障壁になっている。\n\n根拠URL：  \nhttps://www.cio.com/article/3850763/88-of-ai-pilots-fail-to-reach-production-but-thats-not-all-on-it.html\n\n---\n\n#### 事例・報告2：McKinseyの2025年調査\n\n- McKinsey（マッキンゼー）の調査は、**2025年6月25日から7月29日**に、**105か国・1,993人**を対象に実施されました。\n- AIを利用している組織の段階は、次の通りでした。\n  - 実験段階：**32％**\n  - 最初のユースケースを実証するパイロット段階：**30％**\n  - 組織内で展開を拡大する段階：**31％**\n  - 全社的に導入・統合済み：**7％**\n- 実験段階とパイロット段階を合わせると、**62％**の組織が本格的な拡大前の段階にとどまっています。\n- 全社的な導入・統合済みとされた組織は**7％**でした。\n\n**事実：** 調査対象では、AI利用組織の過半数が実験またはパイロット段階にあり、全社導入済みは7％にとどまった。  \n**McKinseyの見立て：** AIの利用自体は広がっているが、業務プロセスへの深い組み込みと企業規模での価値創出への移行は進行途上にある。\n\n根拠URL：  \nhttps://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/the%20state%20of%20ai/the-state-of-ai-in-2025-vf.pdf\n\n---\n\n#### 事例・報告3：MIT NANDAの「GenAI Divide」報告書\n\n- MIT NANDA（MIT NANDA）の**2025年7月の予備報告書**は、以下を対象に分析しています。\n  - 公開されたAI導入事例：**300件超**\n  - 組織関係者へのインタビュー：**52組織**\n  - 上級リーダーへの調査回答：**153人**\n- 報告書では、企業の生成AI投資額を**300億～400億米ドル（2025年時点）**としたうえで、分析対象の**95％が測定可能な収益・損益上の成果を得ていない**と報告しています。\n- 統合型AIパイロットのうち、**5％ בלבד**が「数百万米ドル規模の価値」を生み出していたとしています。\n- 同報告書は、生成AIの導入が広がっている一方で、業務上の測定可能な成果や本番運用への移行が限られている状態を「GenAI Divide」と表現しています。\n\n**事実：** MIT NANDAの分析では、測定可能な損益効果を得ていない対象が95％、大きな価値を生み出した統合型パイロットが5％だった。  \n**報告書の見立て：** 問題の中心はモデル性能ではなく、業務への統合、継続的な学習、業務文脈への適応などにあるとしている。\n\n根拠URL：  \nhttps://cloudelligent.com/wp-content/uploads/2026/02/v0.1_State_of_AI_in_Business_2025_Report.pdf",
+      "sources": [
+        {
+          "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+          "title": "The 2026 AI Index Report | Stanford HAI"
+        },
+        {
+          "url": "https://arxiv.org/html/2604.07190v1",
+          "title": "The ATOM Report: Measuring the Open Language Model ..."
+        },
+        {
+          "url": "https://www.meta-intelligence.tech/en/paper-genai",
+          "title": "A Strategic Framework for Enterprise Generative AI Adoption"
+        },
+        {
+          "url": "https://www.druidai.com/ai-adoption-benchmark",
+          "title": "2026 AI adoption benchmark report"
+        },
+        {
+          "url": "https://arxiv.org/abs/2607.00345",
+          "title": "Registry-Governed Agent Lifecycle:Completing EDDOps ..."
+        },
+        {
+          "url": "https://hai.stanford.edu/assets/files/ai_index_report_2026_chapter_2_technical.pdf",
+          "title": "Technical Performance"
+        },
+        {
+          "url": "https://arxiv.org/html/2410.12857v1",
+          "title": "Enterprise Benchmarks for Large Language Model Evaluation - arXiv"
+        },
+        {
+          "url": "https://ai2.work/business/genai-divide-business-2025/",
+          "title": "GenAI Divide Business 2025 - AI 2 Work - AI Insights & Trends"
+        },
+        {
+          "url": "https://arxiv.org/html/2509.18101v3",
+          "title": "A Cost-Benefit Analysis of On-Premise Large Language ..."
+        },
+        {
+          "url": "https://www.rws.com/blog/scaling-enterprise-ai/",
+          "title": "How scaling enterprise AI with the wrong LLM could cost you - RWS"
+        },
+        {
+          "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report/technical-performance",
+          "title": "Technical Performance | The 2025 AI Index Report"
+        },
+        {
+          "url": "https://www.stricklandtechnology.net/article.php?id=32",
+          "title": "Why Only Elite LLMs Like Claude and Gemini Deliver Real Business ..."
+        },
+        {
+          "url": "https://www.adriano-junior.com/why-ai-pilots-never-reach-production",
+          "title": "Why Most AI Pilots Never Reach Production"
+        },
+        {
+          "url": "https://www.just-automate-it.org/resources/why-95-of-ai-projects-fail-lessons-from-mit-s-genai-divide-2025-report-and-strategic-implications-for-justautomateit",
+          "title": "Why 95% of AI Projects Fail: Lessons from MIT’s ‘GenAI Divide ..."
+        },
+        {
+          "url": "https://softwaresushi.com/blog-details/why-most-ai-pilots-never-reach-production",
+          "title": "Why AI Pilots Fail to Reach Production"
+        },
+        {
+          "url": "https://30elevate.com/en/blog/why-ai-pilots-fail/",
+          "title": "Why 9 in 10 AI Pilots Never Reach Production | 30Elevate"
+        },
+        {
+          "url": "https://www.pi.inc/docs/356103613275648",
+          "title": "The GenAI Divide STATE OF AI IN BUSINESS 2025"
+        },
+        {
+          "url": "https://agentmodeai.com/holding/AM-213/",
+          "title": "AM-213 — Holding · Agent Mode AI"
+        },
+        {
+          "url": "https://omdia.tech.informa.com/blogs/2025/nov/ai-pocs-to-production-a-balanced-perspective",
+          "title": "AI PoCs to production: a balanced perspective - Omdia"
+        },
+        {
+          "url": "https://www.reply.com/valorem-reply/en/resources/insights/blog/gt/from-poc-graveyard-to-production-what-actually-changes",
+          "title": "From POC Graveyard to Production: What Actually Changes"
+        },
+        {
+          "url": "https://www.forbes.com/sites/andreahill/2025/08/21/why-95-of-ai-pilots-fail-and-what-business-leaders-should-do-instead/",
+          "title": "Why 95% Of AI Pilots Fail, And What Business Leaders ..."
+        },
+        {
+          "url": "https://www.pertamapartners.com/insights/ai-pilot-to-production-failures",
+          "title": "Pilot to Production: Why 73% of AI Projects Stall | Pertama Partners"
+        },
+        {
+          "url": "https://chokmah.in/pov/why-95-percent-of-genai-pilots-fail/",
+          "title": "Why 95% of GenAI pilots fail · and what the 5% did - Chokmah"
+        },
+        {
+          "url": "https://www.cio.com/article/3850763/88-of-ai-pilots-fail-to-reach-production-but-thats-not-all-on-it.html",
+          "title": "88% of AI pilots fail to reach production — but that's not all on IT"
+        },
+        {
+          "url": "https://www.meti.go.jp/policy/mono_info_service/geniac/selection_2/result_2/result_details_2/index.html",
+          "title": "生成AI基盤モデル開発 第2期 各採択企業の性能評価結果詳細"
+        },
+        {
+          "url": "https://eightfold.ai/wp-content/uploads/evaluating-the-promise-and-pitfalls-of-llms-in-hiring-decisions-eightfold-ai.pdf",
+          "title": "evaluating-the-promise-and-pitfalls-of-llms-in-hiring- ..."
+        },
+        {
+          "url": "https://www.diva-portal.org/smash/get/diva2:1985480/FULLTEXT01.pdf",
+          "title": "[PDF] A case study: How useful are RAG-LLM systems for enterprises?"
+        },
+        {
+          "url": "https://www.letsaskclaire.com/platform/ai-model-evaluation",
+          "title": "Frequently Asked Questions"
+        },
+        {
+          "url": "https://digitaleconomy.stanford.edu/app/uploads/2026/03/EnterpriseAIPlaybook_PereiraGraylinBrynjolfsson.pdf",
+          "title": "EnterpriseAIPlaybook_PereiraGraylinBrynjolfsson"
+        },
+        {
+          "url": "https://aistea.jp/it-ai-model-evaluation-benchmark-5-steps/",
+          "title": "AI選定でベンチマークを信じすぎる盲点"
+        },
+        {
+          "url": "https://www.fsa.go.jp/common/about/research/20240329/0330ai_report.pdf",
+          "title": "AIやICT技術を活用した経営改善支援の"
+        },
+        {
+          "url": "https://www.ideas2it.com/blogs/llm-comparison",
+          "title": "Enterprise LLM Comparison 2026: Right Model for Every ..."
+        },
+        {
+          "url": "https://thirdeyedata.ai/data-ai-industry-insights/a-technical-and-business-perspective-for-choosing-the-right-llm-for-enterprise-applications",
+          "title": "Perspectives of Choosing the Right LLM for Applications"
+        },
+        {
+          "url": "http://digilib.unila.ac.id/93945/15/SKRIPSI%20FULL%20TANPA%20PEMBAHASAN.pdf",
+          "title": "[PDF] Fine-Tuning LLM dengan QLoRA untuk Chatbot Berbasis ..."
+        },
+        {
+          "url": "https://www.genaiprotos.com/blog/ai-benchmarking-for-enterprise/",
+          "title": "Enterprise AI Benchmarking for Production"
+        },
+        {
+          "url": "https://media.tcdigital.jp/ai-knowledge-flow/articles/f5b1f916-6603-4918-b784-d68fa9a8ab6f/",
+          "title": "採用AIの「正解率82%」は信用できるか？ES合格予測モデルの検証結果と実用化への壁"
+        },
+        {
+          "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai?issue=64",
+          "title": "The State of AI: Global Survey 2025 | McKinsey"
+        },
+        {
+          "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-2025",
+          "title": "The State of AI: Global Survey 2025"
+        },
+        {
+          "url": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/the%20state%20of%20ai/the-state-of-ai-in-2025-vf.pdf",
+          "title": "The state of AI in 2025 Agents, innovation, and transformation "
+        },
+        {
+          "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-ai-how-real-is-the-risk-of-overbuilding",
+          "title": "Powering AI: How real is the risk of overbuilding? - McKinsey"
+        },
+        {
+          "url": "https://www.mckinsey.com/featured-insights/charts/ai-at-work-but-not-at-scale",
+          "title": "AI at work but not at scale | McKinsey & Company"
+        },
+        {
+          "url": "https://www.mckinsey.com/featured-insights/year-in-review/year-in-charts",
+          "title": "McKinsey Global Publishing: 2025 year in charts"
+        },
+        {
+          "url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/gen-ai-in-the-ofse-industry-progress-lags-behind-intent",
+          "title": "Gen AI in the OFSE industry: Progress lags behind intent"
+        },
+        {
+          "url": "https://my.idc.com/getdoc.jsp?containerId=prAP53938925",
+          "title": "India's PC Market Hits Record High 4.9 Million Units ..."
+        },
+        {
+          "url": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/the%20state%20of%20ai/2025/the-state-of-ai-how-organizations-are-rewiring-to-capture-value_final.pdf",
+          "title": "The state of AI"
+        },
+        {
+          "url": "https://www.mckinsey.com/featured-insights/charts/agentic-ai-advances",
+          "title": "Agentic AI advances"
+        },
+        {
+          "url": "https://www.mckinsey.com/capabilities/operations/our-insights/from-pilots-to-performance-how-coos-can-scale-ai-in-manufacturing",
+          "title": "Build Scalable Technology"
+        },
+        {
+          "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+          "title": "The State of AI: Global Survey 2026 | McKinsey"
+        },
+        {
+          "url": "https://cloudelligent.com/wp-content/uploads/2026/02/v0.1_State_of_AI_in_Business_2025_Report.pdf",
+          "title": "[PDF] The GenAI Divide: State of AI in Business 2025 - Cloudelligent"
+        },
+        {
+          "url": "https://www.aigl.blog/state-of-ai-in-business-2025/",
+          "title": "STATE OF AI IN BUSINESS 2025"
+        },
+        {
+          "url": "https://www.studocu.id/id/document/universitas-siliwangi/teknik-informatika/mit-nanda-the-genai-divide-state-of-ai-in-business-2025-insights/138166355",
+          "title": "MIT NANDA: The GenAI Divide - State of AI in Business 2025 Insights"
+        },
+        {
+          "url": "https://www.scribd.com/document/941809038/v0-1-State-of-AI-in-Business-2025-Report-1",
+          "title": "v0.1 State of AI in Business 2025 Report (1) | PDF"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/avielran_v01stateofaiinbusiness2025reportpdf-activity-7365668227043000320-k_YQ",
+          "title": "MIT's State of AI in Business 2025: The GenAI Divide"
+        },
+        {
+          "url": "https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/",
+          "title": "MIT report: 95% of generative AI pilots at companies are ..."
+        },
+        {
+          "url": "https://www.media.mit.edu/groups/nanda/publications/",
+          "title": "Publications ‹ NANDA — MIT Media Lab"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/fazalabbaswarraich_aireport2025pdf-activity-7365597114262802432-Bxae",
+          "title": "ai_report_2025.pdf | Fazal Abbas"
+        },
+        {
+          "url": "https://nanda.media.mit.edu/",
+          "title": "Overview ‹ NANDA — MIT Media Lab"
+        },
+        {
+          "url": "https://medium.com/@adnanmasood/the-genai-divide-mit-nandas-research-on-what-s-real-what-s-working-and-what-leaders-should-do-26a9fe53e0b4",
+          "title": "The GenAI Divide: MIT NANDA’s research on what’s real, what’s working, and what leaders should do…"
+        },
+        {
+          "url": "https://getdx.com/blog/the-ai-divide/",
+          "title": "The AI Divide"
+        },
+        {
+          "url": "https://www.media.mit.edu/projects/mit-nanda/overview/",
+          "title": "Algorithms to Unlock The Internet of AI Agents - MIT Media Lab"
+        }
+      ],
+      "cost_usd": 0.03942,
+      "error": null
+    }
+  ]
+}
