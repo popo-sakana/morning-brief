@@ -7,11 +7,21 @@
     <link>https://popo-sakana.github.io/morning-brief/</link>
     <description>水産・生成AI・教育の4テーマを毎朝30分で</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 20:29:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 20:32:49 +0000</lastBuildDate>
     <itunes:author>popo</itunes:author>
     <itunes:summary>水産・生成AI・教育の4テーマを毎朝30分で</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+    <item>
+      <title>9月7日のブリーフ</title>
+      <description><![CDATA[・日本の水産は養殖から取り上げました。<br>・世界の水産は国境を越えるルールを5件紹介。<br>・ヨーロッパ・アジア・ロシアの物流コストにも言及。]]></description>
+      <pubDate>Mon, 07 Sep 2026 05:12:50 +0900</pubDate>
+      <guid isPermaLink="false">260907_morningbrief_v1_AI</guid>
+      <enclosure url="https://github.com/popo-sakana/morning-brief/releases/download/260907_morningbrief_v1_AI/260907_morningbrief_v1_AI.mp3" length="3763137" type="audio/mpeg"/>
+      <itunes:duration>901</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://popo-sakana.github.io/morning-brief/episodes/260907_morningbrief_v1_AI.html</link>
+    </item>
     <item>
       <title>9月6日のブリーフ</title>
       <description><![CDATA[・ノルウェー8月水産物輸出額は160億ノルウェークローネ<br>・9月3日、気象予測や音声操作などAI発表が相次ぐ<br>・保育・小学校で端末やAI利用の線引きが話題に]]></description>

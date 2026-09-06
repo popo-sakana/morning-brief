@@ -2746,6 +2746,162 @@
    "aired": [
     "2026-09-06"
    ]
+  },
+  {
+   "id": "bc4f9a548ca5",
+   "theme": "jp_fisheries",
+   "headline": "高水温で養殖ブリ・カンパチの出荷が不安定化と卸売会社",
+   "detail": "大阪市中央卸売市場の卸売会社「うおいち」は2026年9月の商品情報で、夏場の高水温により養殖ブリ・カンパチで斃死が発生し、産地によって出荷が不安定になっていると説明した。養殖ブリは在池量が比較的潤沢で相場は1,700〜2,000円/kg程度で推移する見込みとしつつ、9月も高水温が続くため一部産地で出荷できない可能性があるとしている。養殖カンパチも高水温による斃死で出荷が不安定だが、相場は安定して推移するとの見方が示されている。",
+   "numbers": [
+    "ブリ相場1,700〜2,000円/kg見通し"
+   ],
+   "source_url": "https://www.uoichi.co.jp/products_strategy_allview.html",
+   "source_title": "うおいち 商品情報2026年09月号",
+   "published": "",
+   "importance": 5,
+   "first_seen": "2026-09-07",
+   "aired": [
+    "2026-09-07"
+   ]
+  },
+  {
+   "id": "83f2c7ce4848",
+   "theme": "jp_fisheries",
+   "headline": "秋サケ初水揚げ、銀聖に前年上回る最高値18.9万円/kg",
+   "detail": "北海道の秋サケ定置網漁が2026年9月1日、日高地区のJF日高中央漁協で始まった。来遊予測は前年比47%減の365万尾とされる中、日高中央漁協の初日水揚げは前年並みとなった。9月3日の札幌市中央卸売市場の初競りでは、日高産ブランド「銀聖」のメス1尾4.5kgに18万8,888円/kgの最高値が付き、前年の最高値11万1,134円/kgを上回った。市場関係者は初物特有の高値であり、今後1週間程度で価格は落ち着くとの見方が示されている。",
+   "numbers": [
+    "初競り最高値18万8,888円/kg",
+    "前年最高値11万1,134円/kg",
+    "1尾4.5kg"
+   ],
+   "source_url": "https://www.htb.co.jp/news/archives_39387.html",
+   "source_title": "HTB北海道ニュース",
+   "published": "2026-09-03",
+   "importance": 3,
+   "first_seen": "2026-09-07",
+   "aired": [
+    "2026-09-07"
+   ]
+  },
+  {
+   "id": "5bd836e92d39",
+   "theme": "jp_fisheries",
+   "headline": "熊本地震被災の養殖経営体、構造改革事業の対象に追加",
+   "detail": "漁業構造改革総合対策事業の実施要綱などが改正され、2026年8月28日施行により令和8年熊本地震で被災した養殖経営体が支援対象に追加された。2026年9月3日に改正内容が周知されている。対象経営体数や補助上限額、予算規模は明らかにされていないが、養殖施設の復旧費用は大きく、既存の構造改革・経営支援制度へのアクセスが広がる点が注目される。",
+   "numbers": [],
+   "source_url": "http://www.fpo.jf-net.ne.jp/gyoumu/hojyojigyo/01kozo/kozo.html",
+   "source_title": "水産業体質強化総合対策事業",
+   "published": "2026-08-28",
+   "importance": 2,
+   "first_seen": "2026-09-07",
+   "aired": [
+    "2026-09-07"
+   ]
+  },
+  {
+   "id": "f486c05f1a4e",
+   "theme": "world_fisheries",
+   "headline": "インドネシアと豪州、小型RAS4万基の展開計画を推進",
+   "detail": "インドネシアとオーストラリアは、インドネシア国内の数百の漁村を対象に小型循環式養殖システム(RAS)を4万基展開する計画を進めている。当初の対象魚種はティラピアとナマズで、将来的にはパンガシウス、バラマンディ、ハタ、ジェイドパーチなどへの応用も検討されている。大規模集中型の陸上養殖ではなく村落単位の分散型養殖を広げる動きだが、稼働基数や年間生産量、対象村落数の確定値は明らかになっていない。",
+   "numbers": [
+    "小型RAS4万基"
+   ],
+   "source_url": "https://www.cnbcindonesia.com/news/20260902113846-4-764286/indonesia-australia-kolaborasi-kembangkan-budidaya-perikanan-tematik",
+   "source_title": "CNBC Indonesia",
+   "published": "2026-09-02",
+   "importance": 2,
+   "first_seen": "2026-09-07",
+   "aired": [
+    "2026-09-07"
+   ]
+  },
+  {
+   "id": "eb224216176e",
+   "theme": "world_fisheries",
+   "headline": "中国、2025年水産物生産7652万トンで貿易赤字42億ドル",
+   "detail": "中国の2025年の水産物生産量は7,652万トンで前年比4.0%増となった。うち養殖生産量は6,326万トンで前年比4.38%増、総生産量の82.6%を占めた。一方、2025年の水産物貿易収支は42.18億米ドルの赤字となったと報じられている。国内生産が拡大する一方、国内消費や加工・再輸出向け需要を背景に輸入も増加している構図が示された。",
+   "numbers": [
+    "生産量7,652万トン",
+    "養殖6,326万トン",
+    "貿易赤字42.18億ドル"
+   ],
+   "source_url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqraze0847278.shtml",
+   "source_title": "新浪財経",
+   "published": "2026-09-04",
+   "importance": 2,
+   "first_seen": "2026-09-07",
+   "aired": [
+    "2026-09-07"
+   ]
+  },
+  {
+   "id": "d5e06a0d072f",
+   "theme": "world_fisheries",
+   "headline": "露FESCO、ムルマンスク発冷凍カニの専用輸送計画発表",
+   "detail": "ロシアの海運大手FESCOは、2026〜2027年シーズンに、ムルマンスクから中国・韓国向けに冷凍カニ2,300トンを輸送する専用リーファーコンテナサービスを計画している。カムチャツカの冷凍施設を活用し、2027年には年間約14,000トンの水産物輸送を計画しており、利用する冷蔵施設の容量は20,000トンとされる。冷凍・冷蔵水産物の一貫輸送体制整備が進んでいることを示す事例である。",
+   "numbers": [
+    "冷凍カニ2,300トン",
+    "2027年計画14,000トン",
+    "冷蔵施設容量20,000トン"
+   ],
+   "source_url": "https://www.atomic-energy.ru/news/2026/09/02/168239",
+   "source_title": "Atomic Energy",
+   "published": "2026-09-02",
+   "importance": 1,
+   "first_seen": "2026-09-07",
+   "aired": [
+    "2026-09-07"
+   ]
+  },
+  {
+   "id": "baaa94ee138a",
+   "theme": "world_fisheries",
+   "headline": "CMA CGM、西アフリカ向けリーファー貨物に追加料金導入",
+   "detail": "海運大手CMA CGMは2026年9月1日から、西アフリカ向けリーファー貨物に対し、航路・出発地に応じて100ユーロ/TEU、または115〜400米ドル/TEUの追加料金を適用すると発表した。冷凍・冷蔵水産物の輸送では、輸送能力だけでなく追加料金や港湾混雑が輸出競争力に影響する可能性がある。",
+   "numbers": [
+    "追加料金100ユーロ/TEU",
+    "追加料金115〜400ドル/TEU"
+   ],
+   "source_url": "https://container-news.com/cma-cgm-announces-new-surcharges-across-several-trades/",
+   "source_title": "Container News",
+   "published": "2026-09-01",
+   "importance": 1,
+   "first_seen": "2026-09-07",
+   "aired": [
+    "2026-09-07"
+   ]
+  },
+  {
+   "id": "d8f634ac6073",
+   "theme": "world_fisheries",
+   "headline": "Maersk、インド亜大陸発北米向けリーファーに追加料金",
+   "detail": "海運大手Maerskは、インド亜大陸・中東から北米向けのリーファー貨物に対し、2026年9月15日から最大8,000米ドル/コンテナのピークシーズンサーチャージを設定すると発表した。冷凍・冷蔵水産物の輸送コスト上昇は、遠距離輸送を前提とする養殖魚の生産地の競争力に影響する可能性がある。",
+   "numbers": [
+    "サーチャージ最大8,000ドル/コンテナ"
+   ],
+   "source_url": "https://container-news.com/maersk-removes-asia-europe-pss-while-raising-surcharges-on-north-america-trades/",
+   "source_title": "Container News",
+   "published": "2026-09-15",
+   "importance": 1,
+   "first_seen": "2026-09-07",
+   "aired": []
+  },
+  {
+   "id": "27ff8ab637d0",
+   "theme": "world_fisheries",
+   "headline": "EU、養殖水産物の抗菌薬不使用証明を9月3日から義務化",
+   "detail": "EU向け水産物輸出において、2026年9月3日以降に署名される輸出証明書から、養殖水産物の原料となった動物がEUで禁止されている特定抗菌薬を投与されていないことを示す書類が必要となった。対象は養殖水産物で、天然水産物や一部の複合証明書には適用されない。関税ではなく衛生・残留物規制であり、養殖エビ・魚類の輸出業者にとって検査・証明コストが増える可能性がある。",
+   "numbers": [
+    "適用開始2026年9月3日"
+   ],
+   "source_url": "https://www.fda.gov/food/food-export-lists/seafood-export-lists",
+   "source_title": "FDA Seafood Export Lists",
+   "published": "2026-09-03",
+   "importance": 4,
+   "first_seen": "2026-09-07",
+   "aired": [
+    "2026-09-07"
+   ]
   }
  ]
 }

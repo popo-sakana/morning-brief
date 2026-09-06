@@ -1,0 +1,659 @@
+{
+  "segments": [
+    {
+      "id": "jp_fisheries",
+      "title": "日本の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "続いてのコーナーは「日本の水産」です。今日は3つの話題をお届けします。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "よろしくお願いします。まずは養殖の話からいきましょうか。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "大阪市中央卸売市場の卸売会社「うおいち」が、2026年9月の商品情報を出したそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。夏場の高い海水温の影響で、養殖のブリとカンパチで死んでしまう魚が出ていると説明しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "斃死というのは、魚が死んでしまうことですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。産地によって出荷が不安定になっているとのことです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "値段には影響しているんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "養殖ブリは、在池量つまり養殖池にいる魚の量が比較的潤沢だそうです。相場は1キロあたり1,700円から2,000円程度で推移する見通しとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "それは高いんでしょうか、落ち着いた水準なんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "材料に前年との比較は書かれていないので、断定はできません。ただ在池量が潤沢という点からは、極端な品薄ではなさそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "でも9月も暑さが続くということですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうなんです。9月も高水温が続くため、一部の産地では出荷できなくなる可能性があるとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "カンパチの方はどうですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "カンパチも高水温による斃死で出荷が不安定だそうですが、相場自体は安定して推移するという見方が示されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "同じ高水温でも、魚種によって値段への影響は違うということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。出荷の不安定さは共通していますが、相場の動き方には違いが出ているという状況です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いては北海道の秋サケの話題です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。日高地区のJF日高中央漁協で、9月1日に秋サケの定置網漁が始まりました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今年は不漁だという話も聞きますが。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "来遊予測は前年比47%減の365万尾とされています。かなり厳しい数字です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "でも初日の水揚げ自体はどうだったんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "日高中央漁協の初日の水揚げは、前年並みだったということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "それは少し意外ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。予測は大きく減っていますが、初日の水揚げ量は前年並みだったという結果です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "値段の方で大きな話題があるそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。9月3日の札幌市中央卸売市場の初競りで、日高産ブランド「銀聖」に高値が付きました。メス1尾4.5キロで、1キロあたり18万8,888円という最高値です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "18万円といったら、相当な金額ですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "前年の最高値は1キロあたり11万1,134円でしたので、今年はそれを大きく上回っています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "なぜそんなに値上がりしたんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "市場関係者によると、これは初物特有の高値だということです。今後1週間程度で価格は落ち着くという見方が示されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "つまり、今だけの特別な値段ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そう捉えるのが自然だと思います。来遊数が減っているという背景もありますが、初値の高騰自体は毎年見られる傾向のようです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "最後は制度の話です。熊本地震で被災した養殖業者への支援が広がったそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。漁業構造改革総合対策事業の実施要綱などが改正されました。2026年8月28日に施行されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "具体的にはどう変わったんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "令和8年熊本地震で被災した養殖経営体が、この事業の支援対象に新しく追加されました。9月3日に改正内容が周知されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "対象になる経営体の数や、補助のお金の規模はわかっているんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこは材料には明らかにされていません。件数や補助上限額、予算規模については、現時点では不明です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "でも、対象に追加されたこと自体には意味があるんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。養殖施設の復旧費用は大きくなりがちです。既存の構造改革や経営支援の制度を使える道が広がった点が注目されます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "被災した養殖業者にとっては、選択肢が増えるということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。詳しい制度の中身については、続報を待ちたいところです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "それでは「日本の水産」、今日はここまでです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ありがとうございました。"
+        }
+      ]
+    },
+    {
+      "id": "world_fisheries",
+      "title": "世界の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "「世界の水産」のコーナーです。今日は水産物の輸出入や物流に関する話題が中心ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。ヨーロッパ、アジア、ロシアと、水産物が国境を越えて動く際のルールや物流コストの話が5つ集まりました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "まず1つ目、EUの新しいルールから教えてください。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。EUは2026年9月3日以降に署名される輸出証明書から、養殖水産物について抗菌薬を使っていないことを示す書類を義務付けました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "抗菌薬を使っていない証明、ですか。対象はどんな水産物なんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "対象は養殖水産物です。天然の魚や、一部の複合的な証明書は対象外とされています。EUで禁止されている特定の抗菌薬が投与されていないことを示す必要があります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "これは関税の話とは違うんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、関税ではなく衛生や残留物に関する規制です。ですので養殖エビや魚を輸出する業者にとっては、検査や証明の手間、コストが増える可能性があります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "確かに、書類が増えると現場の負担も増えそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。輸出のたびに証明を取る体制を整える必要があり、養殖業の管理体制そのものが問われる動きだと言えます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いて2つ目、インドネシアとオーストラリアの話です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。両国は、インドネシア国内の数百の漁村を対象に、小型の循環式養殖システム、RASを4万基展開する計画を進めています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "4万基というのはかなりの規模ですね。RASというのは、水を循環させて使う養殖の仕組みでしたっけ。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その理解で合っています。当初はティラピアとナマズが対象で、将来的にはパンガシウスやバラマンディといった魚種への応用も検討されているそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "大きな施設を1か所に作るのではなく、村ごとに小さい設備を置くということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、大規模集中型ではなく村落単位の分散型養殖を広げる動きです。ただ、稼働基数や年間生産量、対象となる村落数の確定値はまだ明らかになっていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "計画段階、というところですね。今後の続報を待ちたいところです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "3つ目は中国の水産物の統計です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "2025年の中国の水産物生産量は7652万トンで、前年比4.0%増でした。うち養殖生産が6326万トン、前年比4.38%増で、全体の82.6%を占めています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "8割以上が養殖なんですね。かなり大きな割合に感じます。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。中国の水産物供給が天然漁業よりも養殖に大きく支えられている構図が続いていることが分かります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "一方で貿易は赤字だったんですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、2025年の水産物貿易収支は42.18億米ドルの赤字と報じられています。国内生産が増える一方で、国内消費や加工、再輸出向けの需要から輸入も増加しているようです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "作る量も増えているのに、輸入も増えているというのは、少し不思議な感じもしますね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "国内で消費や加工に回す量が大きいことの表れとも言えます。生産統計だけでなく貿易全体を見ないと実態がつかみにくい例だと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いて4つ目、海運会社の話です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "海運大手CMA CGMが、2026年9月1日から西アフリカ向けの冷凍冷蔵貨物、リーファー貨物に追加料金を導入しました。航路によって100ユーロ、または115から400米ドルの追加料金です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "冷凍や冷蔵の輸送に、追加でお金がかかるようになったということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。冷凍冷蔵の水産物輸送では、船の輸送能力だけでなく、こうした追加料金や港の混雑状況が輸出競争力に影響する可能性があります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "運賃以外のコストも、実は結構効いてくるんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。輸出側から見ると、価格だけでなく物流条件の変化も注視しておく必要がある話だと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "最後5つ目、ロシアのカニ輸送の計画です。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ロシアの海運大手FESCOが、2026年から2027年のシーズンに、ムルマンスクから中国と韓国向けに冷凍カニ2300トンを運ぶ専用サービスを計画しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "カムチャツカの施設を使うとありますが、どういう仕組みなんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "カムチャツカの冷凍施設を活用する計画で、2027年には年間およそ1万4000トンの水産物輸送を目指しています。利用する冷蔵施設の容量は2万トンとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "冷凍カニ2300トンから、将来的に1万4000トンまで広げる計画ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。冷凍冷蔵の水産物を一貫して運ぶ体制づくりが進んでいることを示す事例だと言えます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今日は証明書のルールから養殖の広がり、統計、そして輸送コストまで、水産物が動く仕組み全体を見た回でしたね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。生産だけでなく、証明や輸送といった裏側の仕組みも、水産物が私たちの元に届くまでに大きく関わっているという回でした。"
+        }
+      ]
+    }
+  ],
+  "verification": {
+    "title": "大きな流れ",
+    "turns": [
+      {
+        "speaker": "analyst",
+        "text": "はい。ここ最近は、使い方の工夫よりも、使わせない時間そのものを制度で決める方向が強まっていました。ですが今日の材料で、この見方はいったん弱まりました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "インド教育省が2025年10月30日、AIと計算論的思考を第3学年から教育に組み込む方針を公表しました。2026から2027年度に導入予定です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "その通りです。低学年からの活用を広げる制度が実際に動き出した例として読めます。フランスも同じ方向です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "2025年6月14日、教育省が方針を公表しました。第1学年からAIの基礎知識を学び、教員監督下での生成AI利用は第4学年から授業で認めるとしています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "低学年からAIに触れさせること自体を制度化した点が、これまでの見方と逆の方向を示しています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "米国ワシントン州のワラワラ公立学校です。2023年2月に学校端末での対話型AIの利用を遮断しましたが、家庭の端末からの利用は防げませんでした。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "禁止措置が有効ではないと判断し、教員向けのAI研修を導入する方針に転換しました。禁止から活用支援へ、という切り替えです。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。しかも今回の3件は、この見方が変わる条件としてあらかじめ挙げていたものと重なります。低学年活用の広がりと、禁止措置の撤回、両方が同時に出てきた形です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "つきます。ワラワラは生徒約5500人の一校の判断ですし、インドやフランスも学校現場での運用がまだ始まっていません。制度と実態のずれが出る可能性は残っています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "低学年からのAI活用カリキュラムが、他の国や地域にも広がって続くかどうかです。今回の2件で終わるか、流れになるかを見る必要があります。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。使わせない時間を設計する方針と、低学年から活用させる方針が、同じ時期に別々の国で採られています。家庭でどちらを先に決めるかは、まだ答えが出ていません。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうですね。振り子がどちらに戻るか、来週以降の材料も引き続き見ていきたいと思います。"
+      }
+    ]
+  },
+  "discussion": {
+    "title": "きょうの論点",
+    "turns": [
+      {
+        "speaker": "navigator",
+        "text": "最後のコーナーです。今日は「日本の水産」と「世界の水産」を振り返りながら、つながりを考えていきます。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "まず日本の水産の話、簡単におさらいしてもらえますか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "値段への影響はどうでしたっけ。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "続いて世界の水産、EUの話をもう一度お願いします。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "この2つ、関係あるんでしょうか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "でもEU向けは、それを証明で示さないといけないと。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "これは鹿児島のぶり類養殖にも関わりそうですね。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "輸出戦略の支援をしている立場だと、どこに注目しますか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "つまり書類の準備が、養殖現場の管理にも関わってくると。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "水温上昇は今後も続きそうですか。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "今日はこのあたりで終わります。ありがとうございました。"
+      }
+    ]
+  },
+  "opening": [
+    {
+      "speaker": "navigator",
+      "text": "皆さん、こんにちは。2026年9月7日の水産ニュースの時間です。"
+    },
+    {
+      "speaker": "navigator",
+      "text": "そのあとは世界に目を向けるんですね。"
+    }
+  ],
+  "closing": [
+    {
+      "speaker": "navigator",
+      "text": "台本と出典は番組ページに掲載していますので、ぜひご覧ください。それでは、また次回お会いしましょう。"
+    }
+  ],
+  "highlights": [
+    "日本の水産は養殖から取り上げました。",
+    "世界の水産は国境を越えるルールを5件紹介。",
+    "ヨーロッパ・アジア・ロシアの物流コストにも言及。"
+  ],
+  "requests": "",
+  "hypothesis_checks": [
+    {
+      "id": "L-6",
+      "theme": "education",
+      "statement": "幼児から小学校段階のAI対応は、使わせ方の工夫より、使わせない時間をどう設計するかに寄りつつある。",
+      "before": 0.919,
+      "after": 0.849,
+      "evidence_today": [
+        {
+          "relation": "support",
+          "claim": "ニューヨーク市公立学校は2026〜2027年度、2K〜8年生の生徒向け生成AI利用を禁止する方針を導入し、対象は約60万人とされる。",
+          "source_url": "https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "ノルウェーでは2026年8月末の新学年から、第1〜7学年(6〜13歳目安)の児童による学校での生成AI利用を原則認めない方針が導入された。",
+          "source_url": "https://www.euronews.com/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "英国教育省は幼児教育向け方針で、2歳未満は原則スクリーンを避け、2〜5歳は1日1時間以内とし、AI搭載玩具を含む幼児のAI利用は十分な証拠が得られるまで避けるよう推奨している。",
+          "source_url": "https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/screen-use",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "インド教育省は2025年10月30日、AIと計算論的思考を第3学年から基礎段階の教育に組み込み、2026〜2027年度から第3学年以上を対象にカリキュラムを導入する方針を公表した。",
+          "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2184211&reg=3&lang=2",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "フランス教育省は2025年6月14日、教育におけるAI利用の枠組みを公表し、第1学年からAIの基礎知識を学ぶ一方、教員監督下での生成AI利用は第4学年から授業で認めるとした。",
+          "source_url": "https://www.education.gouv.fr/publication-du-cadre-d-usage-de-l-intelligence-artificielle-en-education-450652",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "米国ワシントン州のワラワラ公立学校(生徒約5,500人)は2023年2月に学校端末でのChatGPT利用を遮断したが、家庭端末からの利用を防げず禁止措置が有効でないと判断し、教員向けAI研修を導入する方針に転換した。",
+          "source_url": "https://www.seattletimes.com/seattle-news/education/despite-cheating-fears-schools-repeal-chatgpt-bans/",
+          "origin": "normal"
+        }
+      ],
+      "support": 3,
+      "contradict": 3,
+      "falsifier_hits": [
+        "インド教育省は2025年10月30日、AIと計算論的思考を第3学年から基礎段階の教育に組み込み、2026〜2027年度から第3学年以上を対象にカリキュラムを導入する方針を公表した。（第3学年からAI・計算論的思考導入で低学年活用拡大が実現）",
+        "フランス教育省は2025年6月14日、教育におけるAI利用の枠組みを公表し、第1学年からAIの基礎知識を学ぶ一方、教員監督下での生成AI利用は第4学年から授業で認めるとした。（第1学年からAI基礎教育を導入し低学年活用が制度化）",
+        "米国ワシントン州のワラワラ公立学校(生徒約5,500人)は2023年2月に学校端末でのChatGPT利用を遮断したが、家庭端末からの利用を防げず禁止措置が有効でないと判断し、教員向けAI研修を導入する方針に転換した。（禁止措置が効果なしとして撤回され研修方針に転換）"
+      ],
+      "status": "active",
+      "moved": null,
+      "already_said": [
+        "ノルウェー政府は2026年6月19日、2026年秋の新学期から小学1~7年生の児童が学校でAIを自ら使うことを原則として認めない方針を発表した。",
+        "英国教育省は2026年7月13日公表の幼児教育者向け指針で、2歳未満は原則スクリーン利用を避け、2~5歳は1日1時間以内を目安とするよう示した。",
+        "2026年8月23日公表の中国の研究で、就学前児童10,341人を対象にAIリテラシー尺度（CPALS）を検証し、分析対象8,512人のうち「能力が高い」群が50.59%だった。",
+        "ノルウェー政府は、2026年秋の新学期から小学校1〜7年生(概ね6〜13歳)について学校学習で生成AIへのアクセスを原則認めない方針を示した。",
+        "香港教育局は、2026/27年度に向けて初等・中等学校向けにAIリテラシー学習枠組みなどを含むデジタル教育発展ブループリントを公表した。",
+        "英国政府は2026年3月26日、5歳未満の子ども向けスクリーンタイム指針を発表し、2歳未満は共同活動を除きスクリーンを避け、2〜5歳は1日1時間以内を目安とすることなどを示した。",
+        "インドのガウタム・ブッダ・ナガル地区行政は2026年8月、ノイダ等の学校に対しスマートボード等の利用を初等学級で1日30分以内、上級初等学級で1日60分以内に制限する指示を出した。",
+        "ノルウェーでは2026年8月末の新学期から、小学1〜7年生（6〜13歳）の学校学習における生成AI利用を原則禁止するルールが導入された。",
+        "ニューヨーク市は2026年9月2日、2026-27学年度に2-Kから8年生までの児童生徒向け生成AIを1年間停止すると発表した。",
+        "香港教育局は2026/27学年度から、小学校の情報・イノベーション技術カリキュラムにAIの基礎学習領域を試行的に導入する準備を進めている。",
+        "UAEは2026年9月2日、公立・私立学校の全学年を対象とするAIカリキュラムを承認したと発表した。",
+        "2026年8月31日の報道によると、文部科学省の次期学習指導要領改訂案では、AI・情報・メディアリテラシーを強化し、小学校で2028年度から情報分野の授業を先行実施、2030年度に全面導入する方針が示された。"
+      ],
+      "axis": "横断",
+      "falsifier_texts": [
+        "低学年からのAI活用を推進する制度やカリキュラムが広がる",
+        "利用制限を導入した地域が、効果なしとして方針を撤回する"
+      ],
+      "decision_link": "家庭で、AIに触れさせる方針と触れさせない時間の設計のどちらを先に決めるか",
+      "stance": "支持する材料がかなり積み上がっている",
+      "shift": "今日の材料で、この見方は弱まりました",
+      "on_air_count": 4
+    }
+  ],
+  "aired_items": [
+    {
+      "id": "bc4f9a548ca5",
+      "theme": "jp_fisheries",
+      "headline": "高水温で養殖ブリ・カンパチの出荷が不安定化と卸売会社",
+      "source_url": "https://www.uoichi.co.jp/products_strategy_allview.html",
+      "source_title": "うおいち 商品情報2026年09月号",
+      "from_stock": false
+    },
+    {
+      "id": "83f2c7ce4848",
+      "theme": "jp_fisheries",
+      "headline": "秋サケ初水揚げ、銀聖に前年上回る最高値18.9万円/kg",
+      "source_url": "https://www.htb.co.jp/news/archives_39387.html",
+      "source_title": "HTB北海道ニュース",
+      "from_stock": false
+    },
+    {
+      "id": "5bd836e92d39",
+      "theme": "jp_fisheries",
+      "headline": "熊本地震被災の養殖経営体、構造改革事業の対象に追加",
+      "source_url": "http://www.fpo.jf-net.ne.jp/gyoumu/hojyojigyo/01kozo/kozo.html",
+      "source_title": "水産業体質強化総合対策事業",
+      "from_stock": false
+    },
+    {
+      "id": "27ff8ab637d0",
+      "theme": "world_fisheries",
+      "headline": "EU、養殖水産物の抗菌薬不使用証明を9月3日から義務化",
+      "source_url": "https://www.fda.gov/food/food-export-lists/seafood-export-lists",
+      "source_title": "FDA Seafood Export Lists",
+      "from_stock": false
+    },
+    {
+      "id": "f486c05f1a4e",
+      "theme": "world_fisheries",
+      "headline": "インドネシアと豪州、小型RAS4万基の展開計画を推進",
+      "source_url": "https://www.cnbcindonesia.com/news/20260902113846-4-764286/indonesia-australia-kolaborasi-kembangkan-budidaya-perikanan-tematik",
+      "source_title": "CNBC Indonesia",
+      "from_stock": false
+    },
+    {
+      "id": "eb224216176e",
+      "theme": "world_fisheries",
+      "headline": "中国、2025年水産物生産7652万トンで貿易赤字42億ドル",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqraze0847278.shtml",
+      "source_title": "新浪財経",
+      "from_stock": false
+    },
+    {
+      "id": "baaa94ee138a",
+      "theme": "world_fisheries",
+      "headline": "CMA CGM、西アフリカ向けリーファー貨物に追加料金導入",
+      "source_url": "https://container-news.com/cma-cgm-announces-new-surcharges-across-several-trades/",
+      "source_title": "Container News",
+      "from_stock": false
+    },
+    {
+      "id": "d5e06a0d072f",
+      "theme": "world_fisheries",
+      "headline": "露FESCO、ムルマンスク発冷凍カニの専用輸送計画発表",
+      "source_url": "https://www.atomic-energy.ru/news/2026/09/02/168239",
+      "source_title": "Atomic Energy",
+      "from_stock": false
+    }
+  ],
+  "sources": [
+    {
+      "segment": "日本の水産",
+      "title": "うおいち 商品情報2026年09月号",
+      "url": "https://www.uoichi.co.jp/products_strategy_allview.html"
+    },
+    {
+      "segment": "日本の水産",
+      "title": "HTB北海道ニュース",
+      "url": "https://www.htb.co.jp/news/archives_39387.html"
+    },
+    {
+      "segment": "日本の水産",
+      "title": "水産業体質強化総合対策事業",
+      "url": "http://www.fpo.jf-net.ne.jp/gyoumu/hojyojigyo/01kozo/kozo.html"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "FDA Seafood Export Lists",
+      "url": "https://www.fda.gov/food/food-export-lists/seafood-export-lists"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "CNBC Indonesia",
+      "url": "https://www.cnbcindonesia.com/news/20260902113846-4-764286/indonesia-australia-kolaborasi-kembangkan-budidaya-perikanan-tematik"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "新浪財経",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqraze0847278.shtml"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "Container News",
+      "url": "https://container-news.com/cma-cgm-announces-new-surcharges-across-several-trades/"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "Atomic Energy",
+      "url": "https://www.atomic-energy.ru/news/2026/09/02/168239"
+    }
+  ]
+}

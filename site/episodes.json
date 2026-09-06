@@ -1,5 +1,40 @@
 [
   {
+    "id": "260907_morningbrief_v1_AI",
+    "title": "9月7日のブリーフ",
+    "published_at": "2026-09-07T05:12:50+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260907_morningbrief_v1_AI/260907_morningbrief_v1_AI.mp3",
+    "duration_sec": 901,
+    "bytes": 3763137,
+    "summary": "・日本の水産は養殖から取り上げました。<br>・世界の水産は国境を越えるルールを5件紹介。<br>・ヨーロッパ・アジア・ロシアの物流コストにも言及。",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 10.5
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 165.4
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 471.4
+      },
+      {
+        "section": "discussion",
+        "start_sec": 841.2
+      },
+      {
+        "section": "closing",
+        "start_sec": 892.8
+      }
+    ]
+  },
+  {
     "id": "260906_morningbrief_v1_AI",
     "title": "9月6日のブリーフ",
     "published_at": "2026-09-06T05:12:42+09:00",

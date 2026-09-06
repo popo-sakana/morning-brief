@@ -154,8 +154,20 @@ hypotheses:
     tier: 1
     origin: normal
     aired: true
+  - date: '2026-09-07'
+    relation: support
+    claim: 鹿児島県は2026年4月、魚類養殖の指導指針を「いけす台数」による管理から「尾数」による管理へ変更した。
+    source_url: https://www.suikei.co.jp/cat/news/aquaculture
+    tier: 1
+    origin: normal
+  - date: '2026-09-07'
+    relation: support
+    claim: 大阪市中央卸売市場の卸売会社うおいちは2026年9月の商品情報で、夏場の高水温による斃死のため養殖ブリ・カンパチの出荷が産地により不安定になっていると説明した。
+    source_url: https://www.uoichi.co.jp/products_strategy_allview.html
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-06'
+    last_support: '2026-09-07'
     last_contradiction: '2026-09-02'
     last_on_air: '2026-09-06'
     on_air_count: 2
@@ -163,7 +175,7 @@ hypotheses:
     unfrozen: true
   review_note: FAOによるアジア6か国・計340養殖場調査（調査期間2005年10月15日～2006年2月14日、2007年公表）では、総生産費に占める餌料費が平均58.0%で稚魚・種苗費15.5%を大きく上回った。（餌料費が種苗費を大きく上回るとFAO調査が示す）
     / FAOの世界調査（2019年2月公表、回答期間2015年6月～2017年6月）では、92か国の回答のうち45%が遺伝的改良は養殖生産に「影響しなかった」または「影響は小さかった」と回答した。（45%が遺伝的改良は生産に影響小さいと回答）
-  _sustain: 2
+  _sustain: 3
 - id: L-2
   theme: world_fisheries
   axis: 流通
@@ -190,24 +202,6 @@ hypotheses:
   - neutral_query: 陸上養殖 商業生産 稼働 最新
   - neutral_query: 水産物 輸送 コールドチェーン 動向
   evidence:
-  - date: '2026-08-29'
-    relation: support
-    claim: 中国南方航空はオスロと上海浦東を結ぶ直行貨物便を2026年8月19日に開始し、週2便・週約200トンのノルウェー産サーモン輸送能力を持つ。
-    source_url: https://seafoodnews.com/Story/1352456/China-Southern-Launches-Direct-Oslo-Shanghai-Cargo-Route-for-Norwegian-Salmon
-    tier: 2
-    origin: normal
-  - date: '2026-08-29'
-    relation: support
-    claim: Nordic Aqua Partnersの中国・寧波の陸上養殖施設は、2026年第2四半期の商業収穫量が1,362トン（HOG重量、前年同期756トン）、6月末バイオマスが5,644トンとなった。
-    source_url: https://www.investing.com/news/company-news/nordic-aqua-q2-2026-slides-record-harvest-china-premium-pricing-93CH-4876409
-    tier: 1
-    origin: normal
-  - date: '2026-08-29'
-    relation: support
-    claim: 中国のサーモン輸入量は2026年上半期に前年同期比43%増となり、中国第1級都市の消費者の約4人に1人が週1回以上サーモン刺身を食べている（世界平均13%）。
-    source_url: https://www.salmonbusiness.com/china-one-in-four-big-city-residents-now-eats-salmon-sashimi-every-week/
-    tier: 2
-    origin: normal
   - date: '2026-08-29'
     relation: support
     claim: 中国のノルウェー産水産物輸入額は2025年に前年比31%増の123億ノルウェー・クローネとなり、中国はノルウェーにとって2025年に第3位の水産物市場となった。
@@ -437,14 +431,32 @@ hypotheses:
     source_url: http://en.sasac.gov.cn/2026/09/01/c_21030.htm
     tier: 1
     origin: normal
+  - date: '2026-09-07'
+    relation: support
+    claim: スペイン・アリカンテでAlicante Aquaculture社がカンパチ(greater amberjack)の陸上循環式養殖(RAS)による商業規模生産を開始し、初期生産能力は年間600トン、将来的に年間900トンへの拡張を計画している。
+    source_url: https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/
+    tier: 2
+    origin: normal
+  - date: '2026-09-07'
+    relation: support
+    claim: Nordic Aqua Partnersは中国・寧波の陸上循環式養殖(RAS)によるタイセイヨウサーモン養殖場で第2段階設備を完成させ、年間生産能力を8,000トンに引き上げた。
+    source_url: https://www.seafoodnews.com/Story/1352701/Nordic-Aqua-Partners-Reaches-Full-Capacity-at-China-RAS-Farm-Eyes-Stage-3-Expansion
+    tier: 2
+    origin: normal
+  - date: '2026-09-07'
+    relation: support
+    claim: ノルウェーの2026年8月の水産物輸出額は160億ノルウェークローネで前年同月比14%増となり8月として過去最高を記録し、うちサーモン輸出額は123億NOK(前年同月比19%増)だった。
+    source_url: https://seafood.media/fis/worldnews/worldnews.asp?l=e&country=0&special=&monthyear=&day=&id=139220&ndb=1&df=0
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-06'
+    last_support: '2026-09-07'
     last_contradiction: '2026-09-03'
     last_watch_hit: '2026-09-03'
     last_on_air: '2026-09-03'
     on_air_count: 2
     last_redteam: '2026-09-03'
-  _sustain: 8
+  _sustain: 9
   review_note: 東北地方のバナメイエビ陸上養殖事業者「HANERU葛尾」は2026年7月、電気代・燃料代の増加による約4000万円の赤字を理由に事業を停止した。（陸上養殖事業が赤字により事業停止したと明記されている）
 - id: L-3
   theme: jp_fisheries
@@ -562,18 +574,30 @@ hypotheses:
     source_url: https://www.seafoodnews.com/Story/1353089/Japans-July-Seafood-Export-Volume-Fell-35-percent-Value-Rose-15-percent-as-Yellowtail-Jumped-and-Scallops-Slid
     tier: 2
     origin: normal
+  - date: '2026-09-07'
+    relation: support
+    claim: 2026年1〜6月の農林水産物・食品輸出額は前年同期比10.9%増の8,977億円で上半期として過去最高を更新し、うちブリは434億円(前年同期比69.0%増)だった。
+    source_url: https://www.jetro.go.jp/biznews/2026/08/e47598ab3d93df2e.html
+    tier: 1
+    origin: normal
+  - date: '2026-09-07'
+    relation: support
+    claim: 日本の2026年7月の水産物輸出は前年同月比で輸出量が35%減少、輸出額が15%増加し、うちぶり類は輸出量2,727トン(前年同月比45%増)、輸出額は前年同月比68%増だった。
+    source_url: https://www.seafoodnews.com/Story/1353089/Japans-July-Seafood-Export-Volume-Fell-35-percent-Value-Rose-15-percent-as-Yellowtail-Jumped-and-Scallops-Slid
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-06'
+    last_support: '2026-09-07'
     last_redteam: '2026-09-04'
     last_on_air: '2026-08-30'
     on_air_count: 1
-  _sustain: 5
+  _sustain: 6
 - id: L-4
   theme: world_fisheries
   axis: 横断
   statement: 水産事業の収益の振れは、資源量や相場よりも、制度・貿易ルール（関税・規制・認証）の変化に左右される比重が増している。
   created: '2026-08-27'
-  confidence: 0.939
+  confidence: 0.884
   status: active
   decision_link: 事業リスクの見積もりで、資源変動と制度変更のどちらに重みを置くか
   falsifiers:
@@ -787,17 +811,46 @@ hypotheses:
     source_url: https://www.seafoodnews.com/Story/1353508/Commerce-Raises-Indian-Shrimp-Antidumping-Rates-in-20th-Review-Final-Results
     tier: 1
     origin: normal
+  - date: '2026-09-07'
+    relation: contradict
+    claim: 北海道東部太平洋のマイワシ漁は2026年6月の解禁後、2026年9月時点でまき網・棒受網とも水揚げがゼロである。
+    source_url: https://www.suikei.co.jp/cat/news/fishery
+    tier: 2
+    origin: normal
+  - date: '2026-09-07'
+    relation: contradict
+    claim: 水産庁などは2026年9月2日、2026年度資源評価でマイワシ太平洋系群のABCが前年比75%減となり、対馬暖流系群が上回る「資源西高東低」への転換を公表した。
+    source_url: https://www.suikei.co.jp/cat/news/fishery
+    tier: 1
+    origin: normal
+  - date: '2026-09-07'
+    relation: contradict
+    claim: 北海道の2026年秋サケ来遊予測は365万尾で前年比47%減となり、2026年9月3日の札幌市中央卸売市場初競りで日高産ブランド「銀聖」のメスに18万8,888円/kgの最高値が付いた。
+    source_url: https://newsdig.tbs.co.jp/articles/-/2917890
+    tier: 2
+    origin: normal
+  - date: '2026-09-07'
+    relation: support
+    claim: 米国では強制労働対策を根拠とするSection 301関税が2026年7月24日に発効し、水産物は原則として品目別免除の対象外となり、ベトナム・中国・ノルウェー・チリ・ブラジルには12.5%、エクアドル・インドには10%の追加関税が課されている。
+    source_url: https://www.expanamarkets.com/insights/article/section-301-seafood-tariffs-what-changed-and-whos-exposed/
+    tier: 2
+    origin: normal
+  - date: '2026-09-07'
+    relation: support
+    claim: EU向け水産物輸出では2026年9月3日以降に署名される輸出証明書について、養殖水産物がEUで禁止された特定抗菌薬を投与されていないことを示す証明書類が必要になった。
+    source_url: https://www.fda.gov/food/food-export-lists/seafood-export-lists
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-06'
+    last_support: '2026-09-07'
     last_redteam: '2026-09-05'
-    last_contradiction: '2026-09-05'
-    last_watch_hit: '2026-09-05'
+    last_contradiction: '2026-09-07'
+    last_watch_hit: '2026-09-07'
     last_on_air: '2026-09-05'
     on_air_count: 2
-  _sustain: 1
-  review_note: 北海道東部太平洋沖のマイワシ漁は2026年6月の解禁以降、2026年9月時点でまき網・棒受網ともに水揚げがゼロの状態が続いている。（マイワシ漁獲ゼロは資源量で収益変動が説明できる事例）
-    / 水産庁は2026年9月2日公表の2026年度資源評価で、マイワシ太平洋系群のABCが75%減少したとされた。（ABC75%減少は資源量による変動を示す事例） / 北海道のサンマ棒受網漁は2026年8月25日までの累計水揚量が836.4トンとなり、前年同期の2,048.6トンから59.1%減少した。（サンマ水揚げ59%減少は資源量で説明できる事例）
-    / 北海道の2026年秋サケ来遊予測は365万尾で前年実績686万尾から47%減少し、定置網漁は2026年9月1日に開始された。（サケ来遊47%減少予測は資源量による変動事例） / 2026年9月4日の豊洲市場では、ブリは鳥取産などが堅調だった一方、サンマは北海道産などが1～3割下落した。（サンマ価格下落は相場・資源要因による変動事例）
+  _sustain: 0
+  review_note: 北海道東部太平洋のマイワシ漁は2026年6月の解禁後、2026年9月時点でまき網・棒受網とも水揚げがゼロである。（水揚げゼロが資源枯渇で説明され制度変更に依らない） / 水産庁などは2026年9月2日、2026年度資源評価でマイワシ太平洋系群のABCが前年比75%減となり、対馬暖流系群が上回る「資源西高東低」への転換を公表した。（ABC75%減・資源転換が収益変動を資源量で説明）
+    / 北海道の2026年秋サケ来遊予測は365万尾で前年比47%減となり、2026年9月3日の札幌市中央卸売市場初競りで日高産ブランド「銀聖」のメスに18万8,888円/kgの最高値が付いた。（来遊47%減による史上最高値が資源量で価格変動を説明）
 - id: L-5
   theme: genai
   axis: 横断
@@ -1056,21 +1109,33 @@ hypotheses:
     source_url: https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd121130.html
     tier: 1
     origin: normal
+  - date: '2026-09-07'
+    relation: support
+    claim: xAIは2026年9月3日、企業向け自律AIエージェント「Grok Bot」を発表し、GrokおよびCursorのEnterprise顧客向けに2週間の無料利用期間を設けた。
+    source_url: https://x.ai/news/grok-bot-for-enterprise
+    tier: 1
+    origin: normal
+  - date: '2026-09-07'
+    relation: support
+    claim: デジタル庁の「行政の進化と革新のための生成AIの調達・利活用に係るガイドライン第2.0版」が2026年9月1日から施行された。
+    source_url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/8b8d1635-cea3-4d36-bb9a-bac732779d1e/a493c7f4/20260612_meeting_executive_guideline_08.pdf
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-06'
+    last_support: '2026-09-07'
     last_contradiction: '2026-08-31'
     last_watch_hit: '2026-08-31'
     last_redteam: '2026-09-06'
     last_on_air: '2026-09-01'
     on_air_count: 1
-  _sustain: 9
+  _sustain: 10
   review_note: MIT NANDAの2025年7月公表report（2025年1~6月調査、52組織へのインタビュー等）によれば、業務特化型生成AIで本番到達・成功導入に至った組織は5%にとどまり、95%の組織で測定可能な投資効果が得られていないと報告された。（95%の組織で本番導入未達・投資効果測定不能と報告された）
 - id: L-6
   theme: education
   axis: 横断
   statement: 幼児から小学校段階のAI対応は、使わせ方の工夫より、使わせない時間をどう設計するかに寄りつつある。
   created: '2026-08-27'
-  confidence: 0.919
+  confidence: 0.849
   status: active
   decision_link: 家庭で、AIに触れさせる方針と触れさせない時間の設計のどちらを先に決めるか
   falsifiers:
@@ -1294,13 +1359,57 @@ hypotheses:
     source_url: https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence
     tier: 1
     origin: normal
+  - date: '2026-09-07'
+    relation: support
+    claim: ニューヨーク市公立学校は2026〜2027年度、2K〜8年生の生徒向け生成AI利用を禁止する方針を導入し、対象は約60万人とされる。
+    source_url: https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-07'
+    relation: support
+    claim: ノルウェーでは2026年8月末の新学年から、第1〜7学年(6〜13歳目安)の児童による学校での生成AI利用を原則認めない方針が導入された。
+    source_url: https://www.euronews.com/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools
+    tier: 2
+    origin: normal
+    aired: true
+  - date: '2026-09-07'
+    relation: support
+    claim: 英国教育省は幼児教育向け方針で、2歳未満は原則スクリーンを避け、2〜5歳は1日1時間以内とし、AI搭載玩具を含む幼児のAI利用は十分な証拠が得られるまで避けるよう推奨している。
+    source_url: https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/screen-use
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-07'
+    relation: contradict
+    claim: インド教育省は2025年10月30日、AIと計算論的思考を第3学年から基礎段階の教育に組み込み、2026〜2027年度から第3学年以上を対象にカリキュラムを導入する方針を公表した。
+    source_url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2184211&reg=3&lang=2
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-07'
+    relation: contradict
+    claim: フランス教育省は2025年6月14日、教育におけるAI利用の枠組みを公表し、第1学年からAIの基礎知識を学ぶ一方、教員監督下での生成AI利用は第4学年から授業で認めるとした。
+    source_url: https://www.education.gouv.fr/publication-du-cadre-d-usage-de-l-intelligence-artificielle-en-education-450652
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-07'
+    relation: contradict
+    claim: 米国ワシントン州のワラワラ公立学校(生徒約5,500人)は2023年2月に学校端末でのChatGPT利用を遮断したが、家庭端末からの利用を防げず禁止措置が有効でないと判断し、教員向けAI研修を導入する方針に転換した。
+    source_url: https://www.seattletimes.com/seattle-news/education/despite-cheating-fears-schools-repeal-chatgpt-bans/
+    tier: 2
+    origin: normal
+    aired: true
   ops:
-    last_support: '2026-09-06'
-    last_contradiction: '2026-09-05'
+    last_support: '2026-09-07'
+    last_contradiction: '2026-09-07'
     unfrozen: true
-    last_on_air: '2026-09-04'
-    on_air_count: 3
-    last_watch_hit: '2026-09-05'
-    last_redteam: '2026-09-01'
-  review_note: 香港教育局は2026年6月公表のデジタル教育方針で、小学校・中学校向けAIリテラシー学習枠組みを2026～2027年度から学校計画に組み込むよう求めた。（香港のAIリテラシー学習枠組み導入は低学年AI活用推進の広がりを示す）
-  _sustain: 1
+    last_on_air: '2026-09-07'
+    on_air_count: 4
+    last_watch_hit: '2026-09-07'
+    last_redteam: '2026-09-07'
+  review_note: インド教育省は2025年10月30日、AIと計算論的思考を第3学年から基礎段階の教育に組み込み、2026〜2027年度から第3学年以上を対象にカリキュラムを導入する方針を公表した。（第3学年からAI・計算論的思考導入で低学年活用拡大が実現）
+    / フランス教育省は2025年6月14日、教育におけるAI利用の枠組みを公表し、第1学年からAIの基礎知識を学ぶ一方、教員監督下での生成AI利用は第4学年から授業で認めるとした。（第1学年からAI基礎教育を導入し低学年活用が制度化）
+    / 米国ワシントン州のワラワラ公立学校(生徒約5,500人)は2023年2月に学校端末でのChatGPT利用を遮断したが、家庭端末からの利用を防げず禁止措置が有効でないと判断し、教員向けAI研修を導入する方針に転換した。（禁止措置が効果なしとして撤回され研修方針に転換）
+  _sustain: 0
