@@ -2884,7 +2884,9 @@
    "published": "2026-09-15",
    "importance": 1,
    "first_seen": "2026-09-07",
-   "aired": []
+   "aired": [
+    "2026-09-08"
+   ]
   },
   {
    "id": "27ff8ab637d0",
@@ -2901,6 +2903,40 @@
    "first_seen": "2026-09-07",
    "aired": [
     "2026-09-07"
+   ]
+  },
+  {
+   "id": "df028a994809",
+   "theme": "world_fisheries",
+   "headline": "北京市、チルド水産物の通関を最短10分に短縮",
+   "detail": "北京市では2026年1～7月の輸入チルド水産物が8,808トン（前年同期比41.4％増）、金額6.34億元（同47.4％増）となった。「ホワイトリスト＋サンプリング放行」制度により、登録輸入業者15社が書類・現物確認後、検査結果を待たずに商品を搬出できるようになり、従来3～5日かかった通関が最短10分に短縮された。制度利用時の通過比率は約93％。ノルウェー産生鮮サーモン2.7トンが北京首都国際空港で10分で通関した事例も紹介された。生鮮・高単価水産物の空輸モデルの競争力向上につながる可能性があるとの見方が示されている。",
+   "numbers": [
+    "通関最短10分",
+    "輸入量8,808トン",
+    "前年同期比41.4%増"
+   ],
+   "source_url": "https://www.salmonbusiness.com/beijing-cuts-salmon-clearance-to-10-minutes-as-imports-surge/",
+   "source_title": "SalmonBusiness",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-09-08",
+   "aired": [
+    "2026-09-08"
+   ]
+  },
+  {
+   "id": "14a2de272d1a",
+   "theme": "genai",
+   "headline": "米紙2社がOpenAI・Microsoftを著作権侵害で提訴",
+   "detail": "米国のThe Seattle TimesとNewsdayは、OpenAIとMicrosoftが両社の記事を許諾なくAIモデルの学習・運用に利用したとして、ニューヨーク南部地区連邦地裁に提訴したと2026年9月4日付で報じられた。原告は、有料記事を含むコンテンツの無断取得、AIによる記事文章のほぼそのままの出力、読者の新聞サイト訪問や購読の代替による収益毀損を主張し、学習データセットやAIモデルの破棄と損害賠償を求めている。OpenAIとMicrosoftはフェアユースを主張してきた経緯がある。裁判所による著作権侵害の認定はまだなされていないとの見方が示されている。",
+   "numbers": [],
+   "source_url": "https://www.reuters.com/legal/government/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement-2026-09-05/",
+   "source_title": "Reuters",
+   "published": "2026-09-04",
+   "importance": 2,
+   "first_seen": "2026-09-08",
+   "aired": [
+    "2026-09-08"
    ]
   }
  ]

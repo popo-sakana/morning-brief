@@ -7,11 +7,21 @@
     <link>https://popo-sakana.github.io/morning-brief/</link>
     <description>水産・生成AI・教育の4テーマを毎朝30分で</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Sep 2026 20:32:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 20:30:28 +0000</lastBuildDate>
     <itunes:author>popo</itunes:author>
     <itunes:summary>水産・生成AI・教育の4テーマを毎朝30分で</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+    <item>
+      <title>9月8日のブリーフ</title>
+      <description><![CDATA[・北京市でチルド水産物の通関手続きが大幅に速くなった<br>・米新聞2社が生成AIをめぐり連邦地裁に提訴した<br>・提訴は2026年9月4日付でロイター通信が報道した]]></description>
+      <pubDate>Tue, 08 Sep 2026 05:13:18 +0900</pubDate>
+      <guid isPermaLink="false">260908_morningbrief_v1_AI</guid>
+      <enclosure url="https://github.com/popo-sakana/morning-brief/releases/download/260908_morningbrief_v1_AI/260908_morningbrief_v1_AI.mp3" length="3300456" type="audio/mpeg"/>
+      <itunes:duration>792</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://popo-sakana.github.io/morning-brief/episodes/260908_morningbrief_v1_AI.html</link>
+    </item>
     <item>
       <title>9月7日のブリーフ</title>
       <description><![CDATA[・日本の水産は養殖から取り上げました。<br>・世界の水産は国境を越えるルールを5件紹介。<br>・ヨーロッパ・アジア・ロシアの物流コストにも言及。]]></description>

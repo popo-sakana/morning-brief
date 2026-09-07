@@ -1,5 +1,40 @@
 [
   {
+    "id": "260908_morningbrief_v1_AI",
+    "title": "9月8日のブリーフ",
+    "published_at": "2026-09-08T05:13:18+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260908_morningbrief_v1_AI/260908_morningbrief_v1_AI.mp3",
+    "duration_sec": 792,
+    "bytes": 3300456,
+    "summary": "・北京市でチルド水産物の通関手続きが大幅に速くなった<br>・米新聞2社が生成AIをめぐり連邦地裁に提訴した<br>・提訴は2026年9月4日付でロイター通信が報道した",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 13.9
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 171.5
+      },
+      {
+        "section": "genai",
+        "start_sec": 461.6
+      },
+      {
+        "section": "discussion",
+        "start_sec": 710.7
+      },
+      {
+        "section": "closing",
+        "start_sec": 788.3
+      }
+    ]
+  },
+  {
     "id": "260907_morningbrief_v1_AI",
     "title": "9月7日のブリーフ",
     "published_at": "2026-09-07T05:12:50+09:00",
