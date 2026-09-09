@@ -2938,6 +2938,241 @@
    "aired": [
     "2026-09-08"
    ]
+  },
+  {
+   "id": "500c2baa96d0",
+   "theme": "jp_fisheries",
+   "headline": "7月のマグロ類輸入、冷凍品は数量17%減も金額5%増",
+   "detail": "財務省貿易統計を基にした報道により、2026年7月のマグロ類輸入動向が示された。生鮮・冷蔵マグロ類は673トン（前年同月比3％増）、金額11億2200万円（同8％増）。冷凍マグロ類は1万3028トン（同17％減）、金額168億2200万円（同5％増）だった。冷凍品は数量が減る一方で金額が増えており、平均単価の上昇が示唆される。国内の外食・小売におけるマグロ商品価格や高級魚需給に影響する動きだが、数値はマグロ類全体であり、クロマグロ単独の数量・価格ではない。",
+   "numbers": [
+    "冷凍マグロ類1万3028トン",
+    "前年同月比17%減",
+    "金額168億2200万円"
+   ],
+   "source_url": "https://www.suikei.co.jp/cat/statistics/trade",
+   "source_title": "日刊水産経済新聞",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-09-10",
+   "aired": [
+    "2026-09-10"
+   ]
+  },
+  {
+   "id": "baad1a6d06c4",
+   "theme": "jp_fisheries",
+   "headline": "大分県のブリ類種苗生産、8日齢生残率84.8%の事例",
+   "detail": "水産研究・教育機構の2026年8月公表資料などにより、大分県のブリ類種苗生産事例で、8日齢の生残率が84.8％、取り揚げまでの生残率が9.7％だったことが確認された。あわせて、ブリ種苗生産の技術移転先では2025年度に2機関で生残率40％超を達成し、採卵技術を重点指導した1機関では採卵量が2024年度比3倍に増加したことも示されている。これらは特定の施設・試験条件における値であり、日本全体の平均値ではない。",
+   "numbers": [
+    "8日齢生残率84.8%",
+    "取り揚げまで生残率9.7%"
+   ],
+   "source_url": "https://www.pref.oita.jp/uploaded/life/251883_4280264_misc.pdf",
+   "source_title": "大分県資料",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-09-10",
+   "aired": [
+    "2026-09-10"
+   ]
+  },
+  {
+   "id": "e141b3808d82",
+   "theme": "world_fisheries",
+   "headline": "米HSWRI、カリフォルニア・イエローテールの量産種苗技術を発表",
+   "detail": "米国のHubbs-SeaWorld Research Institute（HSWRI）は、カリフォルニア・イエローテール（Seriola dorsalis）の商業規模種苗生産技術を報告した。発表は2026年9月4日付のAquaculture America 2026プログラムに掲載。約20年間の研究実績を踏まえ、年間を通じた採卵により年4回の60日生産サイクルを想定し、卵から体重1グラム稚魚までの平均生残率は40％（感度分析15〜60％）、1モジュール当たり年間約128万尾の稚魚生産を想定している。種苗生産は商業化に近づく一方、成魚まで育てる中間育成・養殖工程には追加研究が必要とされ、商業規模の成魚生産・販売開始を意味するものではない。",
+   "numbers": [
+    "生残率40%（15〜60%）",
+    "年間約128万尾/モジュール"
+   ],
+   "source_url": "https://www.was.org/Meeting/Program/PaperDetail/168228",
+   "source_title": "World Aquaculture Society",
+   "published": "2026-09-04",
+   "importance": 3,
+   "first_seen": "2026-09-10",
+   "aired": [
+    "2026-09-10"
+   ]
+  },
+  {
+   "id": "38ec9f632206",
+   "theme": "world_fisheries",
+   "headline": "エビ価格、タイは1kg140バーツ前後で安定、中国向けは改善兆し",
+   "detail": "2026年9月初旬の市場報道によると、主要生産国のエビ価格は前週までより変動が小さくなった。タイのバナメイエビ（70尾／kg）は約140タイバーツ／kg。エクアドルは9月2日、中国向けエビの輸出オファー価格を引き上げ、中国側にも前向きな動きが見られたとされる。一方、バングラデシュ・クルナ州では324カ所のエビ養殖場のうち約250カ所が疾病被害を受け、損失は1億5000万タカ超と報じられた。エクアドルの対中価格引き上げは中国消費需要への見方改善を示すとされるが、世界的な価格上昇局面の開始と判断するには材料不足との見方が示されている。",
+   "numbers": [
+    "タイ約140バーツ/kg",
+    "バングラデシュ損失1.5億タカ超",
+    "被害養殖場約250/324カ所"
+   ],
+   "source_url": "https://vantage-logistics.com/gobal-seafood-market-update-key-developments-in-early-september-2026",
+   "source_title": "Vantage Logistics",
+   "published": "2026-09-02",
+   "importance": 2,
+   "first_seen": "2026-09-10",
+   "aired": [
+    "2026-09-10"
+   ]
+  },
+  {
+   "id": "4e272dd1c79e",
+   "theme": "world_fisheries",
+   "headline": "カナダ、対米対抗関税から水産物254品目を除外・9月8日発効",
+   "detail": "カナダ政府は米国産品への対抗関税改訂リストから、水産物・魚類（HS第3類）約254品目を除外した。改訂は2026年8月26日発表、発効日は2026年9月8日。当初案では水産物全体に25％の追加関税を課す予定だったが、業界の意見を受け経済への広範な悪影響を避けるため改訂された。一部報道には冷凍サーモンやマグロなどへの関税引き上げを示す情報もあり、実務上は最終的なカナダ財務省の関税表・通関分類の確認が必要とされる。",
+   "numbers": [
+    "除外品目約254品目",
+    "発効2026年9月8日",
+    "当初案25%"
+   ],
+   "source_url": "https://gowlingwlg.com/en-ca/insights-resources/articles/2026/canada-revises-retaliatory-tariff-list",
+   "source_title": "Gowling WLG",
+   "published": "2026-09-08",
+   "importance": 3,
+   "first_seen": "2026-09-10",
+   "aired": [
+    "2026-09-10"
+   ]
+  },
+  {
+   "id": "cca19726b203",
+   "theme": "genai",
+   "headline": "OpenAI、画像生成モデル「ChatGPT Images 2.5」を発表",
+   "detail": "OpenAIは2026年9月8日、画像生成・編集モデル「ChatGPT Images 2.5」を発表した。旧「Images 2.0」比で生成レイテンシーを最大50％削減し、細部表現や自然な照明、参照画像の被写体保持、複数回編集指示への追従性が向上した。ChatGPTには手描き構図を利用する「Sketch」やテンプレート機能、画像上への直接コメントなどが追加された。APIでは高速生成向け「GPT-Image-2.5 Flare」と編集精度重視の「GPT-Image-2.5 Sunburst」の2モデルが提供される。ChatGPT、ChatGPT Work、Codexの全ティアに展開されるが、APIの具体的料金は発表本文で確認できていない。",
+   "numbers": [
+    "生成レイテンシー最大50%削減"
+   ],
+   "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+   "source_title": "OpenAI",
+   "published": "2026-09-08",
+   "importance": 2,
+   "first_seen": "2026-09-10",
+   "aired": [
+    "2026-09-10"
+   ]
+  },
+  {
+   "id": "2f4b68327adb",
+   "theme": "genai",
+   "headline": "OpenAI API、キャッシュ利用状況を可視化する新機能を一般提供",
+   "detail": "OpenAIは2026年9月8日、Responses APIの「Prompt Cache Diagnostics」を一般提供した。GPT-5.6以降の対応モデルで、キャッシュ再利用率、キャッシュミスの理由、過去レスポンスとの比較、改善のためのトラブルシューティング情報を確認できる。長いシステムプロンプトや定型コンテキストを使う業務システムでは、キャッシュが想定どおり機能しているか確認しやすくなり、API利用料や応答速度の最適化に有効とされるが、具体的な削減額は利用量やキャッシュヒット率により異なり一般的な削減率は確認できていない。",
+   "numbers": [],
+   "source_url": "https://developers.openai.com/api/docs/changelog",
+   "source_title": "OpenAI API Changelog",
+   "published": "2026-09-08",
+   "importance": 1,
+   "first_seen": "2026-09-10",
+   "aired": []
+  },
+  {
+   "id": "204954eb3094",
+   "theme": "genai",
+   "headline": "仏Mistral AI、30億ユーロ調達し評価額210億ユーロ超に",
+   "detail": "フランスのMistral AIは2026年9月8日、シリーズDで30億ユーロを調達したと発表した。調達後の評価額は210億ユーロ超。主な投資家はSamsung Electronics（主導）、Scaleup Europe Fund、PSG Equity、Advent International、BlackRockの運用ファンド、ルクセンブルク大公国、既存投資家のNVIDIAやAndreessen Horowitzなど。Mistralはオープンウェイトモデル、域内推論、欧州のAIインフラ整備に資金を使う方針を示している。欧州域内でデータや計算資源を管理する「主権AI」への投資が大規模化した形だが、実際の投資配分や収益化時期は確認できていない。",
+   "numbers": [
+    "調達額30億ユーロ",
+    "評価額210億ユーロ超"
+   ],
+   "source_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+   "source_title": "Mistral AI",
+   "published": "2026-09-08",
+   "importance": 2,
+   "first_seen": "2026-09-10",
+   "aired": [
+    "2026-09-10"
+   ]
+  },
+  {
+   "id": "93caf7b8614b",
+   "theme": "genai",
+   "headline": "EU専門家組織、脳データとAI融合「Neuro-AI」規制強化を提言",
+   "detail": "欧州委員会の独立専門家組織European Group on Ethics in Science and New Technologies（EGE）は2026年9月8日、「Governing Neuro-AI: Towards an Infrastructure Approach」を公表した。脳活動データなどのニューロデータとAIの融合について、ニューロデータ保護の強化、脳基盤モデルの責任ある開発、重大な意思決定での個人保護、公益重視のガバナンス構築、関連EU法制の点検を提言している。これは専門家組織による提言であり、直ちに新たな法的義務を発生させる規則ではないとの見方が示されている。",
+   "numbers": [],
+   "source_url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/experts-call-new-approach-neuro-ai-governance-2026-09-08_en",
+   "source_title": "European Commission",
+   "published": "2026-09-08",
+   "importance": 1,
+   "first_seen": "2026-09-10",
+   "aired": []
+  },
+  {
+   "id": "be34ad0785fa",
+   "theme": "genai",
+   "headline": "NYT対OpenAI・Microsoft著作権訴訟、フェアユース判断が焦点に",
+   "detail": "OpenAI、Microsoft、The New York Times、作家側は、AIモデル学習に著作物を使う行為が米国著作権法上の「フェアユース」に当たるかについて、ニューヨーク南部地区連邦地方裁判所にそれぞれ有利な判断を求めている。The New York Times側は許諾なく記事をAI学習に使ったと主張し、OpenAIとMicrosoftは学習が言語の統計的パターン抽出であり著作物の表現をそのまま再現するものではないと主張している。2026年9月8日時点で裁判所の最終判断は確認されていない。この訴訟はAI学習のための著作物利用やライセンス契約の必要性を左右する可能性がある。",
+   "numbers": [],
+   "source_url": "https://www.reuters.com/legal/litigation/openai-new-york-times-case-tees-up-key-test-ai-training-under-copyright-law-2026-09-08/",
+   "source_title": "Reuters",
+   "published": "2026-09-08",
+   "importance": 2,
+   "first_seen": "2026-09-10",
+   "aired": [
+    "2026-09-10"
+   ]
+  },
+  {
+   "id": "b88a3c5c921b",
+   "theme": "genai",
+   "headline": "NII、視覚言語モデル「LLM-jp-4-VL 9B」を公開",
+   "detail": "国立情報学研究所（NII）の大規模言語モデル研究開発センターは2026年9月1日付で、国産モデル「llm-jp-4-8b-thinking」をマルチモーダル化した視覚言語モデル「LLM-jp-4-VL 9B」を公開した。モデル名からパラメータ規模は約90億規模と読み取れるが、性能ベンチマークの具体的数値や商用利用条件の詳細は公式ページで確認できていない。日本語・国内データに適合したオープンモデルの選択肢が増えることで、機密データを国外の商用APIに送信しにくい自治体・研究機関・企業での検証が進む可能性がある。",
+   "numbers": [
+    "パラメータ規模約90億"
+   ],
+   "source_url": "https://llmc.nii.ac.jp/topics/",
+   "source_title": "国立情報学研究所",
+   "published": "2026-09-01",
+   "importance": 1,
+   "first_seen": "2026-09-10",
+   "aired": [
+    "2026-09-10"
+   ]
+  },
+  {
+   "id": "9c19a647f9e4",
+   "theme": "genai",
+   "headline": "NTT、AIインフラの光ネットワーク企業iPronicsへ出資",
+   "detail": "NTTは、IOWN AI Fundを通じて光ネットワーク技術を手掛けるiPronicsのシリーズBに、NVIDIAとともに参画したと発表した。ラウンド総額は1億2500万米ドル。目的は次世代AIインフラの実現、IOWNエコシステムの構築、AIインフラ向け光ネットワークの商用化支援。NTTのニュース一覧上の掲載日は2026年9月9日。生成AIの競争軸がモデル性能だけでなく電力効率やデータセンター間接続、推論コストに移るなか、光ネットワークをAIインフラの基盤に組み込む動きだが、商用化時期やサービス価格低下幅は確認できていない。",
+   "numbers": [
+    "ラウンド総額1億2500万米ドル"
+   ],
+   "source_url": "https://group.ntt/jp/newsrelease/2026/",
+   "source_title": "NTTニュースリリース",
+   "published": "2026-09-09",
+   "importance": 1,
+   "first_seen": "2026-09-10",
+   "aired": []
+  },
+  {
+   "id": "ace557c07ed3",
+   "theme": "genai",
+   "headline": "生成AI導入企業、44%に増加も売上向上実感は4%弱",
+   "detail": "IPA（情報処理推進機構）の「DX動向2026」によると、2026年4月中旬〜6月中旬に企業1799社を対象にした調査で、AIを導入している企業は42.3％、試験利用を含めると58.0％だった。導入・試験利用企業のうち、期待以上または期待どおりの効果を得たのは31.8％。具体的効果は「業務が効率化・迅速化」91.6％が最多で、「売上や利益の向上」は3.9％にとどまった。生成AI導入企業は2025年度44.0％で、2024年度の22.6％から増加した。確認できた実績は業務効率化に集中し、売上への直接効果を実感した企業は限定的との結果が示された。",
+   "numbers": [
+    "AI導入42.3%",
+    "生成AI導入44.0%（2025年度）",
+    "売上・利益向上実感3.9%"
+   ],
+   "source_url": "https://www.ipa.go.jp/digital/chousa/dx-trend/rcu1hd0000017uk8-att/dx-trend-2026.pdf",
+   "source_title": "情報処理推進機構（IPA）",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-09-10",
+   "aired": [
+    "2026-09-10"
+   ]
+  },
+  {
+   "id": "140851651e36",
+   "theme": "education",
+   "headline": "UNESCO、中国の若者向けにAI情報リテラシー活動を実施",
+   "detail": "2026年8月、UNESCO本部で中国の18歳未満の生徒を対象としたメディア情報リテラシー活動が行われた。AI生成情報の誤り、アルゴリズムの偏り、複数の信頼できる情報源による検証などが扱われた。UNESCOは、AI時代に重要な能力として、AIが出力した情報をそのまま受け入れず、正確性・偏り・出所・生成過程を確認する能力を重視している。これはUNESCOの政策的取り組みの一環であり、幼児を対象とした効果を実証したものではない。",
+   "numbers": [],
+   "source_url": "https://www.unesco.org/en/articles/young-people-china-explore-ai-through-media-and-information-literacy-unesco-headquarters",
+   "source_title": "UNESCO",
+   "published": "2026-08",
+   "importance": 1,
+   "first_seen": "2026-09-10",
+   "aired": [
+    "2026-09-10"
+   ]
   }
  ]
 }

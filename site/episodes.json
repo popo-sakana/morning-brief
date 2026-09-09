@@ -1,5 +1,48 @@
 [
   {
+    "id": "260910_morningbrief_v1_AI",
+    "title": "9月10日のブリーフ",
+    "published_at": "2026-09-10T05:13:50+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260910_morningbrief_v1_AI/260910_morningbrief_v1_AI.mp3",
+    "duration_sec": 1570,
+    "bytes": 6530148,
+    "summary": "・大分県のブリ類で種苗生産の事例が公表されました<br>・エビの価格動向など世界の水産事情を扱いました<br>・企業への生成AI導入状況の調査結果を紹介しました",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 31.7
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 191.3
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 455.9
+      },
+      {
+        "section": "genai",
+        "start_sec": 837.4
+      },
+      {
+        "section": "education",
+        "start_sec": 1249.7
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1485.4
+      },
+      {
+        "section": "closing",
+        "start_sec": 1559.2
+      }
+    ]
+  },
+  {
     "id": "260908_morningbrief_v1_AI",
     "title": "9月8日のブリーフ",
     "published_at": "2026-09-08T05:13:18+09:00",
