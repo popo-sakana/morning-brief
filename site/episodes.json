@@ -1,5 +1,48 @@
 [
   {
+    "id": "260911_morningbrief_v1_AI",
+    "title": "9月11日のブリーフ",
+    "published_at": "2026-09-11T05:12:43+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260911_morningbrief_v1_AI/260911_morningbrief_v1_AI.mp3",
+    "duration_sec": 1610,
+    "bytes": 6695949,
+    "summary": "・マイワシ太平洋系群の資源評価に大きな変化<br>・Metaが自律型AI「Muse」を米国で展開開始<br>・英とユネスコがAIと学校の付き合い方を提示",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 26.6
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 184.9
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 451.1
+      },
+      {
+        "section": "genai",
+        "start_sec": 717.1
+      },
+      {
+        "section": "education",
+        "start_sec": 1174.7
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1515.2
+      },
+      {
+        "section": "closing",
+        "start_sec": 1601.7
+      }
+    ]
+  },
+  {
     "id": "260910_morningbrief_v1_AI",
     "title": "9月10日のブリーフ",
     "published_at": "2026-09-10T05:13:50+09:00",

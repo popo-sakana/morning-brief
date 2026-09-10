@@ -3060,7 +3060,9 @@
    "published": "2026-09-08",
    "importance": 1,
    "first_seen": "2026-09-10",
-   "aired": []
+   "aired": [
+    "2026-09-11"
+   ]
   },
   {
    "id": "204954eb3094",
@@ -3172,6 +3174,153 @@
    "first_seen": "2026-09-10",
    "aired": [
     "2026-09-10"
+   ]
+  },
+  {
+   "id": "ea3d95dcecd5",
+   "theme": "jp_fisheries",
+   "headline": "マイワシ太平洋系群、ABCが前年比75%減の資源評価",
+   "detail": "水産庁は2026年9月2日、8魚種10系群を対象とした2026年度の水産資源評価結果を公表した。報道によると、マイワシ太平洋系群のABC(漁獲可能量の科学的目安)は前年比75%減となった。2025年の同系群の親魚量は約103.5万トン、漁獲量は約91.1万トンで、MSYを実現する親魚量に対する比率は0.72倍、漁獲圧に対する比率は4.43倍だった。マイワシは養殖飼料の原料にも使われるため、資源減少は天然魚市場だけでなく飼料需給にも影響し得るとされる。対馬暖流系群は相対的に良好とされ、系群ごとの管理が必要とされている。",
+   "numbers": [
+    "ABC前年比75%減",
+    "2025年親魚量約103.5万トン",
+    "2025年漁獲量約91.1万トン"
+   ],
+   "source_url": "https://www.fra.go.jp/shigen/fisheries_resources/meeting/stock_assessment_meeting/2026/sa2026-sc08.html",
+   "source_title": "水産研究・教育機構",
+   "published": "2026-09-02",
+   "importance": 4,
+   "first_seen": "2026-09-11",
+   "aired": [
+    "2026-09-11"
+   ]
+  },
+  {
+   "id": "03fb9c72416e",
+   "theme": "world_fisheries",
+   "headline": "ノルウェー北部でサケ貧血症(ISA)疑い、3養殖地点で報告",
+   "detail": "ノルウェー北部で2026年9月初め、3養殖地点において感染性サケ貧血(ISA)の疑い・確認事例が報じられた。ISAはサケ科魚類に感染するウイルス性疾患で、感染が広がれば当該地点の駆除や出荷制限につながる可能性がある。同時期にノルウェーの8月のサケ輸出は数量・金額とも前年同月を上回る記録的水準だったが、疾病リスクは今後の供給量やコスト、価格の不確実性要因になるとの見方が示されている。",
+   "numbers": [
+    "3養殖地点"
+   ],
+   "source_url": "https://seafood.media/fis/worldnews/search_brief.asp?l=e&id=139219&ndb=1&monthyear=&day=&country=0&df=1",
+   "source_title": "FIS",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-09-11",
+   "aired": [
+    "2026-09-11"
+   ]
+  },
+  {
+   "id": "0e5d3086cda5",
+   "theme": "world_fisheries",
+   "headline": "EU、水産原料の無税輸入枠を2027年末まで延長提案",
+   "detail": "欧州委員会は2026年9月8日、水産原料に対するEUの自主関税割当(ATQ)制度について、2026年末までの期限を2027年12月31日まで1年間延長する法案を提案した。現時点では提案段階であり、採択・施行はされていない。同制度はEU域内の加工業者が水産原料を無税または減税で輸入できる枠組みで、持続可能性基準を組み込む制度改定の検討が終わるまで無税枠に空白が生じることを避ける狙いがあるとされる。ぶり類がこの割当の対象に含まれるかは確認できていない。",
+   "numbers": [
+    "延長期間1年間",
+    "2027年12月31日まで"
+   ],
+   "source_url": "https://thefishingdaily.com/eu-fishing-industry-news/eu-commission-moves-to-extend-duty-free-fish-imports/",
+   "source_title": "The Fishing Daily",
+   "published": "2026-09-08",
+   "importance": 2,
+   "first_seen": "2026-09-11",
+   "aired": [
+    "2026-09-11"
+   ]
+  },
+  {
+   "id": "e364e323b4bc",
+   "theme": "genai",
+   "headline": "OpenAI、金融機関向けChatGPT新サービスを発表",
+   "detail": "OpenAIは2026年9月10日、金融サービス業務向けの「ChatGPT for Financial Services」を発表した。GPT-6 Astraと金融データを組み合わせ、投資銀行リサーチや株式リサーチ、財務モデル作成、LBOモデリング、買収候補企業のスクリーニング、決算分析などの業務を支援するとしている。設計パートナーとしてモルガン・スタンレーとエバーコアを挙げ、Daloopa、PitchBook、LSEG News、Crunchbaseなどのデータ提供者と連携する。企業データはデフォルトでモデル訓練に使わず、暗号化やアクセス制御に対応するとしている。具体的な導入効果や作業時間削減率は発表内容からは確認できない。",
+   "numbers": [],
+   "source_url": "https://openai.com/index/introducing-chatgpt-financial-services/",
+   "source_title": "OpenAI",
+   "published": "2026-09-10",
+   "importance": 2,
+   "first_seen": "2026-09-11",
+   "aired": [
+    "2026-09-11"
+   ]
+  },
+  {
+   "id": "05085e5d8ab2",
+   "theme": "genai",
+   "headline": "Meta、自律型パーソナルAIエージェント「Muse」を米国展開",
+   "detail": "Metaは自律型パーソナルAIエージェント「Muse」を発表し、米国でiOS、Android、muse.aiを通じて展開を開始した。Museはメール送信や旅行予約、ブラウザー操作、フォーム入力、買い物、目標に基づく作業計画の作成などをユーザーに代わって実行する。メール送信や購入などの機密操作の前にはユーザーの承認を求める仕組みで、専用仮想マシン「Muse Secure VM」で実行環境を隔離する。Stripeが構築したLink決済にも対応し、大部分の機能は無料で提供されるが、具体的なサブスクリプション料金は確認できていない。",
+   "numbers": [],
+   "source_url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+   "source_title": "Meta",
+   "published": "",
+   "importance": 3,
+   "first_seen": "2026-09-11",
+   "aired": [
+    "2026-09-11"
+   ]
+  },
+  {
+   "id": "16c5f943b4ac",
+   "theme": "genai",
+   "headline": "Cognition AI、20億ドル調達で評価額480億ドルに",
+   "detail": "AIソフトウェア開発企業Cognition AIは2026年9月8日、シリーズEで20億ドル超を調達し、評価額が480億ドルになったと発表した。主な投資家としてAndreessen HorowitzとAccelを挙げている。調達資金はAIソフトウェアエンジニアリングおよび自律型開発エージェントの拡大に充てるとしている。調達後の売上や顧客数、利益、生産性向上率などの客観的な指標は公式発表からは確認できていない。",
+   "numbers": [
+    "調達額20億ドル超",
+    "評価額480億ドル"
+   ],
+   "source_url": "https://cognition.com/blog",
+   "source_title": "Cognition AI",
+   "published": "2026-09-08",
+   "importance": 1,
+   "first_seen": "2026-09-11",
+   "aired": [
+    "2026-09-11"
+   ]
+  },
+  {
+   "id": "cdfd8d96320b",
+   "theme": "genai",
+   "headline": "Suno、音楽大手と提携した新モデル「v6」を発表",
+   "detail": "AI音楽生成サービスSunoは2026年9月9日、Warner Music Group、BMG、Believeなど音楽業界との提携に基づく新モデル群「v6」を発表した。有料のProおよびPremierプラン向けにv6を、無料ユーザー向けにv6-miniを提供する。BMGとの提携では、参加を選択したアーティスト・作詞作曲家への対価還元や過去作品の利用整理を含むとされ、生成AI企業がライセンス契約を前提に音楽生成の商用利用を拡大する方向を示す事例となっている。具体的な分配率や契約金額は確認できていない。",
+   "numbers": [],
+   "source_url": "https://suno.com/blog/introducing-v6",
+   "source_title": "Suno",
+   "published": "2026-09-09",
+   "importance": 1,
+   "first_seen": "2026-09-11",
+   "aired": [
+    "2026-09-11"
+   ]
+  },
+  {
+   "id": "65ccc8c10fce",
+   "theme": "education",
+   "headline": "UNESCO教育相声明、AI時代の批判的思考重視を提言",
+   "detail": "UNESCOは2026年9月8日、教育相らによる声明で、AIが答えを出すだけでなく学習者に推論や認知的作業を促すよう設計されるべきだとした。批判的理解やAIコンピテンシー、教師の専門的判断を重点課題に挙げ、AIが人間関係や教師の判断を置き換えてはならないと明記している。これは、AIの出力をそのまま受け入れず根拠や誤り、偏りを確認する能力を教育の中心に位置づけようとする動きと解釈できるとの見方が示されている。",
+   "numbers": [],
+   "source_url": "https://www.unesco.org/en/articles/education-ministers-call-education-remain-common-good-age-ai-unescos-digital-learning-week",
+   "source_title": "UNESCO",
+   "published": "2026-09-08",
+   "importance": 2,
+   "first_seen": "2026-09-11",
+   "aired": [
+    "2026-09-11"
+   ]
+  },
+  {
+   "id": "f44df1ff9c96",
+   "theme": "education",
+   "headline": "英国、KCSIE2026施行しAI安全対策と携帯電話原則禁止",
+   "detail": "イングランドでは2026年9月1日から、学校の児童保護指針「Keeping Children Safe in Education 2026」が施行された。生成AIの安全で効果的な利用に関する内容が追加され、データ保護やフィルタリング、監視体制を少なくとも年1回見直すことが求められる。AIで生成・加工された画像やディープフェイクも児童保護上のリスクとして扱われる。また携帯電話は授業中だけでなく休み時間や昼食時間を含む学校時間全体で原則利用不可とする方針が2026年9月から実施されている。",
+   "numbers": [],
+   "source_url": "https://www.gov.uk/government/publications/keeping-children-safe-in-education--2",
+   "source_title": "英国政府(GOV.UK)",
+   "published": "2026-09-01",
+   "importance": 2,
+   "first_seen": "2026-09-11",
+   "aired": [
+    "2026-09-11"
    ]
   }
  ]
