@@ -1,5 +1,48 @@
 [
   {
+    "id": "260912_morningbrief_v1_AI",
+    "title": "9月12日のブリーフ",
+    "published_at": "2026-09-12T05:13:33+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260912_morningbrief_v1_AI/260912_morningbrief_v1_AI.mp3",
+    "duration_sec": 1573,
+    "bytes": 6538533,
+    "summary": "・マイワシの資源評価を水産庁が公表しました。<br>・ノルウェー産サーモン輸出価格が前週比3.0%低下。<br>・韓国でAIロボットを使う幼児教育の研究が発表されました。",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 32.1
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 225.9
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 483.5
+      },
+      {
+        "section": "genai",
+        "start_sec": 793.1
+      },
+      {
+        "section": "education",
+        "start_sec": 1141.7
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1403.1
+      },
+      {
+        "section": "closing",
+        "start_sec": 1560.5
+      }
+    ]
+  },
+  {
     "id": "260911_morningbrief_v1_AI",
     "title": "9月11日のブリーフ",
     "published_at": "2026-09-11T05:12:43+09:00",

@@ -7,11 +7,21 @@
     <link>https://popo-sakana.github.io/morning-brief/</link>
     <description>水産・生成AI・教育の4テーマを毎朝30分で</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 20:36:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:38:56 +0000</lastBuildDate>
     <itunes:author>popo</itunes:author>
     <itunes:summary>水産・生成AI・教育の4テーマを毎朝30分で</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+    <item>
+      <title>9月12日のブリーフ</title>
+      <description><![CDATA[・マイワシの資源評価を水産庁が公表しました。<br>・ノルウェー産サーモン輸出価格が前週比3.0%低下。<br>・韓国でAIロボットを使う幼児教育の研究が発表されました。]]></description>
+      <pubDate>Sat, 12 Sep 2026 05:13:33 +0900</pubDate>
+      <guid isPermaLink="false">260912_morningbrief_v1_AI</guid>
+      <enclosure url="https://github.com/popo-sakana/morning-brief/releases/download/260912_morningbrief_v1_AI/260912_morningbrief_v1_AI.mp3" length="6538533" type="audio/mpeg"/>
+      <itunes:duration>1573</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://popo-sakana.github.io/morning-brief/episodes/260912_morningbrief_v1_AI.html</link>
+    </item>
     <item>
       <title>9月11日のブリーフ</title>
       <description><![CDATA[・マイワシ太平洋系群の資源評価に大きな変化<br>・Metaが自律型AI「Muse」を米国で展開開始<br>・英とユネスコがAIと学校の付き合い方を提示]]></description>
