@@ -1,5 +1,48 @@
 [
   {
+    "id": "260913_morningbrief_v1_AI",
+    "title": "9月13日のブリーフ",
+    "published_at": "2026-09-13T05:12:47+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260913_morningbrief_v1_AI/260913_morningbrief_v1_AI.mp3",
+    "duration_sec": 1486,
+    "bytes": 6182940,
+    "summary": "・広島のカキ養殖で酸素濃度低下による初の厳戒アラート<br>・スペインでカンパチの陸上ふ化場建設が計画進行中<br>・アンソロピックがAI悪用検知の対抗事例を報告書に公表",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 34.5
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 196.8
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 384.3
+      },
+      {
+        "section": "genai",
+        "start_sec": 701.3
+      },
+      {
+        "section": "education",
+        "start_sec": 1114.6
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1393.5
+      },
+      {
+        "section": "closing",
+        "start_sec": 1474.2
+      }
+    ]
+  },
+  {
     "id": "260912_morningbrief_v1_AI",
     "title": "9月12日のブリーフ",
     "published_at": "2026-09-12T05:13:33+09:00",

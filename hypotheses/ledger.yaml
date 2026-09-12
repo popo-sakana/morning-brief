@@ -13,7 +13,7 @@ hypotheses:
   axis: 生産
   statement: 養殖の競争力の源泉が、規模と餌のコスト勝負から、種苗・育種と斃死率のコントロールへ移りつつある。
   created: '2026-08-27'
-  confidence: 0.939
+  confidence: 0.948
   status: active
   decision_link: 養殖案件で、飼料の置き換えと生残率の改善のどちらを提案の軸に置くか
   falsifiers:
@@ -184,8 +184,14 @@ hypotheses:
     source_url: https://www.fra.go.jp/home/kokaijoho/johoteikyo/files/R07_jikohyoka.pdf
     tier: 1
     origin: normal
+  - date: '2026-09-13'
+    relation: support
+    claim: NHKは2026年9月9日、広島県の養殖カキについて海中の酸素濃度低下を理由とする「厳戒アラート」が初めて発出されたと報じた。
+    source_url: https://news.web.nhk/newsweb/na/nd-20260909de49302
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-10'
+    last_support: '2026-09-13'
     last_contradiction: '2026-09-10'
     last_on_air: '2026-09-06'
     on_air_count: 2
@@ -193,13 +199,13 @@ hypotheses:
     unfrozen: true
   review_note: FAOによるアジア6か国・計340養殖場調査（調査期間2005年10月15日～2006年2月14日、2007年公表）では、総生産費に占める餌料費が平均58.0%で稚魚・種苗費15.5%を大きく上回った。（餌料費が種苗費を大きく上回るとFAO調査が示す）
     / FAOの世界調査（2019年2月公表、回答期間2015年6月～2017年6月）では、92か国の回答のうち45%が遺伝的改良は養殖生産に「影響しなかった」または「影響は小さかった」と回答した。（45%が遺伝的改良は生産に影響小さいと回答）
-  _sustain: 7
+  _sustain: 8
 - id: L-2
   theme: world_fisheries
   axis: 流通
   statement: 水産物の流通は、鮮度を遠くへ運ぶ方向と、需要地の近くで作って加工する方向へ分岐している。
   created: '2026-08-27'
-  confidence: 0.901
+  confidence: 0.948
   status: active
   decision_link: 輸出を伸ばすのか、現地生産・現地加工に投資するのか
   falsifiers:
@@ -220,30 +226,6 @@ hypotheses:
   - neutral_query: 陸上養殖 商業生産 稼働 最新
   - neutral_query: 水産物 輸送 コールドチェーン 動向
   evidence:
-  - date: '2026-09-02'
-    relation: support
-    claim: 中国・寧波で陸上養殖を行うNordic Aqua Partnersは、2026年4〜6月にサーモンを1,362トン(HOG重量)収穫した。
-    source_url: https://ca.investing.com/news/stock-market-news/nordic-aqua-q2-2026-slides-record-harvest-china-growth-accelerate-93CH-4816790
-    tier: 2
-    origin: normal
-  - date: '2026-09-02'
-    relation: support
-    claim: 日本で陸上サーモン養殖を行うProximar Seafoodの2026年1〜6月累計収穫量は1,850トンだった。
-    source_url: https://ng.investing.com/news/stock-market-news/proximar-q2-2026-slides-harvest-strategy-shifts-profitability-path-emerges-93CH-2678409
-    tier: 2
-    origin: normal
-  - date: '2026-09-02'
-    relation: support
-    claim: オランダの陸上養殖企業The Kingfish Companyは、2026年1〜6月の売上高が1,980万ユーロ(前年同期比16%増)、販売量が1,470トン(同13%増)となり、営業EBITDAは20万ユーロで前年同期の250万ユーロ赤字から黒字化した。
-    source_url: https://insights.tridge.com/speaker-product-news-reports/KJLyFXpzJzgKuB1Gqsm5QUKHGgR43AVdqLJmbTsCS21cFz5g2va9wtv8
-    tier: 2
-    origin: normal
-  - date: '2026-09-02'
-    relation: support
-    claim: 中国南方航空は2026年8月20日にノルウェー・オスロと上海を結ぶ鮮魚輸送用貨物便を初運航し、週2便で週約200トンのノルウェー産サーモン輸送能力を見込むとした。
-    source_url: https://www.seafoodnews.com/Story/1352456/China-Southern-Launches-Direct-Oslo-Shanghai-Cargo-Route-for-Norwegian-Salmon
-    tier: 2
-    origin: normal
   - date: '2026-09-03'
     relation: support
     claim: スペインのAlicante Aquacultureは、greater amberjack（かんぱち）の陸上RASによる商業規模生産を開始し、初期能力は年間600トン、拡張後は年間900トンを計画している。
@@ -471,14 +453,38 @@ hypotheses:
     source_url: https://www.seafoodnews.com/Story/1352701/Nordic-Aqua-Partners-Reaches-Full-Capacity-at-China-RAS-Farm-Eyes-Stage-3-Expansion
     tier: 2
     origin: normal
+  - date: '2026-09-13'
+    relation: support
+    claim: スペイン・アルメリア県Carbonerasでgreater amberjack(カンパチ類)の陸上ふ化場「Ocean Aquaculture Hatchery」の建設計画が進行しており、第1段階投資額は約1,500万ユーロ、最大年間800万尾の稚魚生産を計画し、建設完了は2027年12月、初回生産は2028年1月予定である。
+    source_url: https://www.mispeces.com/en/in-depth/Ocean-Aquaculture-begins-work-on-Spain-hatchery-designed-to-produce-eight-million-greater-amberjack-juveniles-a-year/
+    tier: 2
+    origin: normal
+  - date: '2026-09-13'
+    relation: support
+    claim: オランダでyellowtail kingfishを陸上養殖するThe Kingfish Companyが新株44,272,359株を発行し、約2,670万ノルウェークローネを調達した。
+    source_url: https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/4461522/kingfish-company-raises-nok-26-7-million-in-subsequent-share-offering
+    tier: 2
+    origin: normal
+  - date: '2026-09-13'
+    relation: support
+    claim: 海運会社Evergreen Marineは、IoT機能を搭載した冷蔵コンテナを約58,000台運用していると発表した。
+    source_url: https://container-news.com/evergreen-operates-58000-iot-enabled-reefer-containers/
+    tier: 1
+    origin: normal
+  - date: '2026-09-13'
+    relation: support
+    claim: スペイン・アリカンテのAlicante Aquacultureでgreater amberjackのRAS陸上養殖施設が商業規模生産を開始し、初期生産能力は年間600トン(将来900トンへ拡張計画)、投資額は約1,500万ユーロである。
+    source_url: https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-12'
+    last_support: '2026-09-13'
     last_contradiction: '2026-09-12'
     last_watch_hit: '2026-09-12'
     last_on_air: '2026-09-10'
     on_air_count: 3
     last_redteam: '2026-09-10'
-  _sustain: 13
+  _sustain: 14
   review_note: ノルウェーの2026年8月の水産物輸出額は160億ノルウェークローネで前年同月比14%増となり8月として過去最高となった。サーモン輸出は数量153,602トン・金額123億クローネで、前年同月比数量7%増・金額19%増だった。（サーモン輸出の数量・金額が増加し長距離生鮮輸送拡大を示す）
 - id: L-3
   theme: jp_fisheries
@@ -652,12 +658,24 @@ hypotheses:
     source_url: https://www.maff.go.jp/j/shokusan/export/e_info/attach/pdf/zisseki-311.pdf
     tier: 1
     origin: normal
+  - date: '2026-09-13'
+    relation: support
+    claim: 農林水産省によると、2026年1〜6月のぶり輸出額は前年同期比69.0%増となり、上半期として過去最高を更新した。
+    source_url: https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/260804.html
+    tier: 1
+    origin: normal
+  - date: '2026-09-13'
+    relation: support
+    claim: 農林水産省によると、2026年1〜6月の水産物輸出額は2,384億円で前年同期比19.5%増、農林水産物・食品全体の輸出額は8,977億円で前年同期比10.9%増だった。
+    source_url: https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/260804.html
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-12'
+    last_support: '2026-09-13'
     last_redteam: '2026-09-11'
     last_on_air: '2026-09-11'
     on_air_count: 2
-  _sustain: 10
+  _sustain: 11
 - id: L-4
   theme: world_fisheries
   axis: 横断
@@ -684,20 +702,6 @@ hypotheses:
   - neutral_query: 水産物 関税 規制 変更 最新
   - neutral_query: 水産 認証 要件 見直し
   evidence:
-  - date: '2026-08-31'
-    relation: contradict
-    claim: 釧路港の2026年7月のイワシ水揚げはゼロとなり、7月全体の水揚げ量は64トン（前年同月比99.7%減）、水揚げ金額は4,077万円（前年同月比96.4%減）だった。
-    source_url: https://www.suikei.co.jp/cat/news/fishery
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-08-31'
-    relation: support
-    claim: 米USTRは強制労働対策を理由に、対象60経済圏についてSection 301追加関税を原則10%または12.5%に設定した。
-    source_url: https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ustr-takes-action-forced-labor-section-301-investigations
-    tier: 1
-    origin: normal
-    aired: true
   - date: '2026-08-31'
     relation: support
     claim: インドネシア産加工マグロ・カツオ製品の対象4品目について、日・インドネシア経済連携協定改正により2026年8月1日から日本向け特恵関税が0%（従来9.6%）になった。
@@ -939,21 +943,33 @@ hypotheses:
     source_url: https://food.ec.europa.eu/animals/animal-health/veterinary-medicines/eu-antimicrobial-rules-imports-animals-and-animal-products_en
     tier: 1
     origin: normal
+  - date: '2026-09-13'
+    relation: support
+    claim: 水産庁は2026年9月7日、IATTC年次会合で資源量に応じて漁獲枠を自動調整する新管理方式が採択され、体重30kg以上の大型太平洋クロマグロの2027〜2028年漁獲枠を現行より25%増やす方向になったと発表した。
+    source_url: https://www.sanspo.com/article/20260907-XQUXBYHBL5M53A4EWG7M5RVBZQ/
+    tier: 1
+    origin: normal
+  - date: '2026-09-13'
+    relation: support
+    claim: 欧州委員会は2026年9月8日、EUの水産物向け自律関税割当(ATQ)制度を2027年12月31日まで1年間延長する法案(COM(2026) 447)を提出した。
+    source_url: https://thefishingdaily.com/eu-fishing-industry-news/eu-commission-moves-to-extend-duty-free-fish-imports/
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-12'
+    last_support: '2026-09-13'
     last_redteam: '2026-09-12'
     last_contradiction: '2026-09-11'
     last_watch_hit: '2026-09-11'
     last_on_air: '2026-09-08'
     on_air_count: 3
-  _sustain: 3
+  _sustain: 4
   review_note: 水産庁は2026年度資源評価で、マイワシ太平洋系群のABCが前年比75%減少したと公表した。（ABC75%減は資源量評価に基づく変動で制度変更ではない）
 - id: L-5
   theme: genai
   axis: 横断
   statement: 生成AIの競争軸は、モデルの性能比べから、業務への埋め込みと責任の分け方へ移っている。
   created: '2026-08-27'
-  confidence: 0.948
+  confidence: 0.906
   status: active
   decision_link: AI導入の検討で、モデル選定と業務プロセス設計のどちらに時間を割くか
   falsifiers:
@@ -973,46 +989,6 @@ hypotheses:
   - neutral_query: 生成AI 業務導入 効果 実績
   - neutral_query: AI 責任 契約 規約 変更
   evidence:
-  - date: '2026-08-31'
-    relation: support
-    claim: McKinseyの2026年5月4日~6月8日調査（回答者1,719人）では、80%がAIによって個人の生産性が向上したと回答し、37%がAIが企業のEBITに一定のプラス影響を与えたと回答した。
-    source_url: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
-    tier: 2
-    origin: normal
-  - date: '2026-08-31'
-    relation: contradict
-    claim: MIT NANDAの2025年7月公表report（2025年1~6月調査、52組織へのインタビュー等）によれば、業務特化型生成AIで本番到達・成功導入に至った組織は5%にとどまり、95%の組織で測定可能な投資効果が得られていないと報告された。
-    source_url: https://cloudelligent.com/wp-content/uploads/2026/02/v0.1_State_of_AI_in_Business_2025_Report.pdf
-    tier: 2
-    origin: normal
-  - date: '2026-09-01'
-    relation: support
-    claim: OpenAIは2026年8月28日付でAIコーディングサービスCursorへのモデル提供契約を終了する意向を通知し、2026年11月12日を提供停止予定日とした。
-    source_url: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/
-    tier: 1
-    origin: normal
-    aired: true
-  - date: '2026-09-01'
-    relation: support
-    claim: Sony Music PublishingとWarner Chappell Musicは2026年8月28日、Anthropicらを著作権侵害で米カリフォルニア北部地区連邦地方裁判所に提訴した。
-    source_url: https://www.musicbusinessworldwide.com/files/2026/08/COMPLAINT-in-Sony_Music_Publishing_US_LLC_e.pdf
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-01'
-    relation: support
-    claim: デジタル庁は被災自治体向け政府生成AI環境「源内」の提供期間を2026年9月30日まで延長した。
-    source_url: https://www.digital.go.jp/news/7266f120-48b5-4a2a-a2d6-e1467df7824e
-    tier: 1
-    origin: normal
-    aired: true
-  - date: '2026-09-01'
-    relation: support
-    claim: NTT東日本と横須賀市は2026年8月31日、災害対策本部の意思決定を生成AIが支援できるか検証する実証を開始した。
-    source_url: https://www.ntt-east.co.jp/release/detail/20260831_01.html
-    tier: 1
-    origin: normal
-    aired: true
   - date: '2026-09-02'
     relation: support
     claim: OpenAIは2026年9月1日、ChatGPT for Healthcareに電子カルテシステムEpicとの連携機能などを追加したと発表した。
@@ -1219,15 +1195,58 @@ hypotheses:
     source_url: https://openai.com/policies/service-terms/
     tier: 1
     origin: normal
+  - date: '2026-09-13'
+    relation: support
+    claim: OpenAIは2026年9月10日、クラウド上でAIエージェントを構築・実行できる「Agents API」を公開ベータで提供開始した。
+    source_url: https://openai.com/index/introducing-the-agents-api/
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-13'
+    relation: support
+    claim: OpenAIは2026年9月10日、金融機関向け製品「ChatGPT for Financial Services」を発表した。
+    source_url: https://openai.com/index/introducing-chatgpt-financial-services/
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-13'
+    relation: support
+    claim: Anthropicは2026年9月10日、過去8カ月間にClaudeを悪用しようとした複数の活動を特定・妨害したとする悪用検知・対策レポートを公表した。
+    source_url: https://www.anthropic.com/news
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-13'
+    relation: support
+    claim: OpenAIは2026年9月10日、ChatGPT Work向けに企業データを自然言語で分析できる「Data agent」を発表した。
+    source_url: https://openai.com/index/put-data-to-work/
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-13'
+    relation: contradict
+    claim: McKinsey & Companyが105カ国・地域の1,993人を対象に実施した調査では、回答企業の88%が少なくとも1つの業務機能でAIを定期利用している一方、AIプログラムを全社でスケールし始めた企業は約3分の1にとどまった。
+    source_url: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-2025
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-13'
+    relation: contradict
+    claim: Capgeminiなどによる22カ国・10業種・2,000人超対象の調査World Quality Report 2025では、生成AIで拡張された業務フローの試験導入・展開組織のうち52%がパイロット段階、エンタープライズ全体での実装達成は15%にとどまった。
+    source_url: https://www.capgemini.com/us-en/news/press-releases/world-quality-report-2025-ai-adoption-surges-in-quality-engineering-but-enterprise-level-scaling-remains-elusive/
+    tier: 1
+    origin: normal
+    aired: true
   ops:
-    last_support: '2026-09-12'
-    last_contradiction: '2026-08-31'
-    last_watch_hit: '2026-08-31'
-    last_redteam: '2026-09-06'
-    last_on_air: '2026-09-01'
-    on_air_count: 1
-  _sustain: 14
-  review_note: MIT NANDAの2025年7月公表report（2025年1~6月調査、52組織へのインタビュー等）によれば、業務特化型生成AIで本番到達・成功導入に至った組織は5%にとどまり、95%の組織で測定可能な投資効果が得られていないと報告された。（95%の組織で本番導入未達・投資効果測定不能と報告された）
+    last_support: '2026-09-13'
+    last_contradiction: '2026-09-13'
+    last_watch_hit: '2026-09-13'
+    last_redteam: '2026-09-13'
+    last_on_air: '2026-09-13'
+    on_air_count: 2
+  _sustain: 15
+  review_note: Capgeminiなどによる22カ国・10業種・2,000人超対象の調査World Quality Report 2025では、生成AIで拡張された業務フローの試験導入・展開組織のうち52%がパイロット段階、エンタープライズ全体での実装達成は15%にとどまった。（52%がパイロット止まり、15%のみ全社実装と報告）
+    / McKinsey & Companyが105カ国・地域の1,993人を対象に実施した調査では、回答企業の88%が少なくとも1つの業務機能でAIを定期利用している一方、AIプログラムを全社でスケールし始めた企業は約3分の1にとどまった。（全社スケール開始企業は約3分の1に留まると報告）
 - id: L-6
   theme: education
   axis: 横断
@@ -1253,31 +1272,6 @@ hypotheses:
   - neutral_query: 幼児教育 スクリーンタイム 方針 最新
   - neutral_query: 小学校 生成AI 利用 ルール 各国
   evidence:
-  - date: '2026-08-31'
-    relation: contradict
-    claim: 香港教育局は2026~2027年度に向け、小学校の情報・イノベーション技術カリキュラムに「人工知能入門」分野の試行版を導入した。
-    source_url: https://www.edb.gov.hk/en/DEBP/
-    tier: 1
-    origin: normal
-  - date: '2026-09-01'
-    relation: support
-    claim: ノルウェーでは2026年8月開始の新学年から、小学校相当の第1〜7学年(6〜13歳)の児童について生成AI利用を原則認めない方針が示された。
-    source_url: https://memeburn.com/norway-blocks-ai-for-elementary-students-starting-august-2026/
-    tier: 2
-    origin: normal
-  - date: '2026-09-01'
-    relation: contradict
-    claim: 米国教育省は2026年8月20日付で、教育技術の利用可否を学習成果改善の根拠に基づき判断すべきとするガイダンスを公表した。
-    source_url: https://www.ed.gov/about/news/press-release/us-department-of-education-releases-guidance-responsible-use-of-education-technology-classroom
-    tier: 1
-    origin: normal
-  - date: '2026-09-02'
-    relation: support
-    claim: ノルウェー政府は、2026年秋の新学期から小学校1〜7年生(概ね6〜13歳)について学校学習で生成AIへのアクセスを原則認めない方針を示した。
-    source_url: https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/
-    tier: 1
-    origin: normal
-    aired: true
   - date: '2026-09-02'
     relation: contradict
     claim: 香港教育局は、2026/27年度に向けて初等・中等学校向けにAIリテラシー学習枠組みなどを含むデジタル教育発展ブループリントを公表した。
@@ -1513,8 +1507,32 @@ hypotheses:
     tier: 3
     origin: normal
     aired: true
+  - date: '2026-09-13'
+    relation: support
+    claim: ノルウェー政府は2026年6月19日、2026年8月下旬からの新学期より小学1〜7年生に生成AIへのアクセスを原則与えない方針を示した。
+    source_url: https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/
+    tier: 1
+    origin: normal
+  - date: '2026-09-13'
+    relation: support
+    claim: ニューヨーク市公立学校は2026〜2027年度、2-K〜8年生の児童生徒向け生成AI利用を不可とする方針を定めた。
+    source_url: https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence
+    tier: 1
+    origin: normal
+  - date: '2026-09-13'
+    relation: support
+    claim: ロサンゼルス統一学区は2026年8月の新年度から、幼児教育・トランジショナルキンダーガーテン・キンダーガーテン・小学1年でデジタル端末利用を原則停止した。
+    source_url: https://thelalocal.org/neighborhoods/lausd-youngest-students-will-start-a-screen-free-school-year-heres-what-parents-need-to-know/
+    tier: 2
+    origin: normal
+  - date: '2026-09-13'
+    relation: support
+    claim: カナダ・ニューブランズウィック州政府は2026年8月28日、認可保育施設について2026年9月から2歳未満はスクリーンタイムなし、2歳以上は1日30分以内とするルールを導入すると発表した。
+    source_url: https://www.gnb.ca/en/news/n-b.2026.08.government-introduces-measures-reduce-classroom-distractions.html
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-12'
+    last_support: '2026-09-13'
     last_contradiction: '2026-09-12'
     unfrozen: true
     last_on_air: '2026-09-12'
@@ -1522,4 +1540,4 @@ hypotheses:
     last_watch_hit: '2026-09-12'
     last_redteam: '2026-09-07'
   review_note: 日本では2026年8月31日、次期学習指導要領に向けた審議まとめの素案で、小学校の「総合的な学習の時間」に生成AI・プログラミング・情報モラル等を体系化する「情報の領域(仮称)」を設ける方向が示された。（小学校に生成AIを含む「情報の領域」新設で活用推進カリキュラムが広がる）
-  _sustain: 4
+  _sustain: 5

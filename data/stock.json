@@ -3093,7 +3093,9 @@
    "published": "2026-09-08",
    "importance": 1,
    "first_seen": "2026-09-10",
-   "aired": []
+   "aired": [
+    "2026-09-13"
+   ]
   },
   {
    "id": "be34ad0785fa",
@@ -3140,7 +3142,9 @@
    "published": "2026-09-09",
    "importance": 1,
    "first_seen": "2026-09-10",
-   "aired": []
+   "aired": [
+    "2026-09-13"
+   ]
   },
   {
    "id": "ace557c07ed3",
@@ -3523,7 +3527,9 @@
    "published": "2026-09-09",
    "importance": 1,
    "first_seen": "2026-09-12",
-   "aired": []
+   "aired": [
+    "2026-09-13"
+   ]
   },
   {
    "id": "471464ec1a8f",
@@ -3557,7 +3563,9 @@
    "published": "2026-09-10",
    "importance": 2,
    "first_seen": "2026-09-12",
-   "aired": []
+   "aired": [
+    "2026-09-13"
+   ]
   },
   {
    "id": "ceed45e26593",
@@ -3575,6 +3583,112 @@
    "first_seen": "2026-09-12",
    "aired": [
     "2026-09-12"
+   ]
+  },
+  {
+   "id": "8205ad77fb3c",
+   "theme": "jp_fisheries",
+   "headline": "広島の養殖カキ、酸素濃度低下で初の「厳戒アラート」",
+   "detail": "NHKは2026年9月9日、広島県の養殖カキについて海中の酸素濃度低下を理由に「厳戒アラート」が初めて発出されたと報じた。対象海域や酸素濃度の具体値、斃死数、被害額、対策の詳細は現時点で確認できていない。酸素濃度低下は養殖カキの成長不良や斃死につながる可能性があり、養殖環境の監視強化を示す動きとして注目される。",
+   "numbers": [],
+   "source_url": "https://news.web.nhk/newsweb/na/nd-20260909de49302",
+   "source_title": "NHK NEWS WEB",
+   "published": "2026-09-09",
+   "importance": 2,
+   "first_seen": "2026-09-13",
+   "aired": [
+    "2026-09-13"
+   ]
+  },
+  {
+   "id": "b0568c0f3083",
+   "theme": "world_fisheries",
+   "headline": "スペインでカンパチ用の大型陸上ふ化場建設が始動",
+   "detail": "スペイン・アルメリア県Carbonerasで、greater amberjack(カンパチ属)の陸上ふ化場「Ocean Aquaculture Hatchery」の建設計画が進行している。第1段階の投資額は約1500万ユーロで、最大年間800万尾の稚魚生産を計画。想定出荷サイズは1尾約10グラム、建設完了は2027年12月、初回生産は2028年1月を予定する。EU基金から公的資金528万ユーロが認められており、生産した稚魚は自社養殖場のほか第三者の地中海生産者にも供給する方針。沖合養殖場の許認可申請は手続きが遅れている。",
+   "numbers": [
+    "投資額約1500万ユーロ",
+    "年間800万尾",
+    "出荷サイズ約10g",
+    "建設完了2027年12月",
+    "公的資金528万ユーロ"
+   ],
+   "source_url": "https://www.mispeces.com/en/in-depth/Ocean-Aquaculture-begins-work-on-Spain-hatchery-designed-to-produce-eight-million-greater-amberjack-juveniles-a-year/",
+   "source_title": "mispeces.com",
+   "published": "2026-09-01",
+   "importance": 3,
+   "first_seen": "2026-09-13",
+   "aired": [
+    "2026-09-13"
+   ]
+  },
+  {
+   "id": "ef91f0cabaf6",
+   "theme": "world_fisheries",
+   "headline": "蘭Kingfish社、株式発行で約2670万クローネを調達",
+   "detail": "オランダでyellowtail kingfish(ブリ属)を陸上養殖するThe Kingfish Companyが追加株式発行を完了したと発表した。新株発行数は44,272,359株、調達額は総額約2670万ノルウェークローネ、発行価格は1株0.60402クローネ。株式取引開始は2026年9月17日ごろの予定で、決済・資本増加手続きの完了が条件となる。調達資金は過去の私募増資による希薄化の緩和と資金繰りの延長に充てられる。",
+   "numbers": [
+    "新株44,272,359株",
+    "調達額約2670万NOK",
+    "発行価格0.60402NOK"
+   ],
+   "source_url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/4461522/kingfish-company-raises-nok-26-7-million-in-subsequent-share-offering",
+   "source_title": "The Globe and Mail",
+   "published": "2026-09-10",
+   "importance": 2,
+   "first_seen": "2026-09-13",
+   "aired": [
+    "2026-09-13"
+   ]
+  },
+  {
+   "id": "9aac866039b2",
+   "theme": "world_fisheries",
+   "headline": "海運大手Evergreen、IoT冷蔵コンテナ約5.8万台を運用",
+   "detail": "海運会社Evergreen Marineは、IoT機能を搭載した冷蔵コンテナを約58,000台運用していると発表した。位置・温度・湿度・稼働状態をリアルタイムで把握でき、温度逸脱や無許可のドア開閉、機器異常を検知すると警告を発する仕組みを備える。発表は青果物流が中心だが、冷凍・チルドのサーモンやぶり類など水産物輸送にも応用でき、トレーサビリティ向上に役立つ可能性がある。ただし水産物輸送に使われている台数は確認されていない。",
+   "numbers": [
+    "約58,000台"
+   ],
+   "source_url": "https://container-news.com/evergreen-operates-58000-iot-enabled-reefer-containers/",
+   "source_title": "Container News",
+   "published": "2026-09-10",
+   "importance": 2,
+   "first_seen": "2026-09-13",
+   "aired": [
+    "2026-09-13"
+   ]
+  },
+  {
+   "id": "17b5ea6203d0",
+   "theme": "genai",
+   "headline": "Anthropic、AI悪用の検知・対抗事例を9月に公表",
+   "detail": "Anthropicは2026年9月10日、「Detecting and countering misuse of AI: September 2026」を公表した。同社の脅威インテリジェンス部門は過去8カ月間に、悪意ある行為者がClaudeを悪用しようとした複数の活動を特定・妨害したと説明している。悪用の実態や対策の方向性は示されているが、妨害した案件数や被害額、検知率などの定量値は公表資料からは確認できない。",
+   "numbers": [
+    "過去8カ月間"
+   ],
+   "source_url": "https://www.anthropic.com/news",
+   "source_title": "Anthropic Newsroom",
+   "published": "2026-09-10",
+   "importance": 1,
+   "first_seen": "2026-09-13",
+   "aired": [
+    "2026-09-13"
+   ]
+  },
+  {
+   "id": "adaddcd7d0a3",
+   "theme": "education",
+   "headline": "韓国研究、幼児期AI能力を7領域に整理した理論枠組み発表",
+   "detail": "2026年8月31日公表の韓国の研究論文は、幼児期のソフトウェア・AI能力を、データ理解、分類・パターン認識、アルゴリズム的思考、問題解決・改善、予測・意思決定、AIの理解・相互作用、デジタル・AI倫理の7領域に整理した。探索や相互作用、問題解決、経験の振り返りを含む遊びを基盤にした理論モデルを提示したもので、幼児の長期的な学習成果を実証した研究ではないとの見方が示されている。",
+   "numbers": [
+    "7領域"
+   ],
+   "source_url": "https://journal.kci.go.kr/kiots/archive/articleView?artiId=ART003374544",
+   "source_title": "韓国教育学術情報院(KCI)論文",
+   "published": "2026-08-31",
+   "importance": 1,
+   "first_seen": "2026-09-13",
+   "aired": [
+    "2026-09-13"
    ]
   }
  ]
