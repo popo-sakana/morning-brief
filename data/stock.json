@@ -3690,6 +3690,131 @@
    "aired": [
     "2026-09-13"
    ]
+  },
+  {
+   "id": "35750dfd900c",
+   "theme": "jp_fisheries",
+   "headline": "花咲港のサンマ8月水揚げ75%減、9月8日は520トン超に回復",
+   "detail": "北海道根室市の花咲港で、サンマの棒受け網漁が低調に推移している。2026年8月の水揚げ量は前年同月比75%減となった。一方、2026年9月8日には大型船28隻が花咲港に520.7トンを水揚げし、今季初めて1日500トンを超えた。ただし単日のまとまった水揚げであり、水産研究・教育機構が示す2026年の来遊量予測(約42万9,000トン、前年比6割以上減)を踏まえると、シーズン全体の不漁傾向を覆すものではないとみられている。",
+   "numbers": [
+    "8月水揚げ前年比75%減",
+    "9月8日水揚げ520.7トン",
+    "9月8日出漁船28隻",
+    "来遊量予測42万9000トン"
+   ],
+   "source_url": "https://kushironews.jp/2026/09/09/700415/",
+   "source_title": "釧路ニュース",
+   "published": "2026-09-08",
+   "importance": 3,
+   "first_seen": "2026-09-14",
+   "aired": [
+    "2026-09-14"
+   ]
+  },
+  {
+   "id": "74d57d221663",
+   "theme": "jp_fisheries",
+   "headline": "鳥取県江府町で廃校活用の陸上サーモン養殖事業が始動",
+   "detail": "鳥取県江府町で、廃校と地域の水資源を活用した陸上養殖サーモン事業が2026年9月に報じられた。地元園児が稚魚1,500匹を放流する催しが行われている。陸上養殖は海水温や赤潮などの環境リスクを管理しやすく、遊休施設の活用にもつながるとされる一方、初期投資や水処理・電力費、種苗・飼料の安定確保が課題となる。商業規模での採算性は現時点では確認できていない。",
+   "numbers": [
+    "放流稚魚1500匹"
+   ],
+   "source_url": "https://suisan-navi.jp/uncategorized/news-2026-week37/",
+   "source_title": "水産ナビ",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-09-14",
+   "aired": [
+    "2026-09-14"
+   ]
+  },
+  {
+   "id": "419a3f147510",
+   "theme": "world_fisheries",
+   "headline": "養殖用魚粉需要、2040年に最大3460万トンに達すると試算",
+   "detail": "養殖生産の拡大に伴う魚粉・魚油需要について、現在の傾向が続いた場合、2040年に養殖飼料向けの天然魚使用量が年間最大3,460万トンに達する可能性があるとの試算が報じられた。サーモンやエビなど魚粉・魚油依存度の高い魚種を中心に拡大するシナリオでは年間4,140万トンとなり、これは2020年の世界天然魚漁獲量の46%に相当するとされる。これは将来シナリオであり、確定値ではないとの見方が示されている。",
+   "numbers": [
+    "2040年最大3460万トン",
+    "拡大シナリオ4140万トン",
+    "2020年漁獲量比46%"
+   ],
+   "source_url": "https://www.theguardian.com/environment/2026/sep/03/un-fish-farms-food-oceans-aquaculture",
+   "source_title": "The Guardian",
+   "published": "2026-09-03",
+   "importance": 3,
+   "first_seen": "2026-09-14",
+   "aired": [
+    "2026-09-14"
+   ]
+  },
+  {
+   "id": "5e230d303357",
+   "theme": "genai",
+   "headline": "OpenAI、10億人利用想定の大規模ストレージ基盤を公開",
+   "detail": "OpenAIは2026年9月11日、ChatGPTなど製品の大規模利用を支えるストレージ基盤「Habitat」の拡張状況を公表した。処理量は毎秒7,000万件超、データ量は500ペタバイト超、展開地域は約40地域で、週次利用者数10億人超を想定している。Rustで再構築したサービスが本番リクエストの95%を処理し、従来のPython版と比較してCPU効率6倍、メモリー効率15倍になったとしている。信頼性・速度向上の実際の効果は今回の発表だけでは確認できない。",
+   "numbers": [
+    "処理量毎秒7000万件超",
+    "データ量500ペタバイト超",
+    "展開地域約40",
+    "CPU効率6倍",
+    "メモリー効率15倍"
+   ],
+   "source_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one/",
+   "source_title": "OpenAI",
+   "published": "2026-09-11",
+   "importance": 1,
+   "first_seen": "2026-09-14",
+   "aired": [
+    "2026-09-14"
+   ]
+  },
+  {
+   "id": "8ab8497a8c7e",
+   "theme": "genai",
+   "headline": "Cognition、DevinのソフトウェアテストにGPT-6 Astraを活用",
+   "detail": "OpenAIは2026年9月11日、AIソフトウェアエンジニア「Devin」を開発するCognitionによるGPT-6 Astraの利用事例を公表した。Devinが生成・修正したソフトウェアの自動テスト、iPhoneゲームのシミュレーター実行、テスト結果の録画・レポート作成、顧客提供のバグ画像をもとにした修正などに利用しているという。処理時間短縮率やコスト削減額など具体的な効果は公表されていない。",
+   "numbers": [],
+   "source_url": "https://openai.com/index/cognition-devin-testing-with-astra/",
+   "source_title": "OpenAI",
+   "published": "2026-09-11",
+   "importance": 1,
+   "first_seen": "2026-09-14",
+   "aired": [
+    "2026-09-14"
+   ]
+  },
+  {
+   "id": "bf3c9dd12bcf",
+   "theme": "genai",
+   "headline": "OpenAI、米国政府機関向けにChatGPT利用料を大幅割引",
+   "detail": "OpenAIは2026年9月10日、米国の連邦・州・地方・部族政府向けにライセンス料を無料化し、利用料を50%割引する複数年契約を米国政府調達機関と発表した。契約期間は2026年10月1日から2028年12月31日までの27か月間。行政分野での生成AI普及を後押しする狙いとみられるが、実際の導入規模や効果は今回の発表だけでは確認できない。",
+   "numbers": [
+    "利用料50%割引",
+    "契約期間27か月"
+   ],
+   "source_url": "https://openai.com/index/expanding-ai-access-us-government/",
+   "source_title": "OpenAI",
+   "published": "2026-09-10",
+   "importance": 2,
+   "first_seen": "2026-09-14",
+   "aired": [
+    "2026-09-14"
+   ]
+  },
+  {
+   "id": "9f2376e12742",
+   "theme": "education",
+   "headline": "ロサンゼルス学区、学区所有端末での生成AI利用を停止",
+   "detail": "ロサンゼルス統一学区(LAUSD)は2026年9月時点で、学区所有端末上での児童・生徒による生成AI利用を停止する方針を示した。同学区では幼稚園・小学1年生のデジタル端末利用を大幅に制限するスクリーンタイム方針も別途導入されており、学年が上がるほど利用上限を設ける方向とされる。ただし全学年の確定した制限内容は今回の情報だけでは確認できていない。",
+   "numbers": [],
+   "source_url": "https://www.bloomberg.com/news/articles/2026-09-03/los-angeles-schools-bar-students-from-ai-on-district-devices",
+   "source_title": "Bloomberg",
+   "published": "2026-09-03",
+   "importance": 3,
+   "first_seen": "2026-09-14",
+   "aired": [
+    "2026-09-14"
+   ]
   }
  ]
 }

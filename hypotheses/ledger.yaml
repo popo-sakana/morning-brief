@@ -13,7 +13,7 @@ hypotheses:
   axis: 生産
   statement: 養殖の競争力の源泉が、規模と餌のコスト勝負から、種苗・育種と斃死率のコントロールへ移りつつある。
   created: '2026-08-27'
-  confidence: 0.948
+  confidence: 0.945
   status: active
   decision_link: 養殖案件で、飼料の置き換えと生残率の改善のどちらを提案の軸に置くか
   falsifiers:
@@ -199,7 +199,7 @@ hypotheses:
     unfrozen: true
   review_note: FAOによるアジア6か国・計340養殖場調査（調査期間2005年10月15日～2006年2月14日、2007年公表）では、総生産費に占める餌料費が平均58.0%で稚魚・種苗費15.5%を大きく上回った。（餌料費が種苗費を大きく上回るとFAO調査が示す）
     / FAOの世界調査（2019年2月公表、回答期間2015年6月～2017年6月）では、92か国の回答のうち45%が遺伝的改良は養殖生産に「影響しなかった」または「影響は小さかった」と回答した。（45%が遺伝的改良は生産に影響小さいと回答）
-  _sustain: 8
+  _sustain: 9
 - id: L-2
   theme: world_fisheries
   axis: 流通
@@ -226,20 +226,6 @@ hypotheses:
   - neutral_query: 陸上養殖 商業生産 稼働 最新
   - neutral_query: 水産物 輸送 コールドチェーン 動向
   evidence:
-  - date: '2026-09-03'
-    relation: support
-    claim: スペインのAlicante Aquacultureは、greater amberjack（かんぱち）の陸上RASによる商業規模生産を開始し、初期能力は年間600トン、拡張後は年間900トンを計画している。
-    source_url: https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-03'
-    relation: support
-    claim: Nordic Aqua Partnersの中国・寧波の大西洋サーモンRAS施設（Stage1・2）は年間生産能力8000トンでフル生産ランレートに到達し、2026年第2四半期の生産量は2294トンだった。
-    source_url: https://weareaquaculture.com/regions/asia/nordic-aqua-fully-up-and-running-in-china-as-q2-performance-improves
-    tier: 1
-    origin: normal
-    aired: true
   - date: '2026-09-03'
     relation: support
     claim: 中国の輸入サーモン市場は2025年に前年比50%増、2026年上半期のサーモン輸入は前年同期比43%増となった。
@@ -477,14 +463,26 @@ hypotheses:
     source_url: https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/
     tier: 2
     origin: normal
+  - date: '2026-09-14'
+    relation: support
+    claim: スペインのAlicante Aquacultureは、カンパチ（Seriola dumerili）を陸上閉鎖循環式養殖システム（RAS）で商業生産しており、初期生産能力は年間約600トンである。
+    source_url: https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/
+    tier: 2
+    origin: normal
+  - date: '2026-09-14'
+    relation: support
+    claim: ノルウェー水産物審議会の調査によると、中国のサーモン輸入は2026年上半期に前年同期比43%増となった。
+    source_url: https://aquaculturemag.com/2026/08/28/sashimi-revolution-in-china-accelerates-growth-opportunities-for-imported-salmon/
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-13'
+    last_support: '2026-09-14'
     last_contradiction: '2026-09-12'
     last_watch_hit: '2026-09-12'
     last_on_air: '2026-09-10'
     on_air_count: 3
     last_redteam: '2026-09-10'
-  _sustain: 14
+  _sustain: 15
   review_note: ノルウェーの2026年8月の水産物輸出額は160億ノルウェークローネで前年同月比14%増となり8月として過去最高となった。サーモン輸出は数量153,602トン・金額123億クローネで、前年同月比数量7%増・金額19%増だった。（サーモン輸出の数量・金額が増加し長距離生鮮輸送拡大を示す）
 - id: L-3
   theme: jp_fisheries
@@ -670,12 +668,18 @@ hypotheses:
     source_url: https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/260804.html
     tier: 1
     origin: normal
+  - date: '2026-09-14'
+    relation: support
+    claim: 農林水産省の統計で、2026年1〜6月のぶり輸出額は前年同期比69.0%増となり、上半期として過去最高となった。
+    source_url: https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/260804.html
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-13'
+    last_support: '2026-09-14'
     last_redteam: '2026-09-11'
     last_on_air: '2026-09-11'
     on_air_count: 2
-  _sustain: 11
+  _sustain: 12
 - id: L-4
   theme: world_fisheries
   axis: 横断
@@ -702,25 +706,6 @@ hypotheses:
   - neutral_query: 水産物 関税 規制 変更 最新
   - neutral_query: 水産 認証 要件 見直し
   evidence:
-  - date: '2026-08-31'
-    relation: support
-    claim: インドネシア産加工マグロ・カツオ製品の対象4品目について、日・インドネシア経済連携協定改正により2026年8月1日から日本向け特恵関税が0%（従来9.6%）になった。
-    source_url: https://en.antaranews.com/news/424368/indonesias-processed-tuna-export-receives-0-pct-tariff-from-japan
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-01'
-    relation: contradict
-    claim: 2026年のサンマ棒受け網漁は8月25日までの累計水揚げが836.4トンで、前年同期の2048.6トンから59.1％減少した。
-    source_url: https://www.suikei.co.jp/cat/seafood/aozakana
-    tier: 2
-    origin: normal
-  - date: '2026-09-01'
-    relation: contradict
-    claim: 水産研究・教育機構等の調査で、2026年の日本近海サンマ分布量は42.9万トンと、2003年の調査開始以降で最低水準となった。
-    source_url: https://www.htb.co.jp/news/archives_38968.html
-    tier: 1
-    origin: normal
   - date: '2026-09-01'
     relation: contradict
     claim: ブラジルの大湖地域のティラピア平均価格は2026年7月に1kg当たり9.78レアルとなり、6月比2％下落した。
@@ -955,21 +940,39 @@ hypotheses:
     source_url: https://thefishingdaily.com/eu-fishing-industry-news/eu-commission-moves-to-extend-duty-free-fish-imports/
     tier: 1
     origin: normal
+  - date: '2026-09-14'
+    relation: support
+    claim: 太平洋クロマグロについて、中西部太平洋の大型魚（30kg以上）漁獲枠が年11,869トンから14,836トンへ約25%増加する新たな資源管理方式が採択されたと2026年9月7日付で報じられた。
+    source_url: https://www.daily.co.jp/society/economics/2026/09/07/0020793756.shtml
+    tier: 2
+    origin: normal
+  - date: '2026-09-14'
+    relation: support
+    claim: 欧州委員会は2026年9月8日、水産物原料の自律関税割当（ATQ）制度を2027年12月31日まで1年間延長する法案を提出した。
+    source_url: https://thefishingdaily.com/eu-fishing-industry-news/eu-commission-moves-to-extend-duty-free-fish-imports/
+    tier: 1
+    origin: normal
+  - date: '2026-09-14'
+    relation: support
+    claim: カナダ政府は2026年9月8日発効予定の米国製品への報復関税について、HSコード第03類の魚介類254品目を対象から除外する改訂を行った。
+    source_url: https://gowlingwlg.com/en/insights-resources/articles/2026/canada-revises-retaliatory-tariff-list
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-13'
+    last_support: '2026-09-14'
     last_redteam: '2026-09-12'
     last_contradiction: '2026-09-11'
     last_watch_hit: '2026-09-11'
     last_on_air: '2026-09-08'
     on_air_count: 3
-  _sustain: 4
+  _sustain: 5
   review_note: 水産庁は2026年度資源評価で、マイワシ太平洋系群のABCが前年比75%減少したと公表した。（ABC75%減は資源量評価に基づく変動で制度変更ではない）
 - id: L-5
   theme: genai
   axis: 横断
   statement: 生成AIの競争軸は、モデルの性能比べから、業務への埋め込みと責任の分け方へ移っている。
   created: '2026-08-27'
-  confidence: 0.906
+  confidence: 0.948
   status: active
   decision_link: AI導入の検討で、モデル選定と業務プロセス設計のどちらに時間を割くか
   falsifiers:
@@ -989,36 +992,6 @@ hypotheses:
   - neutral_query: 生成AI 業務導入 効果 実績
   - neutral_query: AI 責任 契約 規約 変更
   evidence:
-  - date: '2026-09-02'
-    relation: support
-    claim: OpenAIは2026年9月1日、ChatGPT for Healthcareに電子カルテシステムEpicとの連携機能などを追加したと発表した。
-    source_url: https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/
-    tier: 1
-    origin: normal
-  - date: '2026-09-02'
-    relation: support
-    claim: 日本では2026年9月1日にAI法が全面施行され、同日内閣に人工知能戦略本部が設置された。
-    source_url: https://www8.cao.go.jp/cstp/ai/ai_act/ai_act.html
-    tier: 1
-    origin: normal
-  - date: '2026-09-02'
-    relation: support
-    claim: Sony Music PublishingやWarner Chappell Musicなどの音楽出版社は、2026年8月28日付でAnthropicを著作権侵害で米国連邦地裁に提訴した。
-    source_url: https://www.musicbusinessworldwide.com/files/2026/08/COMPLAINT-in-Sony_Music_Publishing_US_LLC_e.pdf
-    tier: 2
-    origin: normal
-  - date: '2026-09-02'
-    relation: support
-    claim: 帝国データバンクの2026年3月調査(有効回答10,312社)で、業務で生成AIを活用している企業は34.5%、活用企業のうち86.7%が業務への効果を実感していると回答した。
-    source_url: https://www.tdb.co.jp/report/biz-knowledge/at9goybq_28/
-    tier: 2
-    origin: normal
-  - date: '2026-09-03'
-    relation: support
-    claim: OpenAIは2026年9月1日、開発中モデル「Astra」がサイバーセキュリティ能力でPreparedness FrameworkのCritical閾値を満たしたと発表した。
-    source_url: https://openai.com/index/path-to-astra/
-    tier: 1
-    origin: normal
   - date: '2026-09-03'
     relation: support
     claim: Anthropicは2026年9月1日、新モデル「Claude Fable 5.1」「Claude Mythos 5.1」と、企業データを顧客管理クラウドに保存する「Enterprise
@@ -1237,14 +1210,45 @@ hypotheses:
     tier: 1
     origin: normal
     aired: true
+  - date: '2026-09-14'
+    relation: support
+    claim: OpenAIは2026年9月11日、ChatGPT等を支えるストレージ基盤「Habitat」が毎秒7,000万件超、500ペタバイト超のデータを約40地域で処理し、週次利用者数10億人超を想定していると公表した。
+    source_url: https://openai.com/index/scaling-storage-one-billion-users-part-one/
+    tier: 1
+    origin: normal
+  - date: '2026-09-14'
+    relation: support
+    claim: OpenAIは2026年9月10日、全二重音声モデルを用いたAPI「GPT-Live-1」を発表し、価格をフロントエンド音声レイヤー1分あたり0.05米ドルとした。
+    source_url: https://openai.com/index/introducing-gpt-live-1-in-the-api/
+    tier: 1
+    origin: normal
+  - date: '2026-09-14'
+    relation: support
+    claim: OpenAIは2026年9月11日、CognitionがAIソフトウェアエンジニア「Devin」のテスト・バグ修正にGPT-6 Astraを利用している事例を公表した。
+    source_url: https://openai.com/index/cognition-devin-testing-with-astra/
+    tier: 1
+    origin: normal
+  - date: '2026-09-14'
+    relation: support
+    claim: 'Anthropicは2026年9月10日、過去8か月間にClaudeの悪用を試みた攻撃者の活動を特定・妨害したとする報告「Detecting and countering misuse
+      of AI: September 2026」を公表した。'
+    source_url: https://www.anthropic.com/news/detecting-and-countering-misuse-of-ai-september-2026
+    tier: 1
+    origin: normal
+  - date: '2026-09-14'
+    relation: support
+    claim: 日本のデジタル庁は2026年6月12日に決定した「行政の進化と革新のための生成AIの調達・利活用に係るガイドライン（第2.0版）」の主な規定を2026年9月1日から施行した。
+    source_url: https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-13'
+    last_support: '2026-09-14'
     last_contradiction: '2026-09-13'
     last_watch_hit: '2026-09-13'
     last_redteam: '2026-09-13'
     last_on_air: '2026-09-13'
     on_air_count: 2
-  _sustain: 15
+  _sustain: 16
   review_note: Capgeminiなどによる22カ国・10業種・2,000人超対象の調査World Quality Report 2025では、生成AIで拡張された業務フローの試験導入・展開組織のうち52%がパイロット段階、エンタープライズ全体での実装達成は15%にとどまった。（52%がパイロット止まり、15%のみ全社実装と報告）
     / McKinsey & Companyが105カ国・地域の1,993人を対象に実施した調査では、回答企業の88%が少なくとも1つの業務機能でAIを定期利用している一方、AIプログラムを全社でスケールし始めた企業は約3分の1にとどまった。（全社スケール開始企業は約3分の1に留まると報告）
 - id: L-6
@@ -1252,7 +1256,7 @@ hypotheses:
   axis: 横断
   statement: 幼児から小学校段階のAI対応は、使わせ方の工夫より、使わせない時間をどう設計するかに寄りつつある。
   created: '2026-08-27'
-  confidence: 0.948
+  confidence: 0.901
   status: active
   decision_link: 家庭で、AIに触れさせる方針と触れさせない時間の設計のどちらを先に決めるか
   falsifiers:
@@ -1272,59 +1276,6 @@ hypotheses:
   - neutral_query: 幼児教育 スクリーンタイム 方針 最新
   - neutral_query: 小学校 生成AI 利用 ルール 各国
   evidence:
-  - date: '2026-09-02'
-    relation: contradict
-    claim: 香港教育局は、2026/27年度に向けて初等・中等学校向けにAIリテラシー学習枠組みなどを含むデジタル教育発展ブループリントを公表した。
-    source_url: https://www.edb.gov.hk/en/DEBP/
-    tier: 1
-    origin: normal
-    aired: true
-  - date: '2026-09-02'
-    relation: support
-    claim: 英国政府は2026年3月26日、5歳未満の子ども向けスクリーンタイム指針を発表し、2歳未満は共同活動を除きスクリーンを避け、2〜5歳は1日1時間以内を目安とすることなどを示した。
-    source_url: https://www.gov.uk/government/news/new-screen-time-guidance-for-parents-of-under-5s
-    tier: 1
-    origin: normal
-    aired: true
-  - date: '2026-09-02'
-    relation: support
-    claim: インドのガウタム・ブッダ・ナガル地区行政は2026年8月、ノイダ等の学校に対しスマートボード等の利用を初等学級で1日30分以内、上級初等学級で1日60分以内に制限する指示を出した。
-    source_url: https://education.economictimes.indiatimes.com/amp/news/school-education/noida-schools-told-to-cap-smart-board-use-at-30-mins-for-primary-60-mins-for-upper-primary/133229598
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-03'
-    relation: support
-    claim: ノルウェー政府は2026年秋学期から、小学校1～7年生では児童が生成AIにアクセスすることを原則として認めない方針を示した。
-    source_url: https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/
-    tier: 1
-    origin: normal
-  - date: '2026-09-03'
-    relation: support
-    claim: ロサンゼルス統一学区は2026年8月から、幼児教育～1年生の学校支給端末のスクリーン利用を原則0分とする制限を開始した。
-    source_url: https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools
-    tier: 2
-    origin: normal
-  - date: '2026-09-03'
-    relation: contradict
-    claim: 日本の文部科学省は2026年8月31日、次期学習指導要領に向けた審議まとめ案で、小学校に「情報の領域」を新設し生成AI等を各教科で扱う方向を示したが、総授業時数は現行水準を維持するとした。
-    source_url: https://www.fnn.jp/articles/-/1104659
-    tier: 2
-    origin: normal
-  - date: '2026-09-04'
-    relation: support
-    claim: ノルウェーでは2026年8月末の新学期から、小学1〜7年生（6〜13歳）の学校学習における生成AI利用を原則禁止するルールが導入された。
-    source_url: https://www.reuters.com/technology/norway-imposes-near-ban-ai-in-elementary-school/
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-04'
-    relation: support
-    claim: ニューヨーク市は2026年9月2日、2026-27学年度に2-Kから8年生までの児童生徒向け生成AIを1年間停止すると発表した。
-    source_url: https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat
-    tier: 1
-    origin: normal
-    aired: true
   - date: '2026-09-04'
     relation: contradict
     claim: 香港教育局は2026/27学年度から、小学校の情報・イノベーション技術カリキュラムにAIの基礎学習領域を試行的に導入する準備を進めている。
@@ -1531,13 +1482,70 @@ hypotheses:
     source_url: https://www.gnb.ca/en/news/n-b.2026.08.government-introduces-measures-reduce-classroom-distractions.html
     tier: 1
     origin: normal
+  - date: '2026-09-14'
+    relation: support
+    claim: ノルウェーでは2026年8月末から、1〜7年生（目安6〜13歳）の児童に対し学校で生成AIを原則使用しない方針が導入された。
+    source_url: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/
+    tier: 2
+    origin: normal
+    aired: true
+  - date: '2026-09-14'
+    relation: support
+    claim: ニューヨーク市公立学校は2026〜2027年度、2-Kから8年生までの児童・生徒による生成AI利用を禁止し、個人端末のスクリーンタイムにも学年別の推奨上限を設けた。
+    source_url: https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-14'
+    relation: support
+    claim: カナダ・ニューブランズウィック州は2026年8月28日、認可幼児教育・保育施設について2歳以下はスクリーンタイムなし、2歳超は1日30分以下とする方針を公表した。
+    source_url: https://www.gnb.ca/en/news/n-b.2026.08.government-introduces-measures-reduce-classroom-distractions.html
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-14'
+    relation: support
+    claim: 英国政府は2026年3月、5歳未満の子どものスクリーン利用を1日1時間に制限することを目安とするガイダンスを公表した。
+    source_url: https://www.gov.uk/government/publications/screen-use-by-children-aged-under-5
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-14'
+    relation: contradict
+    claim: OECDの報告書「Empowering Learners for the Age of AI」は、AIリテラシーをAIの仕組み理解や出力の評価・倫理的利用を含む能力として整理している。
+    source_url: https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/06/empowering-learners-for-the-age-of-ai_2f8315e7/65cd27d4-en.pdf
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-14'
+    relation: contradict
+    claim: 中国・深圳市は義務教育段階の地域カリキュラムにAI教育を組み込む方針を2023年7月14日に公表し、小学1〜2年生に年間6授業時数以上のAI教育を課すとした。
+    source_url: https://www.sz.gov.cn/en_szgov/news/infocus/aisz/AIplus/content/post_11549355.html
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-14'
+    relation: contradict
+    claim: 北京市教育当局は2025年3月、2025年秋学期から市内の小中高校で年間8授業時数以上のAI通識教育を実施する計画を公表した。
+    source_url: https://english.www.gov.cn/news/202503/12/content_WS67d18e9ec6d0868f4e8f0c40.html
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-14'
+    relation: contradict
+    claim: ニューヨーク市公立学校は2023年1月に学校端末・ネットワークからのChatGPTアクセスを遮断したが、2023年5月18日にこの制限を撤回し、教育現場でのAI活用を進める方針に転じた。
+    source_url: https://www.nbcnews.com/tech/chatgpt-ban-dropped-new-york-city-public-schools-rcna85089
+    tier: 2
+    origin: normal
+    aired: true
   ops:
-    last_support: '2026-09-13'
-    last_contradiction: '2026-09-12'
+    last_support: '2026-09-14'
+    last_contradiction: '2026-09-14'
     unfrozen: true
-    last_on_air: '2026-09-12'
-    on_air_count: 5
-    last_watch_hit: '2026-09-12'
-    last_redteam: '2026-09-07'
-  review_note: 日本では2026年8月31日、次期学習指導要領に向けた審議まとめの素案で、小学校の「総合的な学習の時間」に生成AI・プログラミング・情報モラル等を体系化する「情報の領域(仮称)」を設ける方向が示された。（小学校に生成AIを含む「情報の領域」新設で活用推進カリキュラムが広がる）
-  _sustain: 5
+    last_on_air: '2026-09-14'
+    on_air_count: 6
+    last_watch_hit: '2026-09-14'
+    last_redteam: '2026-09-14'
+  review_note: 中国・深圳市は義務教育段階の地域カリキュラムにAI教育を組み込む方針を2023年7月14日に公表し、小学1〜2年生に年間6授業時数以上のAI教育を課すとした。（深圳が低学年からAI教育を必修化するカリキュラムを公表）
+    / 北京市教育当局は2025年3月、2025年秋学期から市内の小中高校で年間8授業時数以上のAI通識教育を実施する計画を公表した。（北京が全学年でAI通識教育を義務化する計画を公表） / ニューヨーク市公立学校は2023年1月に学校端末・ネットワークからのChatGPTアクセスを遮断したが、2023年5月18日にこの制限を撤回し、教育現場でのAI活用を進める方針に転じた。（NYCがChatGPT禁止を撤回しAI活用方針へ転換したと明記）
+  _sustain: 6

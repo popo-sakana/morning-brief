@@ -1,0 +1,177 @@
+[
+  {
+    "claim": "北海道立総合研究機構は2026年の北海道沿岸への秋サケ来遊量を約364万5,000匹と予測した。",
+    "source_url": "https://news.infoseek.co.jp/article/hbc_1471646654581474178/",
+    "tier": 1,
+    "date": "2026-09",
+    "origin": "normal"
+  },
+  {
+    "claim": "札幌市中央卸売市場で2026年9月3日、日高産ブランドサケ「銀聖」の最高値が1kgあたり18万8,888円となり、4.5kgのメス1匹で約85万円に達した。",
+    "source_url": "https://newsdig.tbs.co.jp/articles/-/2940191",
+    "tier": 2,
+    "date": "2026-09-03",
+    "origin": "normal"
+  },
+  {
+    "claim": "北海道根室市の花咲港で、2026年8月のサンマ水揚げ量が前年同月比75%減となった。",
+    "source_url": "https://suisan-navi.jp/uncategorized/news-2026-week37/",
+    "tier": 2,
+    "date": "2026-08",
+    "origin": "normal"
+  },
+  {
+    "claim": "水産研究・教育機構は2026年のサンマ来遊量を約42万9,000トンと予測し、これは2025年比で6割以上の減少にあたる。",
+    "source_url": "https://www.fra.go.jp/shigen/fisheries_resources/forecast/files/sanma20260728.pdf",
+    "tier": 1,
+    "date": "2026-07-28",
+    "origin": "normal"
+  },
+  {
+    "claim": "太平洋クロマグロについて、中西部太平洋の大型魚（30kg以上）漁獲枠が年11,869トンから14,836トンへ約25%増加する新たな資源管理方式が採択されたと2026年9月7日付で報じられた。",
+    "source_url": "https://www.daily.co.jp/society/economics/2026/09/07/0020793756.shtml",
+    "tier": 2,
+    "date": "2026-09-07",
+    "origin": "normal"
+  },
+  {
+    "claim": "農林水産省の統計で、2026年1〜6月のぶり輸出額は前年同期比69.0%増となり、上半期として過去最高となった。",
+    "source_url": "https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/260804.html",
+    "tier": 1,
+    "date": "2026-06",
+    "origin": "normal"
+  },
+  {
+    "claim": "スペインのAlicante Aquacultureは、カンパチ（Seriola dumerili）を陸上閉鎖循環式養殖システム（RAS）で商業生産しており、初期生産能力は年間約600トンである。",
+    "source_url": "https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/",
+    "tier": 2,
+    "date": "2026-08",
+    "origin": "normal"
+  },
+  {
+    "claim": "ASCが2026年2〜3月に14か国14,795人を対象に実施した調査で、世界の水産物消費は前回調査比で純増2%、米国は12%増となった。",
+    "source_url": "https://www.worldfishing.net/news/seafood/seafood-consumption-grows-as-trust-strengthens/",
+    "tier": 1,
+    "date": "2026-09-08",
+    "origin": "normal"
+  },
+  {
+    "claim": "ノルウェー水産物審議会の調査によると、中国のサーモン輸入は2026年上半期に前年同期比43%増となった。",
+    "source_url": "https://aquaculturemag.com/2026/08/28/sashimi-revolution-in-china-accelerates-growth-opportunities-for-imported-salmon/",
+    "tier": 2,
+    "date": "2026-08",
+    "origin": "normal"
+  },
+  {
+    "claim": "ノルウェー統計局の週間統計で、2026年8月31日〜9月6日の生鮮サーモン輸出価格は1kgあたり69.71ノルウェークローネとなり、前週比3.0%下落した。",
+    "source_url": "https://www.ssb.no/en/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks",
+    "tier": 1,
+    "date": "2026-09-06",
+    "origin": "normal"
+  },
+  {
+    "claim": "欧州委員会は2026年9月8日、水産物原料の自律関税割当（ATQ）制度を2027年12月31日まで1年間延長する法案を提出した。",
+    "source_url": "https://thefishingdaily.com/eu-fishing-industry-news/eu-commission-moves-to-extend-duty-free-fish-imports/",
+    "tier": 1,
+    "date": "2026-09-08",
+    "origin": "normal"
+  },
+  {
+    "claim": "カナダ政府は2026年9月8日発効予定の米国製品への報復関税について、HSコード第03類の魚介類254品目を対象から除外する改訂を行った。",
+    "source_url": "https://gowlingwlg.com/en/insights-resources/articles/2026/canada-revises-retaliatory-tariff-list",
+    "tier": 1,
+    "date": "2026-09-08",
+    "origin": "normal"
+  },
+  {
+    "claim": "OpenAIは2026年9月11日、ChatGPT等を支えるストレージ基盤「Habitat」が毎秒7,000万件超、500ペタバイト超のデータを約40地域で処理し、週次利用者数10億人超を想定していると公表した。",
+    "source_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one/",
+    "tier": 1,
+    "date": "2026-09-11",
+    "origin": "normal"
+  },
+  {
+    "claim": "OpenAIは2026年9月10日、全二重音声モデルを用いたAPI「GPT-Live-1」を発表し、価格をフロントエンド音声レイヤー1分あたり0.05米ドルとした。",
+    "source_url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+    "tier": 1,
+    "date": "2026-09-10",
+    "origin": "normal"
+  },
+  {
+    "claim": "OpenAIは2026年9月11日、CognitionがAIソフトウェアエンジニア「Devin」のテスト・バグ修正にGPT-6 Astraを利用している事例を公表した。",
+    "source_url": "https://openai.com/index/cognition-devin-testing-with-astra/",
+    "tier": 1,
+    "date": "2026-09-11",
+    "origin": "normal"
+  },
+  {
+    "claim": "Anthropicは2026年9月10日、過去8か月間にClaudeの悪用を試みた攻撃者の活動を特定・妨害したとする報告「Detecting and countering misuse of AI: September 2026」を公表した。",
+    "source_url": "https://www.anthropic.com/news/detecting-and-countering-misuse-of-ai-september-2026",
+    "tier": 1,
+    "date": "2026-09-10",
+    "origin": "normal"
+  },
+  {
+    "claim": "日本のデジタル庁は2026年6月12日に決定した「行政の進化と革新のための生成AIの調達・利活用に係るガイドライン（第2.0版）」の主な規定を2026年9月1日から施行した。",
+    "source_url": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
+    "tier": 1,
+    "date": "2026-09-01",
+    "origin": "normal"
+  },
+  {
+    "claim": "ノルウェーでは2026年8月末から、1〜7年生（目安6〜13歳）の児童に対し学校で生成AIを原則使用しない方針が導入された。",
+    "source_url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+    "tier": 2,
+    "date": "2026-08",
+    "origin": "normal"
+  },
+  {
+    "claim": "ニューヨーク市公立学校は2026〜2027年度、2-Kから8年生までの児童・生徒による生成AI利用を禁止し、個人端末のスクリーンタイムにも学年別の推奨上限を設けた。",
+    "source_url": "https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence",
+    "tier": 1,
+    "date": "2026",
+    "origin": "normal"
+  },
+  {
+    "claim": "カナダ・ニューブランズウィック州は2026年8月28日、認可幼児教育・保育施設について2歳以下はスクリーンタイムなし、2歳超は1日30分以下とする方針を公表した。",
+    "source_url": "https://www.gnb.ca/en/news/n-b.2026.08.government-introduces-measures-reduce-classroom-distractions.html",
+    "tier": 1,
+    "date": "2026-08-28",
+    "origin": "normal"
+  },
+  {
+    "claim": "英国政府は2026年3月、5歳未満の子どものスクリーン利用を1日1時間に制限することを目安とするガイダンスを公表した。",
+    "source_url": "https://www.gov.uk/government/publications/screen-use-by-children-aged-under-5",
+    "tier": 1,
+    "date": "2026-03",
+    "origin": "normal"
+  },
+  {
+    "claim": "OECDの報告書「Empowering Learners for the Age of AI」は、AIリテラシーをAIの仕組み理解や出力の評価・倫理的利用を含む能力として整理している。",
+    "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/06/empowering-learners-for-the-age-of-ai_2f8315e7/65cd27d4-en.pdf",
+    "tier": 1,
+    "date": "2026-06",
+    "origin": "normal"
+  },
+  {
+    "claim": "中国・深圳市は義務教育段階の地域カリキュラムにAI教育を組み込む方針を2023年7月14日に公表し、小学1〜2年生に年間6授業時数以上のAI教育を課すとした。",
+    "source_url": "https://www.sz.gov.cn/en_szgov/news/infocus/aisz/AIplus/content/post_11549355.html",
+    "tier": 1,
+    "date": "2023-07-14",
+    "origin": "normal"
+  },
+  {
+    "claim": "北京市教育当局は2025年3月、2025年秋学期から市内の小中高校で年間8授業時数以上のAI通識教育を実施する計画を公表した。",
+    "source_url": "https://english.www.gov.cn/news/202503/12/content_WS67d18e9ec6d0868f4e8f0c40.html",
+    "tier": 1,
+    "date": "2025-03",
+    "origin": "normal"
+  },
+  {
+    "claim": "ニューヨーク市公立学校は2023年1月に学校端末・ネットワークからのChatGPTアクセスを遮断したが、2023年5月18日にこの制限を撤回し、教育現場でのAI活用を進める方針に転じた。",
+    "source_url": "https://www.nbcnews.com/tech/chatgpt-ban-dropped-new-york-city-public-schools-rcna85089",
+    "tier": 2,
+    "date": "2023-05-18",
+    "origin": "normal"
+  }
+]

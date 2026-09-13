@@ -1,5 +1,48 @@
 [
   {
+    "id": "260914_morningbrief_v1_AI",
+    "title": "9月14日のブリーフ",
+    "published_at": "2026-09-14T05:13:04+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260914_morningbrief_v1_AI/260914_morningbrief_v1_AI.mp3",
+    "duration_sec": 1367,
+    "bytes": 5703783,
+    "summary": "・花咲港のサンマ漁、棒受け網漁で今年も低調が続く<br>・養殖用の魚粉と魚油、需要をめぐる新しい試算が報道<br>・LAUSDが2026年9月時点で新しい方針を発表",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 35.8
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 190.3
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 436.9
+      },
+      {
+        "section": "genai",
+        "start_sec": 696.7
+      },
+      {
+        "section": "education",
+        "start_sec": 981.9
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1267.9
+      },
+      {
+        "section": "closing",
+        "start_sec": 1356.5
+      }
+    ]
+  },
+  {
     "id": "260913_morningbrief_v1_AI",
     "title": "9月13日のブリーフ",
     "published_at": "2026-09-13T05:12:47+09:00",

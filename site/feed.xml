@@ -7,11 +7,21 @@
     <link>https://popo-sakana.github.io/morning-brief/</link>
     <description>水産・生成AI・教育の4テーマを毎朝30分で</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 20:34:14 +0000</lastBuildDate>
     <itunes:author>popo</itunes:author>
     <itunes:summary>水産・生成AI・教育の4テーマを毎朝30分で</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+    <item>
+      <title>9月14日のブリーフ</title>
+      <description><![CDATA[・花咲港のサンマ漁、棒受け網漁で今年も低調が続く<br>・養殖用の魚粉と魚油、需要をめぐる新しい試算が報道<br>・LAUSDが2026年9月時点で新しい方針を発表]]></description>
+      <pubDate>Mon, 14 Sep 2026 05:13:04 +0900</pubDate>
+      <guid isPermaLink="false">260914_morningbrief_v1_AI</guid>
+      <enclosure url="https://github.com/popo-sakana/morning-brief/releases/download/260914_morningbrief_v1_AI/260914_morningbrief_v1_AI.mp3" length="5703783" type="audio/mpeg"/>
+      <itunes:duration>1367</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://popo-sakana.github.io/morning-brief/episodes/260914_morningbrief_v1_AI.html</link>
+    </item>
     <item>
       <title>9月13日のブリーフ</title>
       <description><![CDATA[・広島のカキ養殖で酸素濃度低下による初の厳戒アラート<br>・スペインでカンパチの陸上ふ化場建設が計画進行中<br>・アンソロピックがAI悪用検知の対抗事例を報告書に公表]]></description>
