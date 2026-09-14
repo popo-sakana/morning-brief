@@ -13,7 +13,7 @@ hypotheses:
   axis: 生産
   statement: 養殖の競争力の源泉が、規模と餌のコスト勝負から、種苗・育種と斃死率のコントロールへ移りつつある。
   created: '2026-08-27'
-  confidence: 0.945
+  confidence: 0.948
   status: active
   decision_link: 養殖案件で、飼料の置き換えと生残率の改善のどちらを提案の軸に置くか
   falsifiers:
@@ -190,16 +190,28 @@ hypotheses:
     source_url: https://news.web.nhk/newsweb/na/nd-20260909de49302
     tier: 1
     origin: normal
+  - date: '2026-09-15'
+    relation: support
+    claim: 広島県は2026年9月9日、広島湾北中部の草津・坂などの海域で養殖カキの大量へい死リスクが最も高い「厳戒アラート」を初めて発表した。
+    source_url: https://news.web.nhk/newsweb/na/nd-20260909de49302
+    tier: 1
+    origin: normal
+  - date: '2026-09-15'
+    relation: support
+    claim: 水産研究・教育機構の2025年度自己評価資料（2026年8月更新）によると、ゲノム育種価を用いたブリの高成長選抜効果は群別に2.3％、2.9％、4.2％と推定され、高成長の第3世代を作出し2事業者で親魚養成を開始した。
+    source_url: https://www.fra.go.jp/home/kokaijoho/johoteikyo/files/R07_jikohyoka.pdf
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-13'
+    last_support: '2026-09-15'
     last_contradiction: '2026-09-10'
     last_on_air: '2026-09-06'
     on_air_count: 2
-    last_redteam: '2026-09-08'
+    last_redteam: '2026-09-15'
     unfrozen: true
   review_note: FAOによるアジア6か国・計340養殖場調査（調査期間2005年10月15日～2006年2月14日、2007年公表）では、総生産費に占める餌料費が平均58.0%で稚魚・種苗費15.5%を大きく上回った。（餌料費が種苗費を大きく上回るとFAO調査が示す）
     / FAOの世界調査（2019年2月公表、回答期間2015年6月～2017年6月）では、92か国の回答のうち45%が遺伝的改良は養殖生産に「影響しなかった」または「影響は小さかった」と回答した。（45%が遺伝的改良は生産に影響小さいと回答）
-  _sustain: 9
+  _sustain: 10
 - id: L-2
   theme: world_fisheries
   axis: 流通
@@ -226,34 +238,6 @@ hypotheses:
   - neutral_query: 陸上養殖 商業生産 稼働 最新
   - neutral_query: 水産物 輸送 コールドチェーン 動向
   evidence:
-  - date: '2026-09-03'
-    relation: support
-    claim: 中国の輸入サーモン市場は2025年に前年比50%増、2026年上半期のサーモン輸入は前年同期比43%増となった。
-    source_url: https://www.mynewsdesk.com/seafood/news/sashimi-popularity-in-china-shows-growth-opportunities-for-imported-salmon-512135
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-03'
-    relation: support
-    claim: 中国南方航空貨物は2026年8月20日、上海―アムステルダム経由―オスロ間の週2便の航空貨物路線を開始し、初便で約100トンのノルウェー産生鮮サーモンを輸送した。
-    source_url: https://aviationexpress.news/news/china-southern-launches-cargo-route-to-norway
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-03'
-    relation: support
-    claim: 2025年10月、長崎県対馬市から東京都内への活魚の航空輸送が北九州空港経由で開始された。
-    source_url: https://www.pref.fukuoka.lg.jp/press-release/20251031yamato.html
-    tier: 1
-    origin: normal
-    aired: true
-  - date: '2026-09-03'
-    relation: support
-    claim: 北九州空港の貨物取扱量は2025年度に4万1,092トンとなり、2年連続で過去最高を更新した。
-    source_url: https://news.tnc.co.jp/news/articles/NID2026042330085
-    tier: 2
-    origin: normal
-    aired: true
   - date: '2026-09-03'
     relation: contradict
     claim: 東北地方のバナメイエビ陸上養殖事業者「HANERU葛尾」は2026年7月、電気代・燃料代の増加による約4000万円の赤字を理由に事業を停止した。
@@ -475,14 +459,38 @@ hypotheses:
     source_url: https://aquaculturemag.com/2026/08/28/sashimi-revolution-in-china-accelerates-growth-opportunities-for-imported-salmon/
     tier: 2
     origin: normal
+  - date: '2026-09-15'
+    relation: support
+    claim: スペインのOcean Aquacultureは2026年9月9日、アルメリア州でgreater amberjack（Seriola dumerili）の種苗生産施設の建設を開始し、投資額約1,500万ユーロ、年間800万尾の稚魚生産を計画、生産開始は2028年1月を予定している。
+    source_url: https://www.mispeces.com/en/
+    tier: 2
+    origin: normal
+  - date: '2026-09-15'
+    relation: support
+    claim: スペインのAlicante Aquacultureは、アリカンテ港の陸上RASでgreater amberjack（Seriola dumerili）の商業規模生産を開始し、初期生産能力は年間600トン、拡張後は年間900トンを計画している。
+    source_url: https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/
+    tier: 2
+    origin: normal
+  - date: '2026-09-15'
+    relation: support
+    claim: ノルウェーの中国向けサーモン輸出は2026年1～7月に75,800トン（前年同期比46％増）、輸出額56億ノルウェークローネ（同41％増）となった。
+    source_url: https://www.salmonbusiness.com/beijing-cuts-salmon-clearance-to-10-minutes-as-imports-surge/
+    tier: 2
+    origin: normal
+  - date: '2026-09-15'
+    relation: support
+    claim: 北京税関の報告によると、2026年1～7月の北京向け輸入冷蔵水産物は8,808トンで前年同期比41.4％増となり、認定輸入業者向け制度により最短で通関が約10分になった。
+    source_url: https://www.salmonbusiness.com/beijing-cuts-salmon-clearance-to-10-minutes-as-imports-surge/
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-14'
+    last_support: '2026-09-15'
     last_contradiction: '2026-09-12'
     last_watch_hit: '2026-09-12'
     last_on_air: '2026-09-10'
     on_air_count: 3
     last_redteam: '2026-09-10'
-  _sustain: 15
+  _sustain: 16
   review_note: ノルウェーの2026年8月の水産物輸出額は160億ノルウェークローネで前年同月比14%増となり8月として過去最高となった。サーモン輸出は数量153,602トン・金額123億クローネで、前年同月比数量7%増・金額19%増だった。（サーモン輸出の数量・金額が増加し長距離生鮮輸送拡大を示す）
 - id: L-3
   theme: jp_fisheries
@@ -674,12 +682,18 @@ hypotheses:
     source_url: https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/260804.html
     tier: 1
     origin: normal
+  - date: '2026-09-15'
+    relation: support
+    claim: 農林水産省の2026年上半期速報によると、日本のぶり輸出額は2026年1～6月に前年同期比69.0％増（増加額約178億円）となり、上半期として過去最高を更新した。
+    source_url: https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/attach/pdf/260804-1.pdf
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-14'
+    last_support: '2026-09-15'
     last_redteam: '2026-09-11'
     last_on_air: '2026-09-11'
     on_air_count: 2
-  _sustain: 12
+  _sustain: 13
 - id: L-4
   theme: world_fisheries
   axis: 横断
@@ -706,36 +720,6 @@ hypotheses:
   - neutral_query: 水産物 関税 規制 変更 最新
   - neutral_query: 水産 認証 要件 見直し
   evidence:
-  - date: '2026-09-01'
-    relation: contradict
-    claim: ブラジルの大湖地域のティラピア平均価格は2026年7月に1kg当たり9.78レアルとなり、6月比2％下落した。
-    source_url: https://agrimidia.com.br/aquicultura-industrial/2026/08/12/tilapia-demanda-enfraquecida-pressiona-precos-e-desacelera-embarques/
-    tier: 2
-    origin: normal
-  - date: '2026-09-01'
-    relation: support
-    claim: 米国は2026年7月24日から通商法301条に基づき、対象国からの水産物等に10〜12.5％の追加関税を適用した。
-    source_url: https://www.savingseafood.org/news/economic-impact/section-301-tariffs-leave-us-seafood-importers-with-few-avenues-to-avoid-rising-costs/
-    tier: 2
-    origin: normal
-  - date: '2026-09-01'
-    relation: support
-    claim: 米国FDAは2026年8月28日付で、マレーシア半島部産の養殖エビ等について未承認動物用医薬品等を理由とする輸入警告を掲載した。
-    source_url: https://www.accessdata.fda.gov/cms_ia/iapublishdate.html
-    tier: 1
-    origin: normal
-  - date: '2026-09-02'
-    relation: support
-    claim: カナダ政府は2026年8月25日に発表した米国産水産物への25%報復関税案を、2026年8月27日に対象リストから除外した。
-    source_url: https://finance.yahoo.com/economy/policy/articles/canada-pulls-seafood-us-tariff-114607675.html
-    tier: 2
-    origin: normal
-  - date: '2026-09-03'
-    relation: support
-    claim: カナダ政府は米国産品への対抗関税リストを修正し、魚介類254品目を2026年9月8日施行予定だった25%追加関税の対象から除外した。
-    source_url: https://gowlingwlg.com/en/insights-resources/articles/2026/canada-revises-retaliatory-tariff-list/
-    tier: 1
-    origin: normal
   - date: '2026-09-04'
     relation: support
     claim: カナダ政府は、米国原産のアトランティックサーモンなどに25%の関税を2026年9月8日午前0時1分から課す方針を示した。
@@ -958,14 +942,44 @@ hypotheses:
     source_url: https://gowlingwlg.com/en/insights-resources/articles/2026/canada-revises-retaliatory-tariff-list
     tier: 1
     origin: normal
+  - date: '2026-09-15'
+    relation: support
+    claim: 全米熱帯まぐろ類委員会（IATTC）は2026年8月31日～9月4日の年次会合で、太平洋クロマグロについて30kg以上の大型魚枠を年間11,869トンから14,836トン（25％増）に、30kg未満の小型魚枠を年間5,125トンから4,823トン（約6％減）にする管理方式を採択した。
+    source_url: https://www.suikei.co.jp/archives/129086
+    tier: 2
+    origin: normal
+  - date: '2026-09-15'
+    relation: support
+    claim: 北京税関の報告によると、2026年1～7月の北京向け輸入冷蔵水産物は8,808トンで前年同期比41.4％増となり、認定輸入業者向け制度により最短で通関が約10分になった。
+    source_url: https://www.salmonbusiness.com/beijing-cuts-salmon-clearance-to-10-minutes-as-imports-surge/
+    tier: 2
+    origin: normal
+  - date: '2026-09-15'
+    relation: support
+    claim: 欧州委員会は2026年9月8日、EUの水産物向け自律関税割当（ATQ）制度を2027年12月31日まで1年間延長する法案（COM(2026) 447）を提示した。
+    source_url: https://thefishingdaily.com/eu-fishing-industry-news/eu-commission-moves-to-extend-duty-free-fish-imports/
+    tier: 1
+    origin: normal
+  - date: '2026-09-15'
+    relation: support
+    claim: カナダは2026年9月8日から、米国原産のサーモンなどに25％の追加関税を課した。
+    source_url: https://www.salmonbusiness.com/tarrifs-canada-to-impose-25-tariff-on-us-salmon-from-8-september/
+    tier: 1
+    origin: normal
+  - date: '2026-09-15'
+    relation: support
+    claim: 欧州委員会委任規則（EU）2026/1304により、一定の水産物・水産加工品・軟体動物などの輸入衛生条件が2026年9月13日から変更された。
+    source_url: https://arthurmarin.com/eu-import-requirements-dairy-fishery-products-molluscs/
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-14'
+    last_support: '2026-09-15'
     last_redteam: '2026-09-12'
     last_contradiction: '2026-09-11'
     last_watch_hit: '2026-09-11'
     last_on_air: '2026-09-08'
     on_air_count: 3
-  _sustain: 5
+  _sustain: 6
   review_note: 水産庁は2026年度資源評価で、マイワシ太平洋系群のABCが前年比75%減少したと公表した。（ABC75%減は資源量評価に基づく変動で制度変更ではない）
 - id: L-5
   theme: genai
@@ -992,25 +1006,6 @@ hypotheses:
   - neutral_query: 生成AI 業務導入 効果 実績
   - neutral_query: AI 責任 契約 規約 変更
   evidence:
-  - date: '2026-09-03'
-    relation: support
-    claim: Anthropicは2026年9月1日、新モデル「Claude Fable 5.1」「Claude Mythos 5.1」と、企業データを顧客管理クラウドに保存する「Enterprise
-      Frontier Safeguards」を発表した。
-    source_url: https://www.anthropic.com/news/enterprise-frontier-safeguards
-    tier: 1
-    origin: normal
-  - date: '2026-09-03'
-    relation: support
-    claim: 日本のデジタル庁は、政府職員向け生成AI環境「源内」を2026年度中に全府省庁の約18万人が利用可能とする計画を示している。
-    source_url: https://www.digital.go.jp/policies/genai
-    tier: 1
-    origin: normal
-  - date: '2026-09-04'
-    relation: support
-    claim: Anthropicは2026年9月1日、企業向けデータ保護・安全対策の枠組み「Enterprise Frontier Safeguards」を発表した。
-    source_url: https://www.anthropic.com/news/enterprise-frontier-safeguards
-    tier: 1
-    origin: normal
   - date: '2026-09-04'
     relation: support
     claim: OpenAIは2026年9月1日、開発中モデル「Astra」が自社Preparedness Frameworkの「重大なサイバーセキュリティ能力」基準に到達したと発表した。
@@ -1241,14 +1236,32 @@ hypotheses:
     source_url: https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8
     tier: 1
     origin: normal
+  - date: '2026-09-15'
+    relation: support
+    claim: OpenAIは2026年9月14日、検索サービス企業PerplexityがGPT-6 Astraを顧客対応、ソフトウェア変更、本番システム監視などに利用していると発表した。
+    source_url: https://openai.com/index/perplexity-improving-accuracy-with-astra/
+    tier: 1
+    origin: normal
+  - date: '2026-09-15'
+    relation: support
+    claim: GMO AI＆ロボティクス商事とTechShareは2026年9月14日に資本業務提携の基本合意書を締結し、出資実行予定日は2026年9月30日とした。
+    source_url: https://group.gmo/news/article/10193/
+    tier: 1
+    origin: normal
+  - date: '2026-09-15'
+    relation: support
+    claim: 大塚商会は基幹システム連携型のAIエージェント「販売分析エージェント」「営業支援エージェント」を2026年9月14日から提供開始し、12か月間の販売目標を60社とした。
+    source_url: https://prtimes.jp/main/html/rd/p/000001268.000009712.html
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-14'
+    last_support: '2026-09-15'
     last_contradiction: '2026-09-13'
     last_watch_hit: '2026-09-13'
     last_redteam: '2026-09-13'
     last_on_air: '2026-09-13'
     on_air_count: 2
-  _sustain: 16
+  _sustain: 17
   review_note: Capgeminiなどによる22カ国・10業種・2,000人超対象の調査World Quality Report 2025では、生成AIで拡張された業務フローの試験導入・展開組織のうち52%がパイロット段階、エンタープライズ全体での実装達成は15%にとどまった。（52%がパイロット止まり、15%のみ全社実装と報告）
     / McKinsey & Companyが105カ国・地域の1,993人を対象に実施した調査では、回答企業の88%が少なくとも1つの業務機能でAIを定期利用している一方、AIプログラムを全社でスケールし始めた企業は約3分の1にとどまった。（全社スケール開始企業は約3分の1に留まると報告）
 - id: L-6
@@ -1256,7 +1269,7 @@ hypotheses:
   axis: 横断
   statement: 幼児から小学校段階のAI対応は、使わせ方の工夫より、使わせない時間をどう設計するかに寄りつつある。
   created: '2026-08-27'
-  confidence: 0.901
+  confidence: 0.819
   status: active
   decision_link: 家庭で、AIに触れさせる方針と触れさせない時間の設計のどちらを先に決めるか
   falsifiers:
@@ -1276,39 +1289,6 @@ hypotheses:
   - neutral_query: 幼児教育 スクリーンタイム 方針 最新
   - neutral_query: 小学校 生成AI 利用 ルール 各国
   evidence:
-  - date: '2026-09-04'
-    relation: contradict
-    claim: 香港教育局は2026/27学年度から、小学校の情報・イノベーション技術カリキュラムにAIの基礎学習領域を試行的に導入する準備を進めている。
-    source_url: https://applications.edb.gov.hk/circular/upload/EDBC/EDBC26011E.pdf
-    tier: 1
-    origin: normal
-    aired: true
-  - date: '2026-09-04'
-    relation: contradict
-    claim: UAEは2026年9月2日、公立・私立学校の全学年を対象とするAIカリキュラムを承認したと発表した。
-    source_url: https://www.thenationalnews.com/news/uae/2026/09/02/sheikh-mohammed-bin-rashid-announces-ai-curriculum-for-all-schools/
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-04'
-    relation: contradict
-    claim: 2026年8月31日の報道によると、文部科学省の次期学習指導要領改訂案では、AI・情報・メディアリテラシーを強化し、小学校で2028年度から情報分野の授業を先行実施、2030年度に全面導入する方針が示された。
-    source_url: https://newsonjapan.com/article/150566.php
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-05'
-    relation: support
-    claim: ニューヨーク市公立学校は2026～2027年度、2-Kから8年生までの生徒向け生成AI利用を原則禁止する方針を公表した。
-    source_url: https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence
-    tier: 1
-    origin: normal
-  - date: '2026-09-05'
-    relation: contradict
-    claim: 香港教育局は2026年6月公表のデジタル教育方針で、小学校・中学校向けAIリテラシー学習枠組みを2026～2027年度から学校計画に組み込むよう求めた。
-    source_url: https://applications.edb.gov.hk/circular/upload/EDBC/EDBC26011E.pdf
-    tier: 1
-    origin: normal
   - date: '2026-09-06'
     relation: support
     claim: ノルウェー政府は2026年8月末の新学期から、小学校1～7年生の児童本人による生成AI利用を原則認めない方針を実施した。
@@ -1538,14 +1518,49 @@ hypotheses:
     tier: 2
     origin: normal
     aired: true
+  - date: '2026-09-15'
+    relation: support
+    claim: ニューヨーク市公立学校（NYCPS）は2026～2027年度、2-K～8年生を対象に児童・生徒向け生成AIの利用を禁止する方針を公表した。
+    source_url: https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-15'
+    relation: contradict
+    claim: UAEの公立・私立学校では、幼児は遊び中心、初等段階では教科横断的にAI理解を組み込むAIカリキュラムの導入が進められている。
+    source_url: https://www.khaleejtimes.com/uae/education/schools-begin-roll-out-ai-curriculum
+    tier: 2
+    origin: normal
+    aired: true
+  - date: '2026-09-15'
+    relation: support
+    claim: イングランドでは学校向け法定safeguarding指針「Keeping Children Safe in Education 2026」が2026年9月1日に発効し、生成AIの安全性・フィルタリング・監視を学校のsafeguardingに組み込むことを求めている。
+    source_url: https://www.edtechinnovationhub.com/news/dfe-publishes-kcsie-2026-with-mobile-phone-free-default-and-ai-safeguarding-rules
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-15'
+    relation: contradict
+    claim: 香港教育局は、2026～2027年度に初等学校の情報・イノベーション技術カリキュラムに「人工知能の予備学習」領域を試行導入する方針を示した。
+    source_url: https://applications.edb.gov.hk/circular/upload/EDBCM/EDBCM26113E.pdf
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-15'
+    relation: contradict
+    claim: OECDと欧州委員会は2026年の資料で、初等・中等教育向けにAIと「関わる」「創造する」「管理する」「設計する」の4領域・22のコンピテンシーからなるAIリテラシー枠組みを示した。
+    source_url: https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/06/empowering-learners-for-the-age-of-ai_2f8315e7/65cd27d4-en.pdf
+    tier: 1
+    origin: normal
+    aired: true
   ops:
-    last_support: '2026-09-14'
-    last_contradiction: '2026-09-14'
+    last_support: '2026-09-15'
+    last_contradiction: '2026-09-15'
     unfrozen: true
-    last_on_air: '2026-09-14'
-    on_air_count: 6
-    last_watch_hit: '2026-09-14'
+    last_on_air: '2026-09-15'
+    on_air_count: 7
+    last_watch_hit: '2026-09-15'
     last_redteam: '2026-09-14'
-  review_note: 中国・深圳市は義務教育段階の地域カリキュラムにAI教育を組み込む方針を2023年7月14日に公表し、小学1〜2年生に年間6授業時数以上のAI教育を課すとした。（深圳が低学年からAI教育を必修化するカリキュラムを公表）
-    / 北京市教育当局は2025年3月、2025年秋学期から市内の小中高校で年間8授業時数以上のAI通識教育を実施する計画を公表した。（北京が全学年でAI通識教育を義務化する計画を公表） / ニューヨーク市公立学校は2023年1月に学校端末・ネットワークからのChatGPTアクセスを遮断したが、2023年5月18日にこの制限を撤回し、教育現場でのAI活用を進める方針に転じた。（NYCがChatGPT禁止を撤回しAI活用方針へ転換したと明記）
-  _sustain: 6
+  review_note: UAEの公立・私立学校では、幼児は遊び中心、初等段階では教科横断的にAI理解を組み込むAIカリキュラムの導入が進められている。（UAEで低学年からのAI活用カリキュラム導入が進行）
+    / 香港教育局は、2026～2027年度に初等学校の情報・イノベーション技術カリキュラムに「人工知能の予備学習」領域を試行導入する方針を示した。（香港が初等でAI予備学習領域を試行導入）
+  _sustain: 0

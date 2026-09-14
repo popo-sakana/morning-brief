@@ -1,5 +1,40 @@
 [
   {
+    "id": "260915_morningbrief_v1_AI",
+    "title": "9月15日のブリーフ",
+    "published_at": "2026-09-15T05:14:20+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260915_morningbrief_v1_AI/260915_morningbrief_v1_AI.mp3",
+    "duration_sec": 1062,
+    "bytes": 4408737,
+    "summary": "・EUが水産物の輸入衛生条件を改正、施行は2026年9月13日<br>・欧州委員会の委任規則番号は2026年の1304号<br>・生成AI業界で資本提携や新サービス発表が相次ぐ",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 28.8
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 208.8
+      },
+      {
+        "section": "genai",
+        "start_sec": 560.5
+      },
+      {
+        "section": "discussion",
+        "start_sec": 866.0
+      },
+      {
+        "section": "closing",
+        "start_sec": 1049.1
+      }
+    ]
+  },
+  {
     "id": "260914_morningbrief_v1_AI",
     "title": "9月14日のブリーフ",
     "published_at": "2026-09-14T05:13:04+09:00",

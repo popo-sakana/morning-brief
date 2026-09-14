@@ -1,0 +1,642 @@
+{
+  "segments": [
+    {
+      "id": "world_fisheries",
+      "title": "世界の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "世界の水産、今日は物流と輸入ルールの話題が続いています。まずはEUからですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。EUが水産物の輸入衛生条件を改正しました。施行日は2026年9月13日です。欧州委員会の委任規則、番号は2026年の1304という規則です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "委任規則というのは、どういうものですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "EUの機関である欧州委員会が、細かいルールを決めるときに使う法律の形式です。今回は水産物や水産加工品、それに軟体動物などが対象になっています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "具体的にはどんな変更があったんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "対象となる関税コードの範囲が広がりました。それから、認可された国や施設からしか輸入できないという要件が強化されています。残留物質や汚染物質の管理、公的な衛生証明書の要件も広がりました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "残留物質というのは、薬とか化学物質のことですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。養殖魚に使う薬剤などが基準を超えていないか、より広い範囲で確認されるようになったということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "陸上養殖については、何か特別な扱いがあると聞きました。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "一部の陸上養殖由来の水生動物については、残留物質モニタリングの例外が適用されない扱いになっています。つまり、これまで免除されていたところも、検査対象になる可能性があるということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "これは日本の輸出業者にも関係があるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。日本のぶり類の輸出者も、関税コードや施設の認可状況を個別に確認する必要が出てくる可能性があります。今すぐ輸出できなくなるという話ではありませんが、書類や手続きの見直しが必要になりそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "つまり、輸出する側の事務作業が増えるということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そういう見方ができます。ルールが厳しくなること自体は、消費者の安全につながる面もありますが、輸出する側の負担は増える方向だと言えそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いて中国からのニュースです。輸送技術の実証実験があったそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。2026年9月7日に中国の成都で開かれた物流会議で、鮮魚の輸送実証が紹介されました。航空輸送と、無人のコールドチェーン輸送を組み合わせた事例です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "コールドチェーンというのは、冷たい状態を保ったまま運ぶ仕組みのことですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。今回はそこに5Gや、モノのインターネットと呼ばれるIoTの技術を組み合わせて、温度を細かく管理していたということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "具体的な成果はどうだったんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "サーモンの輸送時間を、さらに12時間短縮できる可能性が示されました。実証データでは、ロス率が5パーセントから1.2パーセントに下がったと報告されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "5パーセントから1.2パーセントというと、かなり大きな改善に見えますが。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "数字だけ見ると大きな差です。ただこれは会議で示された提案や実証段階の情報で、中国全土で実際に商業運用されているかどうかは確認できていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "つまり、まだ実験室的な段階ということでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そう捉えるのが妥当だと思います。実証で良い数字が出たことと、それが広く普及することとは、別の話だという点は押さえておきたいところです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今後の展開を見ていく必要がありそうですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。もし本当にロス率がここまで下がるなら、鮮魚を遠くまで運ぶコストや品質の課題が変わってくる可能性はあります。ただ現時点では実証段階だという前提を忘れないほうがいいと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "最後はアメリカの物流会社のニュースです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。アメリカのCircle Logisticsという物流企業が、冷蔵の小口混載輸送サービスを拡大すると発表しました。英語ではLTLと呼ばれる輸送方式です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "小口混載というのは、どういう仕組みですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "複数の荷主の荷物を一台のトラックに混ぜて運ぶ方式です。荷物が少ない場合でも、まとめて運ぶことでコストを抑えられます。今回、対象品目に水産物も含まれています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "なぜこのタイミングで拡大するんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "背景として挙げられているのは、冷蔵や冷凍の食品の需要が増えていること、それから港や国境付近の冷蔵保管の能力に制約があることです。関税によって物流が複雑になっていることも理由の一つとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "関税が物流を複雑にする、というのはどういうことですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "詳しい仕組みまでは発表からは分かりませんが、関税の扱いが変わることで、輸送ルートや通関の手続きが増えている、という文脈だと考えられます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "拡大の規模や投資額は分かっているんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "具体的な拡大規模や投資額は、発表内容からは確認できません。方向性としてサービスを広げる、という発表にとどまっています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "ここまで、EUのルール改正、中国の輸送実証、アメリカの冷蔵輸送拡大と見てきました。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "共通しているのは、水産物を新鮮なまま、より遠くへ、より確実に届けようという動きです。ルールと技術と物流網、それぞれの側面から変化が進んでいると言えそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "世界の水産、以上でお伝えしました。"
+        }
+      ]
+    },
+    {
+      "id": "genai",
+      "title": "生成AIの重大ニュース",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "2026年9月15日、生成AIの重大ニュースコーナーです。今日は9月14日発表のニュースが4件並んでいます。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。大手のAI企業から資本提携、業務向けサービスの新発表まで、幅広く動きがありました。順番に見ていきましょう。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "まず1つ目、OpenAIとPerplexityの話ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "OpenAIが2026年9月14日、検索サービス企業のPerplexityが新しいAIモデル、GPT-6 Astraを本番運用に使っていると発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "本番運用というのは、実際のサービスで使っているということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。顧客向けの文章作成や、ソフトウェアの変更、システムの監視、それから本物のサービスを模したテスト環境での確認作業に使われています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "どのくらい効果があったんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "従来のモデルに比べて、人が確認する頻度が大幅に減ったとされています。ただ、何パーセント減ったかという具体的な数字は公表されていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "数字がないと、大きい成果なのか判断しづらいですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。それから、OpenAIとPerplexityの間に出資や独占契約があるかどうかも、今のところ確認できていません。導入事例の紹介にとどまっている段階です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続いて2つ目、ロボット関連の提携ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "GMO AI＆ロボティクス商事とTechShareという会社が、2026年9月14日に資本業務提携の基本合意書を結びました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "資本業務提携というのは、お金の出資と業務の協力を両方するということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。GMO側がTechShareに出資して、Unitree Roboticsという会社が作るロボットを日本国内で広める活動を一緒に行います。保守やアフターサポート、関連するソリューションの共同開発も含まれます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "出資はいつ実行されるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "出資実行の予定日は2026年9月30日です。ただし出資する金額や、出資の比率はまだ明らかにされていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "つまり枠組みだけ先に発表された、という感じでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そう見えます。ロボットを扱う会社をAI企業が支援する動きとして、注目されている合意だと言えます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "3つ目は大塚商会ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "大塚商会が2026年9月14日、AIエージェントサービスに新しい機能を追加したと発表しました。エージェントというのは、指示を受けて自動でタスクをこなすAIの仕組みのことです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "どんな機能が加わったんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "自社のサーバーで動いているデータベース、いわゆるオンプレミス環境と連携する機能です。販売データを分析する販売分析エージェントと、営業活動を分析する営業支援エージェントの2種類が提供されます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "どれくらい売れる見込みなんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "提供開始から12か月間で60社への販売を目標としています。ただ、導入によって作業時間がどれくらい削減されるかといった効果は、まだ発表されていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "60社という数字は、多いのか少ないのか分かりにくいですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。材料からは規模の大小は判断しにくいです。今後、実際の導入企業数が積み上がるかどうかを見ていく必要がありそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "最後、4つ目はNTTデータグループの会社ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "NTTデータグループのフォーティエンスコンサルティングが2026年9月14日、AIを動かす環境の設計を支援する新しいサービスを始めました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "AIを動かす環境の設計というのは、具体的にどんなことをするんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "生成AIやAIエージェントをどう使うかという具体案作りから、セキュリティやシステムの連携設計、導入計画、実際の実装、それを現場に定着させるところまで、幅広く支援します。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "誰が支援してくれるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "顧客の現場に入り込む形のコンサルタントが担当します。ただ、料金やこれまでの導入社数、実際にどれくらい効果が出たかという数字は、確認できていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今日は4件とも、具体的な効果の数字がまだ出ていないものが多かったですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。発表されたばかりの取り組みが多く、今後の実績報告が注目されるという段階です。引き続き追っていきたいと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "以上、生成AIの重大ニュースでした。ありがとうございました。"
+        }
+      ]
+    }
+  ],
+  "verification": {
+    "title": "大きな流れ",
+    "turns": [
+      {
+        "speaker": "analyst",
+        "text": "今日の論点はこれです。幼児から小学校段階のAIとの付き合い方は、上手な使わせ方の工夫よりも、使わせない時間をどう区切るかという設計の話に重心が移りつつある、という見方です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。禁止や制限を導入する地域の事例が続いていました。ただ今日の材料で、この見方はやや弱まりました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "追い風の材料も出ています。ニューヨーク市公立学校は2026から2027年度、2ケーから8年生を対象に、児童生徒向けの生成AI利用を禁止する方針を公表しました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうなんです。加えてイングランドでは、学校向けの安全確保に関する法定指針、キーピング・チルドレン・セイフ・イン・エデュケーション2026が9月1日に発効しました。生成AIの安全性やフィルタリング、監視を学校の安全確保の仕組みに組み込むよう求めています。これも追い風の材料です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "同じ日に、方向の違う材料も出たからです。UAEの公立私立学校では、幼児は遊び中心、初等段階では教科を横断してAIの理解を組み込むカリキュラムの導入が進められています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。もう一つ、香港教育局も2026から2027年度に、初等学校の情報・イノベーション技術カリキュラムに、人工知能の予備学習という領域を試行導入する方針を示しました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。さらにOECDと欧州委員会は2026年の資料で、初等中等教育向けのAIリテラシー枠組みを示しています。関わる、創造する、管理する、設計するという4つの領域で、22のコンピテンシーを整理したものです。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "どちらとも言い切れません。使わせる前提で能力を整理したものとも読めますし、管理する領域を重視すれば制限側の考え方とも重なります。今日はどちらでもない材料として扱います。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "良い指摘です。義務教育の制度設計や、デジタル産業政策との距離が国によって違うだけ、という説明も十分に成り立ちます。UAEや香港は、産業戦略としてAI教育を早期に位置づけている面があります。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "その通りです。だからこそ観測点を決めておきます。低学年からのAI活用を推進する制度やカリキュラムが、さらに複数の地域で広がるか。あるいは利用制限を導入した地域が、効果がないとして方針を撤回するか。どちらかが起きたときに、見方をはっきり動かします。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。今日はその判断を急がず、両方の動きが並んでいる、という事実だけを持ち帰っていただければと思います。"
+      }
+    ]
+  },
+  "discussion": {
+    "title": "きょうの論点",
+    "turns": [
+      {
+        "speaker": "navigator",
+        "text": "それでは最後のコーナー、きょうの論点です。今日は世界の水産と生成AI、2つの話題を振り返ります。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。一見別々の話題ですが、どちらも基準や検証の仕組みが強化されているという共通点があります。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "まずEUの水産物輸入ルールの改正、あらためて整理してもらえますか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "2026年9月13日施行の欧州委員会の委任規則です。認可された国や施設からの輸入という要件が強化されました。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "残留物質の管理も広がったということでしたね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。養殖魚の薬剤などが基準を超えていないか、より広い範囲で確認される仕組みになりました。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "一方、AIの話は、Perplexityが新しいAIモデルを本番運用に使っているという内容でした。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。2026年9月14日発表です。人が確認する頻度が大幅に減ったとされていますが、具体的な割合は公表されていません。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "確認する頻度が減るというのは、どういう意味を持つんでしょうか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "AIが作った結果を、人が逐一チェックしなくても信頼できる場面が増えてきたということだと思います。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "EUの話は逆に、確認を増やす方向でしたよね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうなんです。片方は検証を強める方向、片方は検証を軽くできる方向。ただ狙いは同じで、信頼できる仕組みをどう作るかという点です。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "popoさんの仕事にとっては、どちらも関係がありそうですね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "EUのルール改正は、鹿児島のぶり類養殖の輸出戦略に直接関わってくる可能性があります。衛生証明書の要件が広がっているためです。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "補助金申請の支援という仕事にも影響するんでしょうか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "残留物質の管理体制を整えること自体が、補助金の対象になる設備投資につながる場合があります。今後の情報収集が必要になりそうです。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "AIの話は、業務の仕組み化という点でどうでしょう。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "Perplexityの事例は、文章作成やシステム監視など幅広い業務で人の確認作業が減った例です。一人でコンサルタント業務をこなす上でも参考になりそうです。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "ただ、具体的な削減幅は分からないんですよね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "その通りです。効果があるという見方は出ていますが、数字がない以上、慎重に見る必要があります。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "今日は水産とAI、2つの話題を検証という軸でつないでみました。教育の話題は今日は特にありませんでしたので、独立した話題として扱いました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。今後もそれぞれの分野で、基準づくりの動きを追っていきたいと思います。"
+      }
+    ]
+  },
+  "opening": [
+    {
+      "speaker": "navigator",
+      "text": "皆さん、こんにちは。2026年9月15日の音声ニュースをお届けします。今日は2つのテーマを取り上げます。まず世界の水産では、EUが水産物の輸入衛生条件を改正しました。もう一つは生成AIの重大ニュースです。大手AI企業をめぐる資本提携や新サービスの発表など、幅広い動きがありました。それでは順番に見ていきましょう。"
+    }
+  ],
+  "closing": [
+    {
+      "speaker": "navigator",
+      "text": "今日は水産と生成AIの話題をお届けしました。台本と出典は番組ページに掲載しています。ぜひご確認ください。それでは、また次回お会いしましょう。"
+    }
+  ],
+  "highlights": [
+    "EUが水産物の輸入衛生条件を改正、施行は2026年9月13日",
+    "欧州委員会の委任規則番号は2026年の1304号",
+    "生成AI業界で資本提携や新サービス発表が相次ぐ"
+  ],
+  "requests": "",
+  "hypothesis_checks": [
+    {
+      "id": "L-6",
+      "theme": "education",
+      "statement": "幼児から小学校段階のAI対応は、使わせ方の工夫より、使わせない時間をどう設計するかに寄りつつある。",
+      "before": 0.901,
+      "after": 0.819,
+      "evidence_today": [
+        {
+          "relation": "support",
+          "claim": "ニューヨーク市公立学校（NYCPS）は2026～2027年度、2-K～8年生を対象に児童・生徒向け生成AIの利用を禁止する方針を公表した。",
+          "source_url": "https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "UAEの公立・私立学校では、幼児は遊び中心、初等段階では教科横断的にAI理解を組み込むAIカリキュラムの導入が進められている。",
+          "source_url": "https://www.khaleejtimes.com/uae/education/schools-begin-roll-out-ai-curriculum",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "イングランドでは学校向け法定safeguarding指針「Keeping Children Safe in Education 2026」が2026年9月1日に発効し、生成AIの安全性・フィルタリング・監視を学校のsafeguardingに組み込むことを求めている。",
+          "source_url": "https://www.edtechinnovationhub.com/news/dfe-publishes-kcsie-2026-with-mobile-phone-free-default-and-ai-safeguarding-rules",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "香港教育局は、2026～2027年度に初等学校の情報・イノベーション技術カリキュラムに「人工知能の予備学習」領域を試行導入する方針を示した。",
+          "source_url": "https://applications.edb.gov.hk/circular/upload/EDBCM/EDBCM26113E.pdf",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "OECDと欧州委員会は2026年の資料で、初等・中等教育向けにAIと「関わる」「創造する」「管理する」「設計する」の4領域・22のコンピテンシーからなるAIリテラシー枠組みを示した。",
+          "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/06/empowering-learners-for-the-age-of-ai_2f8315e7/65cd27d4-en.pdf",
+          "origin": "normal"
+        }
+      ],
+      "support": 2,
+      "contradict": 3,
+      "falsifier_hits": [
+        "UAEの公立・私立学校では、幼児は遊び中心、初等段階では教科横断的にAI理解を組み込むAIカリキュラムの導入が進められている。（UAEで低学年からのAI活用カリキュラム導入が進行）",
+        "香港教育局は、2026～2027年度に初等学校の情報・イノベーション技術カリキュラムに「人工知能の予備学習」領域を試行導入する方針を示した。（香港が初等でAI予備学習領域を試行導入）"
+      ],
+      "status": "active",
+      "moved": null,
+      "already_said": [
+        "フランス教育省は2025年6月14日、教育におけるAI利用の枠組みを公表し、第1学年からAIの基礎知識を学ぶ一方、教員監督下での生成AI利用は第4学年から授業で認めるとした。",
+        "米国ワシントン州のワラワラ公立学校(生徒約5,500人)は2023年2月に学校端末でのChatGPT利用を遮断したが、家庭端末からの利用を防げず禁止措置が有効でないと判断し、教員向けAI研修を導入する方針に転換した。",
+        "ノルウェーは2026年8月下旬から、小学1~7年生(概ね6~13歳)の生成AI利用を原則禁止した。",
+        "米国ニューヨーク市は2026~2027年度、2-K~8年生の児童生徒向け生成AIを原則停止し、3~5年生の個人端末利用を1日30分、中学生を1日45分に制限する方針を示した。",
+        "カナダ・ニューブランズウィック州は2026年8月28日、幼児教育施設のスクリーンタイムを1日30分以下、2歳未満はゼロとする政策改訂を発表した。",
+        "日本では2026年8月31日、次期学習指導要領に向けた審議まとめの素案で、小学校の「総合的な学習の時間」に生成AI・プログラミング・情報モラル等を体系化する「情報の領域(仮称)」を設ける方向が示された。",
+        "OECDの2026年報告書は、AIの利用の有無にかかわらず教育は価値ある人間の知識・技能を優先すべきとの見方が示されている。",
+        "ノルウェーでは2026年8月末から、1〜7年生（目安6〜13歳）の児童に対し学校で生成AIを原則使用しない方針が導入された。",
+        "ニューヨーク市公立学校は2026〜2027年度、2-Kから8年生までの児童・生徒による生成AI利用を禁止し、個人端末のスクリーンタイムにも学年別の推奨上限を設けた。",
+        "カナダ・ニューブランズウィック州は2026年8月28日、認可幼児教育・保育施設について2歳以下はスクリーンタイムなし、2歳超は1日30分以下とする方針を公表した。",
+        "英国政府は2026年3月、5歳未満の子どものスクリーン利用を1日1時間に制限することを目安とするガイダンスを公表した。",
+        "OECDの報告書「Empowering Learners for the Age of AI」は、AIリテラシーをAIの仕組み理解や出力の評価・倫理的利用を含む能力として整理している。",
+        "中国・深圳市は義務教育段階の地域カリキュラムにAI教育を組み込む方針を2023年7月14日に公表し、小学1〜2年生に年間6授業時数以上のAI教育を課すとした。",
+        "北京市教育当局は2025年3月、2025年秋学期から市内の小中高校で年間8授業時数以上のAI通識教育を実施する計画を公表した。",
+        "ニューヨーク市公立学校は2023年1月に学校端末・ネットワークからのChatGPTアクセスを遮断したが、2023年5月18日にこの制限を撤回し、教育現場でのAI活用を進める方針に転じた。"
+      ],
+      "axis": "横断",
+      "falsifier_texts": [
+        "低学年からのAI活用を推進する制度やカリキュラムが広がる",
+        "利用制限を導入した地域が、効果なしとして方針を撤回する"
+      ],
+      "decision_link": "家庭で、AIに触れさせる方針と触れさせない時間の設計のどちらを先に決めるか",
+      "stance": "支持する材料がかなり積み上がっている",
+      "shift": "今日の材料で、この見方は弱まりました",
+      "on_air_count": 7
+    }
+  ],
+  "aired_items": [
+    {
+      "id": "c9d728908aa9",
+      "theme": "world_fisheries",
+      "headline": "EU、水産物の輸入衛生条件を9月13日から改正",
+      "source_url": "https://arthurmarin.com/eu-import-requirements-dairy-fishery-products-molluscs/",
+      "source_title": "Arthur Marin 実務解説記事",
+      "from_stock": false
+    },
+    {
+      "id": "5cff27fab37e",
+      "theme": "world_fisheries",
+      "headline": "中国成都、航空+無人コールドチェーンでサーモン輸送を実証",
+      "source_url": "https://www.sialchina.com/media/industrynews/2026-09-07/3818",
+      "source_title": "SIAL China 業界ニュース",
+      "from_stock": false
+    },
+    {
+      "id": "35655621484e",
+      "theme": "world_fisheries",
+      "headline": "米Circle Logistics、水産物含む冷蔵小口混載輸送を拡大",
+      "source_url": "https://www.manilatimes.net/2026/09/14/tmt-newswire/globenewswire/circle-logistics-expands-reefer-ltl-shipping-to-meet-rising-demand-from-food-and-beverage-companies/2424723",
+      "source_title": "Manila Times（GlobeNewswire）",
+      "from_stock": false
+    },
+    {
+      "id": "01f00e3e12c2",
+      "theme": "genai",
+      "headline": "OpenAI、Perplexityが本番運用にGPT-6 Astra採用と発表",
+      "source_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra/",
+      "source_title": "OpenAI公式ブログ",
+      "from_stock": false
+    },
+    {
+      "id": "1d49f884535c",
+      "theme": "genai",
+      "headline": "GMO AI＆ロボティクス商事、TechShareと資本業務提携",
+      "source_url": "https://group.gmo/news/article/10193/",
+      "source_title": "GMOインターネットグループ ニュースリリース",
+      "from_stock": false
+    },
+    {
+      "id": "bca281c1c2df",
+      "theme": "genai",
+      "headline": "大塚商会、基幹システム連携型AIエージェントの提供を開始",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000001268.000009712.html",
+      "source_title": "PR TIMES（大塚商会）",
+      "from_stock": false
+    },
+    {
+      "id": "63ad5e06a812",
+      "theme": "genai",
+      "headline": "NTTデータ系フォーティエンス、AI実行環境の設計支援を開始",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000126.000043765.html",
+      "source_title": "PR TIMES（フォーティエンスコンサルティング）",
+      "from_stock": false
+    }
+  ],
+  "sources": [
+    {
+      "segment": "世界の水産",
+      "title": "Arthur Marin 実務解説記事",
+      "url": "https://arthurmarin.com/eu-import-requirements-dairy-fishery-products-molluscs/"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "SIAL China 業界ニュース",
+      "url": "https://www.sialchina.com/media/industrynews/2026-09-07/3818"
+    },
+    {
+      "segment": "世界の水産",
+      "title": "Manila Times（GlobeNewswire）",
+      "url": "https://www.manilatimes.net/2026/09/14/tmt-newswire/globenewswire/circle-logistics-expands-reefer-ltl-shipping-to-meet-rising-demand-from-food-and-beverage-companies/2424723"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "OpenAI公式ブログ",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "GMOインターネットグループ ニュースリリース",
+      "url": "https://group.gmo/news/article/10193/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "PR TIMES（大塚商会）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001268.000009712.html"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "PR TIMES（フォーティエンスコンサルティング）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000043765.html"
+    }
+  ]
+}

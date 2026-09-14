@@ -7,11 +7,21 @@
     <link>https://popo-sakana.github.io/morning-brief/</link>
     <description>水産・生成AI・教育の4テーマを毎朝30分で</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 20:34:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 20:30:00 +0000</lastBuildDate>
     <itunes:author>popo</itunes:author>
     <itunes:summary>水産・生成AI・教育の4テーマを毎朝30分で</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+    <item>
+      <title>9月15日のブリーフ</title>
+      <description><![CDATA[・EUが水産物の輸入衛生条件を改正、施行は2026年9月13日<br>・欧州委員会の委任規則番号は2026年の1304号<br>・生成AI業界で資本提携や新サービス発表が相次ぐ]]></description>
+      <pubDate>Tue, 15 Sep 2026 05:14:20 +0900</pubDate>
+      <guid isPermaLink="false">260915_morningbrief_v1_AI</guid>
+      <enclosure url="https://github.com/popo-sakana/morning-brief/releases/download/260915_morningbrief_v1_AI/260915_morningbrief_v1_AI.mp3" length="4408737" type="audio/mpeg"/>
+      <itunes:duration>1062</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://popo-sakana.github.io/morning-brief/episodes/260915_morningbrief_v1_AI.html</link>
+    </item>
     <item>
       <title>9月14日のブリーフ</title>
       <description><![CDATA[・花咲港のサンマ漁、棒受け網漁で今年も低調が続く<br>・養殖用の魚粉と魚油、需要をめぐる新しい試算が報道<br>・LAUSDが2026年9月時点で新しい方針を発表]]></description>

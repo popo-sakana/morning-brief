@@ -3815,6 +3815,120 @@
    "aired": [
     "2026-09-14"
    ]
+  },
+  {
+   "id": "5cff27fab37e",
+   "theme": "world_fisheries",
+   "headline": "中国成都、航空+無人コールドチェーンでサーモン輸送を実証",
+   "detail": "2026年9月7日に中国・成都で開催された物流会議で、航空輸送と無人コールドチェーン輸送、5G・IoTによる温度管理を組み合わせた鮮魚物流の実証事例が紹介された。サーモンの輸送時間をさらに12時間短縮できる可能性が示され、実証データではロス率が5％から1.2％に低下したと報告された。ただし、会議で示された提案・実証段階の情報であり、中国全土での商業運用は確認できない。",
+   "numbers": [
+    "輸送時間12時間短縮",
+    "ロス率5%→1.2%"
+   ],
+   "source_url": "https://www.sialchina.com/media/industrynews/2026-09-07/3818",
+   "source_title": "SIAL China 業界ニュース",
+   "published": "2026-09-07",
+   "importance": 2,
+   "first_seen": "2026-09-15",
+   "aired": [
+    "2026-09-15"
+   ]
+  },
+  {
+   "id": "35655621484e",
+   "theme": "world_fisheries",
+   "headline": "米Circle Logistics、水産物含む冷蔵小口混載輸送を拡大",
+   "detail": "米国の物流企業Circle Logisticsは、食品・飲料向けの冷蔵LTL（小口混載輸送）サービスを拡大すると発表した。対象品目には水産物が含まれる。背景として、冷蔵・冷凍食品需要の増加、港湾・国境付近の冷蔵保管能力の制約、関税による物流の複雑化が挙げられている。具体的な拡大規模や投資額は発表内容からは確認できない。",
+   "numbers": [],
+   "source_url": "https://www.manilatimes.net/2026/09/14/tmt-newswire/globenewswire/circle-logistics-expands-reefer-ltl-shipping-to-meet-rising-demand-from-food-and-beverage-companies/2424723",
+   "source_title": "Manila Times（GlobeNewswire）",
+   "published": "2026-09-14",
+   "importance": 1,
+   "first_seen": "2026-09-15",
+   "aired": [
+    "2026-09-15"
+   ]
+  },
+  {
+   "id": "c9d728908aa9",
+   "theme": "world_fisheries",
+   "headline": "EU、水産物の輸入衛生条件を9月13日から改正",
+   "detail": "欧州委員会委任規則（EU）2026/1304により、一定の水産物・水産加工品・軟体動物などについて、2026年9月13日から輸入条件が変更された。対象関税コードの拡大、認可国・認可施設からの輸入要件、残留物質・汚染物質管理、公的衛生証明書の要件拡大などが含まれ、一部の陸上養殖由来水生動物には残留物質モニタリングの例外が適用されない扱いとなる。日本のぶり類輸出者もHS/CNコードや施設認可の個別確認が必要になる可能性がある。",
+   "numbers": [
+    "施行日2026年9月13日"
+   ],
+   "source_url": "https://arthurmarin.com/eu-import-requirements-dairy-fishery-products-molluscs/",
+   "source_title": "Arthur Marin 実務解説記事",
+   "published": "2026-09-13",
+   "importance": 3,
+   "first_seen": "2026-09-15",
+   "aired": [
+    "2026-09-15"
+   ]
+  },
+  {
+   "id": "01f00e3e12c2",
+   "theme": "genai",
+   "headline": "OpenAI、Perplexityが本番運用にGPT-6 Astra採用と発表",
+   "detail": "OpenAIは2026年9月14日、検索サービス企業Perplexityが顧客向けコミュニケーション作成、ソフトウェアの変更、本番システムの監視、外部サービスを模したテスト環境でのワークフロー検証にGPT-6 Astraを利用していると発表した。従来モデルと比べ確認頻度が大幅に減少したとするが、削減率やエラー率など定量値は開示されていない。出資・独占契約などの資本関係は確認できない。",
+   "numbers": [],
+   "source_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra/",
+   "source_title": "OpenAI公式ブログ",
+   "published": "2026-09-14",
+   "importance": 1,
+   "first_seen": "2026-09-15",
+   "aired": [
+    "2026-09-15"
+   ]
+  },
+  {
+   "id": "1d49f884535c",
+   "theme": "genai",
+   "headline": "GMO AI＆ロボティクス商事、TechShareと資本業務提携",
+   "detail": "GMO AI＆ロボティクス商事とTechShareは2026年9月14日、資本業務提携の基本合意書を締結したと発表した。GMO側がTechShareに出資し、Unitree Robotics製ロボットの日本国内普及、保守・アフターサポート、ロボット関連ソリューションの共同開発を行う。出資実行予定日は2026年9月30日だが、出資額・出資比率は明らかにされていない。",
+   "numbers": [
+    "出資実行予定日2026年9月30日"
+   ],
+   "source_url": "https://group.gmo/news/article/10193/",
+   "source_title": "GMOインターネットグループ ニュースリリース",
+   "published": "2026-09-14",
+   "importance": 1,
+   "first_seen": "2026-09-15",
+   "aired": [
+    "2026-09-15"
+   ]
+  },
+  {
+   "id": "bca281c1c2df",
+   "theme": "genai",
+   "headline": "大塚商会、基幹システム連携型AIエージェントの提供を開始",
+   "detail": "大塚商会は2026年9月14日、AIエージェントサービス「たよれーる ビジネスAIエージェント」にオンプレミス環境のデータベースと連携する機能を追加し提供を開始した。販売データを分析する「販売分析エージェント」と営業活動を分析する「営業支援エージェント」の2種類を提供し、提供開始から12か月間の販売目標は60社としている。作業時間削減率などの導入効果は未発表。",
+   "numbers": [
+    "12か月間の販売目標60社"
+   ],
+   "source_url": "https://prtimes.jp/main/html/rd/p/000001268.000009712.html",
+   "source_title": "PR TIMES（大塚商会）",
+   "published": "2026-09-14",
+   "importance": 1,
+   "first_seen": "2026-09-15",
+   "aired": [
+    "2026-09-15"
+   ]
+  },
+  {
+   "id": "63ad5e06a812",
+   "theme": "genai",
+   "headline": "NTTデータ系フォーティエンス、AI実行環境の設計支援を開始",
+   "detail": "NTTデータグループのフォーティエンスコンサルティングは2026年9月14日、生成AI・AIエージェント向けの「AI実行環境のアーキテクチャ設計・導入支援サービス」の提供を開始した。ユースケースの具体化からセキュリティ・システム連携設計、導入計画策定、実装支援、運用定着支援までを、顧客現場に入り込むFDE型コンサルタントが支援する。料金や導入社数、効果の定量値は確認できない。",
+   "numbers": [],
+   "source_url": "https://prtimes.jp/main/html/rd/p/000000126.000043765.html",
+   "source_title": "PR TIMES（フォーティエンスコンサルティング）",
+   "published": "2026-09-14",
+   "importance": 1,
+   "first_seen": "2026-09-15",
+   "aired": [
+    "2026-09-15"
+   ]
   }
  ]
 }
