@@ -3929,6 +3929,98 @@
    "aired": [
     "2026-09-15"
    ]
+  },
+  {
+   "id": "f391730d6272",
+   "theme": "world_fisheries",
+   "headline": "米Kingfish社メイン州陸上養殖計画、資金難で最低1年保留",
+   "detail": "The Kingfish Companyが米国メイン州ジョーンズポートで計画する年間約8,500メトリックトン規模のイエローテール・キングフィッシュ陸上養殖施設について、法的・商業的・資金調達上の条件が改善するまで建設を開始しない方針が示された。現地報道では少なくとも1年間は着工しない見込みとされ、直近の株式募集では目標約480万米ドルに対し調達額は約280万米ドルと目標の60％未満にとどまった。メイン州環境当局の排水許可更新判断も残っており、事業開始時期は不透明な状況にある。",
+   "numbers": [
+    "計画生産量約8,500トン/年",
+    "目標調達額約480万ドル",
+    "実調達額約280万ドル(目標の60%未満)"
+   ],
+   "source_url": "https://www.bangordailynews.com/2026/09/04/down-east/downeast-business/kingfish-aquaculture-jonesport-on-indefinite-hold/",
+   "source_title": "Bangor Daily News",
+   "published": "2026-09-04",
+   "importance": 3,
+   "first_seen": "2026-09-16",
+   "aired": [
+    "2026-09-16"
+   ]
+  },
+  {
+   "id": "819dbe1c8a03",
+   "theme": "genai",
+   "headline": "Google、リアルタイム音声対話AI「Gemini 3.8 Live」発表",
+   "detail": "Googleは2026年9月15日、リアルタイム音声対話向けモデル「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」を発表した。両モデルは会話しながらバックグラウンドでAPI・ツールを呼び出す非同期ファンクションコールに対応し、ライブ映像を文脈として扱う機能や97言語以上への対応を備える。Live APIの価格は音声入力が1分0.005米ドル、音声出力が1分0.018米ドルで、Google AI Studioなどで提供が始まった。",
+   "numbers": [
+    "対応言語97言語以上",
+    "音声入力0.005ドル/分",
+    "音声出力0.018ドル/分"
+   ],
+   "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+   "source_title": "Google Blog",
+   "published": "2026-09-15",
+   "importance": 2,
+   "first_seen": "2026-09-16",
+   "aired": [
+    "2026-09-16"
+   ]
+  },
+  {
+   "id": "9e13de067db1",
+   "theme": "genai",
+   "headline": "Meta、SNS横断のAIサブスク「Meta One」を発表",
+   "detail": "Metaは2026年9月15日、Instagram、Facebook、WhatsApp、Meta AIを横断するサブスクリプション「Meta One」を発表した。開始時点で50以上の機能を提供し、画像・動画生成や編集、音声効果などの利用量が増える。価格は単体サービスが月額2.99米ドルから、法人・クリエイター向け上位プランは月額149〜499米ドルまで幅がある。WhatsApp上の顧客対応AIエージェント機能も含まれる。",
+   "numbers": [
+    "単体サービス月額2.99ドルから",
+    "Premium月額19.99ドル",
+    "Max月額499ドルから"
+   ],
+   "source_url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/",
+   "source_title": "Meta Newsroom",
+   "published": "2026-09-15",
+   "importance": 2,
+   "first_seen": "2026-09-16",
+   "aired": [
+    "2026-09-16"
+   ]
+  },
+  {
+   "id": "1f1657d77ff9",
+   "theme": "genai",
+   "headline": "経産省、AI開発・提供・利用の課題事例募集を開始",
+   "detail": "経済産業省は2026年9月14日付で、AIの開発・提供・利用の現場における課題に関する事例募集を告知した。募集対象や提出期限、今後の制度化との関係など詳細は公開情報からは確認できていない。新規規制や罰則の導入を直ちに意味するものではなく、今後のガイドラインや政策検討に向けた情報収集とみられる。",
+   "numbers": [],
+   "source_url": "https://www.meti.go.jp/press/2026/09/20260914001.html",
+   "source_title": "経済産業省",
+   "published": "2026-09-14",
+   "importance": 1,
+   "first_seen": "2026-09-16",
+   "aired": [
+    "2026-09-16"
+   ]
+  },
+  {
+   "id": "35057f7b3da5",
+   "theme": "education",
+   "headline": "UNICEF調査、世界の子ども約2000万人がAI利用と推計",
+   "detail": "UNICEF関連の2026年調査では、10か国のデータに基づき、少なくとも2,000万人の子どもがAIを使ったと推計された。このうち1,300万人が学校課題・宿題への利用を報告し、約200万人が不安や悩みの相談にAIを使ったとされる。ただし幼児・小学生だけの数値ではなく、AI利用が発達・学力・情緒に与える長期的影響についてはまだ証拠が形成途上だとされている。",
+   "numbers": [
+    "AI利用の子ども約2,000万人",
+    "学校課題利用1,300万人",
+    "悩み相談利用約200万人",
+    "対象10カ国"
+   ],
+   "source_url": "https://news.un.org/en/story/2026/06/1167841",
+   "source_title": "UN News（UNICEF関連調査）",
+   "published": "2026-06-01",
+   "importance": 3,
+   "first_seen": "2026-09-16",
+   "aired": [
+    "2026-09-16"
+   ]
   }
  ]
 }

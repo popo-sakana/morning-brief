@@ -1,5 +1,44 @@
 [
   {
+    "id": "260916_morningbrief_v1_AI",
+    "title": "9月16日のブリーフ",
+    "published_at": "2026-09-16T05:14:33+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260916_morningbrief_v1_AI/260916_morningbrief_v1_AI.mp3",
+    "duration_sec": 1233,
+    "bytes": 5129103,
+    "summary": "・メイン州の陸上養殖施設、建設開始が少なくとも1年先送りの見通し<br>・Google、音声対話AI「Gemini 3.8 Live」を発表<br>・国連関連調査、子どものAI利用について2026年推計公表",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 31.3
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 203.8
+      },
+      {
+        "section": "genai",
+        "start_sec": 475.1
+      },
+      {
+        "section": "education",
+        "start_sec": 806.6
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1037.7
+      },
+      {
+        "section": "closing",
+        "start_sec": 1224.3
+      }
+    ]
+  },
+  {
     "id": "260915_morningbrief_v1_AI",
     "title": "9月15日のブリーフ",
     "published_at": "2026-09-15T05:14:20+09:00",

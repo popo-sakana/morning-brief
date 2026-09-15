@@ -1,0 +1,725 @@
+{
+  "segments": [
+    {
+      "id": "world_fisheries",
+      "title": "世界の水産",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "世界の水産、始めていきましょう。今日はアメリカの陸上養殖の話題ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。アメリカのメイン州で計画されていた陸上養殖施設が、少なくとも1年は建設を始めない見通しになったという話です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "陸上養殖というのは、海ではなく陸の施設で魚を育てる方法のことですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。海の生け簀ではなく、陸上のタンクの中で水をコントロールしながら魚を育てる仕組みです。天候や海の環境に左右されにくいのが特徴とされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今回話題になっているのは、どんな会社の計画なんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "アメリカのキングフィッシュカンパニーという会社です。メイン州のジョーンズポートという場所で、大きな陸上養殖施設を計画していました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "育てる魚の種類は何なんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "イエローテール・キングフィッシュという魚です。ブリの仲間で、寿司や刺身向けの高級魚として知られています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "規模はどれくらいの計画だったんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "年間で約8500メトリックトンの生産を見込む計画でした。かなり大きな規模の施設だったと言えます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "8500トンというと、ピンとこないんですが、大きい数字なんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "陸上養殖の一施設としては大規模な部類に入ります。それだけに、建設や運営には相応の資金が必要になります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "それで、今回はなぜ着工が保留になったんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "現地の報道によりますと、法的、商業的、それから資金調達上の条件が改善するまでは、建設を始めないという方針が示されたということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "資金調達がうまくいかなかった、ということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "直近の株式募集の結果を見ると、そのように見えます。目標は約480万米ドルでしたが、実際に集まったのは約280万米ドルでした。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "目標に対して、どれくらいの達成率だったんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "目標の60パーセントに届かない水準です。つまり、計画していた資金の半分から6割程度しか集まらなかったということになります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "それは、事業にとってはかなり厳しい結果ということですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そう言えると思います。大規模な施設を建てるには相応の初期投資が必要ですから、目標を大きく下回ったことは着工判断に影響したとみられます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "資金以外にも、着工を止めている理由はあるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。メイン州の環境当局による排水許可の更新判断が、まだ残っているという点も挙げられています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "排水許可というのは、施設から出る水を処理して流すための許可、ということでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その理解でよいと思います。陸上養殖では大量の水を使いますので、排水をどう管理するかについて、行政の許可が必要になります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "それがまだ決まっていない、ということなんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。資金面と許認可の両方に不透明さが残っている状態で、事業の開始時期はまだ見通せない状況にあるということです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今回の件で、少なくとも1年は着工しない、という見方が出ているんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。現地報道ではそのように伝えられています。ただ、これは今の時点での見通しであって、今後の状況次第で変わり得るものです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "陸上養殖という技術自体は注目されている分野だと思うんですが、今回のようなケースは何を示しているんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "断定はできませんが、大規模な陸上養殖の計画を実際に形にするには、資金調達や許認可など、いくつもの条件をクリアする必要があるということを示す事例だと言えそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "計画は大きく見えても、実際に動かすまでには時間がかかる、ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。今回の件も、目標の480万ドルに対して280万ドルという結果が、事業の進み方に直接影響したと見られています。今後の動向を見ていく必要がありそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "続報が入ったら、またこのコーナーで取り上げたいと思います。ありがとうございました。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ありがとうございました。"
+        }
+      ]
+    },
+    {
+      "id": "genai",
+      "title": "生成AIの重大ニュース",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "生成AIの重大ニュース、今日は3つのニュースをお届けします。まずはGoogleの新しい音声AIからです。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。Googleが2026年9月15日に、リアルタイムで音声対話ができるAIモデル「Gemini 3.8 Live」を発表しました。あわせて、より深く考える機能を持つ「Gemini 3.8 Live Extended Thinking」も出ています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "リアルタイムで音声対話というと、電話みたいに話しかけたらすぐ答えてくれるということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。しかも会話をしながら、裏側で別のアプリやサービスを呼び出す仕組みにも対応しています。これを非同期ファンクションコールと呼びます。会話を止めずに調べ物や予約などの処理を進められる、という意味です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "会話しながら裏で作業が進むのは便利そうですね。ほかにはどんな機能があるんでしょう。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ライブ映像をそのまま文脈として理解する機能もあります。カメラに映っているものを見ながら会話できる、というイメージです。対応言語は97言語以上とされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "97言語以上というのは、かなり多いんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、世界の主要言語をほぼ網羅する数と言えます。日本語を含め、多くの言語で音声のやり取りが自然にできるようになる、という見方が出ています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "気になるのは値段です。使うとどのくらいかかるんですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "料金はGoogle AI Studioなどで公開されていて、音声入力が1分あたり0.005米ドル、音声出力が1分あたり0.018米ドルです。日本円でいうと1分1円未満から数円程度になります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "1分1円未満というのは、かなり安く感じますね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。開発者にとっては、音声対話を使ったサービスを試しやすい価格設定と言えそうです。ただし利用量が増えれば積み重なりますので、その点は注意が必要です。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "音声で自然に会話できるAIが、また一歩進んだということですね。次のニュースをお願いします。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "次はMetaです。2026年9月15日に、InstagramやFacebook、WhatsApp、Meta AIを横断して使えるサブスクリプション、「Meta One」を発表しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "横断して使えるというのは、どのサービスでも同じAI機能が使えるということですか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。開始時点で50以上の機能が用意されていて、画像や動画の生成、編集、音声の効果といった機能を、複数のアプリをまたいで使えるようになります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "50以上というのは、思ったより多い印象です。値段はどのくらいなんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "単体サービスは月額2.99米ドルからです。上位プランのPremiumは月額19.99ドル、Maxは月額499ドルからとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "499ドルからというのは、かなり高いプランですね。個人向けというより、企業向けなんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そのとおりです。法人やクリエイター向けの上位プランは、月額149ドルから499ドルまで幅があるとされています。利用量が多い事業者向けの価格帯とみられます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "WhatsAppでの顧客対応にもAIが使われるという話もありましたよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい、WhatsApp上で顧客対応を行うAIエージェント機能も、このMeta Oneに含まれています。企業がお客さんとのやり取りを自動化する用途を想定しているようです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "普段使っているSNSの裏側に、こういう仕組みが広がっていくんですね。最後のニュースをお願いします。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "最後は日本の経済産業省の動きです。2026年9月14日付で、AIの開発や提供、利用の現場でどんな課題があるか、事例を募集すると告知しました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "事例募集というのは、具体的に何をするものなんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "募集対象や提出の期限、この先の制度づくりとどうつながるかといった詳細は、今のところ公開情報からは確認できていません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "これは新しい規制や罰則が始まる、ということなんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "いえ、そうとは言い切れません。新しい規制や罰則の導入をすぐに意味するものではなく、今後のガイドラインや政策を考えるための情報集めとみられます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "つまり、いきなり何かが変わるわけではないけれど、今後の動きの手がかりにはなる、ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。AIを開発したり使ったりする側にとって、現場の困りごとが今後の制度づくりに反映されるかもしれない、その入り口になる話だと言えそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今日は音声対話AIの新モデル、SNS横断のAIサブスク、そして日本の制度づくりに向けた動き、3つをお伝えしました。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。使う場面での便利さの話と、企業や国の制度の話、両方が同時に動いている一日だったと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "以上、生成AIの重大ニュースでした。"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "title": "AI時代の教育トレンド",
+      "turns": [
+        {
+          "speaker": "navigator",
+          "text": "続いてのコーナーは「AI時代の教育トレンド」です。今日はユニセフ関連の調査を取り上げます。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。国連のニュースサイトが伝えたユニセフ関連の2026年の調査で、子どものAI利用について推計が出ました。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "どれくらいの子どもがAIを使っているという話なんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "10か国のデータをもとに、少なくとも約2000万人の子どもがAIを使ったと推計されています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "2000万人ですか。かなり大きな数字に聞こえますが。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "10か国分の合計としては大きい数字です。ただし世界全体の子どもの数から見た割合は、この調査だけでは分かりません。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "なるほど、あくまで10か国の調査という前提なんですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうです。しかも幼児や小学生だけを対象にした数字ではない、という点も押さえておく必要があります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "内訳のようなものはあるんですか。使い道が気になります。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。このうち1300万人が、学校の課題や宿題にAIを使ったと報告しています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "1300万人。2000万人のうちの多くが宿題に使っているということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "単純に割ると2000万人のうちおよそ6割から7割が、宿題利用を報告している計算になります。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "宿題にAIを使うというのは、具体的にどんな場面を指すんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこまでの詳しい内訳は、この調査の中では示されていません。使い方の中身は今後の課題だと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "そうなんですね。もう一つ気になる数字があったと思うんですが。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。約200万人が、不安や悩みの相談にAIを使ったとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "悩みの相談にAI、というのは少し驚きです。学校の勉強とは違う使われ方ですよね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。2000万人全体から見るとおよそ1割ですが、学習以外の目的でも使われている、という点は注目されます。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "こうした数字が出てきた背景には、何があるんでしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そこはこの記事の範囲では詳しく説明されていません。AIを使える端末やサービスが広がっている、という程度の理解にとどめておきたいと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "推測で理由づけしない方がいい、ということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。数字は数字として受け止めて、原因については今後の調査を待つ姿勢が大事だと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "この調査から、聞いている私たちが受け取っておくべきことは何でしょうか。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "子どものAI利用が、宿題だけでなく心の相談にまで広がっている、という現状を知っておくことだと思います。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "保護者や学校としては、少し気になる話ですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "そうですね。ただ、AI利用が発達や学力、情緒にどう影響するかは、まだ証拠が形成途上だとされています。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "つまり、良い影響か悪い影響かは、まだはっきり分かっていないということですね。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "その通りです。長期的な影響については、これから研究が積み重なっていく段階だと理解しておくのがよさそうです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "今日の時点では、断定的なことは言えない、と。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "はい。2000万人、1300万人、約200万人という数字を押さえつつ、今後の続報を注視したいところです。"
+        },
+        {
+          "speaker": "navigator",
+          "text": "分かりました。子どものAI利用については、引き続きこの番組でも追っていきたいと思います。"
+        },
+        {
+          "speaker": "analyst",
+          "text": "ぜひそうしましょう。今日はユニセフ関連調査の数字から、教育とAIの関わりについてお伝えしました。"
+        }
+      ]
+    }
+  ],
+  "verification": {
+    "title": "大きな流れ",
+    "turns": [
+      {
+        "speaker": "analyst",
+        "text": "今日の切り口はこうです。同じ会社の中でも、資金は集まるのに、工場の着工は先送りになる。分岐は会社の外だけでなく、中でも起きているということです。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。オランダの陸上養殖会社、キングフィッシュ・カンパニーが今日の主な材料です。まず追い風から話します。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "2026年9月10日ごろ、追加の株式募集で4427万2359株を発行し、約2670万ノルウェークローネを調達したと報じられました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そう見えます。加えて2026年上半期の売上高は1980万ユーロで前年同期比16%増、販売量も1470メトリックトンで13%増でした。事業自体は伸びています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。ただ同じ会社が、アメリカ・メイン州ジョーンズポートで計画していた年間約8500メトリックトンの陸上養殖施設について、条件が改善するまで着工しないと2026年9月4日に報じられました。少なくとも1年は動かない見込みです。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "ここが今日の要点です。既存の生産と販売は伸びていますが、需要地の近くに新しく作る投資は足踏みしています。近くで作る方向の勢いが、少し鈍った形です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "その通りです。別の説明もつきます。一つの新設計画が延期になっただけで、既存施設の売上は伸びているので、会社としては選別投資をしているだけとも読めます。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "その通りです。ここで少し立ち止まりたいのですが、この解釈以外に説明はつかないんでしょうか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "例えば単純に建設コストや資材価格が一時的に高いだけ、という可能性もあります。条件が改善すればという言い方自体が、それを示しています。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "この会社が今後、資金調達を続けながらも新設計画そのものを撤回したり、既存施設の増強も止めたりすれば、需要地生産全体の失速と見てよくなります。逆に着工が再開されれば、今回は一時停止だったと分かります。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうです。これまで積み上がってきた材料は、遠くへ運ぶ方向と近くで作る方向、どちらも支持材料がありました。今日はその中の一社の動きが、少しだけ慎重さの方向に振れたという程度です。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。輸出を伸ばすのか、現地生産に投資するのか、この論点は引き続き両方の材料を並べて見ていきます。"
+      }
+    ]
+  },
+  "discussion": {
+    "title": "きょうの論点",
+    "turns": [
+      {
+        "speaker": "navigator",
+        "text": "それでは最後のコーナー、きょうの論点です。今日は世界の水産、生成AI、教育トレンドの3つを振り返ります。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "はい。今日はまず陸上養殖の話から、popoさんの仕事につながりそうな部分を見ていきたいと思います。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "アメリカのキングフィッシュカンパニーが計画していた陸上養殖施設が、少なくとも1年は建設着手が遅れる見通しでしたね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "育てる予定だったのはイエローテール・キングフィッシュ、ブリの仲間です。ここが鹿児島のぶり類養殖と重なる点です。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "同じブリの仲間でも、海の生け簀と陸上のタンクでは競争相手としての意味合いが違うんでしょうか。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "陸上養殖は天候や海況に左右されにくいとされます。ただ今回は計画が遅れたわけで、簡単に立ち上がる話ではないという見方もできます。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "鹿児島の海面養殖にとっては、脅威というより参考事例として見ておく話、ということですね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そう捉えられそうです。輸出戦略を考える上でも、海外の同じ魚種の動きは追っておく価値があると思います。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "続いて生成AIです。Googleのリアルタイム音声AI、Gemini 3.8 Liveが発表されました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "特徴は会話をしながら裏で別の作業を呼び出せる仕組みです。会話を止めずに調べ物や予約を進められる、という意味です。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "これはpopoさんのような一人コンサルタントの業務の仕組み化にも関係しそうですね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "話しながら資料を調べたり書類の下準備が進むとすれば、補助金申請支援のような作業にも応用できる可能性があります。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "ライブ映像を見ながら会話できる機能もあるという話でした。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "現場の映像を見せながら相談する、という使い方が広がる可能性はあります。ただ実際の業務でどこまで使えるかはこれからです。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "最後は教育トレンドです。ユニセフ関連の調査で、10か国で少なくとも約2000万人の子どもがAIを使ったと推計されていました。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "この数字は幼児や小学生に限った話ではありません。ただ、子どもがAIに触れる機会が広がっている流れは見て取れます。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "popoさんには生まれたばかりのお子さんがいます。10年後、20年後を考えると気になる話ですね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "今日のニュースのGemini 3.8 Liveのような音声AIが、この先の子ども世代にとって当たり前の道具になる可能性があります。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "AIと話しながら学ぶことが自然になった世代が、10年後には仕事に入ってくるということですね。"
+      },
+      {
+        "speaker": "analyst",
+        "text": "そうなれば、業務の仕組み化にAIを使うことへの抵抗感も、今より薄い世代が増えていくという見方もできます。"
+      },
+      {
+        "speaker": "navigator",
+        "text": "水産の現場、AIの技術、そして次の世代の教育、それぞれ違う話ですが、じわりとつながっていく気がします。今日はここまでです。"
+      }
+    ]
+  },
+  "opening": [
+    {
+      "speaker": "navigator",
+      "text": "皆さん、こんにちは。2026年9月16日の音声ニュースをお届けします。今日は3つの話題です。まず世界の水産では、アメリカで計画されていた陸上養殖施設の建設見通しについて。次に生成AIでは、Googleが発表した新しい音声対話AIモデルについて。そして教育では、子どものAI利用に関する国連関連の調査について、順番にお伝えしていきます。"
+    }
+  ],
+  "closing": [
+    {
+      "speaker": "navigator",
+      "text": "以上、今日の音声ニュースでした。詳しい台本と出典は番組ページに掲載しています。ぜひそちらもご覧ください。"
+    }
+  ],
+  "highlights": [
+    "メイン州の陸上養殖施設、建設開始が少なくとも1年先送りの見通し",
+    "Google、音声対話AI「Gemini 3.8 Live」を発表",
+    "国連関連調査、子どものAI利用について2026年推計公表"
+  ],
+  "requests": "",
+  "hypothesis_checks": [
+    {
+      "id": "L-2",
+      "theme": "world_fisheries",
+      "statement": "水産物の流通は、鮮度を遠くへ運ぶ方向と、需要地の近くで作って加工する方向へ分岐している。",
+      "before": 0.948,
+      "after": 0.901,
+      "evidence_today": [
+        {
+          "relation": "support",
+          "claim": "The Kingfish Companyは2026年9月10日ごろ、追加株式募集で4,427万2,359株を発行し約2,670万ノルウェークローネを調達したと報じられた。",
+          "source_url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/4461522/kingfish-company-raises-nok-26-7-million-in-subsequent-share-offering/",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "The Kingfish Companyは米国メイン州ジョーンズポートで計画する年間約8,500メトリックトンの陸上養殖施設について、条件が改善するまで建設を開始しない方針を示し、少なくとも1年間は着工しない見込みと2026年9月4日に報じられた。",
+          "source_url": "https://www.bangordailynews.com/2026/09/04/down-east/downeast-business/kingfish-aquaculture-jonesport-on-indefinite-hold/",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "The Kingfish Companyの2026年上期売上高は1,980万ユーロ（前年同期比16%増）、販売量は1,470メトリックトン（前年同期比13%増）だった。",
+          "source_url": "https://insights.tridge.com/speaker-product-news-reports/KJLyFXpzJzgKuB1Gqsm5QUKHGgR43AVdqLJmbTsCS21cFz5g2va9wtv8",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "ゼネラル・オイスターは2024年5月22日、カキの陸上養殖事業を行う子会社ジーオー・ファームの株式を譲渡し、陸上養殖事業から撤退する方針を決定した。",
+          "source_url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20240522/20240522504139.pdf",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "AquaBounty Technologiesは2024年12月11日、カナダ・プリンスエドワード島Bay Fortune施設の運営を終了し、陸上養殖事業を停止すると発表した。",
+          "source_url": "https://investors.aquabounty.com/news-releases/news-release-details/aquabounty-announces-plans-cease-fish-farming-operations",
+          "origin": "normal"
+        },
+        {
+          "relation": "contradict",
+          "claim": "NOAAの2024年資料によると、アラスカでは2024年にTrident SeafoodsやOBI Seafoodsなど複数の水産加工施設が売却・閉鎖・操業停止となった。",
+          "source_url": "https://www.fisheries.noaa.gov/s3/2024-10/ak-seafood-industry-snapshot-10-31-2024-afsc.pdf",
+          "origin": "normal"
+        },
+        {
+          "relation": "support",
+          "claim": "国土交通省の分析では、日本発の航空輸出における生鮮魚介類の輸出量・輸出額は過去10年間で拡大傾向にあり、2019年の成田国際空港発の農林水産品航空輸出では生鮮魚介類が75.1%を占めた。",
+          "source_url": "https://www.mlit.go.jp/pri/kikanshi/pdf/2021/79_3.pdf",
+          "origin": "normal"
+        }
+      ],
+      "support": 3,
+      "contradict": 4,
+      "falsifier_hits": [
+        "The Kingfish Companyは米国メイン州ジョーンズポートで計画する年間約8,500メトリックトンの陸上養殖施設について、条件が改善するまで建設を開始しない方針を示し、少なくとも1年間は着工しない見込みと2026年9月4日に報じられた。（陸上養殖施設の建設を無期限延期し着工しない方針）",
+        "ゼネラル・オイスターは2024年5月22日、カキの陸上養殖事業を行う子会社ジーオー・ファームの株式を譲渡し、陸上養殖事業から撤退する方針を決定した。（陸上養殖事業から撤退する方針を決定）",
+        "AquaBounty Technologiesは2024年12月11日、カナダ・プリンスエドワード島Bay Fortune施設の運営を終了し、陸上養殖事業を停止すると発表した。（陸上養殖事業を停止すると発表）",
+        "NOAAの2024年資料によると、アラスカでは2024年にTrident SeafoodsやOBI Seafoodsなど複数の水産加工施設が売却・閉鎖・操業停止となった。（水産加工施設が売却・閉鎖・操業停止となった）"
+      ],
+      "status": "active",
+      "moved": null,
+      "already_said": [
+        "スペインのAlicante Aquacultureは、greater amberjackの陸上RAS商業生産を開始し、初期生産能力を年間600トン、将来900トンとしている。",
+        "インドネシアとオーストラリアは、インドネシアの数百の村を対象にミニ再循環式養殖システムを約4万台展開する計画があると2026年9月4日付で報じられた。",
+        "水産庁の令和4年度陸上養殖実態調査（2023年3月公表）では、調査対象のうち9事業者が休止・撤退していた。",
+        "ノルウェーの2026年8月の水産物輸出額は160億ノルウェークローネで前年同月比14%増となり、過去最高を記録した。"
+      ],
+      "axis": "流通",
+      "falsifier_texts": [
+        "長距離の生鮮輸送（航空・活魚）が拡大し、需要地生産は伸びていない",
+        "陸上養殖や現地加工の事業が採算割れで撤退・縮小している"
+      ],
+      "decision_link": "輸出を伸ばすのか、現地生産・現地加工に投資するのか",
+      "stance": "支持する材料がかなり積み上がっている",
+      "shift": "今日の材料での動きはごくわずかです",
+      "on_air_count": 4
+    }
+  ],
+  "aired_items": [
+    {
+      "id": "f391730d6272",
+      "theme": "world_fisheries",
+      "headline": "米Kingfish社メイン州陸上養殖計画、資金難で最低1年保留",
+      "source_url": "https://www.bangordailynews.com/2026/09/04/down-east/downeast-business/kingfish-aquaculture-jonesport-on-indefinite-hold/",
+      "source_title": "Bangor Daily News",
+      "from_stock": false
+    },
+    {
+      "id": "819dbe1c8a03",
+      "theme": "genai",
+      "headline": "Google、リアルタイム音声対話AI「Gemini 3.8 Live」発表",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "source_title": "Google Blog",
+      "from_stock": false
+    },
+    {
+      "id": "9e13de067db1",
+      "theme": "genai",
+      "headline": "Meta、SNS横断のAIサブスク「Meta One」を発表",
+      "source_url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/",
+      "source_title": "Meta Newsroom",
+      "from_stock": false
+    },
+    {
+      "id": "1f1657d77ff9",
+      "theme": "genai",
+      "headline": "経産省、AI開発・提供・利用の課題事例募集を開始",
+      "source_url": "https://www.meti.go.jp/press/2026/09/20260914001.html",
+      "source_title": "経済産業省",
+      "from_stock": false
+    },
+    {
+      "id": "35057f7b3da5",
+      "theme": "education",
+      "headline": "UNICEF調査、世界の子ども約2000万人がAI利用と推計",
+      "source_url": "https://news.un.org/en/story/2026/06/1167841",
+      "source_title": "UN News（UNICEF関連調査）",
+      "from_stock": false
+    }
+  ],
+  "sources": [
+    {
+      "segment": "世界の水産",
+      "title": "Bangor Daily News",
+      "url": "https://www.bangordailynews.com/2026/09/04/down-east/downeast-business/kingfish-aquaculture-jonesport-on-indefinite-hold/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/"
+    },
+    {
+      "segment": "生成AIの重大ニュース",
+      "title": "経済産業省",
+      "url": "https://www.meti.go.jp/press/2026/09/20260914001.html"
+    },
+    {
+      "segment": "AI時代の教育トレンド",
+      "title": "UN News（UNICEF関連調査）",
+      "url": "https://news.un.org/en/story/2026/06/1167841"
+    }
+  ]
+}
