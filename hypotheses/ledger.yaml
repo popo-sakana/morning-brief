@@ -13,7 +13,7 @@ hypotheses:
   axis: 生産
   statement: 養殖の競争力の源泉が、規模と餌のコスト勝負から、種苗・育種と斃死率のコントロールへ移りつつある。
   created: '2026-08-27'
-  confidence: 0.945
+  confidence: 0.948
   status: active
   decision_link: 養殖案件で、飼料の置き換えと生残率の改善のどちらを提案の軸に置くか
   falsifiers:
@@ -202,8 +202,20 @@ hypotheses:
     source_url: https://www.fra.go.jp/home/kokaijoho/johoteikyo/files/R07_jikohyoka.pdf
     tier: 1
     origin: normal
+  - date: '2026-09-17'
+    relation: support
+    claim: 広島県が2026年9月16日時点で、養殖カキの「厳戒アラート」を広島湾北中部・西部・南部呉湾の3海域に拡大した。
+    source_url: https://www.fnn.jp/articles/-/1115660
+    tier: 2
+    origin: normal
+  - date: '2026-09-17'
+    relation: support
+    claim: 鳥取県江府町で廃校と地下水を活用したサーモン陸上養殖事業が2026年9月10日前後に開始され、稚魚1500匹を用いたイベントが行われた。
+    source_url: https://suisan-navi.jp/uncategorized/news-2026-week37/
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-15'
+    last_support: '2026-09-17'
     last_contradiction: '2026-09-10'
     last_on_air: '2026-09-06'
     on_air_count: 2
@@ -211,13 +223,13 @@ hypotheses:
     unfrozen: true
   review_note: FAOによるアジア6か国・計340養殖場調査（調査期間2005年10月15日～2006年2月14日、2007年公表）では、総生産費に占める餌料費が平均58.0%で稚魚・種苗費15.5%を大きく上回った。（餌料費が種苗費を大きく上回るとFAO調査が示す）
     / FAOの世界調査（2019年2月公表、回答期間2015年6月～2017年6月）では、92か国の回答のうち45%が遺伝的改良は養殖生産に「影響しなかった」または「影響は小さかった」と回答した。（45%が遺伝的改良は生産に影響小さいと回答）
-  _sustain: 11
+  _sustain: 12
 - id: L-2
   theme: world_fisheries
   axis: 流通
   statement: 水産物の流通は、鮮度を遠くへ運ぶ方向と、需要地の近くで作って加工する方向へ分岐している。
   created: '2026-08-27'
-  confidence: 0.901
+  confidence: 0.948
   status: active
   decision_link: 輸出を伸ばすのか、現地生産・現地加工に投資するのか
   falsifiers:
@@ -238,42 +250,6 @@ hypotheses:
   - neutral_query: 陸上養殖 商業生産 稼働 最新
   - neutral_query: 水産物 輸送 コールドチェーン 動向
   evidence:
-  - date: '2026-09-06'
-    relation: support
-    claim: Nordic Aqua Partnersは中国の陸上RASで、2026年第2四半期に1,362トンHOG、2026年上半期に2,133トンHOGのアトランティックサーモンを収穫したと発表した。
-    source_url: https://www.nordicaquapartners.com/en/news/nordic-aqua-partners-second-quarter-and-first-half-year-2026-results-demonstrating-operational-functionality-for-the-new-stage-2
-    tier: 1
-    origin: normal
-  - date: '2026-09-06'
-    relation: support
-    claim: 中国のアトランティックサーモン輸入量は2026年第2四半期に40,908トン（前年同期比25％増）、2026年上半期に87,459トン（前年同期比39％増）となった。
-    source_url: https://www.efeedlink.com/articles/nordic-aqua-posts-record-q2-harvest-as-china-salmon-imports-surge-and-stage-2-nears-completion
-    tier: 2
-    origin: normal
-  - date: '2026-09-06'
-    relation: support
-    claim: ノルウェーの2026年8月の水産物輸出額は160億ノルウェークローネで、前年同月比14％増となり8月として過去最高を記録した。
-    source_url: https://www.salmonbusiness.com/norwegian-salmon-exports-hit-record-e1-14-billion-in-august/
-    tier: 2
-    origin: normal
-  - date: '2026-09-06'
-    relation: support
-    claim: ノルウェーの2026年8月のサーモン輸出は数量153,602トン（前年同月比7％増）、輸出額123億ノルウェークローネ（前年同月比19％増）だった。
-    source_url: https://www.ssb.no/en/utenriksokonomi/utenrikshandel/statistikk/eksport-av-laks
-    tier: 1
-    origin: normal
-  - date: '2026-09-06'
-    relation: support
-    claim: 中国南方航空物流は、ノルウェーと中国を結ぶボーイング777F貨物機の新路線（週2便）を開始し、初便でノルウェー産冷蔵サーモン約100トンを上海へ輸送した。
-    source_url: http://en.sasac.gov.cn/2026/09/01/c_21030.htm
-    tier: 1
-    origin: normal
-  - date: '2026-09-07'
-    relation: support
-    claim: スペイン・アリカンテでAlicante Aquaculture社がカンパチ(greater amberjack)の陸上循環式養殖(RAS)による商業規模生産を開始し、初期生産能力は年間600トン、将来的に年間900トンへの拡張を計画している。
-    source_url: https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/
-    tier: 2
-    origin: normal
   - date: '2026-09-07'
     relation: support
     claim: Nordic Aqua Partnersは中国・寧波の陸上循環式養殖(RAS)によるタイセイヨウサーモン養殖場で第2段階設備を完成させ、年間生産能力を8,000トンに引き上げた。
@@ -489,18 +465,51 @@ hypotheses:
     tier: 1
     origin: normal
     aired: true
+  - date: '2026-09-17'
+    relation: support
+    claim: 鳥取県江府町で廃校と地下水を活用したサーモン陸上養殖事業が2026年9月10日前後に開始され、稚魚1500匹を用いたイベントが行われた。
+    source_url: https://suisan-navi.jp/uncategorized/news-2026-week37/
+    tier: 2
+    origin: normal
+  - date: '2026-09-17'
+    relation: support
+    claim: 農林水産省は2026年9月11日、陸上養殖など4領域を対象とするフードテック戦略推進グループを併任含め21人体制で設置した。
+    source_url: https://www.suikei.co.jp/
+    tier: 1
+    origin: normal
+  - date: '2026-09-17'
+    relation: support
+    claim: スペイン・アンダルシア州アルメリア県でカンパチの陸上孵化場建設が2026年9月に開始予定で、第1期投資額約1500万ユーロ、年間生産能力最大800万尾とされる。
+    source_url: https://www.mispeces.com/en/in-depth/Ocean-Aquaculture-begins-work-on-Spain-hatchery-designed-to-produce-eight-million-greater-amberjack-juveniles-a-year/
+    tier: 2
+    origin: normal
+  - date: '2026-09-17'
+    relation: contradict
+    claim: ノルウェーのNordic Kingfishは2025年のyellowtail収穫量584トンに対し、資産評価損により4億7100万ノルウェークローネの損失を計上した。
+    source_url: https://www.mispeces.com/en/news/
+    tier: 2
+    origin: normal
+  - date: '2026-09-17'
+    relation: support
+    claim: 中国寧波のNordic Aqua Partnersは2026年第2四半期に陸上サーモン養殖のPhase1・2合算でフル稼働水準に到達し、商業収穫量は1362トン(HOG)だった。
+    source_url: https://weareaquaculture.com/news/finance/nordic-aqua-full-production-run-rate-for-phases-12-combined
+    tier: 1
+    origin: normal
+  - date: '2026-09-17'
+    relation: support
+    claim: インドネシアの年間水産物生産量約1500万トンに対し、コールドチェーンで扱われているのは12%未満と2026年9月11日に報じられた。
+    source_url: https://www.tribunnews.com/bisnis/7881298/jaga-mutu-sektor-perikanan-didorong-manfaatkan-teknologi-rantai-dingin
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-16'
-    last_contradiction: '2026-09-16'
-    last_watch_hit: '2026-09-16'
+    last_support: '2026-09-17'
+    last_contradiction: '2026-09-17'
+    last_watch_hit: '2026-09-17'
     last_on_air: '2026-09-16'
     on_air_count: 4
     last_redteam: '2026-09-16'
-  _sustain: 17
-  review_note: The Kingfish Companyは米国メイン州ジョーンズポートで計画する年間約8,500メトリックトンの陸上養殖施設について、条件が改善するまで建設を開始しない方針を示し、少なくとも1年間は着工しない見込みと2026年9月4日に報じられた。（陸上養殖施設の建設を無期限延期し着工しない方針）
-    / ゼネラル・オイスターは2024年5月22日、カキの陸上養殖事業を行う子会社ジーオー・ファームの株式を譲渡し、陸上養殖事業から撤退する方針を決定した。（陸上養殖事業から撤退する方針を決定） /
-    AquaBounty Technologiesは2024年12月11日、カナダ・プリンスエドワード島Bay Fortune施設の運営を終了し、陸上養殖事業を停止すると発表した。（陸上養殖事業を停止すると発表）
-    / NOAAの2024年資料によると、アラスカでは2024年にTrident SeafoodsやOBI Seafoodsなど複数の水産加工施設が売却・閉鎖・操業停止となった。（水産加工施設が売却・閉鎖・操業停止となった）
+  _sustain: 18
+  review_note: ノルウェーのNordic Kingfishは2025年のyellowtail収穫量584トンに対し、資産評価損により4億7100万ノルウェークローネの損失を計上した。（陸上養殖企業が資産評価損で巨額損失を計上し採算悪化を示す）
 - id: L-3
   theme: jp_fisheries
   axis: 販売
@@ -703,12 +712,18 @@ hypotheses:
     source_url: https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/260804.html
     tier: 1
     origin: normal
+  - date: '2026-09-17'
+    relation: support
+    claim: ぶりの輸出額は2026年1~6月に前年同期比69.0%増、増加額は178億円だった。
+    source_url: https://www.maff.go.jp/j/shokusan/export/e_info/zisseki.html
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-16'
-    last_redteam: '2026-09-11'
+    last_support: '2026-09-17'
+    last_redteam: '2026-09-17'
     last_on_air: '2026-09-11'
     on_air_count: 2
-  _sustain: 14
+  _sustain: 15
 - id: L-4
   theme: world_fisheries
   axis: 横断
@@ -735,48 +750,6 @@ hypotheses:
   - neutral_query: 水産物 関税 規制 変更 最新
   - neutral_query: 水産 認証 要件 見直し
   evidence:
-  - date: '2026-09-05'
-    relation: support
-    claim: 水産庁は2026年8月24日、日本海北部系群スケソウダラのTAC配分を変更し、沖合底びき網漁業へ4,900トンを融通した。
-    source_url: https://www.suikei.co.jp/tag/shigenkanri
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-05'
-    relation: support
-    claim: カナダは2026年9月8日、米国産の生鮮・冷凍サーモンなど水産物に25%の報復関税を発動する。
-    source_url: https://www.salmonbusiness.com/tarrifs-canada-to-impose-25-tariff-on-us-salmon-from-8-september/
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-05'
-    relation: contradict
-    claim: 北海道東部太平洋沖のマイワシ漁は2026年6月の解禁以降、2026年9月時点でまき網・棒受網ともに水揚げがゼロの状態が続いている。
-    source_url: https://www.suikei.co.jp/cat/news/fishery
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-05'
-    relation: contradict
-    claim: 水産庁は2026年9月2日公表の2026年度資源評価で、マイワシ太平洋系群のABCが75%減少したとされた。
-    source_url: https://www.suikei.co.jp/cat/news/fishery
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-05'
-    relation: contradict
-    claim: 北海道のサンマ棒受網漁は2026年8月25日までの累計水揚量が836.4トンとなり、前年同期の2,048.6トンから59.1%減少した。
-    source_url: https://www.suikei.co.jp/archives/126711
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-05'
-    relation: contradict
-    claim: 北海道の2026年秋サケ来遊予測は365万尾で前年実績686万尾から47%減少し、定置網漁は2026年9月1日に開始された。
-    source_url: https://www.suikei.co.jp/cat/news/fishery
-    tier: 2
-    origin: normal
-    aired: true
   - date: '2026-09-05'
     relation: contradict
     claim: 2026年9月4日の豊洲市場では、ブリは鳥取産などが堅調だった一方、サンマは北海道産などが1～3割下落した。
@@ -987,15 +960,57 @@ hypotheses:
     source_url: https://gowlingwlg.com/en/insights-resources/articles/2026/canada-revises-retaliatory-tariff-list
     tier: 2
     origin: normal
+  - date: '2026-09-17'
+    relation: contradict
+    claim: 北海道日高・道東地方でクロマグロによる定置網被害が相次ぎ、修繕費用は1000万円規模と報道された。
+    source_url: https://suisan-navi.jp/uncategorized/news-2026-week37/
+    tier: 2
+    origin: normal
+    aired: true
+  - date: '2026-09-17'
+    relation: support
+    claim: 大型クロマグロの漁獲枠が前年から25%増枠されたと報道された。
+    source_url: https://suisan-navi.jp/uncategorized/news-2026-week37/
+    tier: 2
+    origin: normal
+    aired: true
+  - date: '2026-09-17'
+    relation: support
+    claim: IATTC年次会合(2026年8月31日~9月4日、リスボン)で太平洋東部クロマグロの2027~2028年漁獲上限が遊漁を含め15,479トンで合意された。
+    source_url: https://www.suikei.co.jp/tag/shigenkanri
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-17'
+    relation: support
+    claim: ロシアでは2026年9月1日から、水産業を含む輸送当事者に電子輸送送り状(E-TTN)が義務化された。
+    source_url: https://seafoodexporussia.com/en/businessprogram2026/
+    tier: 2
+    origin: normal
+    aired: true
+  - date: '2026-09-17'
+    relation: support
+    claim: EUはCommission Delegated Regulation(EU)2026/1304により2026年9月13日から一部の水産物関連品目の輸入要件を強化した。
+    source_url: https://arthurmarin.com/eu-import-requirements-dairy-fishery-products-molluscs/
+    tier: 1
+    origin: normal
+    aired: true
+  - date: '2026-09-17'
+    relation: support
+    claim: カナダは米国産水産物への25%対抗関税案から、関税分類第3章の254品目を対象リストから削除した。
+    source_url: https://gowlingwlg.com/en/insights-resources/articles/2026/canada-revises-retaliatory-tariff-list
+    tier: 2
+    origin: normal
+    aired: true
   ops:
-    last_support: '2026-09-16'
+    last_support: '2026-09-17'
     last_redteam: '2026-09-12'
-    last_contradiction: '2026-09-11'
-    last_watch_hit: '2026-09-11'
-    last_on_air: '2026-09-08'
-    on_air_count: 3
-  _sustain: 7
-  review_note: 水産庁は2026年度資源評価で、マイワシ太平洋系群のABCが前年比75%減少したと公表した。（ABC75%減は資源量評価に基づく変動で制度変更ではない）
+    last_contradiction: '2026-09-17'
+    last_watch_hit: '2026-09-17'
+    last_on_air: '2026-09-17'
+    on_air_count: 4
+  _sustain: 8
+  review_note: 北海道日高・道東地方でクロマグロによる定置網被害が相次ぎ、修繕費用は1000万円規模と報道された。（マグロ資源増加による定置網被害費用が資源要因の収益変動例）
 - id: L-5
   theme: genai
   axis: 横断
@@ -1021,12 +1036,6 @@ hypotheses:
   - neutral_query: 生成AI 業務導入 効果 実績
   - neutral_query: AI 責任 契約 規約 変更
   evidence:
-  - date: '2026-09-04'
-    relation: support
-    claim: デジタル庁が策定した「行政の進化と革新のための生成AIの調達・利活用に係るガイドライン（第2.0版）」は2026年9月1日から施行された。
-    source_url: https://www.digital.go.jp/resources/standard_guidelines
-    tier: 1
-    origin: normal
   - date: '2026-09-05'
     relation: support
     claim: PwC Japanが2026年2月12日～19日に実施した調査によると、日本企業の生成AI活用・推進度は87%で、前回調査から11ポイント上昇した。
@@ -1269,14 +1278,20 @@ hypotheses:
     source_url: https://www.ipa.go.jp/digital/chousa/dx-trend/rcu1hd0000017uk8-att/dx-trend-2026.pdf
     tier: 1
     origin: normal
+  - date: '2026-09-17'
+    relation: support
+    claim: Salesforceは2026年9月15日、NVIDIAのNemotron基盤を用いたCRM向け推論モデル「Koa」を発表し、米国での一般提供は2026年冬を予定している。
+    source_url: https://investor.salesforce.com/news/news-details/2026/Announcing-Koa-Salesforces-First-CRM-Reasoning-Model-Built-on-NVIDIA-Nemotron/default.aspx
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-16'
+    last_support: '2026-09-17'
     last_contradiction: '2026-09-13'
     last_watch_hit: '2026-09-13'
     last_redteam: '2026-09-13'
     last_on_air: '2026-09-13'
     on_air_count: 2
-  _sustain: 18
+  _sustain: 19
   review_note: Capgeminiなどによる22カ国・10業種・2,000人超対象の調査World Quality Report 2025では、生成AIで拡張された業務フローの試験導入・展開組織のうち52%がパイロット段階、エンタープライズ全体での実装達成は15%にとどまった。（52%がパイロット止まり、15%のみ全社実装と報告）
     / McKinsey & Companyが105カ国・地域の1,993人を対象に実施した調査では、回答企業の88%が少なくとも1つの業務機能でAIを定期利用している一方、AIプログラムを全社でスケールし始めた企業は約3分の1にとどまった。（全社スケール開始企業は約3分の1に留まると報告）
 - id: L-6
@@ -1284,7 +1299,7 @@ hypotheses:
   axis: 横断
   statement: 幼児から小学校段階のAI対応は、使わせ方の工夫より、使わせない時間をどう設計するかに寄りつつある。
   created: '2026-08-27'
-  confidence: 0.894
+  confidence: 0.948
   status: active
   decision_link: 家庭で、AIに触れさせる方針と触れさせない時間の設計のどちらを先に決めるか
   falsifiers:
@@ -1304,20 +1319,6 @@ hypotheses:
   - neutral_query: 幼児教育 スクリーンタイム 方針 最新
   - neutral_query: 小学校 生成AI 利用 ルール 各国
   evidence:
-  - date: '2026-09-07'
-    relation: contradict
-    claim: インド教育省は2025年10月30日、AIと計算論的思考を第3学年から基礎段階の教育に組み込み、2026〜2027年度から第3学年以上を対象にカリキュラムを導入する方針を公表した。
-    source_url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2184211&reg=3&lang=2
-    tier: 1
-    origin: normal
-    aired: true
-  - date: '2026-09-07'
-    relation: contradict
-    claim: フランス教育省は2025年6月14日、教育におけるAI利用の枠組みを公表し、第1学年からAIの基礎知識を学ぶ一方、教員監督下での生成AI利用は第4学年から授業で認めるとした。
-    source_url: https://www.education.gouv.fr/publication-du-cadre-d-usage-de-l-intelligence-artificielle-en-education-450652
-    tier: 1
-    origin: normal
-    aired: true
   - date: '2026-09-07'
     relation: contradict
     claim: 米国ワシントン州のワラワラ公立学校(生徒約5,500人)は2023年2月に学校端末でのChatGPT利用を遮断したが、家庭端末からの利用を防げず禁止措置が有効でないと判断し、教員向けAI研修を導入する方針に転換した。
@@ -1565,8 +1566,20 @@ hypotheses:
     source_url: https://news.un.org/en/story/2026/06/1167841
     tier: 1
     origin: normal
+  - date: '2026-09-17'
+    relation: support
+    claim: 米国ニューヨーク市教育局は2026~2027学年から、2K~8年生の生徒向け生成AI利用を禁止する方針を発表した。
+    source_url: https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence
+    tier: 1
+    origin: normal
+  - date: '2026-09-17'
+    relation: support
+    claim: ノルウェー政府は2026~2027学年から、1~7年生(概ね6~13歳)の学校での生成AI利用を原則不使用とする方針を示した。
+    source_url: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-16'
+    last_support: '2026-09-17'
     last_contradiction: '2026-09-16'
     unfrozen: true
     last_on_air: '2026-09-15'
@@ -1574,4 +1587,4 @@ hypotheses:
     last_watch_hit: '2026-09-16'
     last_redteam: '2026-09-14'
   review_note: ユネスコの調査によれば、政府承認のK-12向けAIカリキュラムを整備している国は11か国、開発中の国は4か国だった。（K-12向け政府承認AIカリキュラムを整備する国が11か国存在）
-  _sustain: 0
+  _sustain: 1

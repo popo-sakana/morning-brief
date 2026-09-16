@@ -1,5 +1,48 @@
 [
   {
+    "id": "260917_morningbrief_v1_AI",
+    "title": "9月17日のブリーフ",
+    "published_at": "2026-09-17T05:14:23+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260917_morningbrief_v1_AI/260917_morningbrief_v1_AI.mp3",
+    "duration_sec": 1566,
+    "bytes": 6530688,
+    "summary": "・広島県がカキ厳戒アラート対象海域を拡大と発表<br>・世界の水産はコールドチェーンが共通テーマ<br>・NSW州が公立校のスクリーン利用新方針を発表",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 32.0
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 217.1
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 501.0
+      },
+      {
+        "section": "genai",
+        "start_sec": 777.4
+      },
+      {
+        "section": "education",
+        "start_sec": 1091.4
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1309.1
+      },
+      {
+        "section": "closing",
+        "start_sec": 1557.5
+      }
+    ]
+  },
+  {
     "id": "260916_morningbrief_v1_AI",
     "title": "9月16日のブリーフ",
     "published_at": "2026-09-16T05:14:33+09:00",

@@ -4021,6 +4021,157 @@
    "aired": [
     "2026-09-16"
    ]
+  },
+  {
+   "id": "31a8d58cd546",
+   "theme": "jp_fisheries",
+   "headline": "広島かき「厳戒アラート」が3海域に拡大",
+   "detail": "広島県は2026年9月16日までに、養殖カキの大量死リスクが極めて高い「厳戒アラート」の対象海域を、広島湾北中部に加え西部、南部・呉湾にも拡大し計3海域とした。県は2026年度から県内15地点で海水温や酸素濃度を測定し情報発信しており、9月14〜15日の調査時点では顕著な大量死は確認されていない。前年シーズンも高水温・貧酸素によるカキ大量死が問題化しており、今季も生産初期の重要リスクとして注視されている。",
+   "numbers": [
+    "厳戒アラート対象3海域",
+    "観測15地点"
+   ],
+   "source_url": "https://www.fnn.jp/articles/-/1115660",
+   "source_title": "FNN",
+   "published": "2026-09-16",
+   "importance": 2,
+   "first_seen": "2026-09-17",
+   "aired": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "id": "bb9e0d3af892",
+   "theme": "world_fisheries",
+   "headline": "インドネシア、水産物コールドチェーン利用率12%未満",
+   "detail": "インドネシアでは年間水産物生産量が約1500万トンに達する一方、コールドチェーンで扱われているのは12%未満にとどまると、2026年9月11日に国会関係者が明らかにした。鮮度低下による価格下落や廃棄、食品安全リスク、輸出基準への不適合が課題として挙げられ、太陽光を活用した低炭素冷却技術の導入が提案されているが、導入規模や投資額は確認できていない。",
+   "numbers": [
+    "年間水産物生産量約1500万トン",
+    "コールドチェーン利用率12%未満"
+   ],
+   "source_url": "https://www.tribunnews.com/bisnis/7881298/jaga-mutu-sektor-perikanan-didorong-manfaatkan-teknologi-rantai-dingin",
+   "source_title": "Tribunnews",
+   "published": "2026-09-11",
+   "importance": 2,
+   "first_seen": "2026-09-17",
+   "aired": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "id": "35fe7f6f9742",
+   "theme": "world_fisheries",
+   "headline": "ロシア、水産業含む電子輸送送り状を9月1日から義務化",
+   "detail": "ロシアでは2026年9月1日から、水産業を含む輸送当事者に対し電子輸送送り状（E-TTN）の利用が義務化された。漁港での水揚げから小売チェーンや配送センターでの受け入れまで貨物情報を電子的に管理する制度とされる。コールドチェーンの温度データ自体が義務化対象かどうかは確認できていない。",
+   "numbers": [
+    "2026年9月1日義務化"
+   ],
+   "source_url": "https://seafoodexporussia.com/en/businessprogram2026/",
+   "source_title": "Seafood Expo Russia",
+   "published": "2026-09-01",
+   "importance": 1,
+   "first_seen": "2026-09-17",
+   "aired": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "id": "6255a0ea868a",
+   "theme": "genai",
+   "headline": "SalesforceとNVIDIA、CRM向け推論モデル「Koa」発表",
+   "detail": "Salesforceは2026年9月15日、NVIDIAのオープンモデル基盤Nemotronを基にしたCRM特化型推論モデル「Koa」を発表した。Agentforce向けで選定試験顧客への提供を開始し、米国での一般提供は2026年冬を予定する。追加学習したモデルの一部顧客向け提供は2026年10月からの計画。実運用での精度や料金、汎用モデルとの比較は確認できていない。",
+   "numbers": [],
+   "source_url": "https://investor.salesforce.com/news/news-details/2026/Announcing-Koa-Salesforces-First-CRM-Reasoning-Model-Built-on-NVIDIA-Nemotron/default.aspx",
+   "source_title": "Salesforce Investor Relations",
+   "published": "2026-09-15",
+   "importance": 1,
+   "first_seen": "2026-09-17",
+   "aired": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "id": "bf664f4e2fa8",
+   "theme": "genai",
+   "headline": "SalesforceとGoogle Cloud、企業向けAI基盤を統合",
+   "detail": "SalesforceとGoogle Cloudは2026年9月15日、クラウド・データ・AIエージェントを統合する提携拡大を発表した。SalesforceのHyperforceをGoogle Cloud上で提供し、両社のエージェントが同じデータを参照できる構成とする。北米での一般提供は2026年11月を予定し、一部米国顧客の移行は2026年第4四半期から始まる。導入効果の定量値は確認できていない。",
+   "numbers": [],
+   "source_url": "https://www.salesforce.com/news/stories/salesforce-google-cloud-unify-infrastructure-and-agents/",
+   "source_title": "Salesforce News",
+   "published": "2026-09-15",
+   "importance": 1,
+   "first_seen": "2026-09-17",
+   "aired": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "id": "0fa80497c253",
+   "theme": "genai",
+   "headline": "GitHub Copilot、コスト・品質・速度を選ぶ自動選択機能追加",
+   "detail": "GitHubは2026年9月、Copilotの自動モデル選択に「Efficiency」「Balance」「Intelligence」の3段階を追加した。開発者が応答速度・コスト・品質のどれを重視するか選べ、Copilotが利用可能なモデル群から自動選択する。Copilot Chatやインライン編集、エージェントモードなどに展開されているが、具体的な価格差やコスト削減効果は公式資料では示されていない。",
+   "numbers": [],
+   "source_url": "https://github.blog/changelog/month/09-2026/",
+   "source_title": "GitHub Changelog",
+   "published": "2026-09",
+   "importance": 2,
+   "first_seen": "2026-09-17",
+   "aired": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "id": "395a3657fcce",
+   "theme": "genai",
+   "headline": "SalesforceとSiemens、産業向けAIエージェント連携を発表",
+   "detail": "SalesforceとSiemensは2026年9月15日、AgentforceとSiemensのTeamcenter Service Lifecycle Managementを組み合わせ、営業・サービス業務にAIエージェントを組み込む提携を発表した。製品・設備の技術情報を営業やサービス担当者が直接利用できるようにする狙いだが、売上増や対応時間短縮などの実績値は示されていない。",
+   "numbers": [],
+   "source_url": "https://www.salesforce.com/news/press-releases/2026/09/15/siemens-agentforce-redefine-industrial-sales-service/",
+   "source_title": "Salesforce News",
+   "published": "2026-09-15",
+   "importance": 1,
+   "first_seen": "2026-09-17",
+   "aired": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "id": "53e4779378a4",
+   "theme": "genai",
+   "headline": "Adecco、SalesforceのAIエージェントを40カ国以上へ展開",
+   "detail": "Adecco Groupは2026年9月15日、Salesforceの「Agentforce Coworker」を40カ国以上、約27,000人の従業員に展開すると発表した。営業・採用・顧客対応などに利用し、2025年4月以降250万件超のエージェントと候補者のやり取りを蓄積したとしている。時間短縮率や採用成約率などの効果は発表資料では確認できていない。",
+   "numbers": [
+    "対象従業員約27000人",
+    "40カ国以上",
+    "累計250万件超のやり取り"
+   ],
+   "source_url": "https://www.salesforce.com/news/linked-content/adecco-group-announces-salesforces-agentforce-coworker-rollout-across-40-countries/",
+   "source_title": "Salesforce News",
+   "published": "2026-09-15",
+   "importance": 1,
+   "first_seen": "2026-09-17",
+   "aired": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "id": "a2ccb6bb1659",
+   "theme": "education",
+   "headline": "豪NSW州、公立校のスクリーン時間を2027年から段階制限",
+   "detail": "オーストラリア・ニューサウスウェールズ州政府は、公立学校の学習時のスクリーン利用について2027年から推奨、2028年から義務化する方針を発表した。就学前施設は個人端末なし、Kindergarten〜Year2は1日15分以内、Year3〜4は30分以内、Year5〜6は45分以内などと学年別に上限を設定し、1日最低1時間はペンと紙を使う学習を推奨する。",
+   "numbers": [
+    "Kindergarten〜Year2:15分以内",
+    "Year3〜4:30分以内",
+    "Year5〜6:45分以内"
+   ],
+   "source_url": "https://www.nsw.gov.au/ministerial-releases/screentime-limited-from-next-year",
+   "source_title": "NSW Government",
+   "published": "2026-09",
+   "importance": 2,
+   "first_seen": "2026-09-17",
+   "aired": [
+    "2026-09-17"
+   ]
   }
  ]
 }
