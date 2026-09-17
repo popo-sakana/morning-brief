@@ -1,5 +1,48 @@
 [
   {
+    "id": "260918_morningbrief_v1_AI",
+    "title": "9月18日のブリーフ",
+    "published_at": "2026-09-18T05:14:07+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260918_morningbrief_v1_AI/260918_morningbrief_v1_AI.mp3",
+    "duration_sec": 1613,
+    "bytes": 6705123,
+    "summary": "・水産機構がブリ人工種苗の有償供給を推進<br>・世界の水産は陸上養殖と関税物流が焦点<br>・アンソロピックが生命科学向け新制度導入",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 39.1
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 184.5
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 517.3
+      },
+      {
+        "section": "genai",
+        "start_sec": 917.6
+      },
+      {
+        "section": "education",
+        "start_sec": 1234.6
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1510.2
+      },
+      {
+        "section": "closing",
+        "start_sec": 1602.0
+      }
+    ]
+  },
+  {
     "id": "260917_morningbrief_v1_AI",
     "title": "9月17日のブリーフ",
     "published_at": "2026-09-17T05:14:23+09:00",

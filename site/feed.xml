@@ -7,11 +7,21 @@
     <link>https://popo-sakana.github.io/morning-brief/</link>
     <description>水産・生成AI・教育の4テーマを毎朝30分で</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:32:49 +0000</lastBuildDate>
     <itunes:author>popo</itunes:author>
     <itunes:summary>水産・生成AI・教育の4テーマを毎朝30分で</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+    <item>
+      <title>9月18日のブリーフ</title>
+      <description><![CDATA[・水産機構がブリ人工種苗の有償供給を推進<br>・世界の水産は陸上養殖と関税物流が焦点<br>・アンソロピックが生命科学向け新制度導入]]></description>
+      <pubDate>Fri, 18 Sep 2026 05:14:07 +0900</pubDate>
+      <guid isPermaLink="false">260918_morningbrief_v1_AI</guid>
+      <enclosure url="https://github.com/popo-sakana/morning-brief/releases/download/260918_morningbrief_v1_AI/260918_morningbrief_v1_AI.mp3" length="6705123" type="audio/mpeg"/>
+      <itunes:duration>1613</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://popo-sakana.github.io/morning-brief/episodes/260918_morningbrief_v1_AI.html</link>
+    </item>
     <item>
       <title>9月17日のブリーフ</title>
       <description><![CDATA[・広島県がカキ厳戒アラート対象海域を拡大と発表<br>・世界の水産はコールドチェーンが共通テーマ<br>・NSW州が公立校のスクリーン利用新方針を発表]]></description>

@@ -214,16 +214,23 @@ hypotheses:
     source_url: https://suisan-navi.jp/uncategorized/news-2026-week37/
     tier: 2
     origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: 近畿大学は2026年2月5日、人工種苗から育てた親魚から仔魚を得ることに成功し、ノドグロ（アカムツ）の完全養殖を達成したと発表した。
+    source_url: https://www.kindai.ac.jp/news-pr/news-release/2026/02/049322.html
+    tier: 1
+    origin: normal
+    aired: true
   ops:
-    last_support: '2026-09-17'
+    last_support: '2026-09-18'
     last_contradiction: '2026-09-10'
-    last_on_air: '2026-09-06'
-    on_air_count: 2
+    last_on_air: '2026-09-18'
+    on_air_count: 3
     last_redteam: '2026-09-15'
     unfrozen: true
   review_note: FAOによるアジア6か国・計340養殖場調査（調査期間2005年10月15日～2006年2月14日、2007年公表）では、総生産費に占める餌料費が平均58.0%で稚魚・種苗費15.5%を大きく上回った。（餌料費が種苗費を大きく上回るとFAO調査が示す）
     / FAOの世界調査（2019年2月公表、回答期間2015年6月～2017年6月）では、92か国の回答のうち45%が遺伝的改良は養殖生産に「影響しなかった」または「影響は小さかった」と回答した。（45%が遺伝的改良は生産に影響小さいと回答）
-  _sustain: 12
+  _sustain: 13
 - id: L-2
   theme: world_fisheries
   axis: 流通
@@ -250,24 +257,6 @@ hypotheses:
   - neutral_query: 陸上養殖 商業生産 稼働 最新
   - neutral_query: 水産物 輸送 コールドチェーン 動向
   evidence:
-  - date: '2026-09-07'
-    relation: support
-    claim: Nordic Aqua Partnersは中国・寧波の陸上循環式養殖(RAS)によるタイセイヨウサーモン養殖場で第2段階設備を完成させ、年間生産能力を8,000トンに引き上げた。
-    source_url: https://www.seafoodnews.com/Story/1352701/Nordic-Aqua-Partners-Reaches-Full-Capacity-at-China-RAS-Farm-Eyes-Stage-3-Expansion
-    tier: 2
-    origin: normal
-  - date: '2026-09-07'
-    relation: support
-    claim: ノルウェーの2026年8月の水産物輸出額は160億ノルウェークローネで前年同月比14%増となり8月として過去最高を記録し、うちサーモン輸出額は123億NOK(前年同月比19%増)だった。
-    source_url: https://seafood.media/fis/worldnews/worldnews.asp?l=e&country=0&special=&monthyear=&day=&id=139220&ndb=1&df=0
-    tier: 2
-    origin: normal
-  - date: '2026-09-08'
-    relation: support
-    claim: スペインのAlicante Aquacultureは循環式養殖システム（RAS）によるカンパチの商業規模生産を開始し、初期生産能力を年間600トン、将来計画を年間900トンとした。
-    source_url: https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/
-    tier: 2
-    origin: normal
   - date: '2026-09-08'
     relation: support
     claim: ノルウェーの2026年8月のサーモン輸出は153,602トン（前年比7％増）、金額123億NOK（前年比19％増）で月間過去最高を更新した。
@@ -501,14 +490,32 @@ hypotheses:
     source_url: https://www.tribunnews.com/bisnis/7881298/jaga-mutu-sektor-perikanan-didorong-manfaatkan-teknologi-rantai-dingin
     tier: 2
     origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: スペイン・アリカンテ港でカンパチ（Seriola dumerili）の陸上循環式養殖（RAS）による商業規模生産が開始され、初期生産能力は年間600トン、拡張計画で900トンとされている。
+    source_url: https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/
+    tier: 2
+    origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: 中国・寧波でNordic Aqua Partnersが運営する陸上サーモンRASは、フェーズ1・2合算でフル生産ランレートに到達し、2026年上半期の生産量は4,455トンだった。
+    source_url: https://weareaquaculture.com/news/finance/nordic-aqua-full-production-run-rate-for-phases-12-combined
+    tier: 2
+    origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: 日本のFRD Japanは2026年2月に商業規模の陸上養殖施設（ニジマス、サーモントラウト）を稼働開始し、当面の生産目標を年間3,500トンとしている。
+    source_url: https://www.indexbox.io/blog/ras-profitability-key-to-commercial-success-say-executives-at-seafood-expo-asia/
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-17'
+    last_support: '2026-09-18'
     last_contradiction: '2026-09-17'
     last_watch_hit: '2026-09-17'
     last_on_air: '2026-09-16'
     on_air_count: 4
     last_redteam: '2026-09-16'
-  _sustain: 18
+  _sustain: 19
   review_note: ノルウェーのNordic Kingfishは2025年のyellowtail収穫量584トンに対し、資産評価損により4億7100万ノルウェークローネの損失を計上した。（陸上養殖企業が資産評価損で巨額損失を計上し採算悪化を示す）
 - id: L-3
   theme: jp_fisheries
@@ -718,12 +725,18 @@ hypotheses:
     source_url: https://www.maff.go.jp/j/shokusan/export/e_info/zisseki.html
     tier: 1
     origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: 日本のぶり輸出額は2026年1〜6月に434億円となり、前年同期比69.0%増で上半期として過去最高となった。
+    source_url: https://www.fnn.jp/articles/-/1088170
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-17'
+    last_support: '2026-09-18'
     last_redteam: '2026-09-17'
     last_on_air: '2026-09-11'
     on_air_count: 2
-  _sustain: 15
+  _sustain: 16
 - id: L-4
   theme: world_fisheries
   axis: 横断
@@ -750,19 +763,6 @@ hypotheses:
   - neutral_query: 水産物 関税 規制 変更 最新
   - neutral_query: 水産 認証 要件 見直し
   evidence:
-  - date: '2026-09-05'
-    relation: contradict
-    claim: 2026年9月4日の豊洲市場では、ブリは鳥取産などが堅調だった一方、サンマは北海道産などが1～3割下落した。
-    source_url: https://www.suikei.co.jp/cat/news/distribution
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-06'
-    relation: support
-    claim: 米国商務省は、インド産冷凍温水エビの第20次反ダンピング行政見直しで、最終ダンピング・マージンを企業別に4.04％～7.01％に引き上げた。
-    source_url: https://www.seafoodnews.com/Story/1353508/Commerce-Raises-Indian-Shrimp-Antidumping-Rates-in-20th-Review-Final-Results
-    tier: 1
-    origin: normal
   - date: '2026-09-07'
     relation: contradict
     claim: 北海道東部太平洋のマイワシ漁は2026年6月の解禁後、2026年9月時点でまき網・棒受網とも水揚げがゼロである。
@@ -1002,14 +1002,26 @@ hypotheses:
     tier: 2
     origin: normal
     aired: true
+  - date: '2026-09-18'
+    relation: support
+    claim: 米国では2026年7月24日、通商法301条に基づく水産物への追加関税（対象国により10%または12.5%）が発効した。
+    source_url: https://www.expanamarkets.com/insights/article/section-301-seafood-tariffs-what-changed-and-whos-exposed/
+    tier: 2
+    origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: カナダは対米報復関税の改訂リストから、HS第03類（魚・水産物）254品目を削除した。
+    source_url: https://gowlingwlg.com/en/insights-resources/articles/2026/canada-revises-retaliatory-tariff-list
+    tier: 2
+    origin: normal
   ops:
-    last_support: '2026-09-17'
-    last_redteam: '2026-09-12'
+    last_support: '2026-09-18'
+    last_redteam: '2026-09-18'
     last_contradiction: '2026-09-17'
     last_watch_hit: '2026-09-17'
     last_on_air: '2026-09-17'
     on_air_count: 4
-  _sustain: 8
+  _sustain: 9
   review_note: 北海道日高・道東地方でクロマグロによる定置網被害が相次ぎ、修繕費用は1000万円規模と報道された。（マグロ資源増加による定置網被害費用が資源要因の収益変動例）
 - id: L-5
   theme: genai
@@ -1036,48 +1048,6 @@ hypotheses:
   - neutral_query: 生成AI 業務導入 効果 実績
   - neutral_query: AI 責任 契約 規約 変更
   evidence:
-  - date: '2026-09-05'
-    relation: support
-    claim: PwC Japanが2026年2月12日～19日に実施した調査によると、日本企業の生成AI活用・推進度は87%で、前回調査から11ポイント上昇した。
-    source_url: https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2026.html
-    tier: 1
-    origin: normal
-  - date: '2026-09-06'
-    relation: support
-    claim: xAIは2026年9月3日、継続動作するエンタープライズ向けエージェント「Grok Bot for Enterprise」の提供開始を発表した。
-    source_url: https://x.ai/news/grok-bot-for-enterprise
-    tier: 1
-    origin: normal
-  - date: '2026-09-06'
-    relation: support
-    claim: 総務省の2026年版情報通信白書によると、調査対象の日本企業のうち86.4％が少なくとも1つの業務で生成AIを利用している。
-    source_url: https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd121130.html
-    tier: 1
-    origin: normal
-  - date: '2026-09-07'
-    relation: support
-    claim: xAIは2026年9月3日、企業向け自律AIエージェント「Grok Bot」を発表し、GrokおよびCursorのEnterprise顧客向けに2週間の無料利用期間を設けた。
-    source_url: https://x.ai/news/grok-bot-for-enterprise
-    tier: 1
-    origin: normal
-  - date: '2026-09-07'
-    relation: support
-    claim: デジタル庁の「行政の進化と革新のための生成AIの調達・利活用に係るガイドライン第2.0版」が2026年9月1日から施行された。
-    source_url: https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/8b8d1635-cea3-4d36-bb9a-bac732779d1e/a493c7f4/20260612_meeting_executive_guideline_08.pdf
-    tier: 1
-    origin: normal
-  - date: '2026-09-08'
-    relation: support
-    claim: OpenAIは2026年9月、GPT-6 Astraが同社Preparedness Frameworkのサイバーセキュリティ「Critical」閾値に初めて達したモデルだと発表した。
-    source_url: https://openai.com/index/safety-overview-gpt-6-astra/
-    tier: 1
-    origin: normal
-  - date: '2026-09-08'
-    relation: support
-    claim: 米国のThe Seattle TimesとNewsdayは2026年9月4日、記事を無断でAI学習に利用したとしてOpenAIとMicrosoftを著作権侵害でニューヨーク南部地区連邦地方裁判所に提訴した。
-    source_url: https://www.reuters.com/legal/government/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement-2026-09-05/
-    tier: 2
-    origin: normal
   - date: '2026-09-08'
     relation: support
     claim: PwC Japanの2026年2月調査（回答者932人、売上高500億円以上企業の課長職以上）で、生成AI活用企業のうち効果が「期待通り」以上と回答した割合は64％だった。
@@ -1284,14 +1254,56 @@ hypotheses:
     source_url: https://investor.salesforce.com/news/news-details/2026/Announcing-Koa-Salesforces-First-CRM-Reasoning-Model-Built-on-NVIDIA-Nemotron/default.aspx
     tier: 1
     origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: Anthropicは生命科学分野向けに安全制限を緩和したモデル利用を認める「Life Sciences Verification Program」をベータ版で開始した。
+    source_url: https://www.anthropic.com/news/life-sciences-verification-program
+    tier: 1
+    origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: Salesforceは、企業のデータ・業務ロジック・権限を外部AIインターフェース（Claude、Slack、Agentforce Coworker等）から利用可能にする「AIforce」を発表した。
+    source_url: https://www.salesforce.com/news/stories/aiforce-announcement/?bc=OTH
+    tier: 1
+    origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: SalesforceはNVIDIAのNemotron 3 Superを基盤とする企業業務向け推論モデル「Koa」を発表し、少数の顧客を対象に試験導入を開始した。
+    source_url: https://www.salesforce.com/news/stories/why-we-post-trained-our-own-reasoning-model/?bc=OTH
+    tier: 1
+    origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: SalesforceとSiemensは産業向けAIエージェントで提携を拡大し、Siemensは毎月2,500件超のリード評価と18,000人の営業担当者向け支援にAgentforceを利用していると発表した。
+    source_url: https://investor.salesforce.com/news/news-details/2026/Siemens-and-Salesforce-Deepen-AI-Partnership-to-Redefine-Industrial-Sales-and-Service/default.aspx
+    tier: 1
+    origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: カリフォルニア州のNewsom知事は2026年9月16日、広告でAI生成の出演者を使う場合に明確な表示を義務付ける法案「SB 1050」に署名した。
+    source_url: https://www.gov.ca.gov/2026/09/16/governor-newsom-signs-new-law-to-protect-workers-require-disclosures-on-ai-generated-advertising/
+    tier: 1
+    origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: 米国第9巡回区控訴裁判所は、GitHubコードの無断AI学習利用を巡る訴訟（Doe v. GitHub Inc., No. 24-7700）で、DMCAに基づく請求の棄却を維持したと報じられた。
+    source_url: https://www.reuters.com/legal/government/openai-microsoft-fend-off-part-software-developer-lawsuit-over-ai-training-2026-09-16
+    tier: 2
+    origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: IPA「DX動向2026」調査では、AI導入企業のうち「業務が効率化・迅速化」と回答した割合が91.6%だった一方、「売上・利益が向上」は3.9%にとどまった。
+    source_url: https://www.ipa.go.jp/digital/chousa/dx-trend/rcu1hd0000017uk8-att/dx-trend-2026.pdf
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-17'
+    last_support: '2026-09-18'
     last_contradiction: '2026-09-13'
     last_watch_hit: '2026-09-13'
     last_redteam: '2026-09-13'
     last_on_air: '2026-09-13'
     on_air_count: 2
-  _sustain: 19
+  _sustain: 20
   review_note: Capgeminiなどによる22カ国・10業種・2,000人超対象の調査World Quality Report 2025では、生成AIで拡張された業務フローの試験導入・展開組織のうち52%がパイロット段階、エンタープライズ全体での実装達成は15%にとどまった。（52%がパイロット止まり、15%のみ全社実装と報告）
     / McKinsey & Companyが105カ国・地域の1,993人を対象に実施した調査では、回答企業の88%が少なくとも1つの業務機能でAIを定期利用している一方、AIプログラムを全社でスケールし始めた企業は約3分の1にとどまった。（全社スケール開始企業は約3分の1に留まると報告）
 - id: L-6
@@ -1319,31 +1331,6 @@ hypotheses:
   - neutral_query: 幼児教育 スクリーンタイム 方針 最新
   - neutral_query: 小学校 生成AI 利用 ルール 各国
   evidence:
-  - date: '2026-09-07'
-    relation: contradict
-    claim: 米国ワシントン州のワラワラ公立学校(生徒約5,500人)は2023年2月に学校端末でのChatGPT利用を遮断したが、家庭端末からの利用を防げず禁止措置が有効でないと判断し、教員向けAI研修を導入する方針に転換した。
-    source_url: https://www.seattletimes.com/seattle-news/education/despite-cheating-fears-schools-repeal-chatgpt-bans/
-    tier: 2
-    origin: normal
-    aired: true
-  - date: '2026-09-08'
-    relation: support
-    claim: ノルウェー政府は2026年6月、2026年秋学期から1～7年生に生成AIを原則利用させない方針を発表した。
-    source_url: https://www.regjeringen.no/no/aktuelt/kunstig-intelligens-skal-i-all-hovedsak-ikke-brukes-i-barneskolen/id3166807/
-    tier: 1
-    origin: normal
-  - date: '2026-09-08'
-    relation: support
-    claim: ニューヨーク市公立学校は2026～27年度、2-Kから8年生までの生徒向け生成AIを原則禁止する1年間のモラトリアムを導入した。
-    source_url: https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence
-    tier: 1
-    origin: normal
-  - date: '2026-09-08'
-    relation: support
-    claim: カナダ・ニューブランズウィック州は2026年8月28日、認可保育・幼児教育施設のスクリーンタイムを30分以下、2歳以下はゼロとする方針を発表した。
-    source_url: https://www.gnb.ca/en/news/n-b.2026.08.government-introduces-measures-reduce-classroom-distractions.html
-    tier: 1
-    origin: normal
   - date: '2026-09-08'
     relation: support
     claim: 英国政府は2026年8月26日、5歳未満向けスクリーン時間指針を更新し、2～5歳は1日1時間以内を目安とした。
@@ -1578,13 +1565,37 @@ hypotheses:
     source_url: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/
     tier: 2
     origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: ニューヨーク市公立学校は2026〜27学年度に、2-Kから8年生までの生徒向け生成AI利用を禁止する方針を導入した。
+    source_url: https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence
+    tier: 1
+    origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: ノルウェーは2026年8月開始の新学年度から、1〜7年生（年齢6〜13歳）の児童を原則として学校での生成AI利用対象外とした。
+    source_url: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/
+    tier: 2
+    origin: normal
+  - date: '2026-09-18'
+    relation: support
+    claim: オーストラリア・ニューサウスウェールズ州は2026年9月13日、幼稚園〜小学2年相当の個人用端末利用を1日15分に制限する方針（2027年導入、2028年義務化予定）を発表した。
+    source_url: https://www.theguardian.com/australia-news/2026/sep/13/nsw-to-put-strict-caps-on-screen-time-in-classrooms-while-pushing-for-pen-and-paper-learning
+    tier: 2
+    origin: normal
+  - date: '2026-09-18'
+    relation: contradict
+    claim: UNESCOは2026年9月8日のデジタル学習週間閣僚声明で、AIは学習者の認知作業を代替するのではなく推論・検証を促すべきだとする8項目の優先事項を示した。
+    source_url: https://www.unesco.org/en/articles/education-ministers-call-education-remain-common-good-age-ai-unescos-digital-learning-week
+    tier: 1
+    origin: normal
   ops:
-    last_support: '2026-09-17'
-    last_contradiction: '2026-09-16'
+    last_support: '2026-09-18'
+    last_contradiction: '2026-09-18'
     unfrozen: true
     last_on_air: '2026-09-15'
     on_air_count: 7
     last_watch_hit: '2026-09-16'
     last_redteam: '2026-09-14'
   review_note: ユネスコの調査によれば、政府承認のK-12向けAIカリキュラムを整備している国は11か国、開発中の国は4か国だった。（K-12向け政府承認AIカリキュラムを整備する国が11か国存在）
-  _sustain: 1
+  _sustain: 2

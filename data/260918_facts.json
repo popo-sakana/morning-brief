@@ -1,0 +1,177 @@
+[
+  {
+    "claim": "岩手県のサーモン養殖関係者が2026年9月15日に、生産・販売の拡大を目的とする新組織を設立した。",
+    "source_url": "https://www.suikei.co.jp/cat/news/aquaculture",
+    "tier": 2,
+    "date": "2026-09-15",
+    "origin": "normal"
+  },
+  {
+    "claim": "養殖ブリの卸売価格は2026年9月11日、全国7市場で中値2,237円/キログラムだった。",
+    "source_url": "https://sakana-souba-navi.jp/fish/ブリ（養殖）",
+    "tier": 2,
+    "date": "2026-09-11",
+    "origin": "normal"
+  },
+  {
+    "claim": "2026年の北海道秋サケ来遊数は365万尾と予測され、前年比47%減となる見込みである。",
+    "source_url": "https://www.suikei.co.jp/cat/seafood/salmon",
+    "tier": 2,
+    "date": "2026-09-10",
+    "origin": "normal"
+  },
+  {
+    "claim": "近畿大学は2026年2月5日、人工種苗から育てた親魚から仔魚を得ることに成功し、ノドグロ（アカムツ）の完全養殖を達成したと発表した。",
+    "source_url": "https://www.kindai.ac.jp/news-pr/news-release/2026/02/049322.html",
+    "tier": 1,
+    "date": "2026-02-05",
+    "origin": "normal"
+  },
+  {
+    "claim": "日本のぶり輸出額は2026年1〜6月に434億円となり、前年同期比69.0%増で上半期として過去最高となった。",
+    "source_url": "https://www.fnn.jp/articles/-/1088170",
+    "tier": 2,
+    "date": "2026-06-30",
+    "origin": "normal"
+  },
+  {
+    "claim": "スペイン・アリカンテ港でカンパチ（Seriola dumerili）の陸上循環式養殖（RAS）による商業規模生産が開始され、初期生産能力は年間600トン、拡張計画で900トンとされている。",
+    "source_url": "https://eurofish.dk/innovative-design-used-to-farm-greater-amberjack-in-ras/",
+    "tier": 2,
+    "date": "",
+    "origin": "normal"
+  },
+  {
+    "claim": "ASCの消費者調査（14カ国・14,795人、2026年2〜3月実施）で、世界の水産物消費量は前回調査比で純増2%、米国では12%増加したことが2026年9月8日のウェビナーで発表された。",
+    "source_url": "https://www.worldfishing.net/news/seafood/seafood-consumption-grows-as-trust-strengthens/",
+    "tier": 2,
+    "date": "2026-09-08",
+    "origin": "normal"
+  },
+  {
+    "claim": "中国広東省から2026年9月11日、スマート密閉型海面養殖ケージ6基（1基容量750トン、年間最大生産能力2,200トン）がノルウェーへ出荷された。",
+    "source_url": "https://news.cgtn.com/news/2026-09-12/World-first-smart-enclosed-aquaculture-cages-sent-from-China-to-Norway-1QnRfawjRw4/p.html",
+    "tier": 2,
+    "date": "2026-09-11",
+    "origin": "normal"
+  },
+  {
+    "claim": "中国・寧波でNordic Aqua Partnersが運営する陸上サーモンRASは、フェーズ1・2合算でフル生産ランレートに到達し、2026年上半期の生産量は4,455トンだった。",
+    "source_url": "https://weareaquaculture.com/news/finance/nordic-aqua-full-production-run-rate-for-phases-12-combined",
+    "tier": 2,
+    "date": "2026-06-30",
+    "origin": "normal"
+  },
+  {
+    "claim": "日本のFRD Japanは2026年2月に商業規模の陸上養殖施設（ニジマス、サーモントラウト）を稼働開始し、当面の生産目標を年間3,500トンとしている。",
+    "source_url": "https://www.indexbox.io/blog/ras-profitability-key-to-commercial-success-say-executives-at-seafood-expo-asia/",
+    "tier": 2,
+    "date": "2026-02",
+    "origin": "normal"
+  },
+  {
+    "claim": "米国では2026年7月24日、通商法301条に基づく水産物への追加関税（対象国により10%または12.5%）が発効した。",
+    "source_url": "https://www.expanamarkets.com/insights/article/section-301-seafood-tariffs-what-changed-and-whos-exposed/",
+    "tier": 2,
+    "date": "2026-07-24",
+    "origin": "normal"
+  },
+  {
+    "claim": "カナダは対米報復関税の改訂リストから、HS第03類（魚・水産物）254品目を削除した。",
+    "source_url": "https://gowlingwlg.com/en/insights-resources/articles/2026/canada-revises-retaliatory-tariff-list",
+    "tier": 2,
+    "date": "",
+    "origin": "normal"
+  },
+  {
+    "claim": "Googleはリアルタイム音声対話モデル「Gemini 3.8 Live」および「Gemini 3.8 Live Extended Thinking」を発表し、開発者向けにGemini APIとGoogle AI Studioで提供を開始した。",
+    "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "tier": 1,
+    "date": "",
+    "origin": "normal"
+  },
+  {
+    "claim": "Anthropicは生命科学分野向けに安全制限を緩和したモデル利用を認める「Life Sciences Verification Program」をベータ版で開始した。",
+    "source_url": "https://www.anthropic.com/news/life-sciences-verification-program",
+    "tier": 1,
+    "date": "",
+    "origin": "normal"
+  },
+  {
+    "claim": "Salesforceは、企業のデータ・業務ロジック・権限を外部AIインターフェース（Claude、Slack、Agentforce Coworker等）から利用可能にする「AIforce」を発表した。",
+    "source_url": "https://www.salesforce.com/news/stories/aiforce-announcement/?bc=OTH",
+    "tier": 1,
+    "date": "",
+    "origin": "normal"
+  },
+  {
+    "claim": "SalesforceはNVIDIAのNemotron 3 Superを基盤とする企業業務向け推論モデル「Koa」を発表し、少数の顧客を対象に試験導入を開始した。",
+    "source_url": "https://www.salesforce.com/news/stories/why-we-post-trained-our-own-reasoning-model/?bc=OTH",
+    "tier": 1,
+    "date": "",
+    "origin": "normal"
+  },
+  {
+    "claim": "SalesforceとSiemensは産業向けAIエージェントで提携を拡大し、Siemensは毎月2,500件超のリード評価と18,000人の営業担当者向け支援にAgentforceを利用していると発表した。",
+    "source_url": "https://investor.salesforce.com/news/news-details/2026/Siemens-and-Salesforce-Deepen-AI-Partnership-to-Redefine-Industrial-Sales-and-Service/default.aspx",
+    "tier": 1,
+    "date": "",
+    "origin": "normal"
+  },
+  {
+    "claim": "カリフォルニア州のNewsom知事は2026年9月16日、広告でAI生成の出演者を使う場合に明確な表示を義務付ける法案「SB 1050」に署名した。",
+    "source_url": "https://www.gov.ca.gov/2026/09/16/governor-newsom-signs-new-law-to-protect-workers-require-disclosures-on-ai-generated-advertising/",
+    "tier": 1,
+    "date": "2026-09-16",
+    "origin": "normal"
+  },
+  {
+    "claim": "米国第9巡回区控訴裁判所は、GitHubコードの無断AI学習利用を巡る訴訟（Doe v. GitHub Inc., No. 24-7700）で、DMCAに基づく請求の棄却を維持したと報じられた。",
+    "source_url": "https://www.reuters.com/legal/government/openai-microsoft-fend-off-part-software-developer-lawsuit-over-ai-training-2026-09-16",
+    "tier": 2,
+    "date": "2026-09-16",
+    "origin": "normal"
+  },
+  {
+    "claim": "IPA「DX動向2026」調査では、AI導入企業のうち「業務が効率化・迅速化」と回答した割合が91.6%だった一方、「売上・利益が向上」は3.9%にとどまった。",
+    "source_url": "https://www.ipa.go.jp/digital/chousa/dx-trend/rcu1hd0000017uk8-att/dx-trend-2026.pdf",
+    "tier": 1,
+    "date": "2026-07-16",
+    "origin": "normal"
+  },
+  {
+    "claim": "ニューヨーク市公立学校は2026〜27学年度に、2-Kから8年生までの生徒向け生成AI利用を禁止する方針を導入した。",
+    "source_url": "https://www.schools.nyc.gov/about-us/policies/guidance-on-artificial-intelligence",
+    "tier": 1,
+    "date": "",
+    "origin": "normal"
+  },
+  {
+    "claim": "ノルウェーは2026年8月開始の新学年度から、1〜7年生（年齢6〜13歳）の児童を原則として学校での生成AI利用対象外とした。",
+    "source_url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+    "tier": 2,
+    "date": "2026-08",
+    "origin": "normal"
+  },
+  {
+    "claim": "オーストラリア・ニューサウスウェールズ州は2026年9月13日、幼稚園〜小学2年相当の個人用端末利用を1日15分に制限する方針（2027年導入、2028年義務化予定）を発表した。",
+    "source_url": "https://www.theguardian.com/australia-news/2026/sep/13/nsw-to-put-strict-caps-on-screen-time-in-classrooms-while-pushing-for-pen-and-paper-learning",
+    "tier": 2,
+    "date": "2026-09-13",
+    "origin": "normal"
+  },
+  {
+    "claim": "UNESCOは2026年9月8日のデジタル学習週間閣僚声明で、AIは学習者の認知作業を代替するのではなく推論・検証を促すべきだとする8項目の優先事項を示した。",
+    "source_url": "https://www.unesco.org/en/articles/education-ministers-call-education-remain-common-good-age-ai-unescos-digital-learning-week",
+    "tier": 1,
+    "date": "2026-09-08",
+    "origin": "normal"
+  },
+  {
+    "claim": "Agnico Eagle Minesの2025年通期の鉱山事業収益は119億790万ドルとなり、前年比43.7%増加したが、これは主に金の平均実現価格が44.9%上昇したためで、金販売量自体は1.0%減少していた。",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2809/000110465926032153/aem-20251231xex99d3.htm",
+    "tier": 1,
+    "date": "2025-12-31",
+    "origin": "normal"
+  }
+]

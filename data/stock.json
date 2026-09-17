@@ -4172,6 +4172,226 @@
    "aired": [
     "2026-09-17"
    ]
+  },
+  {
+   "id": "00ef9bae641d",
+   "theme": "jp_fisheries",
+   "headline": "養殖ブリ卸売価格、9月11日に中値2,237円/kgへ上昇",
+   "detail": "民間の市場情報サイトによると、2026年9月11日の養殖ブリの全国7市場取引で中値は2,237円/キログラムとなった。取引量は4,365キログラム、高値4,212円、安値1,957円だった。前日9月10日の中値1,887円から1日で550円上昇したが、上昇理由や公的統計上の位置づけは確認できていない。",
+   "numbers": [
+    "中値2,237円/kg",
+    "取引量4,365kg",
+    "前日比+550円/kg"
+   ],
+   "source_url": "https://sakana-souba-navi.jp/fish/ブリ（養殖）",
+   "source_title": "ブリ（養殖）の相場・卸売価格【今日のkg単価】",
+   "published": "2026-09-11",
+   "importance": 4,
+   "first_seen": "2026-09-18",
+   "aired": [
+    "2026-09-18"
+   ]
+  },
+  {
+   "id": "56e10f3a3745",
+   "theme": "jp_fisheries",
+   "headline": "近畿大学がノドグロ(アカムツ)の完全養殖に成功と発表",
+   "detail": "近畿大学は2026年2月5日、人工種苗から育てた親魚から仔魚を得ることに成功し、ノドグロ(アカムツ)の完全養殖を達成したと発表した。稚魚は約122日間飼育され、日齢120日時点で約6,527尾、日齢114日時点で約695尾が確認された。全長は日齢120日で約45~50ミリ、日齢114日で約40~45ミリ。商業規模生産や出荷サイズまでの生残率、コストは確認できていない。",
+   "numbers": [
+    "達成2026年2月5日",
+    "飼育期間約122日",
+    "日齢120日約6,527尾"
+   ],
+   "source_url": "https://www.kindai.ac.jp/news-pr/news-release/2026/02/049322.html",
+   "source_title": "近畿大学ニュースリリース",
+   "published": "2026-02-05",
+   "importance": 2,
+   "first_seen": "2026-09-18",
+   "aired": [
+    "2026-09-18"
+   ]
+  },
+  {
+   "id": "919603c4859b",
+   "theme": "jp_fisheries",
+   "headline": "水研機構のブリ人工種苗有償供給、2026年度で終了へ",
+   "detail": "水産研究・教育機構は、ブリ人工種苗の周年供給システムを進め、2026年度も人工種苗・受精卵の有償供給事業を実施している。しかし、この種苗供給プログラムは2026年度で終了し、2027年度以降は受精卵の有償供給を行わないとされている。具体的な供給尾数や育種による成長率・生残率の実績値は確認できていない。",
+   "numbers": [
+    "終了年度2026年度"
+   ],
+   "source_url": "https://www.fra.go.jp/jamarc/buri.html",
+   "source_title": "水産研究・教育機構",
+   "published": "",
+   "importance": 4,
+   "first_seen": "2026-09-18",
+   "aired": [
+    "2026-09-18"
+   ]
+  },
+  {
+   "id": "7f8c5ed38b00",
+   "theme": "world_fisheries",
+   "headline": "中国製スマート密閉型養殖ケージ6基がノルウェーへ出荷",
+   "detail": "2026年9月11日、中国広東省からノルウェーへ、遠隔自動制御・無人運転に対応したスマート密閉型の海面養殖ケージ6基が出荷されたと中国国際テレビ(CGTN)が報じた。1基当たりの容量は750トン、年間生産能力は最大2,200トン、対象魚種はアトランティックサーモン。実際の稼働開始時期や生産実績、投資額、死亡率などは確認できていない。",
+   "numbers": [
+    "出荷6基",
+    "1基750トン",
+    "年間生産能力最大2,200トン"
+   ],
+   "source_url": "https://news.cgtn.com/news/2026-09-12/World-first-smart-enclosed-aquaculture-cages-sent-from-China-to-Norway-1QnRfawjRw4/p.html",
+   "source_title": "CGTN",
+   "published": "2026-09-11",
+   "importance": 2,
+   "first_seen": "2026-09-18",
+   "aired": [
+    "2026-09-18"
+   ]
+  },
+  {
+   "id": "a47b40daa9e6",
+   "theme": "world_fisheries",
+   "headline": "FRD Japan、陸上養殖の商業規模施設が本格稼働",
+   "detail": "千葉県で研究開発農場を運営してきたFRD Japanが、2026年2月に商業規模の陸上循環式養殖(RAS)施設の稼働を開始したと報じられた。魚種はニジマス(商品名サーモントラウト)で、当面の生産目標は年間3,500トン、2030年には年間10,000トンを目指すとしている。CEOは冷凍販売まで成立させるには1施設で年間10,000トン超の規模が必要との見解を示した。",
+   "numbers": [
+    "稼働開始2026年2月",
+    "当面目標3,500トン",
+    "2030年目標10,000トン"
+   ],
+   "source_url": "https://www.indexbox.io/blog/ras-profitability-key-to-commercial-success-say-executives-at-seafood-expo-asia/",
+   "source_title": "IndexBox",
+   "published": "2026-02",
+   "importance": 3,
+   "first_seen": "2026-09-18",
+   "aired": [
+    "2026-09-18"
+   ]
+  },
+  {
+   "id": "065d46d4be53",
+   "theme": "world_fisheries",
+   "headline": "米加関税問題でコールドチェーン需要増との報告",
+   "detail": "グローバル・コールド・チェーン・アライアンス(GCCA)は、米国・カナダ間の関税問題に関連し、2025年に米国がカナダから輸入した水産物は43億米ドル、米国からカナダへの輸出は8億8,100万米ドル(うちロブスターが2億4,800万米ドル)と報告した。事業者の約73%が関税は利益率に悪影響を与え続けると回答し、国境周辺で温度管理輸送・冷蔵保管の需要が高まる可能性があるとの見方が示されている。",
+   "numbers": [
+    "米国のカナダからの水産物輸入43億米ドル",
+    "事業者の73%が悪影響回答"
+   ],
+   "source_url": "https://www.gcca.org/news-announcements/august-2026-trade-updates-u-s-canada-talks-collapse/",
+   "source_title": "Global Cold Chain Alliance",
+   "published": "",
+   "importance": 2,
+   "first_seen": "2026-09-18",
+   "aired": [
+    "2026-09-18"
+   ]
+  },
+  {
+   "id": "0e0a176128d7",
+   "theme": "genai",
+   "headline": "Anthropic、生命科学向けに安全制限緩和プログラム開始",
+   "detail": "Anthropicは、創薬・生物学研究・臨床開発・製造など生命科学分野の利用者向けに、通常より生物学関連の安全制限を緩和したモデル利用を認める「Life Sciences Verification Program」をベータ版で開始した。対象モデルはMythos 5.1、Opus 5、Sonnet 5など。大学研究室、スタートアップ、製薬会社などが申請可能で、審査を経て標準または高リスク利用の枠が付与される。",
+   "numbers": [],
+   "source_url": "https://www.anthropic.com/news/life-sciences-verification-program",
+   "source_title": "Anthropic",
+   "published": "",
+   "importance": 1,
+   "first_seen": "2026-09-18",
+   "aired": [
+    "2026-09-18"
+   ]
+  },
+  {
+   "id": "32224d6a3ef0",
+   "theme": "genai",
+   "headline": "Salesforce、外部AIから企業データ利用可能な「AIforce」発表",
+   "detail": "Salesforceは、自社のデータ・ワークフロー・権限・ガバナンスを外部のAIインターフェースから利用できるようにする「AIforce」を発表した。初期連携先はClaude、Slack、Agentforce Coworker。利用者はSalesforce画面を開かずにデータ照会やレコード更新、業務ワークフロー起動が可能とされる。導入による生産性向上率などの実績値は確認できていない。",
+   "numbers": [],
+   "source_url": "https://www.salesforce.com/news/stories/aiforce-announcement/?bc=OTH",
+   "source_title": "Salesforce",
+   "published": "",
+   "importance": 1,
+   "first_seen": "2026-09-18",
+   "aired": [
+    "2026-09-18"
+   ]
+  },
+  {
+   "id": "1db852623881",
+   "theme": "genai",
+   "headline": "Salesforce、業務特化型推論モデル「Koa」を試験導入",
+   "detail": "SalesforceはNVIDIAの「Nemotron 3 Super」を基盤に、企業業務向けに最適化した推論モデル「Koa」を発表した。社内の営業・サービス・コマース分野のエージェント業務で稼働しており、少数の顧客を対象に試験導入へ移行している。ベンチマークスコアや料金、一般提供時期は今回の発表では確認できていない。",
+   "numbers": [],
+   "source_url": "https://www.salesforce.com/news/stories/why-we-post-trained-our-own-reasoning-model/?bc=OTH",
+   "source_title": "Salesforce",
+   "published": "",
+   "importance": 1,
+   "first_seen": "2026-09-18",
+   "aired": [
+    "2026-09-18"
+   ]
+  },
+  {
+   "id": "830ce23989ad",
+   "theme": "genai",
+   "headline": "SalesforceとSiemens、産業向けAIエージェント提携を拡大",
+   "detail": "SalesforceとSiemensは、SiemensのTeamcenterとSalesforceのAgentforceを連携させ、営業・サービス業務に技術情報を提供する提携強化を発表した。Siemensでは毎月2,500件超の未選別リード評価や18,000人の営業担当者向けリード対応支援にAgentforceを利用しているという。売上増加額など定量的な導入効果は確認できていない。",
+   "numbers": [
+    "月2,500件超のリード評価",
+    "営業担当者18,000人"
+   ],
+   "source_url": "https://investor.salesforce.com/news/news-details/2026/Siemens-and-Salesforce-Deepen-AI-Partnership-to-Redefine-Industrial-Sales-and-Service/default.aspx",
+   "source_title": "Salesforce Investor Relations",
+   "published": "",
+   "importance": 1,
+   "first_seen": "2026-09-18",
+   "aired": [
+    "2026-09-18"
+   ]
+  },
+  {
+   "id": "09da34881ef9",
+   "theme": "genai",
+   "headline": "カリフォルニア州、AI生成俳優使用広告に表示義務化",
+   "detail": "カリフォルニア州のニューサム知事は2026年9月16日、広告でAI生成の出演者を使用する場合に明確な表示を求める法案「SB 1050」に署名した。商品・サービス広告でAI生成出演者を使う場合の開示義務や違反広告の継続使用禁止を定め、クリエイティブ産業の労働者保護を目的とする。施行日や表示文言、罰則の詳細は確認できていない。",
+   "numbers": [],
+   "source_url": "https://www.gov.ca.gov/2026/09/16/governor-newsom-signs-new-law-to-protect-workers-require-disclosures-on-ai-generated-advertising/",
+   "source_title": "California Governor's Office",
+   "published": "2026-09-16",
+   "importance": 1,
+   "first_seen": "2026-09-18",
+   "aired": [
+    "2026-09-18"
+   ]
+  },
+  {
+   "id": "f0d5fbf030c7",
+   "theme": "genai",
+   "headline": "米控訴裁、OpenAI・Microsoft著作権訴訟の一部棄却を維持",
+   "detail": "米国第9巡回区控訴裁判所は、GitHubに保存されたコードを生成AIの学習に不正利用したとして開発者らがOpenAIとMicrosoftを訴えた事件で、デジタル・ミレニアム著作権法(DMCA)に基づく請求の棄却を維持したと報じられた。事件番号はDoe v. GitHub Inc., No. 24-7700。判決原文は確認できておらず、他の著作権関連請求の帰趨も不明。",
+   "numbers": [],
+   "source_url": "https://www.reuters.com/legal/government/openai-microsoft-fend-off-part-software-developer-lawsuit-over-ai-training-2026-09-16",
+   "source_title": "Reuters",
+   "published": "2026-09-16",
+   "importance": 1,
+   "first_seen": "2026-09-18",
+   "aired": []
+  },
+  {
+   "id": "4e204dc704c9",
+   "theme": "education",
+   "headline": "幼児向けAIリテラシー、遊びを通じた設計研究が発表",
+   "detail": "「Play with AI(PL-AI)」と題する研究で、就学前教育と幼稚園の教師4人が参加し、紙や身体を使ったアルゴリズム遊び、Bee-BotやOzobotを使ったコーディング、AIロボットとの物語比較など7つの活動を共同設計・試行した。遊びを通じてAIリテラシーを導入できるという設計上の知見が示されたが、標準化された学力テストによる統計的な学習効果は確認されていないとの見方が示されている。",
+   "numbers": [
+    "参加教師4人",
+    "活動7種類"
+   ],
+   "source_url": "https://www.mendeley.com/catalogue/0664eeda-cf88-3ace-a30e-ec27d071b5b9/",
+   "source_title": "Mendeley Catalogue",
+   "published": "",
+   "importance": 1,
+   "first_seen": "2026-09-18",
+   "aired": [
+    "2026-09-18"
+   ]
   }
  ]
 }
