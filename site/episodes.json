@@ -1,5 +1,44 @@
 [
   {
+    "id": "260919_morningbrief_v1_AI",
+    "title": "9月19日のブリーフ",
+    "published_at": "2026-09-19T05:13:33+09:00",
+    "audio_url": "https://github.com/popo-sakana/morning-brief/releases/download/260919_morningbrief_v1_AI/260919_morningbrief_v1_AI.mp3",
+    "duration_sec": 1425,
+    "bytes": 5919945,
+    "summary": "・日本の水産は陸上養殖やサケ漁など4件を紹介<br>・ノルウェー企業の陸上養殖の取り組みを紹介<br>・OpenAIがAIのずれを継続公開する仕組み発表",
+    "chapters": [
+      {
+        "section": "opening",
+        "start_sec": 0
+      },
+      {
+        "section": "verification",
+        "start_sec": 34.8
+      },
+      {
+        "section": "jp_fisheries",
+        "start_sec": 185.1
+      },
+      {
+        "section": "world_fisheries",
+        "start_sec": 509.7
+      },
+      {
+        "section": "genai",
+        "start_sec": 891.8
+      },
+      {
+        "section": "discussion",
+        "start_sec": 1236.9
+      },
+      {
+        "section": "closing",
+        "start_sec": 1415.3
+      }
+    ]
+  },
+  {
     "id": "260918_morningbrief_v1_AI",
     "title": "9月18日のブリーフ",
     "published_at": "2026-09-18T05:14:07+09:00",

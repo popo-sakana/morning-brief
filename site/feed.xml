@@ -7,11 +7,21 @@
     <link>https://popo-sakana.github.io/morning-brief/</link>
     <description>水産・生成AI・教育の4テーマを毎朝30分で</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:32:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:37:05 +0000</lastBuildDate>
     <itunes:author>popo</itunes:author>
     <itunes:summary>水産・生成AI・教育の4テーマを毎朝30分で</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+    <item>
+      <title>9月19日のブリーフ</title>
+      <description><![CDATA[・日本の水産は陸上養殖やサケ漁など4件を紹介<br>・ノルウェー企業の陸上養殖の取り組みを紹介<br>・OpenAIがAIのずれを継続公開する仕組み発表]]></description>
+      <pubDate>Sat, 19 Sep 2026 05:13:33 +0900</pubDate>
+      <guid isPermaLink="false">260919_morningbrief_v1_AI</guid>
+      <enclosure url="https://github.com/popo-sakana/morning-brief/releases/download/260919_morningbrief_v1_AI/260919_morningbrief_v1_AI.mp3" length="5919945" type="audio/mpeg"/>
+      <itunes:duration>1425</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <link>https://popo-sakana.github.io/morning-brief/episodes/260919_morningbrief_v1_AI.html</link>
+    </item>
     <item>
       <title>9月18日のブリーフ</title>
       <description><![CDATA[・水産機構がブリ人工種苗の有償供給を推進<br>・世界の水産は陸上養殖と関税物流が焦点<br>・アンソロピックが生命科学向け新制度導入]]></description>
